@@ -1,0 +1,137 @@
+====================================================================================================
+B5 — PLAUSIBILITET: hvor mange konkurser apnes pa skyldnerens eget oppbud?
+Datauttak as-of 24.08.2026. Populasjon: alle konkursapninger i kunngjoringskorpuset
+(distinkte selskaper, forste 'Konkurs - apning'). ALLE er AS/ASA — korpuset har ingen ENK-konkurser.
+====================================================================================================
+
+## 1.1 Andel med feltet «Apnet etter: Oppbud» per ar
+ar     | apninger |  oppbud | andel [95 % Wilson]          | ikke-oppbud           
+2021   |    106 |      67 | 63.2 % [53.7-71.8]           | 39 (36.8 %)
+2022   |    599 |     367 | 61.3 % [57.3-65.1]           | 232 (38.7 %)
+2023   |   3058 |    2165 | 70.8 % [69.2-72.4]           | 893 (29.2 %)
+2024   |   3860 |    2793 | 72.4 % [70.9-73.7]           | 1067 (27.6 %)
+2025   |   3695 |    2767 | 74.9 % [73.5-76.3]           | 928 (25.1 %)
+2026   |   2208 |    1776 | 80.4 % [78.7-82.0]           | 432 (19.6 %)
+(2026 dekker 01.01-24.08. 2021-2022 er tynnet av retensjon: konkurskunngjoringer purges etter ~5 ar,
+ landmine L1 — 106 og 599 apninger mot Norges reelle ~3 000 per ar.)
+
+## 1.2 Er stigningen reell? Differanser med Newcombe-intervall
+  2026 vs 2023: +9.6 pp [+7.3, +11.9]
+  2025 vs 2023: +4.1 pp [+2.0, +6.2]
+  2026 vs 2024: +8.1 pp [+5.9, +10.2]
+  2025 vs 2022: +13.6 pp [+9.5, +17.8]
+  Heterogenitet 2023-2026 (khikvadrat, df=3): chi2 = 70.8, p = 2.8e-15
+  Cochran-Armitage trendtest 2023-2026: z = 8.02, p = 1.1e-15 (tosidig)
+
+## 1.3 Stiger oppbudene, eller faller begjaringene? Volum per ar (2026 skalert til helar x 365/236)
+ar     |  apninger |    oppbud | ikke-oppbud
+2021   |       106 |        67 |        39
+2022   |       599 |       367 |       232
+2023   |      3058 |      2165 |       893
+2024   |      3860 |      2793 |      1067
+2025   |      3695 |      2767 |       928
+2026   |      3415 |      2747 |       668 (skalert)
+  Endring 2024 -> 2026 (skalert helar): oppbud -2 %, ikke-oppbud -37 %
+
+## 1.4 Manedsserie 2025-2026 — er 2026-nivaet stabilt?
+mnd       |     n | oppbud |  andel | ikke-opp
+2025-01   |   352 |    273 |  77.6% |     79
+2025-02   |   319 |    222 |  69.6% |     97
+2025-03   |   338 |    239 |  70.7% |     99
+2025-04   |   352 |    269 |  76.4% |     83
+2025-05   |   319 |    211 |  66.1% |    108
+2025-06   |   296 |    222 |  75.0% |     74
+2025-07   |   262 |    230 |  87.8% |     32
+2025-08   |   256 |    209 |  81.6% |     47
+2025-09   |   318 |    232 |  73.0% |     86
+2025-10   |   340 |    252 |  74.1% |     88
+2025-11   |   286 |    210 |  73.4% |     76
+2025-12   |   258 |    198 |  76.7% |     60
+2026-01   |   292 |    243 |  83.2% |     49
+2026-02   |   275 |    244 |  88.7% |     31
+2026-03   |   325 |    281 |  86.5% |     44
+2026-04   |   282 |    210 |  74.5% |     72
+2026-05   |   295 |    214 |  72.5% |     81
+2026-06   |   360 |    268 |  74.4% |     92
+2026-07   |   241 |    205 |  85.1% |     36
+2026-08   |   138 |    111 |  80.4% |     27
+
+====================================================================================================
+## 2. Per tingrett, alle apninger 2023-01-01..2026-08-24 (n = 12 821, tingrett utfylt 100,0 %)
+====================================================================================================
+tingrett (slatt sammen etter 2025-delingen) |      n | oppbud | andel [95 %]              
+OSLO TINGRETT                        |   2374 |   1504 | 1504/2374 = 63.4 % [61.4-65.3]
+TRØNDELAG TINGRETT                   |   1011 |    849 | 849/1011 = 84.0 % [81.6-86.1]
+HORDALAND TINGRETT                   |    990 |    734 | 734/990 = 74.1 % [71.3-76.8]
+ROMERIKE OG GLÅMDAL TINGRETT         |    983 |    620 | 620/983 = 63.1 % [60.0-66.0]
+RINGERIKE, ASKER OG BÆRUM TINGRETT   |    751 |    519 | 519/751 = 69.1 % [65.7-72.3]
+AGDER TINGRETT                       |    745 |    616 | 616/745 = 82.7 % [79.8-85.2]
+SØR-ROGALAND TINGRETT                |    716 |    584 | 584/716 = 81.6 % [78.6-84.2]
+SØNDRE ØSTFOLD TINGRETT              |    617 |    467 | 467/617 = 75.7 % [72.2-78.9]
+VESTFOLD TINGRETT                    |    617 |    472 | 472/617 = 76.5 % [73.0-79.7]
+MØRE OG ROMSDAL TINGRETT             |    558 |    460 | 460/558 = 82.4 % [79.1-85.4]
+BUSKERUD TINGRETT                    |    541 |    384 | 384/541 = 71.0 % [67.0-74.6]
+FOLLO OG NORDRE ØSTFOLD TINGRETT     |    488 |    318 | 318/488 = 65.2 % [60.8-69.3]
+TELEMARK TINGRETT                    |    419 |    351 | 351/419 = 83.8 % [79.9-87.0]
+ØSTRE INNLANDET TINGRETT             |    344 |    273 | 273/344 = 79.4 % [74.8-83.3]
+VESTRE INNLANDET TINGRETT            |    331 |    265 | 265/331 = 80.1 % [75.4-84.0]
+HAUGALAND OG SUNNHORDLAND TINGRETT   |    286 |    241 | 241/286 = 84.3 % [79.6-88.0]
+SALTEN OG LOFOTEN TINGRETT           |    226 |    180 | 180/226 = 79.6 % [73.9-84.4]
+NORD-TROMS OG SENJA TINGRETT         |    226 |    163 | 163/226 = 72.1 % [65.9-77.6]
+MIDTRE HÅLOGALAND TINGRETT           |    166 |    139 | 139/166 = 83.7 % [77.4-88.6]
+HELGELAND TINGRETT                   |    155 |    136 | 136/155 = 87.7 % [81.6-92.0]
+SOGN OG FJORDANE TINGRETT            |    144 |    120 | 120/144 = 83.3 % [76.4-88.5]
+VESTRE FINNMARK TINGRETT             |     79 |     62 | 62/79 = 78.5 % [68.2-86.1]
+SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI  |     54 |     44 | 44/54 = 81.5 % [69.2-89.6]
+  Spenn: 63.1 % til 87.7 % — ingen domstol pa 0 eller 100 %.
+  Heterogenitet mellom domstoler (n >= 50, df=22): chi2 = 444, p = 2.6e-80
+
+## 2.1 Er stigningen en sammensetningseffekt (domstolsmiks) eller skjer den innad i domstolene?
+Direkte standardisering: hvert ars andeler veid med den SAMLEDE domstolsmiksen 2023-2026.
+ar     | raa andel    | standardisert  | domstoler 
+2023   |        70.8% |          70.7% | 23 av 23
+2024   |        72.4% |          72.1% | 23 av 23
+2025   |        74.9% |          74.9% | 23 av 23
+2026   |        80.4% |          80.7% | 21 av 23
+Antall domstoler som steg / falt fra 2023 til 2026 (n >= 40 begge ar):
+  steg: 16, falt: 0
+    HORDALAND TINGRETT                   2023  62.1% (146/235) -> 2026  82.6% (142/172)  +20.4 pp
+    BUSKERUD TINGRETT                    2023  64.4% (85/132) -> 2026  83.8% (62/74)  +19.4 pp
+    ØSTRE INNLANDET TINGRETT             2023  71.6% (48/67) -> 2026  88.3% (53/60)  +16.7 pp
+    AGDER TINGRETT                       2023  72.9% (124/170) -> 2026  89.1% (106/119)  +16.1 pp
+    RINGERIKE, ASKER OG BÆRUM TINGRETT   2023  64.3% (126/196) -> 2026  80.3% (110/137)  +16.0 pp
+    FOLLO OG NORDRE ØSTFOLD TINGRETT     2023  60.8% (62/102) -> 2026  76.0% (73/96)  +15.3 pp
+    VESTFOLD TINGRETT                    2023  70.5% (103/146) -> 2026  83.7% (87/104)  +13.1 pp
+    HAUGALAND OG SUNNHORDLAND TINGRETT   2023  75.3% (55/73) -> 2026  88.4% (38/43)  +13.0 pp
+    SØR-ROGALAND TINGRETT                2023  77.4% (127/164) -> 2026  88.8% (119/134)  +11.4 pp
+    SØNDRE ØSTFOLD TINGRETT              2023  70.9% (83/117) -> 2026  78.4% (87/111)  +7.4 pp
+    TELEMARK TINGRETT                    2023  82.2% (83/101) -> 2026  88.9% (64/72)  +6.7 pp
+    VESTRE INNLANDET TINGRETT            2023  78.8% (63/80) -> 2026  85.0% (51/60)  +6.2 pp
+    OSLO TINGRETT                        2023  64.8% (398/614) -> 2026  71.0% (299/421)  +6.2 pp
+    ROMERIKE OG GLÅMDAL TINGRETT         2023  60.3% (123/204) -> 2026  65.9% (122/185)  +5.7 pp
+    MØRE OG ROMSDAL TINGRETT             2023  80.9% (106/131) -> 2026  86.4% (76/88)  +5.4 pp
+    TRØNDELAG TINGRETT                   2023  85.2% (213/250) -> 2026  86.4% (153/177)  +1.2 pp
+
+====================================================================================================
+## 3. Mot de eksterne holdepunktene
+====================================================================================================
+
+(a) 2021-rapporten, tabell 4 panel C, utvalg 2010-2019 (alle apninger ekskl. ENK):
+    begjaring 25,7 %% | oppbud 43,6 %% | tvangsavvikling 30,7 %%
+    Konkurs alene (tvangsavvikling er en egen kunngjoringstype hos oss):
+    43,6/(43,6+25,7) = 62.9 % oppbud.
+    Var maling i de arene korpuset rekker tilbake til (2021-2022): 434/705 = 61.6 % [57.9-65.1]
+    A2s poolede 2019-2022: 496/810 = 61.2 % [57.8-64.5]
+    Differanse mot 62,9 %: -1.6 pp [-6.3, +3.1] — rapportens verdi ligger INNE i vart intervall.
+
+(b) Konkursradet 25.11.2025: begjaringer fra PRIVATE parter utgjor «noen fa prosentpoeng»;
+    ved Oslo tingrett under 2 %. Hva folger av det for var ikke-oppbudsgruppe?
+populasjon                   | ikke-oppbud              | implisert offentlig andel AV ikke-oppbud
+apninger 2023                | 893/3058 = 29.2 %        | privat 2/3/5 pp -> 93 % / 90 % / 83 %
+apninger 2024                | 1067/3860 = 27.6 %       | privat 2/3/5 pp -> 93 % / 89 % / 82 %
+apninger 2025                | 928/3695 = 25.1 %        | privat 2/3/5 pp -> 92 % / 88 % / 80 %
+apninger 2026                | 432/2208 = 19.6 %        | privat 2/3/5 pp -> 90 % / 85 % / 74 %
+kohorten 2023-09..2024-12    | 1431/5165 = 27.7 %       | privat 2/3/5 pp -> 93 % / 89 % / 82 %
+OSLO 2023-2026               | 870/2374 = 36.6 %        | privat 2/3/5 pp -> 95 % / 92 % / 86 %
+    NB: dette er aritmetikk pa en EKSTERN pastand, ikke en maling i vart materiale.
+    Registeret navngir aldri rekvirenten: vi kan IKKE skille privat fra offentlig begjaring.

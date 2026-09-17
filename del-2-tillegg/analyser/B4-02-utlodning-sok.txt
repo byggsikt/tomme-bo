@@ -1,0 +1,28 @@
+a_felt_nokkel_treff | Utdeling av utbytte
+
+Navn/foretaksnavn | 340 | 340
+a_felt_nokkel_treff | Utdeling av utbytte
+
+Gjelder registreringsvedtak av 15.09.2005. Beslutningen er registrert
+gjennomfø | 1 | 1
+a_felt_nokkel_treff | Utdeling av utbytte
+
+Gjelder registreringsvedtak av 24.09.2005. Beslutningen er registrert
+gjennomfø | 1 | 1
+a_felt_nokkel_treff | Utdeling av utbytte
+
+Gjelder registreringsvedtak av 27.10.2005 der det beløp som utbetales
+som utbyt | 1 | 1
+a_felt_nokkel_treff | Utdeling av utbytte
+
+I generalforsamling 09.12.2005 besluttet selskapet å gjennomføre
+utdeling av ut | 1 | 1
+b_felt_verdi_treff | 0 | 8 | 239 | 1581 | 0 | 0 | 24 | 1 | 0 | 0 | 17683554
+c_felt_verdi_eksempler | Navn/Firma | DIVIDENDE AS | 8 | 1
+c_felt_verdi_eksempler | Formål | Bistå bostyrere i forbindelse med konkurs. Herunder bistand i | forbindelse med lønnsgarantisaker og andre saker relatert til | personalet i | 1 | 1
+d_type_kanon_treff | Fullmakt utdeling av utbytte | 9421 | 2309 | 2013-08-21 | 2026-09-10
+d_type_kanon_treff | Utdeling av utbytte | 391 | 243 | 2005-06-15 | 2014-01-15
+d_type_kanon_treff | Fortsettelse av bobehandling | 75 | 39 | 2014-06-19 | 2026-09-10
+d_type_kanon_treff | Fullmakt utdeling av utbytte Denne fullmakten skulle ikke vært registrert da de | 2 | 1 | 2017-12-05 | 2017-12-05
+d_type_kanon_treff | Gjennomf&oslash;ring av utdeling av utbytte | 1 | 1 | 2005-09-05 | 2005-09-05
+d_type_kanon_treff | Oppheving av tvangsoppløsning | 1 | 1 | 2026-09-08 | 2026-09-08

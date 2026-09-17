@@ -1,0 +1,369 @@
+type_univers | Godkjent årsregnskap | 8870696 | 1999-11-03 | 2026-08-24
+type_univers | Endring av forretningsadresse | 1458115 | 1999-11-02 | 2026-08-24
+type_univers | Endring av styre | 1273593 | 1999-11-02 | 2026-08-24
+type_univers | Endring av vedtektsdato | 1037221 | 1999-11-02 | 2026-08-24
+type_univers | Endring av revisor | 838873 | 1999-11-02 | 2026-08-24
+type_univers | Nyregistrering | 733409 | 1999-11-02 | 2026-08-21
+type_univers | Godkjente årsregnskap | 701752 | 2023-01-02 | 2026-09-10
+type_univers | Endring av kapital | 521906 | 1999-11-02 | 2026-08-24
+type_univers | Endring av daglig leder | 477034 | 1999-11-02 | 2026-08-24
+type_univers | Kreditorvarsel | 311194 | 1999-11-03 | 2026-08-24
+type_univers | Styre | 278834 | 2000-09-14 | 2026-09-11
+type_univers | Endring av signatur | 250477 | 1999-11-02 | 2026-08-24
+type_univers | Endring av foretaksnavn | 230188 | 2004-03-01 | 2026-08-24
+type_univers | Endring av formål | 223636 | 1999-11-02 | 2026-08-24
+type_univers | Revisjon av årsregnskap | 207878 | 2011-05-16 | 2026-09-10
+type_univers | Forretningsadresse | 183447 | 2000-04-13 | 2026-09-11
+type_univers | Nyregistrering i Foretaksregisteret | 159349 | 2000-01-03 | 2026-09-11
+type_univers | Vedtektsdato | 155349 | 2000-02-01 | 2026-09-11
+type_univers | Sletting | 141706 | 2008-08-09 | 2026-09-11
+type_univers | Revisor | 116717 | 1999-11-06 | 2026-09-11
+type_univers | Daglig leder | 79862 | 2000-01-18 | 2026-09-11
+type_univers | Varsel om tvangsoppløsning | 76192 | 1999-11-04 | 2026-08-24
+type_univers | Kapital | 69398 | 1999-11-05 | 2026-09-11
+type_univers | Meldepliktig avtale | 68488 | 2010-06-15 | 2026-09-10
+type_univers | Rettelse | 67321 | 1999-11-09 | 2026-08-20
+type_univers | Gjennomføring av fisjon | 47799 | 2011-01-30 | 2026-09-10
+type_univers | Foretaksnavn | 46905 | 2023-01-02 | 2026-09-10
+type_univers | Oppløsning | 46031 | 2023-01-02 | 2026-09-11
+type_univers | Gjennomføring av fusjon | 42559 | 2012-01-08 | 2026-09-10
+type_univers | Signatur | 40516 | 2001-06-09 | 2026-09-11
+type_univers | Vedtektsfestet formål | 39454 | 2023-01-02 | 2026-09-10
+type_univers | Sletting etter fusjon | 34712 | 2017-11-23 | 2026-09-10
+type_univers | Fusjonsbeslutning | 33504 | 2002-09-10 | 2026-09-10
+type_univers | Konkurs - åpning | 26987 | 2016-10-27 | 2026-09-11
+type_univers | Fullmakt kapitalforhøyelse | 26635 | 2001-06-14 | 2026-09-10
+type_univers | Fullmakt erverv av egne aksjer | 22663 | 2010-07-01 | 2026-09-10
+type_univers | Konkurs - innstilling av bobehandlingen | 19374 | 2023-08-25 | 2026-09-11
+type_univers | Godkjent mellombalanse | 18885 | 2020-08-25 | 2026-09-10
+type_univers | Endring av firma | 13410 | 1999-11-02 | 2004-02-28
+type_univers | Antatt døde foretak | 12261 | 2023-01-02 | 2026-09-08
+type_univers | Manglende roller | 11224 | 2003-03-22 | 2026-09-10
+type_univers | Fisjonsbeslutning | 10862 | 2001-10-15 | 2026-09-10
+type_univers | Fullmakt utdeling av utbytte | 9421 | 2013-08-21 | 2026-09-10
+type_univers | Godkjente &aring;rsregnskap | 9053 | 1999-11-15 | 2026-08-27
+type_univers | Virksomhet/bransje | 8767 | 2023-01-02 | 2026-09-10
+type_univers | Godkjent årsregnskap er derfor annullert | 6591 | 2005-05-24 | 2026-01-27
+type_univers | Foretaksregisteret har mottatt redegjørelse om finansiell bistand til erverv av | 5262 | 2014-05-06 | 2026-08-21
+type_univers | Tvangsoppløsning av aksjeselskap | 5058 | 2017-12-19 | 2026-09-10
+type_univers | Nedsettelse av overkursfond | 4681 | 2003-07-02 | 2014-06-14
+type_univers | Konkurs - avslutning av bobehandlingen | 4403 | 2023-06-02 | 2026-09-10
+type_univers | Konvertibelt lån | 4391 | 2001-06-28 | 2026-09-10
+type_univers | Frittstående tegningsretter | 2925 | 2001-06-30 | 2026-09-08
+type_univers | Deltakere | 2924 | 2023-01-02 | 2026-09-10
+type_univers | Omgjøring av beslutning om oppløsning | 2857 | 2006-10-11 | 2026-08-24
+type_univers | Forretningsfører | 2457 | 2023-01-03 | 2026-09-10
+type_univers | Sletting etter fisjon | 1893 | 2017-12-19 | 2026-09-10
+type_univers | Fullmakt konvertibelt lån | 1766 | 2001-06-30 | 2026-09-09
+type_univers | Omgjøring av oppløsning | 1675 | 2023-01-02 | 2026-09-10
+type_univers | Omgjøring av beslutning om fusjon | 829 | 2012-03-06 | 2026-08-22
+type_univers | Fullmakt avtalepant i egne aksjer | 781 | 2010-11-29 | 2026-09-03
+type_univers | Tvangsavvikling av aksjeselskap | 578 | 2004-06-10 | 2026-09-10
+type_univers | Omgjøring av fusjon | 555 | 2023-01-10 | 2026-09-08
+type_univers | Omgjøring av beslutning om fisjon | 484 | 2011-02-10 | 2026-08-13
+type_univers | Kontaktinformasjon til ny bostyrer | 453 | 2020-10-01 | 2026-08-17
+type_univers | Rettelse av formål | 439 | 2023-01-02 | 2026-09-11
+type_univers | Norsk representant | 431 | 2023-01-04 | 2026-09-07
+type_univers | Utdeling av utbytte | 391 | 2005-06-15 | 2014-01-15
+type_univers | Fusjonsplan | 380 | 2006-09-09 | 2026-09-10
+type_univers | Rettelse av foretaksnavn | 330 | 2006-11-30 | 2026-09-09
+type_univers | Omgjøring av fisjon | 327 | 2023-01-03 | 2026-09-08
+type_univers | Rettelse av styre | 323 | 2007-06-02 | 2026-09-09
+type_univers | Rettelse av forretningsadresse | 322 | 2006-05-20 | 2026-09-09
+type_univers | Annullering av sletting | 288 | 2023-01-17 | 2026-09-10
+type_univers | Revisjon av &aring;rsregnskap | 284 | 2011-06-28 | 2022-12-28
+type_univers | Utdeling av konsernbidrag | 280 | 2006-08-30 | 2014-06-14
+type_univers | Godkjent årsregnskap med bærekraftsrapportering | 276 | 2025-03-11 | 2026-09-01
+type_univers | Rettelse av vedtektsdato | 220 | 2009-05-09 | 2026-09-04
+type_univers | Godkjent årsregnskap er derfor annulert | 201 | 2000-05-29 | 2004-12-09
+type_univers | Nedsettelse av kapital | 196 | 2004-12-15 | 2026-09-11
+type_univers | Tegningsrettsaksjer | 177 | 2001-07-21 | 2026-08-24
+type_univers | Omdanning for avvikling | 162 | 2023-01-18 | 2026-09-09
+type_univers | Prokura | 141 | 2023-01-03 | 2026-09-02
+type_univers | Rettelse av signatur | 134 | 2023-01-11 | 2026-09-07
+type_univers | Rettelse av kapital | 132 | 2009-02-18 | 2026-09-09
+type_univers | Vedtektsfestet form&aring;l | 124 | 2001-05-09 | 2022-11-21
+type_univers | Innehaver | 112 | 2023-01-09 | 2026-07-13
+type_univers | Oppløsning i hjemlandet | 103 | 2023-01-18 | 2026-09-02
+type_univers | Redegjørelse finansiell bistand erverv av aksjer | 82 | 2026-08-20 | 2026-09-10
+type_univers | Fortsettelse av bobehandling | 75 | 2014-06-19 | 2026-09-10
+type_univers | Fisjonsplan | 73 | 2006-08-29 | 2025-12-19
+type_univers | Ny skiftesamling berammet | 66 | 2022-11-01 | 2026-07-14
+type_univers | Omdanning for sammenslåing | 65 | 2023-02-01 | 2026-04-22
+type_univers | Annullering av godkjent årsregnskap | 62 | 2023-03-06 | 2026-06-15
+type_univers | Tvangsoppløsning | 62 | 2026-08-31 | 2026-09-11
+type_univers | Administrativ kunngjøring | 56 | 2023-01-25 | 2026-08-27
+type_univers | Rettelse av daglig leder | 54 | 2023-01-26 | 2026-09-07
+type_univers | Rettelse av virksomhet/art/bransje | 53 | 2023-02-10 | 2026-02-28
+type_univers | Tvungen overføring av aksjer i datterselskap | 53 | 2006-08-08 | 2026-08-26
+type_univers | Annullering av registrering | 52 | 2023-01-05 | 2026-01-19
+type_univers | Overgang aksjeeierbok/VPS | 51 | 2023-03-31 | 2026-04-22
+type_univers | Delvis omgjøring av beslutning om fusjon | 47 | 2013-12-07 | 2026-05-02
+type_univers | Første skiftesamling blir holdt | 35 | 2025-09-04 | 2026-06-24
+type_univers | Foretaksregisteret har mottatt erklæring ved unntak fra krav om redegjørelse for | 35 | 2014-04-30 | 2026-07-09
+type_univers | Rettelse av revisor | 34 | 2006-04-27 | 2026-07-17
+type_univers | Rettelse av deltaker | 25 | 2023-02-07 | 2026-08-26
+type_univers | Gjennomf&oslash;ring av nedsettelse av overkursfond | 23 | 2003-09-30 | 2012-12-03
+type_univers | Gjennomf&oslash;ring av fusjon | 23 | 2012-10-06 | 2022-11-15
+type_univers | Reinnføring i Foretaksregisteret | 17 | 2022-12-07 | 2026-06-04
+type_univers | Varsel om tvangsoppl&oslash;sning | 14 | 2009-04-24 | 2020-03-06
+type_univers | Annullering av godkjent &aring;rsregnskap | 11 | 2008-06-12 | 2014-11-07
+type_univers | Annullering av beslutning om oppløsning | 11 | 2023-02-02 | 2026-03-07
+type_univers | Delvis omgjøring av beslutning om fisjon | 11 | 2016-09-01 | 2026-06-20
+type_univers | Avslutning av rekonstruksjonsforhandling etter rekonstruksjonsloven § 59 nr. 1. | 9 | 2022-06-08 | 2026-04-28
+type_univers | Kunngjøring | 8 | 2010-11-02 | 2010-12-03
+type_univers | Endring av kunngjøring fra Konkursregisteret | 8 | 2026-08-26 | 2026-09-11
+type_univers | Skiftesamlingen avholdes på videolink | 8 | 2025-06-05 | 2025-06-05
+type_univers | Rettelse av meldepliktig avtale | 7 | 2024-01-12 | 2026-08-19
+type_univers | Rettelse av form&aring;l | 7 | 2006-12-23 | 2015-12-02
+type_univers | Erverv av egne aksjer-fullmakt | 6 | 2012-06-28 | 2024-09-05
+type_univers | Omdanning for deling | 6 | 2023-04-25 | 2026-01-12
+type_univers | Gjennomf&oslash;ring av fisjon | 6 | 2011-12-21 | 2018-12-15
+type_univers | Retting av kreditorvarsel | 5 | 2003-03-26 | 2011-10-28
+type_univers | Skiftesamling avholdes som fjernmøte via videolink. Skyldneren plikter å møte me | 4 | 2026-04-14 | 2026-04-23
+type_univers | Bestyrende reder | 4 | 2023-01-17 | 2025-08-16
+type_univers | Gjelder rekonstruksjon for: | 4 | 2025-10-17 | 2025-10-17
+type_univers | Komplementar | 4 | 2025-05-14 | 2026-02-24
+type_univers | Ny fordringsfrist | 4 | 2022-11-16 | 2023-06-02
+type_univers | Kjennelsen er avsagt | 4 | 2024-11-15 | 2024-11-15
+type_univers | Oppl&oslash;sning | 4 | 2009-12-03 | 2022-01-25
+type_univers | Endring av forretningsadresse Foretaksregisteret har grunn til å anta at forretn | 4 | 2024-07-27 | 2024-10-08
+type_univers | Revisjon av årsregnskap Registrert ved en inkurie. Se kunngjøring av | 4 | 2012-01-02 | 2012-01-06
+type_univers | Rettelse av endring | 4 | 2000-11-28 | 2004-01-22
+type_univers | Fusjonsplan avbrutt | 4 | 2012-05-10 | 2023-07-06
+type_univers | Gjelder konkurs i boet til: | 4 | 2020-04-14 | 2020-04-14
+type_univers | Rettelse av revisjon av årsregnskap | 3 | 2023-04-03 | 2025-06-25
+type_univers | Retting av Kreditorvarsel | 3 | 2009-09-16 | 2010-06-01
+type_univers | Omdanningsplan | 3 | 2022-02-25 | 2025-07-07
+type_univers | Skiftesamling blir holdt | 3 | 2026-04-14 | 2026-04-14
+type_univers | Omgj&oslash;ring av oppl&oslash;sning | 3 | 2014-02-25 | 2022-05-11
+type_univers | Konkursåpningsdatoen er endret | 2 | 2025-10-14 | 2025-10-14
+type_univers | Ankefrist utgår da kjennelsen er rettskraftig ved avsigelse. | 2 | 2026-07-17 | 2026-07-17
+type_univers | Endring av kapital gjelder aksjesplitt | 2 | 2025-07-07 | 2025-07-07
+type_univers | Endring av kapital gjelder aksjsplitt. Kunngjort ved feil | 2 | 2026-04-23 | 2026-04-23
+type_univers | Fisjon | 2 | 2006-12-02 | 2006-12-15
+type_univers | Fordringshavermøte er berammet til tirsdag 27.februar 2024 kl. 10.00 i sal 628 | 2 | 2024-02-19 | 2024-02-19
+type_univers | Forhandling om rekonstruksjon | 2 | 2026-08-24 | 2026-09-01
+type_univers | Fullmakt erverv av aksjer i morselskapet | 2 | 2026-01-16 | 2026-01-16
+type_univers | Fullmakt erverv av egne aksjer Fullmakten er allerede registrert. Se korrekt kun | 2 | 2021-08-27 | 2021-08-27
+type_univers | Fullmakt utdeling av utbytte Denne fullmakten skulle ikke vært registrert da de | 2 | 2017-12-05 | 2017-12-05
+type_univers | Fullmakten er ugyldig og slettet i Foretaksregisteret | 2 | 2014-11-03 | 2014-11-03
+type_univers | Første skiftesamling blir holdt 23.04.26 kl. 09.00. Skiftesamling avholdes som f | 2 | 2026-03-20 | 2026-03-20
+type_univers | Konvertibelt l&aring;n | 2 | 2008-07-10 | 2009-04-18
+type_univers | Korrigering av kreditorvarsel | 2 | 2015-11-03 | 2015-11-03
+type_univers | Kunngjørin | 2 | 2010-11-10 | 2010-11-10
+type_univers | Meldepliktig avtale Gjelder registreringsvedtak av | 2 | 2013-01-04 | 2013-01-04
+type_univers | Ny dato for fordringshavermøte er berammet | 2 | 2022-01-26 | 2022-01-26
+type_univers | Ny fordringsfrist er satt | 2 | 2024-10-10 | 2024-10-10
+type_univers | Ny postadresse; Postboks 29 Breivika, 9416 Harstad. E-post; finn@advokatjorstad. | 2 | 2026-03-19 | 2026-03-19
+type_univers | Ny skiftesamling berammet til 10.oktober 2024 kl. 1000 i rettssal 617, Oslo ting | 2 | 2024-10-04 | 2024-10-04
+type_univers | Ny skiftesamling berammet til 11.12.24 kl. 09:00 Ski tinghus, Tinghusveien 3 | 2 | 2024-11-12 | 2024-11-12
+type_univers | Ny skiftesamling berammet til 12. februar 2024 kl. 09:50 i rettssal 628 | 2 | 2024-01-22 | 2024-01-22
+type_univers | Ny skiftesamling berammet til 12. februar 2024 kl. 10:00 i rettssal 628 | 2 | 2024-01-22 | 2024-01-22
+type_univers | Ny skiftesamling berammet til 12.08.24 kl. 13:30 | 2 | 2024-06-24 | 2024-06-24
+type_univers | Ny skiftesamling berammet til 13.08.26 kl 14:00 i sal 617 i Oslo tinghus | 2 | 2026-08-07 | 2026-08-07
+type_univers | Ny skiftesamling berammet til 16.09.22 kl. 13.00 | 2 | 2022-09-15 | 2022-09-15
+type_univers | Ny skiftesamling berammet til 16.10.24 kl. 09.40 i rettsal 617 i Oslo tinghus. | 2 | 2024-09-23 | 2024-09-23
+type_univers | Ny skiftesamling berammet til 17.08.26 kl. 08:30 i Agder tingrett, Farsund tingh | 2 | 2026-05-22 | 2026-05-22
+type_univers | Ny skiftesamling berammet til 21.03.23 kl. 09:00 | 2 | 2023-02-14 | 2023-02-14
+type_univers | Ny skiftesamling berammet til 22.07.26 kl. 13:15 | 2 | 2026-06-29 | 2026-06-29
+type_univers | Ny skiftesamling berammet til 25. august 2026 kl. 14.30. | 2 | 2026-08-19 | 2026-08-19
+type_univers | Ny skiftesamling berammet til 27.06.24 kl. 10:15 i Hordaland tingretts lokaler | 2 | 2024-05-22 | 2024-05-22
+type_univers | Ny skiftesamling berammet til 31.oktober 2024 kl. 10.00 i Oslo tingrett, rettssa | 2 | 2024-10-25 | 2024-10-25
+type_univers | Ny skiftesamling berammet til 8. desember 2025 kl. 15.00 | 2 | 2025-11-17 | 2025-11-17
+type_univers | Ny skiftesamling berammet til 8. desember 2025 kl. 15.15. | 2 | 2025-11-17 | 2025-11-17
+type_univers | Ny skiftesamling berammet til fredag 7. august 2026 kl. 09:10 i sal 619 i Oslo t | 2 | 2026-07-07 | 2026-07-07
+type_univers | Ny skiftesamling berammet til onsdag 9.10.24 kl. 10.00 | 2 | 2024-10-01 | 2024-10-01
+type_univers | Ny skiftesamling berammet til tirsdag | 2 | 2025-12-18 | 2025-12-18
+type_univers | Ny skiftesamling berammet til tirsdag 3. mars 2026 kl. 09.00. | 2 | 2026-01-20 | 2026-01-20
+type_univers | Ny skiftesamling berammet til torsdag | 2 | 2021-01-06 | 2021-01-06
+type_univers | Ny skiftesamling berammet til torsdag 15. januar 2026 kl. 14.00 i rettssal 626. | 2 | 2026-01-12 | 2026-01-12
+type_univers | Ny skiftesamling berammet til torsdag 22. mai 2025 kl. 1330. | 2 | 2025-04-03 | 2025-04-03
+type_univers | Ny skiftesamling berammet til torsdag 9. mars 2023 kl. 08.30, Telemark tingrett | 2 | 2023-01-11 | 2023-01-11
+type_univers | Ny skiftesamlingtidspunkt berammet til kl. 1000. | 2 | 2025-04-03 | 2025-04-03
+type_univers | Nytt klokkeslett for skiftesamling berammet til kl.08.45, | 2 | 2025-10-09 | 2025-10-09
+type_univers | Nytt klokkeslett skiftesamling er berammet til kl. 13.40. | 2 | 2025-10-24 | 2025-10-24
+type_univers | Nytt tidspunkt for skiftesamling berammet til kl. 09.30. | 2 | 2026-06-19 | 2026-06-19
+type_univers | Rettelse av norsk representant | 2 | 2023-03-25 | 2026-08-17
+type_univers | Retten har tatt anmodningen om utsettelse av fordringshavermøte til følge og uts | 2 | 2023-09-26 | 2023-09-26
+type_univers | Skiftesamling avholdes 23.04.26 kl. 1330 som fjernmøte via videolink. Skyldneren | 2 | 2026-03-20 | 2026-03-20
+type_univers | Skiftesamling berammet til mandag 23. februar 2026 kl. 14.00 i rettssal 617. | 2 | 2026-01-19 | 2026-01-19
+type_univers | Skiftesamling blir avholdt | 2 | 2026-03-20 | 2026-03-20
+type_univers | Skiftesamling etter konkursloven § 78 ledd nr. 3 ble berammet til tirsdag 10. ju | 2 | 2025-05-07 | 2025-05-07
+type_univers | Skiftesamling omberammes til 23. januar 2026 kl. 13.00 i rettssal 617. | 2 | 2026-01-15 | 2026-01-15
+type_univers | Skiftesamling omberammes til fredag 23.januar 2026 kl. 13.00 i rettssal 617. | 2 | 2026-01-15 | 2026-01-15
+type_univers | Skiftesamlingen 23.05.23 kl. 08.30 vil bli avholdt som telefonmøte | 2 | 2023-04-21 | 2023-04-21
+type_univers | Skiftesamlingen avholds på videolink | 2 | 2025-06-05 | 2025-06-05
+type_univers | Skiftesamlingen vil avholdes på videolink | 2 | 2025-06-05 | 2025-06-05
+type_univers | Statsautorisert revisor Eivind Balke Thue er oppnevnt som borevisor, adresse Joh | 2 | 2024-12-13 | 2024-12-13
+type_univers | Statsautorisert revisor Eivind Thue, BHL DA, 1376 Billingstad, epost et@bhl.no | 2 | 2023-11-02 | 2023-11-02
+type_univers | Tillegg til kreditorvarsel av | 2 | 2015-04-15 | 2015-04-15
+type_univers | Varsel om tvangsoppløsning - Ugyldig. Kunngjøring registrert ved en feil. Reviso | 2 | 2025-05-12 | 2025-05-12
+type_univers | Varsel om tvangsoppløsning - ugyldig. Registrert ved en feil. | 2 | 2025-05-19 | 2025-05-19
+type_univers | Sletting etter fusjon gjennomført den | 1 | 2025-07-01 | 2025-07-01
+type_univers | Dom fra Forliksrådet | 1 | 2017-01-12 | 2017-01-12
+type_univers | Endring av styre - ugyldig. Registrert ved en feil. | 1 | 2023-01-19 | 2023-01-19
+type_univers | Strøket partinavn | 1 | 2026-08-26 | 2026-08-26
+type_univers | Redegj&oslash;relse finansiell bistand erverv av aksjer | 1 | 2022-10-20 | 2022-10-20
+type_univers | Oppheving av tvangsoppløsning | 1 | 2026-09-08 | 2026-09-08
+type_univers | Tilbud om løsningssum til aksjonærene i Norlog AS | 1 | 2005-12-19 | 2005-12-19
+type_univers | Endring av forretningsadresse Opplysningen ble ved en feil kunngjort på nytt. Op | 1 | 2019-01-08 | 2019-01-08
+type_univers | Omgj&oslash;ring av fusjon | 1 | 2016-09-27 | 2016-09-27
+type_univers | Omgj&oslash;ring av fisjon | 1 | 2012-04-28 | 2012-04-28
+type_univers | Omdanning ASA/SE | 1 | 2025-07-07 | 2025-07-07
+type_univers | Revisjon av årsregnskap Dette er en kunngjøring av registreringsvedtak den 24.12 | 1 | 2017-01-02 | 2017-01-02
+type_univers | Nytt tidspunkt for skiftesamling berammet til kl. 13.00. | 1 | 2026-06-30 | 2026-06-30
+type_univers | Administrativ kunngj&oslash;ring | 1 | 2006-01-18 | 2006-01-18
+type_univers | Gjennomf&oslash;ring av utdeling av utbytte | 1 | 2005-09-05 | 2005-09-05
+type_univers | Fristdagen etter dekningsloven § 1-2 antas å være | 1 | 2024-11-11 | 2024-11-11
+type_univers | Rettelse fra Foretaksregisteret | 1 | 2005-01-27 | 2005-01-27
+type_univers | Frigivelse av deponert beløp | 1 | 2025-04-29 | 2025-04-29
+type_univers | E-postadresse til rekonstruktør endres til: Norsk | 1 | 2026-01-13 | 2026-01-13
+type_univers | Rettelse av komplementar | 1 | 2026-04-13 | 2026-04-13
+type_univers | Rettelse av innehaver | 1 | 2024-08-30 | 2024-08-30
+type_univers | Rettelse Gjelder registreringsvedtak av | 1 | 2006-08-17 | 2006-08-17
+type_total | 19111364 | 224
+hendelsestype_dim | Ankefrist utgår da kjennelsen er rettskraftig ved avsigelse. | annet | f | f | 
+hendelsestype_dim | Avslutning av rekonstruksjonsforhandling etter rekonstruksjonsloven § 59 nr. 1. | annet | f | f | 
+hendelsestype_dim | Dom fra Forliksrådet | annet | f | f | 
+hendelsestype_dim | Foretaksregisteret har mottatt erklæring ved unntak fra krav om redegjørelse for | annet | f | f | 
+hendelsestype_dim | Foretaksregisteret har mottatt redegjørelse om finansiell bistand til erverv av | annet | f | f | 
+hendelsestype_dim | Fristdagen etter dekningsloven § 1-2 antas å være | annet | f | f | 
+hendelsestype_dim | Kjennelsen er avsagt | annet | f | f | 
+hendelsestype_dim | Kunngjørin | annet | f | f | 
+hendelsestype_dim | Kunngjøring | annet | f | f | 
+hendelsestype_dim | Meldepliktig avtale | annet | f | f | 
+hendelsestype_dim | Meldepliktig avtale Gjelder registreringsvedtak av | annet | f | f | 
+hendelsestype_dim | Ny dato for fordringshavermøte er berammet | annet | f | f | 
+hendelsestype_dim | Ny postadresse; Postboks 29 Breivika, 9416 Harstad. E-post; finn@advokatjorstad. | annet | f | f | 
+hendelsestype_dim | Nytt klokkeslett for skiftesamling berammet til kl.08.45, | annet | f | f | 
+hendelsestype_dim | Nytt klokkeslett skiftesamling er berammet til kl. 13.40. | annet | f | f | 
+hendelsestype_dim | Nytt tidspunkt for skiftesamling berammet til kl. 09.30. | annet | f | f | 
+hendelsestype_dim | Nytt tidspunkt for skiftesamling berammet til kl. 13.00. | annet | f | f | 
+hendelsestype_dim | Retten har tatt anmodningen om utsettelse av fordringshavermøte til følge og uts | annet | f | f | 
+hendelsestype_dim | Statsautorisert revisor Eivind Balke Thue er oppnevnt som borevisor, adresse Joh | annet | f | f | 
+hendelsestype_dim | Statsautorisert revisor Eivind Thue, BHL DA, 1376 Billingstad, epost et@bhl.no | annet | f | f | 
+hendelsestype_dim | Tilbud om løsningssum til aksjonærene i Norlog AS | annet | f | f | 
+hendelsestype_dim | Tillegg til kreditorvarsel av | annet | f | f | 
+hendelsestype_dim | Tvungen overføring av aksjer i datterselskap | annet | f | f | 
+hendelsestype_dim | Varsel om tvangsoppløsning - Ugyldig. Kunngjøring registrert ved en feil. Reviso | annet | f | t | 
+hendelsestype_dim | Varsel om tvangsoppløsning - ugyldig. Registrert ved en feil. | annet | f | t | 
+hendelsestype_dim | Sletting | avvikling | t | f | slettet_uten_oppgitt_grunn
+hendelsestype_dim | Sletting etter fisjon | avvikling | t | f | delt_fisjon
+hendelsestype_dim | Sletting etter fusjon | avvikling | t | f | oppslukt_fusjon
+hendelsestype_dim | Sletting etter fusjon gjennomført den | avvikling | f | f | 
+hendelsestype_dim | Varsel om tvangsoppløsning | doedsvarsel | f | t | varslet_tvang
+hendelsestype_dim | Endring av firma | identitet | f | f | 
+hendelsestype_dim | Endring av foretaksnavn | identitet | f | f | 
+hendelsestype_dim | Endring av formål | identitet | f | f | 
+hendelsestype_dim | Endring av forretningsadresse | identitet | f | f | 
+hendelsestype_dim | Endring av forretningsadresse Foretaksregisteret har grunn til å anta at forretn | identitet | f | f | 
+hendelsestype_dim | Endring av forretningsadresse Opplysningen ble ved en feil kunngjort på nytt. Op | identitet | f | f | 
+hendelsestype_dim | Endring av vedtektsdato | identitet | f | f | 
+hendelsestype_dim | E-postadresse til rekonstruktør endres til: Norsk | insolvens | f | f | 
+hendelsestype_dim | Fordringshavermøte er berammet til tirsdag 27.februar 2024 kl. 10.00 i sal 628 | insolvens | f | t | 
+hendelsestype_dim | Fortsettelse av bobehandling | insolvens | f | t | 
+hendelsestype_dim | Første skiftesamling blir holdt | insolvens | f | t | 
+hendelsestype_dim | Første skiftesamling blir holdt 23.04.26 kl. 09.00. Skiftesamling avholdes som f | insolvens | f | t | 
+hendelsestype_dim | Gjelder konkurs i boet til: | insolvens | f | f | 
+hendelsestype_dim | Gjelder rekonstruksjon for: | insolvens | f | f | 
+hendelsestype_dim | Konkurs - avslutning av bobehandlingen | insolvens | f | t | 
+hendelsestype_dim | Konkurs - innstilling av bobehandlingen | insolvens | f | t | 
+hendelsestype_dim | Konkurs - åpning | insolvens | f | t | konkurs
+hendelsestype_dim | Konkursåpningsdatoen er endret | insolvens | f | t | 
+hendelsestype_dim | Kontaktinformasjon til ny bostyrer | insolvens | f | t | 
+hendelsestype_dim | Ny fordringsfrist | insolvens | f | t | 
+hendelsestype_dim | Ny fordringsfrist er satt | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 10.oktober 2024 kl. 1000 i rettssal 617, Oslo ting | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 11.12.24 kl. 09:00 Ski tinghus, Tinghusveien 3 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 12. februar 2024 kl. 09:50 i rettssal 628 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 12. februar 2024 kl. 10:00 i rettssal 628 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 12.08.24 kl. 13:30 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 13.08.26 kl 14:00 i sal 617 i Oslo tinghus | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 16.09.22 kl. 13.00 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 16.10.24 kl. 09.40 i rettsal 617 i Oslo tinghus. | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 17.08.26 kl. 08:30 i Agder tingrett, Farsund tingh | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 21.03.23 kl. 09:00 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 22.07.26 kl. 13:15 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 25. august 2026 kl. 14.30. | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 27.06.24 kl. 10:15 i Hordaland tingretts lokaler | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 31.oktober 2024 kl. 10.00 i Oslo tingrett, rettssa | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 8. desember 2025 kl. 15.00 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til 8. desember 2025 kl. 15.15. | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til fredag 7. august 2026 kl. 09:10 i sal 619 i Oslo t | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til onsdag 9.10.24 kl. 10.00 | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til tirsdag | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til tirsdag 3. mars 2026 kl. 09.00. | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til torsdag | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til torsdag 15. januar 2026 kl. 14.00 i rettssal 626. | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til torsdag 22. mai 2025 kl. 1330. | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamling berammet til torsdag 9. mars 2023 kl. 08.30, Telemark tingrett | insolvens | f | t | 
+hendelsestype_dim | Ny skiftesamlingtidspunkt berammet til kl. 1000. | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling avholdes 23.04.26 kl. 1330 som fjernmøte via videolink. Skyldneren | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling avholdes som fjernmøte via videolink. Skyldneren plikter å møte me | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling berammet til mandag 23. februar 2026 kl. 14.00 i rettssal 617. | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling blir avholdt | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling blir holdt | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling etter konkursloven § 78 ledd nr. 3 ble berammet til tirsdag 10. ju | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling omberammes til 23. januar 2026 kl. 13.00 i rettssal 617. | insolvens | f | t | 
+hendelsestype_dim | Skiftesamling omberammes til fredag 23.januar 2026 kl. 13.00 i rettssal 617. | insolvens | f | t | 
+hendelsestype_dim | Skiftesamlingen 23.05.23 kl. 08.30 vil bli avholdt som telefonmøte | insolvens | f | t | 
+hendelsestype_dim | Skiftesamlingen avholdes på videolink | insolvens | f | t | 
+hendelsestype_dim | Skiftesamlingen avholds på videolink | insolvens | f | t | 
+hendelsestype_dim | Skiftesamlingen vil avholdes på videolink | insolvens | f | t | 
+hendelsestype_dim | Tvangsavvikling av aksjeselskap | insolvens | f | t | tvangsavvikling
+hendelsestype_dim | Tvangsoppløsning av aksjeselskap | insolvens | f | t | tvangsopplosning
+hendelsestype_dim | Endring av kapital | kapital | f | f | 
+hendelsestype_dim | Endring av kapital gjelder aksjesplitt | kapital | f | f | 
+hendelsestype_dim | Endring av kapital gjelder aksjsplitt. Kunngjort ved feil | kapital | f | f | 
+hendelsestype_dim | Frittstående tegningsretter | kapital | f | f | 
+hendelsestype_dim | Fullmakt avtalepant i egne aksjer | kapital | f | f | 
+hendelsestype_dim | Fullmakt erverv av aksjer i morselskapet | kapital | f | f | 
+hendelsestype_dim | Fullmakt erverv av egne aksjer | kapital | f | f | 
+hendelsestype_dim | Fullmakt erverv av egne aksjer Fullmakten er allerede registrert. Se korrekt kun | kapital | f | f | 
+hendelsestype_dim | Fullmakt kapitalforhøyelse | kapital | f | f | 
+hendelsestype_dim | Fullmakt konvertibelt lån | kapital | f | f | 
+hendelsestype_dim | Fullmakt utdeling av utbytte | kapital | f | f | 
+hendelsestype_dim | Fullmakt utdeling av utbytte Denne fullmakten skulle ikke vært registrert da de | kapital | f | f | 
+hendelsestype_dim | Fullmakten er ugyldig og slettet i Foretaksregisteret | kapital | f | f | 
+hendelsestype_dim | Konvertibelt lån | kapital | f | f | 
+hendelsestype_dim | Nedsettelse av overkursfond | kapital | f | f | 
+hendelsestype_dim | Tegningsrettsaksjer | kapital | f | f | 
+hendelsestype_dim | Utdeling av konsernbidrag | kapital | f | f | 
+hendelsestype_dim | Utdeling av utbytte | kapital | f | f | 
+hendelsestype_dim | Korrigering av kreditorvarsel | kreditorvarsel | f | f | 
+hendelsestype_dim | Kreditorvarsel | kreditorvarsel | f | f | 
+hendelsestype_dim | Retting av Kreditorvarsel | kreditorvarsel | f | f | 
+hendelsestype_dim | Retting av kreditorvarsel | kreditorvarsel | f | f | 
+hendelsestype_dim | Delvis omgjøring av beslutning om fisjon | omorganisering | f | f | 
+hendelsestype_dim | Delvis omgjøring av beslutning om fusjon | omorganisering | f | f | 
+hendelsestype_dim | Fisjon | omorganisering | f | f | 
+hendelsestype_dim | Fisjonsplan | omorganisering | f | f | 
+hendelsestype_dim | Fusjonsplan | omorganisering | f | f | 
+hendelsestype_dim | Fusjonsplan avbrutt | omorganisering | f | f | 
+hendelsestype_dim | Gjennomføring av fisjon | omorganisering | f | f | 
+hendelsestype_dim | Gjennomføring av fusjon | omorganisering | f | f | 
+hendelsestype_dim | Omdanningsplan | omorganisering | f | f | 
+hendelsestype_dim | Omgjøring av beslutning om fisjon | omorganisering | f | f | 
+hendelsestype_dim | Omgjøring av beslutning om fusjon | omorganisering | f | f | 
+hendelsestype_dim | Omgjøring av beslutning om oppløsning | omorganisering | f | f | 
+hendelsestype_dim | Godkjent mellombalanse | regnskap | f | f | 
+hendelsestype_dim | Godkjent årsregnskap | regnskap | f | f | 
+hendelsestype_dim | Godkjent årsregnskap er derfor annulert | regnskap | f | f | 
+hendelsestype_dim | Godkjent årsregnskap er derfor annullert | regnskap | f | f | 
+hendelsestype_dim | Godkjent årsregnskap med bærekraftsrapportering | regnskap | f | f | 
+hendelsestype_dim | Revisjon av årsregnskap | regnskap | f | f | 
+hendelsestype_dim | Revisjon av årsregnskap Dette er en kunngjøring av registreringsvedtak den 24.12 | regnskap | f | f | 
+hendelsestype_dim | Revisjon av årsregnskap Registrert ved en inkurie. Se kunngjøring av | regnskap | f | f | 
+hendelsestype_dim | Rettelse | rettelse | f | f | 
+hendelsestype_dim | Rettelse Gjelder registreringsvedtak av | rettelse | f | f | 
+hendelsestype_dim | Rettelse av foretaksnavn | rettelse | f | f | 
+hendelsestype_dim | Rettelse fra Foretaksregisteret | rettelse | f | f | 
+hendelsestype_dim | Nyregistrering | stiftelse | f | f | 
+hendelsestype_dim | Reinnføring i Foretaksregisteret | stiftelse | f | f | 
+hendelsestype_dim | Endring av daglig leder | styre_ledelse | f | f | 
+hendelsestype_dim | Endring av revisor | styre_ledelse | f | f | 
+hendelsestype_dim | Endring av signatur | styre_ledelse | f | f | 
+hendelsestype_dim | Endring av styre | styre_ledelse | f | f | 
+hendelsestype_dim | Endring av styre - ugyldig. Registrert ved en feil. | styre_ledelse | f | f | 

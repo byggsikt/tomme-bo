@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 712" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="fig2-tittel fig2-desc" width="1200" height="712">
+  <title id="fig2-tittel">Fossefallet: hva som skjer med 5 165 bo</title>
+  <desc id="fig2-desc">Fossefallsdiagram. Et bånd øverst rommer hele kohorten på 5 165 konkursbo, og deles i tre strømmer ned til en søyle med tre gjensidig utelukkende utfall per 24.08.2026: innstilt etter konkursloven § 135, 3 897 bo eller 75,5 prosent, i varm rust; ordinær avslutning, 917 bo eller 17,8 prosent, i kjølig blått; fortsatt uavgjort, 351 bo eller 6,8 prosent, i dempet grønngrått. Hvert felt er merket direkte med navn og tall, slik at figuren kan leses uten farge. Et smalt messingmerke i høyre kant av innstillingsfeltet markerer de seks boene som bærer både en innstillings- og en avslutningskunngjøring; de er talt som innstilt og utgjør ingen fjerde kategori. Under står byggsporet som delmengde i nøyaktig samme skala: 1 280 bo, hvorav 911 innstilt, 258 ordinært avsluttet og 111 fortsatt uavgjort. Figuren teller bo, ikke kroner.</desc>
+  <g font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">
+  <rect x="0.00" y="0.00" width="1200.00" height="712.00" fill="#f5f0e6"/>
+  <text x="76.00" y="46.00" font-size="11" fill="#625e55" font-weight="500" letter-spacing="0.14em" style="letter-spacing:0.14em;font-variant-numeric:tabular-nums">FIGUR 2</text>
+  <text x="76.00" y="78.00" font-size="21" fill="#171815" font-weight="600" style="font-variant-numeric:tabular-nums">Fossefallet: hva som skjer med 5&#160;165 bo</text>
+  <text x="76.00" y="106.00" font-size="14.5" fill="#625e55" style="font-variant-numeric:tabular-nums">Alle 5&#160;165 konkursbo i kohorten fordelt på tre gjensidig utelukkende utfall, slik de står 24.08.2026. Byggsporet ligger inne som</text>
+  <text x="76.00" y="126.00" font-size="14.5" fill="#625e55" style="font-variant-numeric:tabular-nums">delmengde i nøyaktig samme skala. Figuren viser den observerte as-of-fordelingen, ikke fasthorisont-estimatet.</text>
+  <rect x="76.00" y="168.00" width="1068.00" height="28.00" fill="#e9e1d4"/>
+  <text x="92.00" y="186.50" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums"><tspan font-size="13" font-weight="600" fill="#171815">5&#160;165 bo</tspan><tspan dx="7">· konkursbo etter aksje- og allmennaksjeselskaper åpnet 01.09.2023–31.12.2024</tspan></text>
+  <text x="1128.00" y="186.50" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">hvert bo teller étt utfall — det første etter åpningen</text>
+  <path d="M 76.00 196.00 L 881.81 196.00 L 815.41 244.00 L 76.00 244.00 Z" fill="#9a4d35" fill-opacity="0.13"/>
+  <path d="M 881.81 196.00 L 1071.42 196.00 L 1033.40 244.00 L 859.41 244.00 Z" fill="#2e6f91" fill-opacity="0.13"/>
+  <path d="M 1071.42 196.00 L 1144.00 196.00 L 1144.00 244.00 L 1077.40 244.00 Z" fill="#8c9a8e" fill-opacity="0.13"/>
+  <line x1="881.81" y1="196.00" x2="815.41" y2="244.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="881.81" y1="196.00" x2="859.41" y2="244.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="1071.42" y1="196.00" x2="1033.40" y2="244.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="1071.42" y1="196.00" x2="1077.40" y2="244.00" stroke="#d8cfbe" stroke-width="1"/>
+  <rect x="76.00" y="244.00" width="739.41" height="92.00" fill="#9a4d35"/>
+  <rect x="859.41" y="244.00" width="173.99" height="92.00" fill="#2e6f91"/>
+  <rect x="1077.40" y="244.00" width="66.60" height="92.00" fill="#8c9a8e"/>
+  <text x="100.00" y="288.00" font-size="15" fill="#f5f0e6" font-weight="600" style="font-variant-numeric:tabular-nums">Innstilt etter konkursloven § 135</text>
+  <text x="100.00" y="311.00" font-size="13" fill="#f5f0e6" fill-opacity="0.86" style="font-variant-numeric:tabular-nums">3&#160;897 bo · 75,5&#160;% av kohorten</text>
+  <rect x="812.21" y="244.00" width="3.20" height="92.00" fill="#b9782f"/>
+  <line x1="859.41" y1="336.00" x2="859.41" y2="348.00" stroke="#d8cfbe" stroke-width="1"/>
+  <text x="859.41" y="362.00" font-size="13" fill="#2e6f91" font-weight="600" style="font-variant-numeric:tabular-nums">Ordinær avslutning</text>
+  <text x="859.41" y="381.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">917 bo · 17,8&#160;%</text>
+  <line x1="1110.70" y1="336.00" x2="1110.70" y2="394.00" stroke="#d8cfbe" stroke-width="1"/>
+  <text x="1144.00" y="408.00" font-size="13" fill="#8c9a8e" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">Fortsatt uavgjort</text>
+  <text x="1144.00" y="427.00" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">351 bo · 6,8&#160;%</text>
+  <rect x="76.00" y="336.00" width="1.60" height="92.00" fill="#b9782f"/>
+  <text x="94.00" y="360.00" font-size="12.5" fill="#171815" style="font-variant-numeric:tabular-nums">Konkursloven § 135: bobehandlingen innstilles</text>
+  <text x="94.00" y="378.00" font-size="12.5" fill="#171815" style="font-variant-numeric:tabular-nums">når boets midler ikke dekker omkostningene ved</text>
+  <text x="94.00" y="396.00" font-size="12.5" fill="#171815" style="font-variant-numeric:tabular-nums">fortsatt behandling. Boet lukkes uten at det skjer</text>
+  <text x="94.00" y="414.00" font-size="12.5" fill="#171815" style="font-variant-numeric:tabular-nums">noen utbetaling fra boet til kreditorene.</text>
+  <rect x="813.81" y="336.00" width="1.60" height="92.00" fill="#b9782f"/>
+  <text x="801.41" y="360.00" font-size="12.5" fill="#171815" text-anchor="end" style="font-variant-numeric:tabular-nums">Seks bo bærer både en innstillings- og en</text>
+  <text x="801.41" y="378.00" font-size="12.5" fill="#171815" text-anchor="end" style="font-variant-numeric:tabular-nums">avslutningskunngjøring. De er talt som innstilt,</text>
+  <text x="801.41" y="396.00" font-size="12.5" fill="#171815" text-anchor="end" style="font-variant-numeric:tabular-nums">aldri som en fjerde kategori — summen ville da</text>
+  <text x="801.41" y="414.00" font-size="12.5" fill="#171815" text-anchor="end" style="font-variant-numeric:tabular-nums">overstige kohorten. Ingen av de seks er byggbo.</text>
+  <text x="76.00" y="488.00" font-size="11" fill="#625e55" font-weight="500" letter-spacing="0.14em" style="letter-spacing:0.14em;font-variant-numeric:tabular-nums">HERAV UTFØRENDE BYGG OG ANLEGG — 1&#160;280 AV 5&#160;165 BO, SAMME SKALA</text>
+  <rect x="76.00" y="510.00" width="172.85" height="40.00" fill="#9a4d35"/>
+  <rect x="266.85" y="510.00" width="48.95" height="40.00" fill="#2e6f91"/>
+  <rect x="333.80" y="510.00" width="21.06" height="40.00" fill="#8c9a8e"/>
+  <text x="396.87" y="520.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums"><tspan font-size="13" font-weight="600" fill="#9a4d35">911 bo · 71,2&#160;%</tspan><tspan dx="11" fill="#625e55">innstilt etter konkursloven § 135</tspan></text>
+  <text x="396.87" y="539.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums"><tspan font-size="13" font-weight="600" fill="#2e6f91">258 bo · 20,2&#160;%</tspan><tspan dx="11" fill="#625e55">ordinært avsluttet</tspan></text>
+  <text x="396.87" y="558.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums"><tspan font-size="13" font-weight="600" fill="#8c9a8e">111 bo · 8,7&#160;%</tspan><tspan dx="11" fill="#625e55">fortsatt uavgjort</tspan></text>
+  <text x="396.87" y="581.00" font-size="11" fill="#625e55" style="font-variant-numeric:tabular-nums">andelene er regnet av byggsporets 1&#160;280 bo</text>
+  <text x="1144.00" y="522.00" font-size="12.5" fill="#171815" text-anchor="end" style="font-variant-numeric:tabular-nums">Byggsporet er en delmengde av de 5&#160;165 boene i</text>
+  <text x="1144.00" y="541.00" font-size="12.5" fill="#171815" text-anchor="end" style="font-variant-numeric:tabular-nums">søylen over, ikke en parallell populasjon.</text>
+  <text x="76.00" y="628.00" font-size="12.5" fill="#171815" style="font-variant-numeric:tabular-nums">Figuren teller bo, ikke kroner: materialet inneholder ingen opplysninger om hvor store krav som gikk tapt.</text>
+  <line x1="76.00" y1="656.00" x2="1144.00" y2="656.00" stroke="#d8cfbe" stroke-width="1"/>
+  <text x="76.00" y="678.00" font-size="11" fill="#625e55" style="font-variant-numeric:tabular-nums">Byggsikt · offentlig tilgjengelige registerkunngjøringer · utfall observert til 24.08.2026</text>
+  </g>
+</svg>

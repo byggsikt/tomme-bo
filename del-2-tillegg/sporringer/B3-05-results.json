@@ -1,0 +1,977 @@
+{
+ "headline": {
+  "cif730_all": [
+   0.7487894667008642,
+   0.7374220311352057,
+   0.7605118295722083
+  ],
+  "cif730_bygg": [
+   0.7061778377683112,
+   0.6810706003482688,
+   0.7329586740155782
+  ],
+  "cif730_ovrig": [
+   0.7628184373119815,
+   0.7504725405905551,
+   0.7772010162472521
+  ],
+  "cif730_ovrig_ekskl_uklass": [
+   0.756104121997603,
+   0.7421816761490674,
+   0.767828533421598
+  ]
+ },
+ "table1": {
+  "N": {
+   "Bygg utfoerende": "1280",
+   "Oevrige (inkl. uklass.)": "3885",
+   "Oevrige ekskl. uklass.": "3730",
+   "Uklassifiserbar (155)": "155"
+  },
+  "Har regnskap foer aapningsaaret": {
+   "Bygg utfoerende": "1176/1280 = 91.9 % [90.2-93.2]",
+   "Oevrige (inkl. uklass.)": "3657/3885 = 94.1 % [93.3-94.8]",
+   "Oevrige ekskl. uklass.": "3514/3730 = 94.2 % [93.4-94.9]",
+   "Uklassifiserbar (155)": "143/155 = 92.3 % [87.0-95.5]"
+  },
+  "Regnskap: sum eiendeler = 0": {
+   "Bygg utfoerende": "10/1176 = 0.9 % [0.5-1.6]",
+   "Oevrige (inkl. uklass.)": "99/3657 = 2.7 % [2.2-3.3]",
+   "Oevrige ekskl. uklass.": "89/3514 = 2.5 % [2.1-3.1]",
+   "Uklassifiserbar (155)": "10/143 = 7.0 % [3.8-12.4]"
+  },
+  "Sum eiendeler, median (IQR)": {
+   "Bygg utfoerende": "0.93 MNOK (IQR 0.37 MNOK-2.85 MNOK; n=1176)",
+   "Oevrige (inkl. uklass.)": "0.79 MNOK (IQR 0.21 MNOK-2.87 MNOK; n=3657)",
+   "Oevrige ekskl. uklass.": "0.82 MNOK (IQR 0.22 MNOK-2.95 MNOK; n=3514)",
+   "Uklassifiserbar (155)": "0.17 MNOK (IQR 24 430 NOK-1.31 MNOK; n=143)"
+  },
+  "Sum eiendeler >= 5 MNOK (andel av alle)": {
+   "Bygg utfoerende": "183/1280 = 14.3 %",
+   "Oevrige (inkl. uklass.)": "623/3885 = 16.0 %",
+   "Oevrige ekskl. uklass.": "606/3730 = 16.2 %",
+   "Uklassifiserbar (155)": "17/155 = 11.0 %"
+  },
+  "Sum eiendeler >= 1 MNOK (andel av alle)": {
+   "Bygg utfoerende": "566/1280 = 44.2 %",
+   "Oevrige (inkl. uklass.)": "1618/3885 = 41.6 %",
+   "Oevrige ekskl. uklass.": "1577/3730 = 42.3 %",
+   "Uklassifiserbar (155)": "41/155 = 26.5 %"
+  },
+  "Omloepsmidler, median": {
+   "Bygg utfoerende": "0.66 MNOK (IQR 0.22 MNOK-2.11 MNOK; n=1176)",
+   "Oevrige (inkl. uklass.)": "0.42 MNOK (IQR 94 650 NOK-1.57 MNOK; n=3657)",
+   "Oevrige ekskl. uklass.": "0.44 MNOK (IQR 0.10 MNOK-1.62 MNOK; n=3514)",
+   "Uklassifiserbar (155)": "67 396 NOK (IQR 2 059 NOK-0.65 MNOK; n=143)"
+  },
+  "Anleggsmidler (sum eiendeler - omloepsmidler), median": {
+   "Bygg utfoerende": "0.17 MNOK (IQR 31 020 NOK-0.57 MNOK; n=1176)",
+   "Oevrige (inkl. uklass.)": "97 594 NOK (IQR 0 NOK-0.62 MNOK; n=3657)",
+   "Oevrige ekskl. uklass.": "0.10 MNOK (IQR 0 NOK-0.65 MNOK; n=3514)",
+   "Uklassifiserbar (155)": "2 000 NOK (IQR 0 NOK-0.10 MNOK; n=143)"
+  },
+  "Omloepsmiddelandel (OM/sum eiendeler), median": {
+   "Bygg utfoerende": "0.807 (IQR 0.611-0.957; n=1157)",
+   "Oevrige (inkl. uklass.)": "0.847 (IQR 0.430-1.000; n=3537)",
+   "Oevrige ekskl. uklass.": "0.844 (IQR 0.433-1.000; n=3406)",
+   "Uklassifiserbar (155)": "0.943 (IQR 0.314-1.000; n=131)"
+  },
+  "Anleggsmiddelandel > 25 % (blant sum eiendeler > 0)": {
+   "Bygg utfoerende": "485/1157 = 41.9 %",
+   "Oevrige (inkl. uklass.)": "1520/3537 = 43.0 %",
+   "Oevrige ekskl. uklass.": "1472/3406 = 43.2 %",
+   "Uklassifiserbar (155)": "48/131 = 36.6 %"
+  },
+  "Egenkapitalandel (EK/sum eiendeler), median": {
+   "Bygg utfoerende": "-0.064 (IQR -0.636-0.174; n=1157)",
+   "Oevrige (inkl. uklass.)": "-0.116 (IQR -0.991-0.203; n=3537)",
+   "Oevrige ekskl. uklass.": "-0.118 (IQR -0.971-0.197; n=3406)",
+   "Uklassifiserbar (155)": "-0.081 (IQR -1.492-0.553; n=131)"
+  },
+  "Negativ egenkapital": {
+   "Bygg utfoerende": "638/1176 = 54.3 % [51.4-57.1]",
+   "Oevrige (inkl. uklass.)": "2118/3657 = 57.9 % [56.3-59.5]",
+   "Oevrige ekskl. uklass.": "2043/3514 = 58.1 % [56.5-59.8]",
+   "Uklassifiserbar (155)": "75/143 = 52.4 % [44.3-60.5]"
+  },
+  "Driftsinntekter, median": {
+   "Bygg utfoerende": "3.67 MNOK (IQR 1.47 MNOK-9.39 MNOK; n=1131)",
+   "Oevrige (inkl. uklass.)": "2.15 MNOK (IQR 0.56 MNOK-5.75 MNOK; n=3227)",
+   "Oevrige ekskl. uklass.": "2.21 MNOK (IQR 0.61 MNOK-5.90 MNOK; n=3132)",
+   "Uklassifiserbar (155)": "0.35 MNOK (IQR 0 NOK-2.44 MNOK; n=95)"
+  },
+  "Driftsinntekter >= 5 MNOK (andel av alle)": {
+   "Bygg utfoerende": "468/1280 = 36.6 %",
+   "Oevrige (inkl. uklass.)": "931/3885 = 24.0 %",
+   "Oevrige ekskl. uklass.": "924/3730 = 24.8 %",
+   "Uklassifiserbar (155)": "7/155 = 4.5 %"
+  },
+  "Sum gjeld, median": {
+   "Bygg utfoerende": "1.22 MNOK (IQR 0.46 MNOK-3.25 MNOK; n=1176)",
+   "Oevrige (inkl. uklass.)": "1.14 MNOK (IQR 0.35 MNOK-3.50 MNOK; n=3657)",
+   "Oevrige ekskl. uklass.": "1.16 MNOK (IQR 0.37 MNOK-3.54 MNOK; n=3514)",
+   "Uklassifiserbar (155)": "0.43 MNOK (IQR 27 146 NOK-1.79 MNOK; n=143)"
+  },
+  "Regnskapsaar = aapningsaar - 1 (blant dem med regnskap)": {
+   "Bygg utfoerende": "478/1176 = 40.6 %",
+   "Oevrige (inkl. uklass.)": "1642/3657 = 44.9 %",
+   "Oevrige ekskl. uklass.": "1571/3514 = 44.7 %",
+   "Uklassifiserbar (155)": "71/143 = 49.7 %"
+  },
+  "Oppbud (felt Aapnet etter)": {
+   "Bygg utfoerende": "738/1280 = 57.7 % [54.9-60.3]",
+   "Oevrige (inkl. uklass.)": "2996/3885 = 77.1 % [75.8-78.4]",
+   "Oevrige ekskl. uklass.": "2879/3730 = 77.2 % [75.8-78.5]",
+   "Uklassifiserbar (155)": "117/155 = 75.5 % [68.1-81.6]"
+  },
+  "Alder ved aapning, median aar": {
+   "Bygg utfoerende": "4.465 (IQR 2.527-7.773; n=1237)",
+   "Oevrige (inkl. uklass.)": "4.950 (IQR 2.834-8.702; n=3670)",
+   "Oevrige ekskl. uklass.": "4.950 (IQR 2.836-8.689; n=3522)",
+   "Uklassifiserbar (155)": "4.956 (IQR 2.832-9.036; n=148)"
+  },
+  "Alder < 3 aar (blant kjente)": {
+   "Bygg utfoerende": "397/1237 = 32.1 %",
+   "Oevrige (inkl. uklass.)": "1015/3670 = 27.7 %",
+   "Oevrige ekskl. uklass.": "969/3522 = 27.5 %",
+   "Uklassifiserbar (155)": "46/148 = 31.1 %"
+  },
+  "Varsel om tvangsopploesning foer aapning": {
+   "Bygg utfoerende": "231/1280 = 18.0 % [16.0-20.2]",
+   "Oevrige (inkl. uklass.)": "591/3885 = 15.2 % [14.1-16.4]",
+   "Oevrige ekskl. uklass.": "565/3730 = 15.1 % [14.0-16.3]",
+   "Uklassifiserbar (155)": "26/155 = 16.8 % [11.7-23.4]"
+  },
+  "Aksjekapital (siste), median": {
+   "Bygg utfoerende": "30 000 NOK (IQR 30 000 NOK-60 000 NOK; n=1275)",
+   "Oevrige (inkl. uklass.)": "30 000 NOK (IQR 30 000 NOK-0.10 MNOK; n=3842)",
+   "Oevrige ekskl. uklass.": "30 000 NOK (IQR 30 000 NOK-0.10 MNOK; n=3690)",
+   "Uklassifiserbar (155)": "30 000 NOK (IQR 30 000 NOK-0.12 MNOK; n=152)"
+  },
+  "Loennskostnad / ansatte tilgjengelig": {
+   "Bygg utfoerende": "0 av 1280 (NULL paa alle rader)",
+   "Oevrige (inkl. uklass.)": "0 av 3885 (NULL paa alle rader)",
+   "Oevrige ekskl. uklass.": "0 av 3730 (NULL paa alle rader)",
+   "Uklassifiserbar (155)": "0 av 155 (NULL paa alle rader)"
+  }
+ },
+ "strata": {
+  "size4": {
+   "rows": [
+    {
+     "stratum": "0 ingen regnskap",
+     "kb": 88,
+     "nb": 104,
+     "ko": 205,
+     "no": 228,
+     "kb7": 68,
+     "nb7": 81,
+     "ko7": 153,
+     "no7": 172,
+     "cif_b": 0.8392857142857134,
+     "cif_o": 0.8939393939393951
+    },
+    {
+     "stratum": "1 <1 MNOK",
+     "kb": 508,
+     "nb": 610,
+     "ko": 1756,
+     "no": 2039,
+     "kb7": 359,
+     "nb7": 430,
+     "ko7": 1284,
+     "no7": 1499,
+     "cif_b": 0.8372332008475503,
+     "cif_o": 0.8585495673605067
+    },
+    {
+     "stratum": "2 1-5 MNOK",
+     "kb": 236,
+     "nb": 383,
+     "ko": 681,
+     "no": 995,
+     "kb7": 174,
+     "nb7": 287,
+     "ko7": 494,
+     "no7": 719,
+     "cif_b": 0.6062107109340973,
+     "cif_o": 0.6835958463377905
+    },
+    {
+     "stratum": "3 >=5 MNOK",
+     "kb": 79,
+     "nb": 183,
+     "ko": 344,
+     "no": 623,
+     "kb7": 53,
+     "nb7": 136,
+     "ko7": 227,
+     "no7": 448,
+     "cif_b": 0.40648586974468776,
+     "cif_o": 0.5281709741427515
+    }
+   ],
+   "mh_or_730": 0.728570836242156,
+   "stdz_bygg_730": 0.7069708958289065,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  },
+  "size7": {
+   "rows": [
+    {
+     "stratum": "0 ingen regnskap",
+     "kb": 88,
+     "nb": 104,
+     "ko": 205,
+     "no": 228,
+     "kb7": 68,
+     "nb7": 81,
+     "ko7": 153,
+     "no7": 172,
+     "cif_b": 0.8392857142857134,
+     "cif_o": 0.8939393939393951
+    },
+    {
+     "stratum": "1 =0",
+     "kb": 10,
+     "nb": 10,
+     "ko": 94,
+     "no": 99,
+     "kb7": 8,
+     "nb7": 8,
+     "ko7": 67,
+     "no7": 71,
+     "cif_b": 0.9999999999999999,
+     "cif_o": 0.9494949494949481
+    },
+    {
+     "stratum": "2 <0,5 MNOK",
+     "kb": 320,
+     "nb": 367,
+     "ko": 1223,
+     "no": 1366,
+     "kb7": 230,
+     "nb7": 267,
+     "ko7": 909,
+     "no7": 1016,
+     "cif_b": 0.8727520435967333,
+     "cif_o": 0.8932218313603033
+    },
+    {
+     "stratum": "3 0,5-1 MNOK",
+     "kb": 178,
+     "nb": 233,
+     "ko": 439,
+     "no": 574,
+     "kb7": 121,
+     "nb7": 155,
+     "ko7": 308,
+     "no7": 412,
+     "cif_b": 0.7689377682403425,
+     "cif_o": 0.7604020680087735
+    },
+    {
+     "stratum": "4 1-5 MNOK",
+     "kb": 236,
+     "nb": 383,
+     "ko": 681,
+     "no": 995,
+     "kb7": 174,
+     "nb7": 287,
+     "ko7": 494,
+     "no7": 719,
+     "cif_b": 0.6062107109340973,
+     "cif_o": 0.6835958463377905
+    },
+    {
+     "stratum": "5 5-20 MNOK",
+     "kb": 60,
+     "nb": 127,
+     "ko": 245,
+     "no": 420,
+     "kb7": 43,
+     "nb7": 99,
+     "ko7": 169,
+     "no7": 304,
+     "cif_b": 0.4595252516512358,
+     "cif_o": 0.5716499249455179
+    },
+    {
+     "stratum": "6 >=20 MNOK",
+     "kb": 19,
+     "nb": 56,
+     "ko": 99,
+     "no": 203,
+     "kb7": 10,
+     "nb7": 37,
+     "ko7": 58,
+     "no7": 144,
+     "cif_b": 0.2862394957983192,
+     "cif_o": 0.43809914190136384
+    }
+   ],
+   "mh_or_730": 0.7488031309067346,
+   "stdz_bygg_730": 0.711450173119873,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  },
+  "oppbud": {
+   "rows": [
+    {
+     "stratum": "1",
+     "kb": 479,
+     "nb": 738,
+     "ko": 2293,
+     "no": 2996,
+     "kb7": 347,
+     "nb7": 550,
+     "ko7": 1653,
+     "no7": 2195,
+     "cif_b": 0.6389596515830805,
+     "cif_o": 0.758687243509986
+    },
+    {
+     "stratum": "0",
+     "kb": 432,
+     "nb": 542,
+     "ko": 693,
+     "no": 889,
+     "kb7": 307,
+     "nb7": 384,
+     "ko7": 505,
+     "no7": 643,
+     "cif_b": 0.7991480883245486,
+     "cif_o": 0.7769493961686937
+    }
+   ],
+   "mh_or_730": 0.6855896681204692,
+   "stdz_bygg_730": 0.6691016767836931,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  },
+  "has_acc": {
+   "rows": [
+    {
+     "stratum": "1",
+     "kb": 823,
+     "nb": 1176,
+     "ko": 2781,
+     "no": 3657,
+     "kb7": 586,
+     "nb7": 853,
+     "ko7": 2005,
+     "no7": 2666,
+     "cif_b": 0.6942705867197653,
+     "cif_o": 0.7546220302043495
+    },
+    {
+     "stratum": "0",
+     "kb": 88,
+     "nb": 104,
+     "ko": 205,
+     "no": 228,
+     "kb7": 68,
+     "nb7": 81,
+     "ko7": 153,
+     "no7": 172,
+     "cif_b": 0.8392857142857134,
+     "cif_o": 0.8939393939393951
+    }
+   ],
+   "mh_or_730": 0.7199225835870876,
+   "stdz_bygg_730": 0.6962306842468364,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  },
+  "gapcat": {
+   "rows": [
+    {
+     "stratum": "1 aar",
+     "kb": 409,
+     "nb": 582,
+     "ko": 1437,
+     "no": 1870,
+     "kb7": 240,
+     "nb7": 348,
+     "ko7": 847,
+     "no7": 1104,
+     "cif_b": 0.7003229807103258,
+     "cif_o": 0.7660473226032366
+    },
+    {
+     "stratum": "2+ aar",
+     "kb": 502,
+     "nb": 698,
+     "ko": 1549,
+     "no": 2015,
+     "kb7": 414,
+     "nb7": 586,
+     "ko7": 1311,
+     "no7": 1734,
+     "cif_b": 0.7104931621605451,
+     "cif_o": 0.7599034999580482
+    }
+   ],
+   "mh_or_730": 0.7363718374062362,
+   "stdz_bygg_730": 0.6999378713691016,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  },
+  "agecat": {
+   "rows": [
+    {
+     "stratum": "<3 aar",
+     "kb": 315,
+     "nb": 397,
+     "ko": 847,
+     "no": 1015,
+     "kb7": 236,
+     "nb7": 299,
+     "ko7": 632,
+     "no7": 758,
+     "cif_b": 0.7857362416224024,
+     "cif_o": 0.8306332014965472
+    },
+    {
+     "stratum": "3-10 aar",
+     "kb": 462,
+     "nb": 640,
+     "ko": 1503,
+     "no": 1943,
+     "kb7": 324,
+     "nb7": 465,
+     "ko7": 1066,
+     "no7": 1407,
+     "cif_b": 0.718746921278954,
+     "cif_o": 0.7678223532089211
+    },
+    {
+     "stratum": ">=10 aar",
+     "kb": 120,
+     "nb": 200,
+     "ko": 492,
+     "no": 712,
+     "kb7": 83,
+     "nb7": 141,
+     "ko7": 349,
+     "no7": 510,
+     "cif_b": 0.5934043392027869,
+     "cif_o": 0.6835742861950433
+    },
+    {
+     "stratum": "ukjent",
+     "kb": 14,
+     "nb": 43,
+     "ko": 144,
+     "no": 215,
+     "kb7": 11,
+     "nb7": 29,
+     "ko7": 111,
+     "no7": 163,
+     "cif_b": 0.30232558139534876,
+     "cif_o": 0.6588101882613506
+    }
+   ],
+   "mh_or_730": 0.6939507555731316,
+   "stdz_bygg_730": 0.6838228569080282,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  },
+  "tingrett": {
+   "rows": [
+    {
+     "stratum": "AGDER TINGRETT",
+     "kb": 44,
+     "nb": 63,
+     "ko": 191,
+     "no": 258,
+     "kb7": 34,
+     "nb7": 46,
+     "ko7": 130,
+     "no7": 174,
+     "cif_b": 0.7060552616108166,
+     "cif_o": 0.7469868338871054
+    },
+    {
+     "stratum": "BUSKERUD TINGRETT",
+     "kb": 59,
+     "nb": 75,
+     "ko": 121,
+     "no": 151,
+     "kb7": 40,
+     "nb7": 51,
+     "ko7": 79,
+     "no7": 102,
+     "cif_b": 0.7883333333333328,
+     "cif_o": 0.7901017304990821
+    },
+    {
+     "stratum": "FOLLO OG NORDRE ØSTFOLD TINGRETT",
+     "kb": 44,
+     "nb": 61,
+     "ko": 103,
+     "no": 126,
+     "kb7": 29,
+     "nb7": 37,
+     "ko7": 63,
+     "no7": 72,
+     "cif_b": 0.7213114754098364,
+     "cif_o": 0.8174603174603172
+    },
+    {
+     "stratum": "HAUGALAND OG SUNNHORDLAND TINGRETT",
+     "kb": 15,
+     "nb": 17,
+     "ko": 67,
+     "no": 80,
+     "kb7": 14,
+     "nb7": 16,
+     "ko7": 46,
+     "no7": 56,
+     "cif_b": 0.8823529411764707,
+     "cif_o": 0.8249999999999991
+    },
+    {
+     "stratum": "HELGELAND TINGRETT",
+     "kb": 8,
+     "nb": 12,
+     "ko": 48,
+     "no": 61,
+     "kb7": 7,
+     "nb7": 11,
+     "ko7": 38,
+     "no7": 48,
+     "cif_b": 0.6666666666666666,
+     "cif_o": 0.7868852459016399
+    },
+    {
+     "stratum": "HORDALAND TINGRETT",
+     "kb": 66,
+     "nb": 111,
+     "ko": 200,
+     "no": 287,
+     "kb7": 45,
+     "nb7": 78,
+     "ko7": 153,
+     "no7": 220,
+     "cif_b": 0.5675675675675682,
+     "cif_o": 0.6975100406555409
+    },
+    {
+     "stratum": "MIDTRE HÅLOGALAND TINGRETT",
+     "kb": 14,
+     "nb": 24,
+     "ko": 44,
+     "no": 54,
+     "kb7": 10,
+     "nb7": 18,
+     "ko7": 30,
+     "no7": 40,
+     "cif_b": 0.5833333333333334,
+     "cif_o": 0.8148148148148147
+    },
+    {
+     "stratum": "MØRE OG ROMSDAL TINGRETT",
+     "kb": 51,
+     "nb": 64,
+     "ko": 150,
+     "no": 181,
+     "kb7": 39,
+     "nb7": 48,
+     "ko7": 110,
+     "no7": 136,
+     "cif_b": 0.78125,
+     "cif_o": 0.813996316758747
+    },
+    {
+     "stratum": "NORD-TROMS OG SENJA TINGRETT",
+     "kb": 24,
+     "nb": 30,
+     "ko": 60,
+     "no": 76,
+     "kb7": 15,
+     "nb7": 19,
+     "ko7": 53,
+     "no7": 62,
+     "cif_b": 0.7999999999999999,
+     "cif_o": 0.7927631578947375
+    },
+    {
+     "stratum": "OSLO TINGRETT",
+     "kb": 140,
+     "nb": 178,
+     "ko": 568,
+     "no": 733,
+     "kb7": 104,
+     "nb7": 135,
+     "ko7": 413,
+     "no7": 550,
+     "cif_b": 0.7811329588014988,
+     "cif_o": 0.7625509360575058
+    },
+    {
+     "stratum": "RINGERIKE, ASKER OG BÆRUM TINGRETT",
+     "kb": 62,
+     "nb": 94,
+     "ko": 162,
+     "no": 216,
+     "kb7": 44,
+     "nb7": 66,
+     "ko7": 114,
+     "no7": 156,
+     "cif_b": 0.666469661150512,
+     "cif_o": 0.7491207442474515
+    },
+    {
+     "stratum": "ROMERIKE OG GLÅMDAL TINGRETT",
+     "kb": 101,
+     "nb": 127,
+     "ko": 176,
+     "no": 238,
+     "kb7": 78,
+     "nb7": 101,
+     "ko7": 122,
+     "no7": 172,
+     "cif_b": 0.7952755905511804,
+     "cif_o": 0.739495798319327
+    },
+    {
+     "stratum": "SALTEN OG LOFOTEN TINGRETT",
+     "kb": 17,
+     "nb": 22,
+     "ko": 55,
+     "no": 72,
+     "kb7": 10,
+     "nb7": 15,
+     "ko7": 39,
+     "no7": 54,
+     "cif_b": 0.7727272727272725,
+     "cif_o": 0.7348484848484843
+    },
+    {
+     "stratum": "SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI",
+     "kb": 5,
+     "nb": 8,
+     "ko": 13,
+     "no": 18,
+     "kb7": 2,
+     "nb7": 5,
+     "ko7": 7,
+     "no7": 11,
+     "cif_b": null,
+     "cif_o": 0.7222222222222223
+    },
+    {
+     "stratum": "SOGN OG FJORDANE TINGRETT",
+     "kb": 3,
+     "nb": 6,
+     "ko": 38,
+     "no": 45,
+     "kb7": 0,
+     "nb7": 2,
+     "ko7": 28,
+     "no7": 34,
+     "cif_b": null,
+     "cif_o": 0.8444444444444446
+    },
+    {
+     "stratum": "SØNDRE ØSTFOLD TINGRETT",
+     "kb": 32,
+     "nb": 54,
+     "ko": 135,
+     "no": 177,
+     "kb7": 20,
+     "nb7": 36,
+     "ko7": 101,
+     "no7": 128,
+     "cif_b": 0.6016803840877916,
+     "cif_o": 0.7642526964560845
+    },
+    {
+     "stratum": "SØR-ROGALAND TINGRETT",
+     "kb": 24,
+     "nb": 42,
+     "ko": 167,
+     "no": 225,
+     "kb7": 16,
+     "nb7": 27,
+     "ko7": 119,
+     "no7": 165,
+     "cif_b": 0.5634920634920637,
+     "cif_o": 0.7250505050505056
+    },
+    {
+     "stratum": "TELEMARK TINGRETT",
+     "kb": 26,
+     "nb": 46,
+     "ko": 96,
+     "no": 123,
+     "kb7": 20,
+     "nb7": 37,
+     "ko7": 71,
+     "no7": 88,
+     "cif_b": 0.5804347826086957,
+     "cif_o": 0.7892201144233675
+    },
+    {
+     "stratum": "TRØNDELAG TINGRETT",
+     "kb": 66,
+     "nb": 86,
+     "ko": 263,
+     "no": 327,
+     "kb7": 39,
+     "nb7": 60,
+     "ko7": 177,
+     "no7": 232,
+     "cif_b": 0.7325581395348844,
+     "cif_o": 0.8012232415902159
+    },
+    {
+     "stratum": "VESTFOLD TINGRETT",
+     "kb": 49,
+     "nb": 72,
+     "ko": 151,
+     "no": 201,
+     "kb7": 38,
+     "nb7": 49,
+     "ko7": 125,
+     "no7": 152,
+     "cif_b": 0.7024305555555551,
+     "cif_o": 0.757711442786069
+    },
+    {
+     "stratum": "VESTRE FINNMARK TINGRETT",
+     "kb": 9,
+     "nb": 14,
+     "ko": 24,
+     "no": 34,
+     "kb7": 9,
+     "nb7": 14,
+     "ko7": 19,
+     "no7": 25,
+     "cif_b": 0.6428571428571428,
+     "cif_o": 0.6764705882352942
+    },
+    {
+     "stratum": "VESTRE INNLANDET TINGRETT",
+     "kb": 22,
+     "nb": 33,
+     "ko": 76,
+     "no": 97,
+     "kb7": 17,
+     "nb7": 29,
+     "ko7": 60,
+     "no7": 76,
+     "cif_b": 0.6363636363636365,
+     "cif_o": 0.7621502209131068
+    },
+    {
+     "stratum": "ØSTRE INNLANDET TINGRETT",
+     "kb": 30,
+     "nb": 41,
+     "ko": 78,
+     "no": 105,
+     "kb7": 24,
+     "nb7": 34,
+     "ko7": 61,
+     "no7": 85,
+     "cif_b": 0.7073170731707319,
+     "cif_o": 0.7351319475158483
+    }
+   ],
+   "mh_or_730": 0.7314832033331852,
+   "stdz_bygg_730": 0.6905820286309575,
+   "crude_b": 0.7002141327623126,
+   "crude_o": 0.7603946441155743
+  }
+ },
+ "models": {
+  "M0 bygg alene": {
+   "label": "M0 bygg alene",
+   "n": 3772,
+   "k": 2,
+   "or_bygg": 0.7359989408182179,
+   "ci": [
+    0.6244305797633775,
+    0.8675014620373159
+   ],
+   "p": 0.000257474212508102,
+   "rd": -0.06018051135326197,
+   "rd_ci": [
+    -0.08904098740933736,
+    -0.025780978830354052
+   ],
+   "ll": -2133.050319343547
+  },
+  "M1 + balansestoerrelse (7 baand)": {
+   "label": "M1 + balansestoerrelse (7 baand)",
+   "n": 3772,
+   "k": 8,
+   "or_bygg": 0.7499989590250236,
+   "ci": [
+    0.6293672092063954,
+    0.893752375894996
+   ],
+   "p": 0.001302191459230162,
+   "rd": -0.0493479806626862,
+   "rd_ci": [
+    -0.07837492698290478,
+    -0.015709506542099405
+   ],
+   "ll": -1912.7456103904626
+  },
+  "M1b + log10(sum eiendeler) + kvadrat + ingen-regnskap": {
+   "label": "M1b + log10(sum eiendeler) + kvadrat + ingen-regnskap",
+   "n": 3772,
+   "k": 5,
+   "or_bygg": 0.739249161247311,
+   "ci": [
+    0.6201497306060786,
+    0.881221575103747
+   ],
+   "p": 0.0007496026977800163,
+   "rd": -0.05124299148587219,
+   "rd_ci": [
+    -0.07998713138069588,
+    -0.01935731362438117
+   ],
+   "ll": -1892.4935020048515
+  },
+  "M2 + oppbud": {
+   "label": "M2 + oppbud",
+   "n": 3772,
+   "k": 3,
+   "or_bygg": 0.6824313772263106,
+   "ci": [
+    0.5768609181639569,
+    0.8073221290589028
+   ],
+   "p": 8.344738122501028e-06,
+   "rd": -0.07517927978002892,
+   "rd_ci": [
+    -0.10948481756493955,
+    -0.042974884539563836
+   ],
+   "ll": -2122.0757980410663
+  },
+  "M3 + regnskap levert (ja/nei)": {
+   "label": "M3 + regnskap levert (ja/nei)",
+   "n": 3772,
+   "k": 3,
+   "or_bygg": 0.7199135530686378,
+   "ci": [
+    0.6102395469444514,
+    0.8492984869416988
+   ],
+   "p": 9.737004997179e-05,
+   "rd": -0.06421936026314534,
+   "rd_ci": [
+    -0.10112881446947913,
+    -0.03214007889106742
+   ],
+   "ll": -2118.7277373293923
+  },
+  "M4 stoerrelse + oppbud + regnskapsavstand + alder": {
+   "label": "M4 stoerrelse + oppbud + regnskapsavstand + alder",
+   "n": 3772,
+   "k": 13,
+   "or_bygg": 0.7166562283100338,
+   "ci": [
+    0.599178731520332,
+    0.8571668561605735
+   ],
+   "p": 0.00026505389643882715,
+   "rd": -0.0570422743043123,
+   "rd_ci": [
+    -0.0936863974201523,
+    -0.026297562974087165
+   ],
+   "ll": -1903.2142707330117
+  },
+  "M5 = M4 + rettskrets (23 faste effekter)": {
+   "label": "M5 = M4 + rettskrets (23 faste effekter)",
+   "n": 3772,
+   "k": 35,
+   "or_bygg": 0.7084860171242959,
+   "ci": [
+    0.5903744345375197,
+    0.8502272576451612
+   ],
+   "p": 0.00021243741951249007,
+   "rd": -0.05809377020260664,
+   "rd_ci": [
+    -0.08448592006861555,
+    -0.026246852542192868
+   ],
+   "ll": -1876.8703954156795
+  },
+  "M6 = M5 + varsel foer aapning": {
+   "label": "M6 = M5 + varsel foer aapning",
+   "n": 3772,
+   "k": 36,
+   "or_bygg": 0.7083758731815352,
+   "ci": [
+    0.5902544786709187,
+    0.8501356547697899
+   ],
+   "p": 0.00021185051201544347,
+   "rd": -0.0581200962588555,
+   "rd_ci": [
+    -0.09517829092586542,
+    -0.026059422610703008
+   ],
+   "ll": -1876.867818271592
+  },
+  "M5 + bygg x oppbud": {
+   "label": "M5 + bygg x oppbud",
+   "n": 3772,
+   "k": 36,
+   "or_bygg": 0.9933252388562982,
+   "ci": [
+    0.7126311959384214,
+    1.3845801808460014
+   ],
+   "p": 0.9684709368024365,
+   "rd": -0.06374311377353825,
+   "rd_ci": [
+    -0.09855834906931121,
+    -0.03182053643350868
+   ],
+   "ll": -1873.9574374234749
+  },
+  "M5 + bygg x stoerrelse(7)": {
+   "label": "M5 + bygg x stoerrelse(7)",
+   "n": 3772,
+   "k": 41,
+   "or_bygg": 0.6868450772464643,
+   "ci": [
+    0.45658535457341515,
+    1.0332266583067702
+   ],
+   "p": 0.07137183443609718,
+   "rd": -0.0573278429574503,
+   "rd_ci": [
+    -0.08944622079034655,
+    -0.03276868219630844
+   ],
+   "ll": -1873.8345480284033
+  },
+  "M5 + bygg x regnskap levert": {
+   "label": "M5 + bygg x regnskap levert",
+   "n": 3772,
+   "k": 37,
+   "or_bygg": 0.6442089106858471,
+   "ci": [
+    0.2982170135964376,
+    1.391621207664066
+   ],
+   "p": 0.26312932393575283,
+   "rd": -0.05798234569874383,
+   "rd_ci": [
+    -0.0950679254008481,
+    -0.03178736612299424
+   ],
+   "ll": -1876.8395120218279
+  }
+ }
+}

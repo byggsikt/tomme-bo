@@ -1,0 +1,8 @@
+apnet_etter_verdier | Oppbud | 3734 | 3734
+felt_dekning | 5165 | 0 | 1431 | 3734
+feltnokler | Andre adresser | 182 | 51
+feltnokler | Bransje/stilling | 3734 | 1431
+feltnokler | Konkurs åpnet | 3734 | 1431
+feltnokler | Organisasjonsform | 7 | 0
+feltnokler | Tidligere navn | 237 | 105
+feltnokler | Åpnet etter | 3734 | 0

@@ -1,0 +1,29 @@
+a_raa_type | Fortsettelse av bobehandling | 28 | 16 | 7 | 0 | 1
+a_raa_type | Konkurs - avslutning av bobehandlingen | 38 | 1842 | 923 | 0 | 1
+a_raa_type | Konkurs - innstilling av bobehandlingen | 39 | 7696 | 3897 | 0 | 1
+a_raa_type | Konkurs - åpning | 16 | 10183 | 5165 | 0 | 1
+a_raa_type | Sletting | 8 | 11494 | 4798 | 0 | 1
+b_felt_pr_utfallstype | Fortsettelse av bobehandling | Organisasjonsform | 4 | 4 | 1
+b_felt_pr_utfallstype | Konkurs - avslutning av bobehandlingen | Organisasjonsform | 4 | 4 | 1
+b_felt_pr_utfallstype | Konkurs - åpning | Andre adresser | 233 | 233 | 227
+b_felt_pr_utfallstype | Konkurs - åpning | Bransje/stilling | 5166 | 5165 | 431
+b_felt_pr_utfallstype | Konkurs - åpning | Konkurs åpnet | 5166 | 5165 | 342
+b_felt_pr_utfallstype | Konkurs - åpning | Organisasjonsform | 7 | 7 | 3
+b_felt_pr_utfallstype | Konkurs - åpning | Tidligere navn | 342 | 342 | 341
+b_felt_pr_utfallstype | Konkurs - åpning | Åpnet etter | 3735 | 3734 | 1
+b_felt_pr_utfallstype | Sletting | Organisasjonsform | 3284 | 3283 | 2
+c_insolvenskolonner | Konkurs - åpning | 5166 | 5165 | 5166 | 5166 | 5166 | 5166 | 5166 | 0
+c_insolvenskolonner | Konkurs - innstilling av bobehandlingen | 3903 | 3897 | 3903 | 0 | 3903 | 0 | 0 | 0
+c_insolvenskolonner | Sletting | 3284 | 3283 | 0 | 0 | 0 | 0 | 0 | 0
+c_insolvenskolonner | Konkurs - avslutning av bobehandlingen | 932 | 923 | 0 | 932 | 932 | 0 | 0 | 0
+c_insolvenskolonner | Fortsettelse av bobehandling | 8 | 7 | 8 | 8 | 8 | 0 | 0 | 0
+c_insolvenskolonner | Varsel om tvangsoppløsning | 7 | 7 | 0 | 0 | 0 | 0 | 0 | 0
+c_insolvenskolonner | Kontaktinformasjon til ny bostyrer er: Postboks 1369 Vika, 0 | 4 | 4 | 0 | 4 | 0 | 0 | 0 | 0
+c_insolvenskolonner | Tvangsoppløsning av aksjeselskap | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 0
+c_insolvenskolonner | Kontaktinformasjon til ny bostyrer er: Karenslyst Alle 16, 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0
+d_distinkte_strenger | Konkurs - avslutning av bobehandlingen | Konkurs - avslutning av bobehandlingen | 1849 | 930
+d_distinkte_strenger | Konkurs - innstilling av bobehandlingen | Konkurs - innstilling av bobehandlingen | 7702 | 3903
+e_avslutning_korpus | 2023 | 220 | 424
+e_avslutning_korpus | 2024 | 668 | 1309
+e_avslutning_korpus | 2025 | 924 | 1801
+e_avslutning_korpus | 2026 | 459 | 869

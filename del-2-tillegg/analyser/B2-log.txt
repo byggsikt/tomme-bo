@@ -1,0 +1,15 @@
+Sanity: n=5165 innstilt=3897 avsluttet=917 aapen=351 OK
+Full-window sub-cohort (opened <= 2024-08-24): 3772  innstilt<=730d: 2812  avsluttet<=730d: 670  open at 730d: 290
+Industry map hits: 5044  misses by reason: {'ikke_naering': 120, 'ingen_kode': 1}
+Bygg utførende: 1280 (study: 1 280)
+aa_unit values among selected pre-opening accounts: {'<NULL>': 4519, 'whole_kroner': 312}
+Companies with a pre-opening account (FY < opening year, NOK): 4831  companies with any account row: 4865  companies whose only account(s) are FY >= opening year: 34
+Age unknown (no stiftet/Nyregistrering): 258  of which first announcement 1999–2001 (pre-corpus, => >=15 yrs): 258
+[A] design: n=3772 p=40 rank=40
+[A2] design: n=3772 p=41 rank=41
+[B] design: n=3772 p=62 rank=62
+Model C: accounts re-coded as missing because not announced approved before opening: 89
+[C] design: n=3772 p=40 rank=40
+[D] design: n=3772 p=7 rank=7
+[E] design: n=3772 p=10 rank=10
+[F] design: n=3772 p=9 rank=9

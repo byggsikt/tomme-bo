@@ -1,0 +1,13 @@
+frozen labels 424 ambiguous label->nace 0
+db rows 5165
+labels db 424 labels frozen 424
+labels only in db: []
+labels only in frozen: []
+labels with different counts: 0
+
+SANITY utfall: {'innstilt': 3897, 'apen': 351, 'avsluttet': 917}
+SANITY basis : {'oppbud': 3734, 'ikke_oppbud': 1431}
+SANITY bygg  : {False: 3885, True: 1280}
+bygg x utfall: {(False, 'innstilt'): 2986, (True, 'apen'): 111, (False, 'avsluttet'): 659, (False, 'apen'): 240, (True, 'innstilt'): 911, (True, 'avsluttet'): 258}
+nace unknown label rows: 0
+wrote V-B1-04-tagged.tsv

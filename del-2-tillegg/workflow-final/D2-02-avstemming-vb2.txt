@@ -1,0 +1,61 @@
+br_m: {'F Bygg utførende': 934, 'G Varehandel': 733, 'Øvrige/uklassifisert': 523, 'I Overnatting/servering': 420, 'M Faglig/teknisk': 287, 'L Fast eiendom': 259, 'N Forretningsmessig': 202, 'H Transport': 179, 'C Industri': 153, 'Uoppgitt': 82}
+bygg (full-vindu): 934
+
+### MODEL A (verifier) — innstilt ≤730 d, full-vindu
+  n=3772 events=2812 logLik=-1851.9788 ll0=-2139.6011 AUC=0.7487
+   (konstant)                                                 OR=  1.979 [ 1.346-  2.908] p=0.0005
+   oppbud                                                     OR=  0.939 [ 0.770-  1.145] p=0.5355
+   br_m=C Industri                                            OR=  0.936 [ 0.603-  1.451] p=0.7663
+   br_m=F Bygg utførende                                      OR=  1.007 [ 0.759-  1.336] p=0.9619
+   br_m=G Varehandel                                          OR=  1.172 [ 0.875-  1.570] p=0.2860
+   br_m=H Transport                                           OR=  1.155 [ 0.746-  1.788] p=0.5185
+   br_m=I Overnatting/servering                               OR=  1.251 [ 0.887-  1.763] p=0.2014
+   br_m=L Fast eiendom                                        OR=  1.000 [ 0.682-  1.464] p=0.9985
+   br_m=M Faglig/teknisk                                      OR=  1.105 [ 0.756-  1.616] p=0.6064
+   br_m=N Forretningsmessig                                   OR=  1.083 [ 0.713-  1.644] p=0.7088
+   br_m=Uoppgitt                                              OR=  5.831 [ 1.754- 19.385] p=0.0040
+   ta_m=<1 mill.                                              OR=  1.554 [ 1.241-  1.946] p=0.0001
+   ta_m=Ingen regnskap                                        OR=  3.328 [ 2.011-  5.507] p=0.0000
+   ta_m=≥5 mill.                                              OR=  0.636 [ 0.486-  0.832] p=0.0010
+   rev_m=5–<20 mill.                                          OR=  0.718 [ 0.562-  0.918] p=0.0082
+   rev_m=<1 mill.                                             OR=  1.983 [ 1.526-  2.579] p=0.0000
+   rev_m=Ikke oppgitt/0                                       OR=  2.396 [ 1.721-  3.334] p=0.0000
+   rev_m=≥20 mill.                                            OR=  0.466 [ 0.325-  0.668] p=0.0000
+   ek_neg                                                     OR=  1.273 [ 1.072-  1.512] p=0.0060
+   lev_m=Ikke aktuelt (ungt)                                  OR=  0.994 [ 0.600-  1.646] p=0.9817
+   lev_m=Nei                                                  OR=  1.786 [ 1.302-  2.452] p=0.0003
+   ald_m=10–<15 år                                            OR=  0.998 [ 0.748-  1.331] p=0.9871
+   ald_m=2–<5 år                                              OR=  1.070 [ 0.867-  1.319] p=0.5298
+   ald_m=<2 år                                                OR=  0.747 [ 0.475-  1.172] p=0.2041
+   ald_m=≥15 år                                               OR=  1.134 [ 0.854-  1.505] p=0.3851
+   kap_m=100 001–1 mill.                                      OR=  0.940 [ 0.738-  1.198] p=0.6186
+   kap_m=30 001–100 000                                       OR=  0.900 [ 0.713-  1.137] p=0.3790
+   kap_m=>1 mill.                                             OR=  0.897 [ 0.626-  1.285] p=0.5519
+   vt_m=Foretaksreg.                                          OR=  1.125 [ 0.818-  1.545] p=0.4690
+   vt_m=Regnskapsreg.                                         OR=  0.978 [ 0.644-  1.483] p=0.9152
+   rev_ever                                                   OR=  0.665 [ 0.521-  0.848] p=0.0010
+   dl_utgaar_12m                                              OR=  2.287 [ 1.183-  4.419] p=0.0139
+   aar2024                                                    OR=  1.218 [ 1.028-  1.444] p=0.0229
+  10-fold CV AUC (seed 7): 0.7337   (seed 1: 0.7363, seed 42: 0.7357)
+
+=== D2-02: kovariatnivåer hos V-B2 (fullvindu) ===
+  br_m: {'F Bygg utførende': 934, 'G Varehandel': 733, 'Øvrige/uklassifisert': 523, 'I Overnatting/servering': 420, 'M Faglig/teknisk': 287, 'L Fast eiendom': 259, 'N Forretningsmessig': 202, 'H Transport': 179, 'C Industri': 153, 'Uoppgitt': 82}
+  ald_m: {'2–<5 år': 1350, '5–<10 år': 1060, '<2 år': 519, '≥15 år': 464, '10–<15 år': 379}
+  kap_m: {'30 000 (minimum)': 2256, '30 001–100 000': 659, '100 001–1 mill.': 643, '>1 mill.': 214}
+  vt_m: {'Ingen': 3326, 'Foretaksreg.': 237, 'Regnskapsreg.': 209}
+  lev_m: {'Ja': 2960, 'Nei': 435, 'Ikke aktuelt (ungt)': 377}
+  ta_m: {'<1 mill.': 1929, '1–<5 mill.': 1006, '≥5 mill.': 583, 'Ingen regnskap': 254}
+  rev_ever 1466  rev_open 1008
+
+=== D2-02: modell A (V-B2s spesifikasjon) ===
+  gammelt flagg   : OR=0.665 [0.521–0.848] p=0.0010  AUC=0.749  CV(seed 1/7/42)=0.736 / 0.734 / 0.736
+  korrigert flagg : OR=0.655 [0.507–0.847] p=0.0012  AUC=0.749  CV(seed 1/7/42)=0.736 / 0.733 / 0.735
+
+=== D2-02: modell uten regnskapstall (V-B2s T5-spesifikasjon) ===
+  gammelt flagg   : OR=0.335 [0.273–0.412]  AUC=0.690  CV(seed 1/7/42)=0.675 / 0.673 / 0.677
+  korrigert flagg : OR=0.286 [0.238–0.345]  AUC=0.701  CV(seed 1/7/42)=0.684 / 0.683 / 0.686
+
+=== D2-02: kompakt modell D (V-B2s koding) ===
+  gammelt flagg   : OR=0.563 [0.470–0.675]  AUC=0.710  CV(seed 1/7/42)=0.703 / 0.699 / 0.699
+  korrigert flagg : OR=0.457 [0.375–0.558]  AUC=0.714  CV(seed 1/7/42)=0.706 / 0.704 / 0.701
+exit 0

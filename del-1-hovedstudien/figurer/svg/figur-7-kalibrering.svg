@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 832" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="tittel7 beskr7" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif">
+<title id="tittel7">Figur 7. Kalibrering mot offisiell statistikk, kvartal for kvartal.</title>
+<desc id="beskr7">Tre panel med felles kvartalsakse fra f&#248;rste kvartal 2023 til andre kvartal 2026. &#216;verste panel viser telleforholdet mellom v&#229;r telling av konkurs&#229;pninger og Statistisk sentralbyr&#229;s foretakskonkurser (tabell 09122), for alle n&#230;ringer i bl&#229;tt og for bygge- og anleggsvirksomhet i rust; begge serier ligger mellom 97,6 og 103,5 prosent fra tredje kvartal 2023 og ut serien, rundt referanselinjen p&#229; 100 prosent i messing. Midtpanelet viser det samme telleforholdet for aksje- og allmennaksjeselskaper (tabell 07165), med kvartalsvis spenn 99,2 til 102,9 prosent. Nederste panel viser byggandelen av foretakskonkursene i begge kilder; de to kurvene f&#248;lger hverandre nesten punkt for punkt. De to f&#248;rste kvartalene i 2023 er skravert som utenfor det observerbare vinduet.</desc>
+<defs><pattern id="skravur" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="9" height="9" fill="#e9e1d4"/><line x1="0" y1="0" x2="0" y2="9" stroke="#d8cfbe" stroke-width="1.3"/></pattern></defs>
+<rect x="0" y="0" width="1200" height="832" fill="#f5f0e6"/>
+<text x="76.00" y="46.00" font-size="11" font-weight="400" fill="#625e55" letter-spacing="0.14em">FIGUR 7 &#183; EKSTERN KALIBRERING</text>
+<text x="76.00" y="76.00" font-size="21" font-weight="600" fill="#171815">Kalibrering mot offisiell statistikk, kvartal for kvartal</text>
+<text x="76.00" y="103.00" font-size="14.5" font-weight="400" fill="#625e55">Telleforhold: v&#229;r telling av konkurs&#229;pninger delt p&#229; byr&#229;ets, kvartal for kvartal. Referanselinjen 100&#160;% er byr&#229;ets tall.</text>
+<text x="76.00" y="122.00" font-size="14.5" font-weight="400" fill="#625e55">Et telleforhold er ikke en dekningsgrad: verdier litt over 100&#160;% er revisjonsetterslep og avgrensningsforskjell, ikke overtelling.</text>
+<text x="76.00" y="163.00" font-size="13" font-weight="600" fill="#171815">Telleforhold i prosent &#183; foretakskonkurser<tspan dx="14" font-size="12.5" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">SSB-tabell 09122</tspan></text>
+<text x="76.00" y="444.00" font-size="13" font-weight="600" fill="#171815">Telleforhold i prosent &#183; aksje- og allmennaksjeselskaper<tspan dx="14" font-size="12.5" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">SSB-tabell 07165</tspan></text>
+<text x="76.00" y="592.00" font-size="13" font-weight="600" fill="#171815">Byggandel i prosent &#183; foretakskonkurser<tspan dx="14" font-size="12.5" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">SSB-tabell 09122</tspan></text>
+<rect x="76.00" y="176.00" width="106.15" height="224.00" fill="url(#skravur)"/>
+<rect x="76.00" y="456.00" width="106.15" height="96.00" fill="url(#skravur)"/>
+<rect x="76.00" y="604.00" width="106.15" height="126.00" fill="url(#skravur)"/>
+<line x1="76.00" y1="187.49" x2="996.00" y2="187.49" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="244.92" x2="996.00" y2="244.92" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="359.79" x2="996.00" y2="359.79" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="552.00" x2="996.00" y2="552.00" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="488.00" x2="996.00" y2="488.00" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="730.00" x2="996.00" y2="730.00" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="698.50" x2="996.00" y2="698.50" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="667.00" x2="996.00" y2="667.00" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="635.50" x2="996.00" y2="635.50" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="604.00" x2="996.00" y2="604.00" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="76.00" y1="302.36" x2="996.00" y2="302.36" stroke="#b9782f" stroke-width="1.6"/>
+<line x1="76.00" y1="520.00" x2="996.00" y2="520.00" stroke="#b9782f" stroke-width="1.6"/>
+<text x="68.00" y="191.89" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">104</text>
+<text x="68.00" y="249.32" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">102</text>
+<text x="68.00" y="364.19" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">98</text>
+<text x="68.00" y="306.76" font-size="12.5" font-weight="500" fill="#b9782f" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">100</text>
+<text x="68.00" y="492.40" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">102</text>
+<text x="68.00" y="556.40" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">98</text>
+<text x="68.00" y="524.40" font-size="12.5" font-weight="500" fill="#b9782f" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">100</text>
+<text x="68.00" y="608.40" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">40</text>
+<text x="68.00" y="639.90" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">30</text>
+<text x="68.00" y="671.40" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">20</text>
+<text x="68.00" y="702.90" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">10</text>
+<text x="68.00" y="734.40" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">0</text>
+<text x="82.00" y="202.00" font-size="11" font-weight="500" fill="#8c9a8e" letter-spacing="0.08em">UTENFOR DET</text>
+<text x="82.00" y="218.00" font-size="11" font-weight="500" fill="#8c9a8e" letter-spacing="0.08em">OBSERVERBARE</text>
+<text x="82.00" y="234.00" font-size="11" font-weight="500" fill="#8c9a8e" letter-spacing="0.08em">VINDUET</text>
+<path d="M 217.54 339.69 L 288.31 325.33 L 359.08 345.44 L 429.85 359.79 L 500.62 336.82 L 571.38 331.08 L 642.15 354.05 L 712.92 368.41 L 783.69 290.87 L 854.46 242.05 L 925.23 293.74 L 996.00 279.38" fill="none" stroke="#2e6f91" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 217.54 371.28 L 288.31 313.85 L 359.08 365.54 L 429.85 356.92 L 500.62 328.21 L 571.38 302.36 L 642.15 359.79 L 712.92 322.46 L 783.69 302.36 L 854.46 201.85 L 925.23 290.87 L 996.00 290.87" fill="none" stroke="#9a4d35" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="217.54" cy="339.69" r="2.6" fill="#2e6f91"/>
+<circle cx="288.31" cy="325.33" r="2.6" fill="#2e6f91"/>
+<circle cx="359.08" cy="345.44" r="2.6" fill="#2e6f91"/>
+<circle cx="429.85" cy="359.79" r="2.6" fill="#2e6f91"/>
+<circle cx="500.62" cy="336.82" r="2.6" fill="#2e6f91"/>
+<circle cx="571.38" cy="331.08" r="2.6" fill="#2e6f91"/>
+<circle cx="642.15" cy="354.05" r="2.6" fill="#2e6f91"/>
+<circle cx="712.92" cy="368.41" r="2.6" fill="#2e6f91"/>
+<circle cx="783.69" cy="290.87" r="2.6" fill="#2e6f91"/>
+<circle cx="854.46" cy="242.05" r="2.6" fill="#2e6f91"/>
+<circle cx="925.23" cy="293.74" r="2.6" fill="#2e6f91"/>
+<circle cx="996.00" cy="279.38" r="2.6" fill="#2e6f91"/>
+<path d="M 217.54 367.78 L 221.04 371.28 L 217.54 374.78 L 214.04 371.28 Z" fill="#9a4d35"/>
+<path d="M 288.31 310.35 L 291.81 313.85 L 288.31 317.35 L 284.81 313.85 Z" fill="#9a4d35"/>
+<path d="M 359.08 362.04 L 362.58 365.54 L 359.08 369.04 L 355.58 365.54 Z" fill="#9a4d35"/>
+<path d="M 429.85 353.42 L 433.35 356.92 L 429.85 360.42 L 426.35 356.92 Z" fill="#9a4d35"/>
+<path d="M 500.62 324.71 L 504.12 328.21 L 500.62 331.71 L 497.12 328.21 Z" fill="#9a4d35"/>
+<path d="M 571.38 298.86 L 574.88 302.36 L 571.38 305.86 L 567.88 302.36 Z" fill="#9a4d35"/>
+<path d="M 642.15 356.29 L 645.65 359.79 L 642.15 363.29 L 638.65 359.79 Z" fill="#9a4d35"/>
+<path d="M 712.92 318.96 L 716.42 322.46 L 712.92 325.96 L 709.42 322.46 Z" fill="#9a4d35"/>
+<path d="M 783.69 298.86 L 787.19 302.36 L 783.69 305.86 L 780.19 302.36 Z" fill="#9a4d35"/>
+<path d="M 854.46 198.35 L 857.96 201.85 L 854.46 205.35 L 850.96 201.85 Z" fill="#9a4d35"/>
+<path d="M 925.23 287.37 L 928.73 290.87 L 925.23 294.37 L 921.73 290.87 Z" fill="#9a4d35"/>
+<path d="M 996.00 287.37 L 999.50 290.87 L 996.00 294.37 L 992.50 290.87 Z" fill="#9a4d35"/>
+<circle cx="854.46" cy="201.85" r="5.6" fill="none" stroke="#9a4d35" stroke-width="1.4"/>
+<text x="866.46" y="198.85" font-size="12.5" font-weight="600" fill="#9a4d35" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">103,5&#160;%</text>
+<circle cx="712.92" cy="368.41" r="5.6" fill="none" stroke="#2e6f91" stroke-width="1.4"/>
+<text x="724.92" y="376.41" font-size="12.5" font-weight="600" fill="#2e6f91" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">97,7&#160;%</text>
+<text x="196.00" y="202.00" font-size="12.5" font-weight="400" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">I de to skraverte kvartalene er telleforholdet 50,6&#160;% og</text>
+<text x="196.00" y="220.00" font-size="12.5" font-weight="400" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">84,8&#160;% &#8212; langt under panelets skala. Kunngj&#248;ringer eldre</text>
+<text x="196.00" y="238.00" font-size="12.5" font-weight="400" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">enn oppbevaringsperioden er ikke tilgjengelige hos kilden.</text>
+<line x1="999" y1="279.38" x2="1003" y2="266" stroke="#2e6f91" stroke-width="1"/>
+<line x1="999" y1="290.87" x2="1003" y2="288" stroke="#9a4d35" stroke-width="1"/>
+<text x="1006.00" y="270.00" font-size="13" font-weight="600" fill="#2e6f91">Alle n&#230;ringer</text>
+<text x="1006.00" y="292.00" font-size="13" font-weight="600" fill="#9a4d35">Bygg og anlegg</text>
+<text x="1006.00" y="308.00" font-size="11" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">SN2007-tilbakef&#248;rt</text>
+<line x1="288.31" y1="416.00" x2="571.38" y2="416.00" stroke="#b9782f" stroke-width="1.5"/>
+<line x1="288.31" y1="411.50" x2="288.31" y2="420.50" stroke="#b9782f" stroke-width="1.5"/>
+<line x1="571.38" y1="411.50" x2="571.38" y2="420.50" stroke="#b9782f" stroke-width="1.5"/>
+<text x="585.38" y="420.20" font-size="12.5" font-weight="400" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Kohortkvartalene 2023K4&#8211;2024K4 &#183; 4&#160;838 mot 4&#160;903 = 98,7&#160;%</text>
+<path d="M 217.54 523.20 L 288.31 512.00 L 359.08 524.80 L 429.85 532.80 L 500.62 521.60 L 571.38 512.00 L 642.15 526.40 L 712.92 532.80 L 783.69 499.20 L 854.46 473.60 L 925.23 502.40 L 996.00 497.60" fill="none" stroke="#2e6f91" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="217.54" cy="523.20" r="2.4" fill="#2e6f91"/>
+<circle cx="288.31" cy="512.00" r="2.4" fill="#2e6f91"/>
+<circle cx="359.08" cy="524.80" r="2.4" fill="#2e6f91"/>
+<circle cx="429.85" cy="532.80" r="2.4" fill="#2e6f91"/>
+<circle cx="500.62" cy="521.60" r="2.4" fill="#2e6f91"/>
+<circle cx="571.38" cy="512.00" r="2.4" fill="#2e6f91"/>
+<circle cx="642.15" cy="526.40" r="2.4" fill="#2e6f91"/>
+<circle cx="712.92" cy="532.80" r="2.4" fill="#2e6f91"/>
+<circle cx="783.69" cy="499.20" r="2.4" fill="#2e6f91"/>
+<circle cx="854.46" cy="473.60" r="2.4" fill="#2e6f91"/>
+<circle cx="925.23" cy="502.40" r="2.4" fill="#2e6f91"/>
+<circle cx="996.00" cy="497.60" r="2.4" fill="#2e6f91"/>
+<circle cx="429.85" cy="532.80" r="6.0" fill="none" stroke="#2e6f91" stroke-width="1.4"/>
+<circle cx="712.92" cy="532.80" r="6.0" fill="none" stroke="#2e6f91" stroke-width="1.4"/>
+<circle cx="854.46" cy="473.60" r="6.0" fill="none" stroke="#2e6f91" stroke-width="1.4"/>
+<text x="854.46" y="462.60" font-size="12.5" font-weight="600" fill="#2e6f91" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">102,9&#160;%</text>
+<text x="196.00" y="480.00" font-size="12.5" font-weight="400" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Kvartalsvis spenn 99,2&#8211;102,9&#160;% over de tolv kvartalene i det observerbare vinduet.</text>
+<line x1="999" y1="497.60" x2="1003" y2="498" stroke="#2e6f91" stroke-width="1"/>
+<text x="1006.00" y="502.00" font-size="13" font-weight="600" fill="#2e6f91">AS og ASA</text>
+<path d="M 76.00 642.12 L 146.77 642.43 L 217.54 649.67 L 288.31 645.58 L 359.08 642.43 L 429.85 637.08 L 500.62 643.38 L 571.38 652.20 L 642.15 654.40 L 712.92 642.43 L 783.69 656.61 L 854.46 656.61 L 925.23 644.63 L 996.00 652.20" fill="none" stroke="#2e6f91" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 76.00 625.42 L 146.77 640.86 L 217.54 650.62 L 288.31 645.26 L 359.08 643.06 L 429.85 637.08 L 500.62 643.38 L 571.38 651.57 L 642.15 654.72 L 712.92 640.86 L 783.69 656.92 L 854.46 655.66 L 925.23 644.63 L 996.00 652.20" fill="none" stroke="#9a4d35" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="196.00" y="716.00" font-size="12.5" font-weight="400" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">De fem kohortkvartalene 2023K4&#8211;2024K4: byggandelen er 27,33&#160;% i v&#229;rt materiale mot 27,27&#160;% hos byr&#229;et.</text>
+<line x1="999" y1="652.20" x2="1003" y2="642" stroke="#9a4d35" stroke-width="1"/>
+<line x1="999" y1="652.20" x2="1003" y2="662" stroke="#2e6f91" stroke-width="1"/>
+<text x="1006.00" y="646.00" font-size="13" font-weight="600" fill="#9a4d35">V&#229;rt materiale</text>
+<text x="1006.00" y="666.00" font-size="13" font-weight="600" fill="#2e6f91">Byr&#229;et</text>
+<text x="1006.00" y="684.00" font-size="11" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">begge 24,7&#160;% i 2026K2</text>
+<text x="76.00" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K1</text>
+<text x="146.77" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K2</text>
+<text x="217.54" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K3</text>
+<text x="288.31" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K4</text>
+<text x="359.08" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K1</text>
+<text x="429.85" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K2</text>
+<text x="500.62" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K3</text>
+<text x="571.38" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K4</text>
+<text x="642.15" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K1</text>
+<text x="712.92" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K2</text>
+<text x="783.69" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K3</text>
+<text x="854.46" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K4</text>
+<text x="925.23" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K1</text>
+<text x="996.00" y="750.00" font-size="12.5" font-weight="400" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">K2</text>
+<text x="182.15" y="770.00" font-size="12.5" font-weight="600" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">2023</text>
+<text x="465.23" y="770.00" font-size="12.5" font-weight="600" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">2024</text>
+<text x="748.31" y="770.00" font-size="12.5" font-weight="600" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">2025</text>
+<text x="960.62" y="770.00" font-size="12.5" font-weight="600" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">2026</text>
+<text x="76.00" y="792.00" font-size="11" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Byggserien er f&#248;rt tilbake til SN2007-standarden; uten tilbakef&#248;ringen er serien ikke sammenliknbar. En dekningsgrad kan per definisjon ikke overstige 100&#160;% &#8212; et telleforhold kan det.</text>
+<text x="76.00" y="810.00" font-size="11" font-weight="400" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Byggsikt &#183; offentlig tilgjengelige registerkunngj&#248;ringer &#183; utfall observert til 24.08.2026 &#183; Statistisk sentralbyr&#229;, statistikkbanktabell 09122 og 07165, hentet 30.08.2026</text>
+</svg>

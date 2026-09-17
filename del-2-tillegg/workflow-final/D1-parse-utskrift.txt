@@ -1,0 +1,69 @@
+D1 - uavhengig gjenparsing av 923 sider
+  filer                      : 923
+  rader i arbeidslisten      : 923
+  matchet arbeidslisten      : 923
+  kunngjoringstyper          : {'Konkurs - avslutning av bobehandlingen': 923}
+  avvik totalt               : 1
+      DATO_SIDE_VS_ARBEIDSLISTE          1
+  uten dividendesetning      : 0
+  sier «uten utlodning»      : 0
+  dividendesetninger per side: {1: 923}
+  i kohorten B1              : 923 av 923
+  utfall i B1                : {'avsluttet': 917, 'innstilt': 6}
+
+  ordinaert avsluttet (ingen innstilling) : 917
+  avsluttet etter tidligere innstilling   : 6
+
+=== ORDINAERT AVSLUTTEDE (n = 917) ===
+  PRIO_I    431  ( 47.0 %)  median  29.57  P25  12.43  P75  56.23  min 0.08 maks 100.00
+  PRIO_II   253  ( 27.6 %)  median  26.23  P25  11.48  P75  49.27  min 0.05 maks 100.00
+  UPRIO     225  ( 24.5 %)  median  10.32  P25   3.31  P75  23.52  min 0.01 maks 100.00
+  ETTER      15  (  1.6 %)  median 100.00  P25  46.91  P75 100.00  min 3.42 maks 100.00
+  PRIO_U      2  (  0.2 %)  median  19.95  P25  12.99  P75  26.92  min 6.02 maks 33.88
+  -> med dividendesetning : 917/917
+  -> noe til uprioriterte : 225/917 = 24.5 %
+  -> noe til prioriterte  : 683/917 = 74.5 %
+  -> BARE til prioriterte : 680/917 = 74.2 %
+  -> sats til uprioriterte: median 10.3  P25 3.3  P75 23.5  snitt 18.7  min 0.01 maks 100.00
+     under 5 %: 69   >= 25 %: 51   = 100 %: 8
+     0-1 %     16
+     1-5 %     53
+     5-10 %    41
+     10-25 %   64
+     25-50 %   30
+     50-100 %  21
+
+=== ETTER INNSTILLING (n = 6) ===
+  PRIO_I      2  ( 33.3 %)  median  51.76  P25  31.88  P75  71.63  min 12.01 maks 91.51
+  PRIO_II     2  ( 33.3 %)  median  39.98  P25  24.06  P75  55.91  min 8.13 maks 71.83
+  UPRIO       2  ( 33.3 %)  median  71.31  P25  56.96  P75  85.65  min 42.62 maks 100.00
+  -> med dividendesetning : 6/6
+  -> noe til uprioriterte : 2/6 = 33.3 %
+  -> noe til prioriterte  : 4/6 = 66.7 %
+  -> BARE til prioriterte : 4/6 = 66.7 %
+  -> sats til uprioriterte: median 71.3  P25 57.0  P75 85.7  snitt 71.3  min 42.62 maks 100.00
+     under 5 %: 0   >= 25 %: 2   = 100 %: 1
+     0-1 %     0
+     1-5 %     0
+     5-10 %    0
+     10-25 %   0
+     25-50 %   1
+     50-100 %  1
+
+=== BYGG vs OVRIGE (ordinaert avsluttede) ===
+  bygg    avsluttede  258  uprioriterte fikk noe  38 =  14.7 %  median sats 15.4
+  ovrige  avsluttede  659  uprioriterte fikk noe 187 =  28.4 %  median sats 8.7
+
+=== OPPBUD vs IKKE OPPBUD (ordinaert avsluttede) ===
+  oppbud       avsluttede  714  uprioriterte fikk noe 190 =  26.6 %
+  ikke oppbud  avsluttede  203  uprioriterte fikk noe  35 =  17.2 %
+
+=== KOHORTNEVNERE (B1-cohort-tagged.tsv) ===
+  kohort totalt   : 5165
+  bygg            : 1280
+  ovrige          : 3885
+  utfall          : {'innstilt': 3897, 'aapen': 351, 'avsluttet': 917}
+  oppbud          : {'1': 3734, '0': 1431}
+
+=== DIFF mot data/H-avslutning-dividende-parsed.jsonl ===
+  sider med ulik sats: 0 av 923

@@ -1,0 +1,3 @@
+orgnr | text
+org_form_code | text
+org_form_text | text

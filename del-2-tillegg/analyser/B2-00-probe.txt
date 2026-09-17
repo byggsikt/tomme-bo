@@ -1,0 +1,40 @@
+version | PostgreSQL 16.4 (Debian 16.4-1.pgdg110+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 10.2.1-6) 10.2.1 20210110, 64-bit
+unit_x_source | brreg-recovered | <NULL> | EUR | 1 | 1 | 1 | 0 | 66780000
+unit_x_source | brreg-recovered | <NULL> | NOK | 4863 | 4863 | 193 | 4670 | 820479
+unit_x_source | brreg-recovered | <NULL> | USD | 1 | 1 | 1 | 0 | 14891000
+unit_x_source | brreg-regnskap | whole_kroner | EUR | 1 | 1 | 1 | 0 | 66780000
+unit_x_source | brreg-regnskap | whole_kroner | NOK | 324 | 324 | 5 | 319 | 4447960
+unit_pairs | 323 | 323 | 323 | 299 | 24
+unit_values_corpus | whole_kroner | brreg-regnskap | 389404
+unit_values_corpus | NOK | brreg-regnskap-2026 | 99916
+unit_values_corpus | NOK | brreg_regnskapsregister | 82325
+unit_values_corpus | <NULL> | brreg-recovered | 70140
+unit_values_corpus | NOK | proff-public-next-data | 7660
+unit_values_corpus | whole_kroner | brreg-full-aarsregnskap-pdf-derived | 3113
+unit_values_corpus | whole_kroner | brreg-visual-manual-oracle | 60
+unit_values_corpus | whole_kroner | brreg-aarsregnskap-pdf-derived | 24
+utgaar_felt | Endring av revisor | Revisor | Utgår | 806 | 739
+utgaar_felt | Endring av daglig leder | Daglig leder | Utgår | 374 | 345
+utgaar_felt | Rettelse | Daglig leder | Utgår | 3 | 3
+utgaar_felt | Rettelse | Revisor | Utgår | 2 | 2
+revisjon_detalj |  | 1735 | 743
+godkjent_detalj | Regnskapsregisteret har den 31.07.2023 mottatt komplett årsr | 514
+godkjent_detalj | Regnskapsregisteret har den 30.09.2021 mottatt og godkjent å | 372
+godkjent_detalj | Regnskapsregisteret har den 30.09.2020 mottatt og godkjent å | 300
+godkjent_detalj | Regnskapsregisteret har den 31.07.2019 mottatt og godkjent å | 299
+godkjent_detalj | Regnskapsregisteret har den 31.07.2022 mottatt komplett årsr | 287
+godkjent_maaned | 1 | 158
+godkjent_maaned | 2 | 403
+godkjent_maaned | 3 | 946
+godkjent_maaned | 4 | 995
+godkjent_maaned | 5 | 1891
+godkjent_maaned | 6 | 3652
+godkjent_maaned | 7 | 5146
+godkjent_maaned | 8 | 3666
+godkjent_maaned | 9 | 2270
+godkjent_maaned | 10 | 1519
+godkjent_maaned | 11 | 344
+godkjent_maaned | 12 | 162
+varsel_detalj | Foretaksregisteret |  | 1318
+varsel_detalj | Regnskapsregisteret |  | 888
+varsel_detalj |  |  | 266

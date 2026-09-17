@@ -1,0 +1,567 @@
+{
+ "ge5_denominator": {
+  "av_alle": {
+   "navn": "TA>=5 MNOK / alle",
+   "b_k": 183,
+   "b_n": 1280,
+   "b_p": 14.3,
+   "o_k": 623,
+   "o_n": 3885,
+   "o_p": 16.0,
+   "diff_pp": -1.7,
+   "lo_pp": -3.9,
+   "hi_pp": 0.6
+  },
+  "av_med_regnskap": {
+   "navn": "TA>=5 MNOK / med regnskap",
+   "b_k": 183,
+   "b_n": 1176,
+   "b_p": 15.6,
+   "o_k": 623,
+   "o_n": 3657,
+   "o_p": 17.0,
+   "diff_pp": -1.5,
+   "lo_pp": -3.8,
+   "hi_pp": 1.0
+  },
+  "rev_ge5_av_med_regnskap": {
+   "navn": "Rev>=5 MNOK / med regnskap",
+   "b_k": 468,
+   "b_n": 1176,
+   "b_p": 39.8,
+   "o_k": 931,
+   "o_n": 3657,
+   "o_p": 25.5,
+   "diff_pp": 14.3,
+   "lo_pp": 11.2,
+   "hi_pp": 17.5
+  }
+ },
+ "size7_730": [
+  {
+   "navn": "ingen regnskap",
+   "b_k": 68,
+   "b_n": 81,
+   "b_p": 84.0,
+   "o_k": 153,
+   "o_n": 172,
+   "o_p": 89.0,
+   "diff_pp": -5.0,
+   "lo_pp": -15.3,
+   "hi_pp": 3.5
+  },
+  {
+   "navn": "=0",
+   "b_k": 8,
+   "b_n": 8,
+   "b_p": 100.0,
+   "o_k": 67,
+   "o_n": 71,
+   "o_p": 94.4,
+   "diff_pp": 5.6,
+   "lo_pp": -27.0,
+   "hi_pp": 13.6
+  },
+  {
+   "navn": "<0,5",
+   "b_k": 230,
+   "b_n": 267,
+   "b_p": 86.1,
+   "o_k": 909,
+   "o_n": 1016,
+   "o_p": 89.5,
+   "diff_pp": -3.3,
+   "lo_pp": -8.3,
+   "hi_pp": 0.8
+  },
+  {
+   "navn": "0,5-1",
+   "b_k": 121,
+   "b_n": 155,
+   "b_p": 78.1,
+   "o_k": 308,
+   "o_n": 412,
+   "o_p": 74.8,
+   "diff_pp": 3.3,
+   "lo_pp": -4.9,
+   "hi_pp": 10.6
+  },
+  {
+   "navn": "1-5",
+   "b_k": 174,
+   "b_n": 287,
+   "b_p": 60.6,
+   "o_k": 494,
+   "o_n": 719,
+   "o_p": 68.7,
+   "diff_pp": -8.1,
+   "lo_pp": -14.7,
+   "hi_pp": -1.6
+  },
+  {
+   "navn": "5-20",
+   "b_k": 43,
+   "b_n": 99,
+   "b_p": 43.4,
+   "o_k": 169,
+   "o_n": 304,
+   "o_p": 55.6,
+   "diff_pp": -12.2,
+   "lo_pp": -23.0,
+   "hi_pp": -0.8
+  },
+  {
+   "navn": ">=20",
+   "b_k": 10,
+   "b_n": 37,
+   "b_p": 27.0,
+   "o_k": 58,
+   "o_n": 144,
+   "o_p": 40.3,
+   "diff_pp": -13.3,
+   "lo_pp": -27.5,
+   "hi_pp": 4.4
+  }
+ ],
+ "size7_asof": [
+  {
+   "navn": "ingen regnskap",
+   "b_k": 88,
+   "b_n": 104,
+   "b_p": 84.6,
+   "o_k": 205,
+   "o_n": 228,
+   "o_p": 89.9,
+   "diff_pp": -5.3,
+   "lo_pp": -14.1,
+   "hi_pp": 2.0
+  },
+  {
+   "navn": "=0",
+   "b_k": 10,
+   "b_n": 10,
+   "b_p": 100.0,
+   "o_k": 94,
+   "o_n": 99,
+   "o_p": 94.9,
+   "diff_pp": 5.1,
+   "lo_pp": -22.9,
+   "hi_pp": 11.3
+  },
+  {
+   "navn": "<0,5",
+   "b_k": 320,
+   "b_n": 367,
+   "b_p": 87.2,
+   "o_k": 1223,
+   "o_n": 1366,
+   "o_p": 89.5,
+   "diff_pp": -2.3,
+   "lo_pp": -6.4,
+   "hi_pp": 1.2
+  },
+  {
+   "navn": "0,5-1",
+   "b_k": 178,
+   "b_n": 233,
+   "b_p": 76.4,
+   "o_k": 439,
+   "o_n": 574,
+   "o_p": 76.5,
+   "diff_pp": -0.1,
+   "lo_pp": -6.8,
+   "hi_pp": 6.1
+  },
+  {
+   "navn": "1-5",
+   "b_k": 236,
+   "b_n": 383,
+   "b_p": 61.6,
+   "o_k": 681,
+   "o_n": 995,
+   "o_p": 68.4,
+   "diff_pp": -6.8,
+   "lo_pp": -12.5,
+   "hi_pp": -1.2
+  },
+  {
+   "navn": "5-20",
+   "b_k": 60,
+   "b_n": 127,
+   "b_p": 47.2,
+   "o_k": 245,
+   "o_n": 420,
+   "o_p": 58.3,
+   "diff_pp": -11.1,
+   "lo_pp": -20.7,
+   "hi_pp": -1.2
+  },
+  {
+   "navn": ">=20",
+   "b_k": 19,
+   "b_n": 56,
+   "b_p": 33.9,
+   "o_k": 99,
+   "o_n": 203,
+   "o_p": 48.8,
+   "diff_pp": -14.8,
+   "lo_pp": -27.8,
+   "hi_pp": -0.1
+  }
+ ],
+ "size4_asof": [
+  {
+   "navn": "ingen regnskap",
+   "b_k": 88,
+   "b_n": 104,
+   "b_p": 84.6,
+   "o_k": 205,
+   "o_n": 228,
+   "o_p": 89.9,
+   "diff_pp": -5.3,
+   "lo_pp": -14.1,
+   "hi_pp": 2.0
+  },
+  {
+   "navn": "<1 MNOK",
+   "b_k": 508,
+   "b_n": 610,
+   "b_p": 83.3,
+   "o_k": 1756,
+   "o_n": 2039,
+   "o_p": 86.1,
+   "diff_pp": -2.8,
+   "lo_pp": -6.3,
+   "hi_pp": 0.3
+  },
+  {
+   "navn": "1-5 MNOK",
+   "b_k": 236,
+   "b_n": 383,
+   "b_p": 61.6,
+   "o_k": 681,
+   "o_n": 995,
+   "o_p": 68.4,
+   "diff_pp": -6.8,
+   "lo_pp": -12.5,
+   "hi_pp": -1.2
+  },
+  {
+   "navn": ">=5 MNOK",
+   "b_k": 79,
+   "b_n": 183,
+   "b_p": 43.2,
+   "o_k": 344,
+   "o_n": 623,
+   "o_p": 55.2,
+   "diff_pp": -12.0,
+   "lo_pp": -20.0,
+   "hi_pp": -3.8
+  }
+ ],
+ "antall_baand_negativ": {
+  "size7_730": 5,
+  "n7": 7,
+  "size7_asof": 6,
+  "n7a": 7
+ },
+ "omlop_vs_anlegg": {
+  "ca_median_MNOK": {
+   "bygg": 0.662,
+   "ovrige": 0.424
+  },
+  "fa_median_MNOK": {
+   "bygg": 0.168,
+   "ovrige": 0.098
+  },
+  "ca_over_1MNOK": {
+   "navn": "Omløpsmidler > 1 MNOK (av dem med regnskap)",
+   "b_k": 453,
+   "b_n": 1176,
+   "b_p": 38.5,
+   "o_k": 1172,
+   "o_n": 3657,
+   "o_p": 32.0,
+   "diff_pp": 6.5,
+   "lo_pp": 3.3,
+   "hi_pp": 9.7
+  },
+  "fa_over_05MNOK": {
+   "navn": "Anleggsmidler > 0,5 MNOK (av dem med regnskap)",
+   "b_k": 329,
+   "b_n": 1176,
+   "b_p": 28.0,
+   "o_k": 1025,
+   "o_n": 3657,
+   "o_p": 28.0,
+   "diff_pp": -0.1,
+   "lo_pp": -2.9,
+   "hi_pp": 2.9
+  },
+  "merk": "annual_account har ingen varelager-, driftsmiddel- eller fordringslinje; anleggsmidler = TA - CA er en RESTPOST"
+ },
+ "oppbud_per_krets": [
+  {
+   "krets": "SOGN OG FJORDANE TINGRETT",
+   "n": 51,
+   "oppbud_pct": 88.2,
+   "bygg_pct": 11.8
+  },
+  {
+   "krets": "HELGELAND TINGRETT",
+   "n": 73,
+   "oppbud_pct": 86.3,
+   "bygg_pct": 16.4
+  },
+  {
+   "krets": "TELEMARK TINGRETT",
+   "n": 169,
+   "oppbud_pct": 85.8,
+   "bygg_pct": 27.2
+  },
+  {
+   "krets": "HAUGALAND OG SUNNHORDLAND TINGRETT",
+   "n": 97,
+   "oppbud_pct": 85.6,
+   "bygg_pct": 17.5
+  },
+  {
+   "krets": "TRØNDELAG TINGRETT",
+   "n": 413,
+   "oppbud_pct": 85.0,
+   "bygg_pct": 20.8
+  },
+  {
+   "krets": "MIDTRE HÅLOGALAND TINGRETT",
+   "n": 78,
+   "oppbud_pct": 84.6,
+   "bygg_pct": 30.8
+  },
+  {
+   "krets": "MØRE OG ROMSDAL TINGRETT",
+   "n": 245,
+   "oppbud_pct": 82.0,
+   "bygg_pct": 26.1
+  },
+  {
+   "krets": "VESTRE FINNMARK TINGRETT",
+   "n": 48,
+   "oppbud_pct": 81.2,
+   "bygg_pct": 29.2
+  },
+  {
+   "krets": "AGDER TINGRETT",
+   "n": 321,
+   "oppbud_pct": 81.0,
+   "bygg_pct": 19.6
+  },
+  {
+   "krets": "SØR-ROGALAND TINGRETT",
+   "n": 267,
+   "oppbud_pct": 80.1,
+   "bygg_pct": 15.7
+  },
+  {
+   "krets": "VESTRE INNLANDET TINGRETT",
+   "n": 130,
+   "oppbud_pct": 78.5,
+   "bygg_pct": 25.4
+  },
+  {
+   "krets": "ØSTRE INNLANDET TINGRETT",
+   "n": 146,
+   "oppbud_pct": 76.0,
+   "bygg_pct": 28.1
+  },
+  {
+   "krets": "SALTEN OG LOFOTEN TINGRETT",
+   "n": 94,
+   "oppbud_pct": 75.5,
+   "bygg_pct": 23.4
+  },
+  {
+   "krets": "VESTFOLD TINGRETT",
+   "n": 273,
+   "oppbud_pct": 74.7,
+   "bygg_pct": 26.4
+  },
+  {
+   "krets": "NORD-TROMS OG SENJA TINGRETT",
+   "n": 106,
+   "oppbud_pct": 72.6,
+   "bygg_pct": 28.3
+  },
+  {
+   "krets": "HORDALAND TINGRETT",
+   "n": 398,
+   "oppbud_pct": 72.4,
+   "bygg_pct": 27.9
+  },
+  {
+   "krets": "SØNDRE ØSTFOLD TINGRETT",
+   "n": 231,
+   "oppbud_pct": 71.4,
+   "bygg_pct": 23.4
+  },
+  {
+   "krets": "RINGERIKE, ASKER OG BÆRUM TINGRETT",
+   "n": 310,
+   "oppbud_pct": 67.4,
+   "bygg_pct": 30.3
+  },
+  {
+   "krets": "BUSKERUD TINGRETT",
+   "n": 226,
+   "oppbud_pct": 65.5,
+   "bygg_pct": 33.2
+  },
+  {
+   "krets": "SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI",
+   "n": 26,
+   "oppbud_pct": 65.4,
+   "bygg_pct": 30.8
+  },
+  {
+   "krets": "ROMERIKE OG GLÅMDAL TINGRETT",
+   "n": 365,
+   "oppbud_pct": 63.6,
+   "bygg_pct": 34.8
+  },
+  {
+   "krets": "FOLLO OG NORDRE ØSTFOLD TINGRETT",
+   "n": 187,
+   "oppbud_pct": 62.0,
+   "bygg_pct": 32.6
+  },
+  {
+   "krets": "OSLO TINGRETT",
+   "n": 911,
+   "oppbud_pct": 57.8,
+   "bygg_pct": 19.5
+  }
+ ],
+ "oppbud_krets_spenn": {
+  "min": 57.8,
+  "max": 88.2
+ },
+ "oppbud_per_aapningsmnd": {
+  "2023Q3": 71.6,
+  "2023Q4": 72.3,
+  "2024Q1": 74.2,
+  "2024Q2": 69.4,
+  "2024Q3": 75.2,
+  "2024Q4": 71.3
+ },
+ "oppbud_bygg_std_til_ovriges_krets": {
+  "std": 57.6,
+  "ovrige": 77.1,
+  "diff": -19.5
+ },
+ "revers_standardisering": {
+  "ovrige_std_til_byggs_revfordeling": 70.5,
+  "bygg_raa": 70.0,
+  "ovrige_std_til_byggs_storrelse": 75.6
+ },
+ "rest_storrelse_i_revband": [
+  {
+   "band": "<1 MNOK",
+   "bygg_median_MNOK": 0.4,
+   "ovrige_median_MNOK": 0.27,
+   "bygg_n": 147,
+   "ovrige_n": 790
+  },
+  {
+   "band": "1-5 MNOK",
+   "bygg_median_MNOK": 2.51,
+   "ovrige_median_MNOK": 2.35,
+   "bygg_n": 324,
+   "ovrige_n": 902
+  },
+  {
+   "band": "5-20 MNOK",
+   "bygg_median_MNOK": 8.1,
+   "ovrige_median_MNOK": 8.11,
+   "bygg_n": 245,
+   "ovrige_n": 485
+  },
+  {
+   "band": ">=20 MNOK",
+   "bygg_median_MNOK": 35.1,
+   "ovrige_median_MNOK": 40.26,
+   "bygg_n": 107,
+   "ovrige_n": 173
+  }
+ ],
+ "standardiseringsvekter_rev": [
+  {
+   "band": "1-5 MNOK",
+   "vekt_pct": 31.8,
+   "bygg_n": 324,
+   "bygg_rate": 78.7
+  },
+  {
+   "band": "<1 MNOK",
+   "vekt_pct": 27.8,
+   "bygg_n": 147,
+   "bygg_rate": 87.1
+  },
+  {
+   "band": "5-20 MNOK",
+   "vekt_pct": 17.1,
+   "bygg_n": 245,
+   "bygg_rate": 57.6
+  },
+  {
+   "band": "mangler",
+   "vekt_pct": 11.1,
+   "bygg_n": 30,
+   "bygg_rate": 90.0
+  },
+  {
+   "band": ">=20 MNOK",
+   "vekt_pct": 6.1,
+   "bygg_n": 107,
+   "bygg_rate": 32.7
+  },
+  {
+   "band": "ingen regnskap",
+   "vekt_pct": 6.1,
+   "bygg_n": 81,
+   "bygg_rate": 84.0
+  }
+ ],
+ "uten_EUR_USD": {
+  "n": 5163,
+  "rå": {
+   "navn": "730 d",
+   "b_k": 654,
+   "b_n": 934,
+   "b_p": 70.0,
+   "o_k": 2158,
+   "o_n": 2837,
+   "o_p": 76.1,
+   "diff_pp": -6.0,
+   "lo_pp": -9.4,
+   "hi_pp": -2.8
+  }
+ },
+ "studiens_frosne_rader": {
+  "n": 5165,
+  "bygg_utforende": 1280,
+  "bygg_innstilt": 911,
+  "bygg_F": 1411,
+  "bygg_F_innstilt": 1016,
+  "uklass": 155,
+  "utfall": {
+   "innstilt": "3891",
+   "avsluttet": "917",
+   "fortsatt_apen": "351",
+   "begge": "6"
+  }
+ },
+ "etikett_uenighet": {
+  "etiketter_totalt": 424,
+  "uenige": 0,
+  "eksempler": {}
+ }
+}

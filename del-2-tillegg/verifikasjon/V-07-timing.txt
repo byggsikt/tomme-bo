@@ -1,0 +1,30 @@
+730_delkohort | alle | 730 | 3772 | 2812 | 74.5 | 670 | 731
+730_delkohort | ingen_felt | 730 | 1027 | 812 | 79.1 | 142 | 732
+730_delkohort | oppbud | 730 | 2745 | 2000 | 72.9 | 528 | 731
+asof | alle | asof | 5165 | 3897 | 75.5 | 917 | 351
+asof | ingen_felt | asof | 1431 | 1125 | 78.6 | 203 | 103
+asof | oppbud | asof | 3734 | 2772 | 74.2 | 714 | 248
+crossing_check | alle | innstilt 12m/18m | 5165 | 3264 | 3716 |  | 
+crossing_check | ingen_felt | innstilt 12m/18m | 1431 | 913 | 1068 |  | 
+crossing_check | oppbud | innstilt 12m/18m | 3734 | 2351 | 2648 |  | 
+horisont | alle | 183 | 5165 | 2281 | 44.2 | 133 | 601
+horisont | alle | 274 | 5165 | 2926 | 56.7 | 293 | 601
+horisont | alle | 365 | 5165 | 3264 | 63.2 | 430 | 601
+horisont | alle | 548 | 5165 | 3716 | 71.9 | 684 | 601
+horisont | alle | 601 | 5165 | 3765 | 72.9 | 754 | 601
+horisont | alle | 91 | 5165 | 1064 | 20.6 | 12 | 601
+horisont | ingen_felt | 183 | 1431 | 567 | 39.6 | 24 | 609
+horisont | ingen_felt | 274 | 1431 | 792 | 55.3 | 57 | 609
+horisont | ingen_felt | 365 | 1431 | 913 | 63.8 | 89 | 609
+horisont | ingen_felt | 548 | 1431 | 1068 | 74.6 | 153 | 609
+horisont | ingen_felt | 601 | 1431 | 1083 | 75.7 | 166 | 609
+horisont | ingen_felt | 91 | 1431 | 223 | 15.6 | 2 | 609
+horisont | oppbud | 183 | 3734 | 1714 | 45.9 | 109 | 601
+horisont | oppbud | 274 | 3734 | 2134 | 57.2 | 236 | 601
+horisont | oppbud | 365 | 3734 | 2351 | 63.0 | 341 | 601
+horisont | oppbud | 548 | 3734 | 2648 | 70.9 | 531 | 601
+horisont | oppbud | 601 | 3734 | 2682 | 71.8 | 588 | 601
+horisont | oppbud | 91 | 3734 | 841 | 22.5 | 10 | 601
+median_t_innstilt | alle | blant innstilte | 3897 | 152 | 87/274/420 | median_t_avsluttet=390 | 
+median_t_innstilt | ingen_felt | blant innstilte | 1125 | 182 | 104/311/431 | median_t_avsluttet=415 | 
+median_t_innstilt | oppbud | blant innstilte | 2772 | 141 | 83/258/417 | median_t_avsluttet=384 | 

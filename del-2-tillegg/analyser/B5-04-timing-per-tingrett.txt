@@ -1,0 +1,46 @@
+per_tingrett | AGDER TINGRETT | 321 | 260 | 37 | 109 | 154 | 173 | 218 | 224 | 43 | 26 | 200
+per_tingrett | BUSKERUD TINGRETT | 226 | 148 | 15 | 88 | 128 | 147 | 173 | 176 | 24 | 14 | 185
+per_tingrett | FOLLO OG NORDRE ØSTFOLD TINGRETT | 187 | 116 | 22 | 95 | 125 | 138 | 146 | 147 | 13 | 10 | 152
+per_tingrett | HAUGALAND OG SUNNHORDLAND TINGRETT | 97 | 83 | 37 | 58 | 66 | 70 | 80 | 80 | 10 | 6 | 108
+per_tingrett | HELGELAND TINGRETT | 73 | 63 | 25 | 39 | 47 | 50 | 55 | 55 | 8 | 7 | 110
+per_tingrett | HORDALAND TINGRETT | 398 | 288 | 89 | 179 | 215 | 233 | 255 | 256 | 61 | 36 | 119
+per_tingrett | MIDTRE HÅLOGALAND TINGRETT | 78 | 66 | 15 | 34 | 46 | 49 | 57 | 57 | 11 | 8 | 150
+per_tingrett | MØRE OG ROMSDAL TINGRETT | 245 | 201 | 89 | 131 | 153 | 169 | 188 | 195 | 20 | 10 | 114
+per_tingrett | NORD-TROMS OG SENJA TINGRETT | 106 | 77 | 34 | 63 | 70 | 72 | 81 | 82 | 7 | 5 | 106
+per_tingrett | OSLO TINGRETT | 911 | 527 | 118 | 356 | 486 | 566 | 679 | 683 | 124 | 57 | 182
+per_tingrett | RINGERIKE, ASKER OG BÆRUM TINGRETT | 310 | 209 | 89 | 135 | 157 | 185 | 209 | 215 | 39 | 19 | 133
+per_tingrett | ROMERIKE OG GLÅMDAL TINGRETT | 365 | 232 | 83 | 177 | 222 | 245 | 269 | 276 | 33 | 18 | 137
+per_tingrett | SALTEN OG LOFOTEN TINGRETT | 94 | 71 | 15 | 32 | 47 | 52 | 62 | 63 | 20 | 9 | 195
+per_tingrett | SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI | 26 | 17 | 9 | 13 | 15 | 16 | 18 | 18 | 4 | 3 | 90
+per_tingrett | SOGN OG FJORDANE TINGRETT | 51 | 45 | 7 | 19 | 30 | 33 | 38 | 39 | 4 | 2 | 205
+per_tingrett | SØNDRE ØSTFOLD TINGRETT | 231 | 165 | 80 | 120 | 136 | 146 | 162 | 162 | 30 | 17 | 97
+per_tingrett | SØR-ROGALAND TINGRETT | 267 | 214 | 40 | 101 | 143 | 161 | 181 | 184 | 40 | 25 | 168
+per_tingrett | TELEMARK TINGRETT | 169 | 145 | 15 | 73 | 95 | 105 | 114 | 114 | 23 | 8 | 154
+per_tingrett | TRØNDELAG TINGRETT | 413 | 351 | 129 | 231 | 268 | 289 | 321 | 324 | 28 | 12 | 117
+per_tingrett | VESTFOLD TINGRETT | 273 | 204 | 78 | 119 | 156 | 172 | 190 | 192 | 37 | 19 | 140
+per_tingrett | VESTRE FINNMARK TINGRETT | 48 | 39 | 12 | 24 | 30 | 31 | 32 | 32 | 9 | 6 | 123
+per_tingrett | VESTRE INNLANDET TINGRETT | 130 | 102 | 14 | 37 | 65 | 80 | 85 | 88 | 29 | 15 | 205
+per_tingrett | ØSTRE INNLANDET TINGRETT | 146 | 111 | 12 | 48 | 72 | 82 | 103 | 103 | 29 | 19 | 205
+per_tingrett_730 | AGDER TINGRETT | 220 | 164 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | BUSKERUD TINGRETT | 153 | 119 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | FOLLO OG NORDRE ØSTFOLD TINGRETT | 109 | 92 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | HAUGALAND OG SUNNHORDLAND TINGRETT | 72 | 60 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | HELGELAND TINGRETT | 59 | 45 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | HORDALAND TINGRETT | 298 | 198 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | MIDTRE HÅLOGALAND TINGRETT | 58 | 40 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | MØRE OG ROMSDAL TINGRETT | 184 | 149 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | NORD-TROMS OG SENJA TINGRETT | 81 | 68 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | OSLO TINGRETT | 685 | 517 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | RINGERIKE, ASKER OG BÆRUM TINGRETT | 222 | 158 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | ROMERIKE OG GLÅMDAL TINGRETT | 273 | 200 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | SALTEN OG LOFOTEN TINGRETT | 69 | 49 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI | 16 | 9 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | SOGN OG FJORDANE TINGRETT | 36 | 28 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | SØNDRE ØSTFOLD TINGRETT | 164 | 121 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | SØR-ROGALAND TINGRETT | 192 | 135 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | TELEMARK TINGRETT | 125 | 91 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | TRØNDELAG TINGRETT | 292 | 216 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | VESTFOLD TINGRETT | 201 | 163 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | VESTRE FINNMARK TINGRETT | 39 | 28 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | VESTRE INNLANDET TINGRETT | 105 | 77 |  |  |  |  |  |  |  |  | 
+per_tingrett_730 | ØSTRE INNLANDET TINGRETT | 119 | 85 |  |  |  |  |  |  |  |  | 

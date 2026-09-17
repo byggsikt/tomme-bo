@@ -1,0 +1,74 @@
+=== etterhendelser_per_utfall ===
+aapen | Revisor | 54
+aapen | Endring av revisor | 54
+aapen | Endring av styre | 37
+aapen | Styre | 37
+aapen | Daglig leder | 22
+aapen | Endring av daglig leder | 22
+aapen | Endring av forretningsadresse | 22
+aapen | Godkjente årsregnskap | 12
+aapen | Godkjent årsregnskap | 12
+aapen | Kontaktinformasjon til ny bostyrer | 7
+aapen | Forretningsadresse | 6
+avsluttet | Konkurs - avslutning av bobehandlingen | 917
+avsluttet | Sletting | 917
+avsluttet | Endring av forretningsadresse | 117
+avsluttet | Endring av revisor | 84
+avsluttet | Revisor | 84
+avsluttet | Endring av styre | 32
+avsluttet | Styre | 32
+avsluttet | Godkjent årsregnskap | 20
+avsluttet | Kontaktinformasjon til ny bostyrer | 15
+avsluttet | Godkjente årsregnskap | 13
+avsluttet | Endring av daglig leder | 13
+avsluttet | Daglig leder | 13
+avsluttet | Forretningsadresse | 8
+innstilt | Konkurs - innstilling av bobehandlingen | 3897
+innstilt | Sletting | 3881
+innstilt | Endring av forretningsadresse | 310
+innstilt | Revisor | 140
+innstilt | Endring av revisor | 140
+innstilt | Godkjent årsregnskap | 106
+innstilt | Styre | 95
+innstilt | Endring av styre | 95
+innstilt | Godkjente årsregnskap | 78
+innstilt | Endring av daglig leder | 62
+innstilt | Daglig leder | 62
+innstilt | Kontaktinformasjon til ny bostyrer | 39
+innstilt | Forretningsadresse | 35
+innstilt | Vedtektsdato | 7
+innstilt | Endring av vedtektsdato | 7
+innstilt | Fortsettelse av bobehandling | 7
+innstilt | Varsel om tvangsoppløsning | 7
+innstilt | Konkurs - avslutning av bobehandlingen | 6
+innstilt | Endring av signatur | 6
+innstilt | Signatur | 6
+innstilt | Kreditorvarsel | 5
+=== andel_med_noen_etterhendelse ===
+aapen | 351 | 119 | 35 | 0
+avsluttet | 917 | 917 | 489 | 917
+innstilt | 3897 | 3897 | 657 | 3882
+=== insolvenstyper_hele_korpuset ===
+Sletting | 44069 | 44061 | 2008-08-09 | 2026-08-24
+Varsel om tvangsoppløsning | 38694 | 30022 | 1999-11-04 | 2026-08-24
+Sletting etter fusjon | 17845 | 17842 | 2017-11-23 | 2026-08-24
+Konkurs - åpning | 13646 | 13644 | 2016-10-27 | 2026-08-24
+Konkurs - innstilling av bobehandlingen | 10002 | 9979 | 2023-08-25 | 2026-08-24
+Tvangsoppløsning av aksjeselskap | 3068 | 3040 | 2017-12-19 | 2026-08-24
+Konkurs - avslutning av bobehandlingen | 2246 | 2232 | 2023-06-02 | 2026-08-24
+Sletting etter fisjon | 850 | 850 | 2017-12-19 | 2026-08-22
+Tvangsavvikling av aksjeselskap | 339 | 339 | 2004-06-10 | 2026-08-24
+Fortsettelse av bobehandling | 41 | 38 | 2014-06-19 | 2026-04-08
+Kontaktinformasjon til ny bostyrer er: Postboks 1369 Vika, 0 | 9 | 9 | 2020-10-01 | 2024-06-05
+Gjelder konkurs i boet til: | 2 | 2 | 2020-04-14 | 2020-04-14
+Nyregistrering | 2 | 2 | 2005-02-24 | 2005-10-03
+Varsel om tvangsoppløsning - ugyldig. Registrert ved en feil | 1 | 1 | 2025-05-19 | 2025-05-19
+Konkursåpningsdatoen er endret fra 08.09.2025 til 11.09.2025 | 1 | 1 | 2025-10-14 | 2025-10-14
+Kontaktinformasjon til ny bostyrer er: Karenslyst Alle 16, 0 | 1 | 1 | 2025-01-03 | 2025-01-03
+Kontaktinformasjon til ny bostyrer er: Karenslyst Allé 16, E | 1 | 1 | 2026-05-19 | 2026-05-19
+Kontaktinformasjon til ny bostyrer er: Postboks 1364 Vika, 0 | 1 | 1 | 2025-09-02 | 2025-09-02
+Kontaktinformasjon til ny bostyrer er: Postboks 1369 Vika,01 | 1 | 1 | 2024-06-10 | 2024-06-10
+Kontaktinformasjon til ny bostyrer er: Postboks 1513 Vika, 0 | 1 | 1 | 2026-01-14 | 2026-01-14
+Skiftesamling etter konkursloven § 78 ledd nr. 3 ble beramme | 1 | 1 | 2025-05-07 | 2025-05-07
+Sletting etter fusjon gjennomført den 19.05.2025 | 1 | 1 | 2025-07-01 | 2025-07-01
+Varsel om tvangsoppløsning - Ugyldig. Kunngjøring registrert | 1 | 1 | 2025-05-12 | 2025-05-12

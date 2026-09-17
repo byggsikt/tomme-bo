@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="fig3-tittel fig3-desc" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif">
+<title id="fig3-tittel">Figur 3 · Innstillingsandel per byggfag, med eksakte konfidensintervaller</title>
+<desc id="fig3-desc">Seks byggfag tegnet som vannrette 95 %-intervaller på en prosentakse som begynner på null. Innstillingsandelen spenner fra 66,3 prosent (rørleggerarbeid, 83 bo) til 77,5 prosent (snekkerarbeid, 178 bo). Intervallene overlapper gjennomgående, og alle seks inneholder nivået for utførende bygg på 71,2 prosent. To loddrette referanselinjer markerer kohortens samlede nivå 75,5 prosent og utførende bygg 71,2 prosent. Rekkefølgen mellom fagene er ikke statistisk etablert.</desc>
+<rect x="0" y="0" width="1200" height="780" fill="#f5f0e6"/>
+<line x1="822.40" y1="206.0" x2="822.40" y2="564.0" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="983.20" y1="206.0" x2="983.20" y2="564.0" stroke="#d8cfbe" stroke-width="1"/>
+<line x1="912.45" y1="178.0" x2="912.45" y2="564.0" stroke="#b9782f" stroke-width="1" stroke-dasharray="6 5" opacity="0.9"/>
+<line x1="947.02" y1="178.0" x2="947.02" y2="564.0" stroke="#b9782f" stroke-width="1" stroke-dasharray="6 5" opacity="0.9"/>
+<g>
+  <line x1="908.43" y1="220.0" x2="1010.54" y2="220.0" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <line x1="908.43" y1="213.0" x2="908.43" y2="227.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <line x1="1010.54" y1="213.0" x2="1010.54" y2="227.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <circle cx="963.10" cy="220.0" r="3.6" fill="#9a4d35" stroke="#f5f0e6" stroke-width="1.8"/>
+</g>
+<g>
+  <line x1="874.66" y1="286.0" x2="1011.34" y2="286.0" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <line x1="874.66" y1="279.0" x2="874.66" y2="293.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <line x1="1011.34" y1="279.0" x2="1011.34" y2="293.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <circle cx="948.63" cy="286.0" r="3.6" fill="#9a4d35" stroke="#f5f0e6" stroke-width="1.8"/>
+</g>
+<g>
+  <line x1="839.28" y1="352.0" x2="1020.99" y2="352.0" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <line x1="839.28" y1="345.0" x2="839.28" y2="359.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <line x1="1020.99" y1="345.0" x2="1020.99" y2="359.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <circle cx="939.78" cy="352.0" r="3.6" fill="#9a4d35" stroke="#f5f0e6" stroke-width="1.8"/>
+</g>
+<g>
+  <line x1="811.14" y1="418.0" x2="1003.30" y2="418.0" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <line x1="811.14" y1="411.0" x2="811.14" y2="425.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <line x1="1003.30" y1="411.0" x2="1003.30" y2="425.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <circle cx="916.47" cy="418.0" r="3.6" fill="#9a4d35" stroke="#f5f0e6" stroke-width="1.8"/>
+</g>
+<g>
+  <line x1="865.01" y1="484.0" x2="925.31" y2="484.0" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <line x1="865.01" y1="477.0" x2="865.01" y2="491.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <line x1="925.31" y1="477.0" x2="925.31" y2="491.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <circle cx="896.37" cy="484.0" r="3.6" fill="#9a4d35" stroke="#f5f0e6" stroke-width="1.8"/>
+</g>
+<g>
+  <line x1="783.00" y1="550.0" x2="953.45" y2="550.0" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <line x1="783.00" y1="543.0" x2="783.00" y2="557.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <line x1="953.45" y1="543.0" x2="953.45" y2="557.0" stroke="#9a4d35" stroke-width="2.5"/>
+  <circle cx="873.05" cy="550.0" r="3.6" fill="#9a4d35" stroke="#f5f0e6" stroke-width="1.8"/>
+</g>
+<text x="76" y="216.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" fill="#9a4d35" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Snekkerarbeid</text>
+<text x="76" y="235.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">178 bo&#8195;·&#8195;77,5&#160;%&#8195;·&#8195;KI 70,7–83,4</text>
+<text x="76" y="282.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" fill="#9a4d35" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Grunnarbeid</text>
+<text x="76" y="301.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">107 bo&#8195;·&#8195;75,7&#160;%&#8195;·&#8195;KI 66,5–83,5</text>
+<text x="76" y="348.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" fill="#9a4d35" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Malerarbeid</text>
+<text x="76" y="367.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">63 bo&#8195;·&#8195;74,6&#160;%&#8195;·&#8195;KI 62,1–84,7</text>
+<text x="76" y="414.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" fill="#9a4d35" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Elektrisk installasjonsarbeid</text>
+<text x="76" y="433.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">60 bo&#8195;·&#8195;71,7&#160;%&#8195;·&#8195;KI 58,6–82,5</text>
+<text x="76" y="480.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" fill="#9a4d35" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Oppføring av bygninger</text>
+<text x="76" y="499.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">600 bo&#8195;·&#8195;69,2&#160;%&#8195;·&#8195;KI 65,3–72,8</text>
+<text x="76" y="546.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" fill="#9a4d35" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Rørleggerarbeid</text>
+<text x="76" y="565.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">83 bo&#8195;·&#8195;66,3&#160;%&#8195;·&#8195;KI 55,1–76,3</text>
+<text x="76" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Andel innstilt etter § 135</text>
+<text x="340" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" text-anchor="start" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">0</text>
+<text x="500.8" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">20</text>
+<text x="661.6" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">40</text>
+<text x="822.4" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">60</text>
+<text x="983.2" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" text-anchor="middle" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">80</text>
+<text x="1144" y="164.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">100&#160;%</text>
+<text x="904.45" y="190.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#b9782f" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Utførende bygg 71,2&#160;%</text>
+<text x="955.02" y="190.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#b9782f" text-anchor="start" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Kohorten samlet 75,5&#160;%</text>
+<text x="812" y="216.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#171815" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Ytterpunktene: snekkerarbeid mot</text>
+<text x="812" y="235.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#171815" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">rørleggerarbeid gir p = 0,069 i eksakt test.</text>
+<polyline points="818.0,243.0 935.00,243.0 935.00,225.0" fill="none" stroke="#625e55" stroke-width="1"/>
+<text x="812" y="480.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#171815" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Strekens bredde følger antall bo, ikke hvor</text>
+<text x="812" y="499.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#171815" text-anchor="end" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">sikker bransjen er: dette faget har flest bo.</text>
+<polyline points="818.0,506.0 880.00,506.0 880.00,489.0" fill="none" stroke="#625e55" stroke-width="1"/>
+<text x="76" y="628.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#171815" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums"><tspan font-weight="600">Rekkefølgen mellom fagene er ikke statistisk etablert.</tspan> Alle seks intervallene inneholder nivået for utførende bygg på 71,2&#160;%.</text>
+<text x="76" y="662.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Ikke tegnet som fag: byggnæringer med under ti bo i én utfallskolonne (samlet i grunnlagets restkategori), samlekategorien</text>
+<text x="76" y="680.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">annen spesialisert bygge- og anleggsvirksomhet (43.990) og eiendomsutvikling (41.1). Alle tre ligger i figurgrunnlaget, utenfor fagoppstillingen.</text>
+<text x="76" y="44.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="11" fill="#625e55" letter-spacing="0.14em" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">FIGUR 3</text>
+<text x="76" y="76.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="21" fill="#171815" font-weight="600" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Innstillingsandel per byggfag, med eksakte konfidensintervaller</text>
+<text x="76" y="105.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="14.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Seks byggfag med minst ti bo i begge utfallskolonner, sortert etter punktestimat. Streken er det eksakte</text>
+<text x="76" y="127.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="14.5" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">95&#160;%-intervallet (Clopper–Pearson), prikken er andelen. Bo åpnet 24.08.2023–31.12.2024; næring fra åpningskunngjøringen.</text>
+<text x="76" y="734.0" font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="11" fill="#625e55" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">Byggsikt · offentlig tilgjengelige registerkunngjøringer · utfall observert til 24.08.2026</text>
+</svg>

@@ -1,0 +1,198 @@
+====================================================================================================
+B5 — PLAUSIBILITET OG TIMING. Datauttak as-of 24.08.2026. n = 5165
+====================================================================================================
+Utfall: {'innstilt': 3897, 'aapen': 351, 'avsluttet': 917}
+Oppfolging (dager): min 601, median 852, max 1088
+Grunnlag: {'oppbud': 3734, 'ingen_felt': 1431}  oppbudsandel: 3734/5165 = 72.3 % [71.1-73.5]
+Valuta i regnskapsraden: {'NOK': 4831, '': 332, 'EUR': 1, 'USD': 1}
+amount_unit: {'<NULL>': 4833, '': 332}
+Regnskapsdekning (siste balanse FOR aapningsaaret): 4833/5165 = 93.6 % [92.9-94.2]
+Regnskapsaar (fy): {'2023': 1217, '2022': 3070, '2021': 534, '': 332, '2020': 11, '2019': 1}
+Bransjekart v3: treff 5142/5165 = 99.6 % [99.3-99.7]  bygg(F): 1410/5142 = 27.4 % [26.2-28.7]
+
+####################################################################################################
+# 1. TIMING — andel innstilt innen faste horisonter (ingen sensurering under 601 dager)
+####################################################################################################
+
+ALLE (n = 5165)
+horisont | innstilt (kum.)              | ordinaert avsluttet (kum.)   | uavklart                
+3 mnd    | 1064/5165 = 20.6 % [19.5-21.7] | 12/5165 = 0.2 %              | 4089/5165 = 79.2 %      
+6 mnd    | 2281/5165 = 44.2 % [42.8-45.5] | 133/5165 = 2.6 %             | 2751/5165 = 53.3 %      
+9 mnd    | 2926/5165 = 56.7 % [55.3-58.0] | 293/5165 = 5.7 %             | 1946/5165 = 37.7 %      
+12 mnd   | 3264/5165 = 63.2 % [61.9-64.5] | 430/5165 = 8.3 %             | 1471/5165 = 28.5 %      
+18 mnd   | 3716/5165 = 71.9 % [70.7-73.2] | 684/5165 = 13.2 %            | 765/5165 = 14.8 %       
+601 d    | 3765/5165 = 72.9 % [71.7-74.1] | 754/5165 = 14.6 %            | 646/5165 = 12.5 %       
+
+GRUNNLAG = oppbud (n = 3734)
+horisont | innstilt (kum.)              | ordinaert avsluttet (kum.)   | uavklart                
+3 mnd    | 841/3734 = 22.5 % [21.2-23.9] | 10/3734 = 0.3 %              | 2883/3734 = 77.2 %      
+6 mnd    | 1714/3734 = 45.9 % [44.3-47.5] | 109/3734 = 2.9 %             | 1911/3734 = 51.2 %      
+9 mnd    | 2134/3734 = 57.2 % [55.6-58.7] | 236/3734 = 6.3 %             | 1364/3734 = 36.5 %      
+12 mnd   | 2351/3734 = 63.0 % [61.4-64.5] | 341/3734 = 9.1 %             | 1042/3734 = 27.9 %      
+18 mnd   | 2648/3734 = 70.9 % [69.4-72.4] | 531/3734 = 14.2 %            | 555/3734 = 14.9 %       
+601 d    | 2682/3734 = 71.8 % [70.4-73.2] | 588/3734 = 15.7 %            | 464/3734 = 12.4 %       
+
+GRUNNLAG = ingen_felt (n = 1431)
+horisont | innstilt (kum.)              | ordinaert avsluttet (kum.)   | uavklart                
+3 mnd    | 223/1431 = 15.6 % [13.8-17.6] | 2/1431 = 0.1 %               | 1206/1431 = 84.3 %      
+6 mnd    | 567/1431 = 39.6 % [37.1-42.2] | 24/1431 = 1.7 %              | 840/1431 = 58.7 %       
+9 mnd    | 792/1431 = 55.3 % [52.8-57.9] | 57/1431 = 4.0 %              | 582/1431 = 40.7 %       
+12 mnd   | 913/1431 = 63.8 % [61.3-66.3] | 89/1431 = 6.2 %              | 429/1431 = 30.0 %       
+18 mnd   | 1068/1431 = 74.6 % [72.3-76.8] | 153/1431 = 10.7 %            | 210/1431 = 14.7 %       
+601 d    | 1083/1431 = 75.7 % [73.4-77.8] | 166/1431 = 11.6 %            | 182/1431 = 12.7 %       
+
+24 MND (730 d) — delkohort aapnet <= 2024-08-24, n = 3772
+  alle        innstilt 2812/3772 = 74.5 % [73.1-75.9] | ordinaert 670/3772 = 17.8 % | uavklart 290/3772 = 7.7 %
+  oppbud      innstilt 2000/2745 = 72.9 % [71.2-74.5] | ordinaert 528/2745 = 19.2 % | uavklart 217/2745 = 7.9 %
+  ingen_felt  innstilt 812/1027 = 79.1 % [76.5-81.4] | ordinaert 142/1027 = 13.8 % | uavklart 73/1027 = 7.1 %
+
+Kvantiler, dager fra aapning til innstilling (kun de innstilte):
+gruppe       |      n |   p10   p25   p50   p75   p90
+alle         |   3897 |    64    87   152   274   420
+oppbud       |   2772 |    63    83   141   258   417
+ingen_felt   |   1125 |    71   104   182   311   431
+Kvantiler, dager til ORDINAER avslutning (kun de ordinaert avsluttede):
+alle         |    917 |   162   238   390   551   668
+oppbud       |    714 |   157   231   385   552   662
+ingen_felt   |    203 |   173   264   415   539   686
+
+####################################################################################################
+# 2. TIMING PER TINGRETT — de 10 storste domstolene i kohorten
+####################################################################################################
+
+tingrett                             |     n |  oppbud |   3 mnd   6 mnd   9 mnd  12 mnd  18 mnd   601 d | 24 mnd* | median | apne na
+OSLO TINGRETT                        |   911 |   57.8% |   13.0%   39.1%   53.3%   62.1%   74.5%   75.0% |  75.5% |    182 |   6.3%
+TRØNDELAG TINGRETT                   |   413 |   85.0% |   31.2%   55.9%   64.9%   70.0%   77.7%   78.5% |  74.0% |    117 |   2.9%
+HORDALAND TINGRETT                   |   398 |   72.4% |   22.4%   45.0%   54.0%   58.5%   64.1%   64.3% |  66.4% |    119 |   9.0%
+ROMERIKE OG GLÅMDAL TINGRETT         |   365 |   63.6% |   22.7%   48.5%   60.8%   67.1%   73.7%   75.6% |  73.3% |    137 |   4.9%
+AGDER TINGRETT                       |   321 |   81.0% |   11.5%   34.0%   48.0%   53.9%   67.9%   69.8% |  74.5% |    200 |   8.1%
+RINGERIKE, ASKER OG BÆRUM TINGRETT   |   310 |   67.4% |   28.7%   43.5%   50.6%   59.7%   67.4%   69.4% |  71.2% |    134 |   6.1%
+VESTFOLD TINGRETT                    |   273 |   74.7% |   28.6%   43.6%   57.1%   63.0%   69.6%   70.3% |  81.1% |    143 |   7.0%
+SØR-ROGALAND TINGRETT                |   267 |   80.1% |   15.0%   37.8%   53.6%   60.3%   67.8%   68.9% |  70.3% |    168 |   9.4%
+MØRE OG ROMSDAL TINGRETT             |   245 |   82.0% |   36.3%   53.5%   62.4%   69.0%   76.7%   79.6% |  81.0% |    114 |   4.1%
+SØNDRE ØSTFOLD TINGRETT              |   231 |   71.4% |   34.6%   51.9%   58.9%   63.2%   70.1%   70.1% |  73.8% |     97 |   7.4%
+* 24 mnd er regnet paa delkohorten aapnet <= 2024-08-24 (n per domstol i egen tabell under).
+
+Tellere og nevnere for de 10 storste (samme rekkefolge):
+  OSLO TINGRETT                        n=911  3m=118 6m=356 9m=486 12m=566 18m=679 601d=683 | 730d: 517/685 | uavklart601=124 | apne=57 | oppbud=527
+  TRØNDELAG TINGRETT                   n=413  3m=129 6m=231 9m=268 12m=289 18m=321 601d=324 | 730d: 216/292 | uavklart601=28 | apne=12 | oppbud=351
+  HORDALAND TINGRETT                   n=398  3m=89 6m=179 9m=215 12m=233 18m=255 601d=256 | 730d: 198/298 | uavklart601=61 | apne=36 | oppbud=288
+  ROMERIKE OG GLÅMDAL TINGRETT         n=365  3m=83 6m=177 9m=222 12m=245 18m=269 601d=276 | 730d: 200/273 | uavklart601=33 | apne=18 | oppbud=232
+  AGDER TINGRETT                       n=321  3m=37 6m=109 9m=154 12m=173 18m=218 601d=224 | 730d: 164/220 | uavklart601=43 | apne=26 | oppbud=260
+  RINGERIKE, ASKER OG BÆRUM TINGRETT   n=310  3m=89 6m=135 9m=157 12m=185 18m=209 601d=215 | 730d: 158/222 | uavklart601=39 | apne=19 | oppbud=209
+  VESTFOLD TINGRETT                    n=273  3m=78 6m=119 9m=156 12m=172 18m=190 601d=192 | 730d: 163/201 | uavklart601=37 | apne=19 | oppbud=204
+  SØR-ROGALAND TINGRETT                n=267  3m=40 6m=101 9m=143 12m=161 18m=181 601d=184 | 730d: 135/192 | uavklart601=40 | apne=25 | oppbud=214
+  MØRE OG ROMSDAL TINGRETT             n=245  3m=89 6m=131 9m=153 12m=169 18m=188 601d=195 | 730d: 149/184 | uavklart601=20 | apne=10 | oppbud=201
+  SØNDRE ØSTFOLD TINGRETT              n=231  3m=80 6m=120 9m=136 12m=146 18m=162 601d=162 | 730d: 121/164 | uavklart601=30 | apne=17 | oppbud=165
+
+Spredning over ALLE 23 domstoler i kohorten (andel innstilt innen 601 d):
+  HAUGALAND OG SUNNHORDLAND TINGRETT   80/97 = 82.5 % [73.7-88.8]
+  MØRE OG ROMSDAL TINGRETT             195/245 = 79.6 % [74.1-84.2]
+  FOLLO OG NORDRE ØSTFOLD TINGRETT     147/187 = 78.6 % [72.2-83.9]
+  TRØNDELAG TINGRETT                   324/413 = 78.5 % [74.2-82.1]
+  BUSKERUD TINGRETT                    176/226 = 77.9 % [72.0-82.8]
+  NORD-TROMS OG SENJA TINGRETT         82/106 = 77.4 % [68.5-84.3]
+  SOGN OG FJORDANE TINGRETT            39/51 = 76.5 % [63.2-86.0]
+  ROMERIKE OG GLÅMDAL TINGRETT         276/365 = 75.6 % [71.0-79.7]
+  HELGELAND TINGRETT                   55/73 = 75.3 % [64.4-83.8]
+  OSLO TINGRETT                        683/911 = 75.0 % [72.1-77.7]
+  MIDTRE HÅLOGALAND TINGRETT           57/78 = 73.1 % [62.3-81.7]
+  ØSTRE INNLANDET TINGRETT             103/146 = 70.5 % [62.7-77.3]
+  VESTFOLD TINGRETT                    192/273 = 70.3 % [64.7-75.4]
+  SØNDRE ØSTFOLD TINGRETT              162/231 = 70.1 % [63.9-75.7]
+  AGDER TINGRETT                       224/321 = 69.8 % [64.5-74.5]
+  RINGERIKE, ASKER OG BÆRUM TINGRETT   215/310 = 69.4 % [64.0-74.2]
+  SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI  18/26 = 69.2 % [50.0-83.5]
+  SØR-ROGALAND TINGRETT                184/267 = 68.9 % [63.1-74.2]
+  VESTRE INNLANDET TINGRETT            88/130 = 67.7 % [59.2-75.1]
+  TELEMARK TINGRETT                    114/169 = 67.5 % [60.1-74.1]
+  SALTEN OG LOFOTEN TINGRETT           63/94 = 67.0 % [57.0-75.7]
+  VESTRE FINNMARK TINGRETT             32/48 = 66.7 % [52.5-78.3]
+  HORDALAND TINGRETT                   256/398 = 64.3 % [59.5-68.9]
+
+####################################################################################################
+# 3. UAVKLARTE BO — fast horisont 601 dager, og de 351 som stod apne 24.08.2026
+####################################################################################################
+
+Uavklart ved dag 601 (alle 5 165 har minst 601 dagers oppfolging):
+  alle        646/5165 = 12.5 % [11.6-13.4]
+  oppbud      464/3734 = 12.4 % [11.4-13.5]
+  ingen_felt  182/1431 = 12.7 % [11.1-14.5]
+
+Fortsatt apent 24.08.2026 (as-of, ulik oppfolgingstid 601-1088 d):
+  alle        351/5165 = 6.8 % [6.1-7.5]
+  oppbud      248/3734 = 6.6 % [5.9-7.5]
+  ingen_felt  103/1431 = 7.2 % [6.0-8.7]
+
+Hvor lenge har de 351 statt apne (dager siden apning): min 608, p25 661, median 775, p75 893, maks 1083
+  over 730 d: 193/351 = 55.0 % [49.8-60.1] | over 900 d: 82/351 = 23.4 % [19.2-28.1]
+
+GRUNNLAGSMIKS blant de 351 vs kohorten:
+  oppbud      apne 248/351 = 70.7 % [65.7-75.2] | kohort 3734/5165 = 72.3 % [71.1-73.5]
+  ingen_felt  apne 103/351 = 29.3 % [24.8-34.3] | kohort 1431/5165 = 27.7 % [26.5-28.9]
+
+DOMSTOLSMIKS blant de 351 (topp 12) — andel av domstolens egne bo som star apne:
+  tingrett                             |   apne | kohort | apenandel i domstolen     
+  OSLO TINGRETT                        |     57 |    911 | 57/911 = 6.3 % [4.9-8.0]
+  HORDALAND TINGRETT                   |     36 |    398 | 36/398 = 9.0 % [6.6-12.3]
+  AGDER TINGRETT                       |     26 |    321 | 26/321 = 8.1 % [5.6-11.6]
+  SØR-ROGALAND TINGRETT                |     25 |    267 | 25/267 = 9.4 % [6.4-13.5]
+  ØSTRE INNLANDET TINGRETT             |     19 |    146 | 19/146 = 13.0 % [8.5-19.4]
+  VESTFOLD TINGRETT                    |     19 |    273 | 19/273 = 7.0 % [4.5-10.6]
+  RINGERIKE, ASKER OG BÆRUM TINGRETT   |     19 |    310 | 19/310 = 6.1 % [4.0-9.4]
+  ROMERIKE OG GLÅMDAL TINGRETT         |     18 |    365 | 18/365 = 4.9 % [3.1-7.7]
+  SØNDRE ØSTFOLD TINGRETT              |     17 |    231 | 17/231 = 7.4 % [4.6-11.5]
+  VESTRE INNLANDET TINGRETT            |     15 |    130 | 15/130 = 11.5 % [7.1-18.2]
+  BUSKERUD TINGRETT                    |     14 |    226 | 14/226 = 6.2 % [3.7-10.1]
+  TRØNDELAG TINGRETT                   |     12 |    413 | 12/413 = 2.9 % [1.7-5.0]
+  Domstoler helt uten apne bo: 0 av 23
+
+BYGG vs OVRIGE blant de 351:
+  bygg (F)   apne 125/1410 = 8.9 % [7.5-10.5] (av kohortens 1410)
+  ovrige     apne 221/3732 = 5.9 % [5.2-6.7] (av kohortens 3732)
+
+####################################################################################################
+# 4. STORRELSE — er de apne boene de store?  (siste balanse for aapningsaaret, hele kroner)
+####################################################################################################
+
+balansegruppe  |      n | innstilt                   | ordinaert avsluttet        | fortsatt apent            
+5 MNOK+        |    806 | 423/806 = 52.5 % [49.0-55.9] | 214/806 = 26.6 % [23.6-29.7] | 169/806 = 21.0 % [18.3-23.9]
+1-5 MNOK       |   1378 | 917/1378 = 66.5 % [64.0-69.0] | 362/1378 = 26.3 % [24.0-28.7] | 99/1378 = 7.2 % [5.9-8.7] 
+under 1 MNOK   |   2649 | 2264/2649 = 85.5 % [84.1-86.8] | 312/2649 = 11.8 % [10.6-13.1] | 73/2649 = 2.8 % [2.2-3.5] 
+uten regnskap  |    332 | 293/332 = 88.3 % [84.3-91.3] | 29/332 = 8.7 % [6.2-12.3]  | 10/332 = 3.0 % [1.6-5.5]  
+
+Fordelingen INNAD i hver utfallsgruppe (kolonneprosent):
+balansegruppe  | kohort             | innstilt           | avsluttet          | apen              
+5 MNOK+        | 806/5165 = 15.6 %  | 423/3897 = 10.9 %  | 214/917 = 23.3 %   | 169/351 = 48.1 %  
+1-5 MNOK       | 1378/5165 = 26.7 % | 917/3897 = 23.5 %  | 362/917 = 39.5 %   | 99/351 = 28.2 %   
+under 1 MNOK   | 2649/5165 = 51.3 % | 2264/3897 = 58.1 % | 312/917 = 34.0 %   | 73/351 = 20.8 %   
+uten regnskap  | 332/5165 = 6.4 %   | 293/3897 = 7.5 %   | 29/917 = 3.2 %     | 10/351 = 2.8 %    
+
+Totalkapital (NOK) etter utfall: n, p25, median, p75
+  kohort     n=4833  p25=      239284  median=      824283  p75=     2865147
+  innstilt   n=3604  p25=      160992  median=      606189  p75=     1774975
+  avsluttet  n= 888  p25=      679057  median=     1823242  p75=     4828507
+  apen       n= 341  p25=     1444578  median=     4921176  p75=    18953018
+Driftsinntekter (NOK) etter utfall: n, p25, median, p75
+  kohort     n=4358  p25=      739893  median=     2526709  p75=     6616578
+  innstilt   n=3189  p25=      505068  median=     1908419  p75=     4734555
+  avsluttet  n= 848  p25=     2219691  median=     5272632  p75=    11764681
+  apen       n= 321  p25=     2586691  median=     8006394  p75=    28378725
+Lonnskostnad (NOK, ansatt-proxy) etter utfall: n med verdi, andel > 0, median blant >0
+  kohort     n=   0  >0: -                        median(>0)=-
+  innstilt   n=   0  >0: -                        median(>0)=-
+  avsluttet  n=   0  >0: -                        median(>0)=-
+  apen       n=   0  >0: -                        median(>0)=-
+
+Balansegruppe x grunnlag (andel innstilt) — er storrelsen eller grunnlaget som styrer?
+balansegruppe  | oppbud                     | ingen_felt                
+5 MNOK+        | 359/681 = 52.7 % [49.0-56.4] | 64/125 = 51.2 % [42.5-59.8]
+1-5 MNOK       | 665/1019 = 65.3 % [62.3-68.1] | 252/359 = 70.2 % [65.3-74.7]
+under 1 MNOK   | 1574/1833 = 85.9 % [84.2-87.4] | 690/816 = 84.6 % [81.9-86.9]
+uten regnskap  | 174/201 = 86.6 % [81.2-90.6] | 119/131 = 90.8 % [84.7-94.7]
+
+Grunnlagsmiks innad i hver balansegruppe (oppbudsandel):
+  5 MNOK+        681/806 = 84.5 % [81.8-86.8]
+  1-5 MNOK       1019/1378 = 73.9 % [71.6-76.2]
+  under 1 MNOK   1833/2649 = 69.2 % [67.4-70.9]
+  uten regnskap  201/332 = 60.5 % [55.2-65.7]

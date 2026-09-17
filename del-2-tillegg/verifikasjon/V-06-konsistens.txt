@@ -1,0 +1,35 @@
+a_feltinventar | ingen_felt | Andre adresser | 51 |  | 
+a_feltinventar | ingen_felt | Bransje/stilling | 1431 |  | 
+a_feltinventar | ingen_felt | Konkurs åpnet | 1431 |  | 
+a_feltinventar | ingen_felt | Tidligere navn | 105 |  | 
+a_feltinventar | oppbud | Andre adresser | 182 |  | 
+a_feltinventar | oppbud | Bransje/stilling | 3734 |  | 
+a_feltinventar | oppbud | Konkurs åpnet | 3734 |  | 
+a_feltinventar | oppbud | Organisasjonsform | 7 |  | 
+a_feltinventar | oppbud | Tidligere navn | 237 |  | 
+a_feltinventar | oppbud | Åpnet etter | 3734 |  | 
+b2_registre | ingen_felt | Konkursregisteret | 1431 |  | 
+b2_registre | oppbud | Foretaksregisteret | 7 |  | 
+b2_registre | oppbud | Konkursregisteret | 3727 |  | 
+b_gruppe | ingen_felt | n=1431 | noen_dato=0 flere_aapningsdatoer=0 | tingrett=1431 bostyrer=1431 saksnr=1431 fristdag=1431 bransje=1431 aapnetverdi=1431 | 
+b_gruppe | oppbud | n=3734 | noen_dato=3734 flere_aapningsdatoer=1 | tingrett=3734 bostyrer=3734 saksnr=3734 fristdag=3734 bransje=3734 aapnetverdi=3734 | 
+c_gap | ingen_felt | 2_1-2d | 1 |  | 
+c_gap | ingen_felt | 3_3-7d | 2 |  | 
+c_gap | ingen_felt | 4_8-14d | 108 |  | 
+c_gap | ingen_felt | 5_15-30d | 600 |  | 
+c_gap | ingen_felt | 6_31-60d | 521 |  | 
+c_gap | ingen_felt | 7_61-180d | 192 |  | 
+c_gap | ingen_felt | 8_over180d | 7 |  | 
+c_gap | oppbud | 0_negativ | 7 |  | 
+c_gap | oppbud | 1_0d | 1292 |  | 
+c_gap | oppbud | 2_1-2d | 1316 |  | 
+c_gap | oppbud | 3_3-7d | 748 |  | 
+c_gap | oppbud | 4_8-14d | 201 |  | 
+c_gap | oppbud | 5_15-30d | 118 |  | 
+c_gap | oppbud | 6_31-60d | 31 |  | 
+c_gap | oppbud | 7_61-180d | 19 |  | 
+c_gap | oppbud | 8_over180d | 2 |  | 
+d_gapkvantiler | ingen_felt | median=31 p25=18 p75=49 p90=68 | gap<=7d=3 gap<=2d=1 gap=0=0 gap>14d=1320 | n=1431 | 
+d_gapkvantiler | oppbud | median=1 p25=0 p75=3 p90=7 | gap<=7d=3363 gap<=2d=2615 gap=0=1292 gap>14d=170 | n=3734 | 
+e_publag | ingen_felt | n_med_verdi=1431 | median=0 p90=1 | innen7d=1428 | 
+e_publag | oppbud | n_med_verdi=3734 | median=0 p90=1 | innen7d=3725 | 

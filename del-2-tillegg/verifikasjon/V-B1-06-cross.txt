@@ -1,0 +1,50 @@
+==============================================================================
+CROSSING OF THE TWO CIF CURVES
+==============================================================================
+  first day petition > oppbud (transient)        : 43
+  last day oppbud >= petition                    : 316
+  durable crossing (petition ahead from here on) : 317
+    day   30: petition   0.00  oppbud   0.00  diff  +0.00
+    day   43: petition   0.21  oppbud   0.19  diff  +0.02
+    day   60: petition   3.21  oppbud   6.00  diff  -2.78
+    day   90: petition  15.09  oppbud  21.96  diff  -6.87
+    day  125: petition  24.88  oppbud  33.42  diff  -8.54
+    day  200: petition  42.98  oppbud  48.13  diff  -5.15
+    day  300: petition  58.07  oppbud  58.78  diff  -0.71
+    day  310: petition  58.91  oppbud  59.40  diff  -0.49
+    day  316: petition  59.68  oppbud  59.72  diff  -0.04
+    day  320: petition  60.10  oppbud  60.02  diff  +0.08
+    day  365: petition  63.80  oppbud  62.96  diff  +0.84
+    day  500: petition  73.17  oppbud  69.84  diff  +3.32
+    day  730: petition  78.52  oppbud  73.50  diff  +5.01
+
+==============================================================================
+CONSTRUCTION x BASIS
+==============================================================================
+  bygg/oppbud      n=  738  as-of 479/738= 64.9 %   730d 347/550= 63.1 % [59.0-67.0]   CIF24= 63.90 [loglog 60.30-67.26]  CIFord24=23.91  open24= 12.2  q50=321
+  bygg/petition    n=  542  as-of 432/542= 79.7 %   730d 307/384= 79.9 % [75.7-83.6]   CIF24= 79.91 [loglog 76.19-83.12]  CIFord24=12.56  open24=  7.5  q50=240
+  other/oppbud     n= 2996  as-of 2293/2996= 76.5 %   730d 1653/2195= 75.3 % [73.5-77.1]   CIF24= 75.87 [loglog 74.29-77.37]  CIFord24=16.99  open24=  7.1  q50=196
+  other/petition   n=  889  as-of 693/889= 78.0 %   730d 505/643= 78.5 % [75.2-81.5]   CIF24= 77.69 [loglog 74.77-80.32]  CIFord24=14.27  open24=  8.0  q50=235
+
+  bygg-other WITHIN oppbud       CIF24 RD  -11.97 [-15.78; -8.16]  boot [-15.91; -8.31]  Gray z=-7.04 p=1.9e-12  as-of RD -11.6 [-15.4; -7.9]  730d RD -12.2 [-16.7; -7.9]
+  bygg-other WITHIN petition     CIF24 RD   +2.22 [-2.21; +6.65]  boot [-2.28; +6.59]  Gray z=+0.13 p=0.9  as-of RD +1.8 [-2.7; +6.0]  730d RD +1.4 [-3.8; +6.4]
+  petition-oppbud WITHIN bygg    CIF24 RD  +16.02 [+11.11; +20.93]  boot [+11.06; +21.05]  Gray z=+4.89 p=1e-06  as-of RD +14.8 [+9.9; +19.5]  730d RD +16.9 [+11.0; +22.4]
+  petition-oppbud WITHIN other   CIF24 RD   +1.83 [-1.35; +5.00]  boot [-1.25; +4.94]  Gray z=-1.29 p=0.2  as-of RD +1.4 [-1.8; +4.4]  730d RD +3.2 [-0.5; +6.8]
+  difference-in-differences (CIF24) = -14.19 pp
+
+==============================================================================
+LOGISTIC INTERACTION (as-of and 730-day)
+==============================================================================
+  as-of: interaction OR = 1.96 [1.43; 2.68]  z=4.19 p=2.79e-05
+  730 d: interaction OR = 1.94 [1.34; 2.82]  z=3.52 p=0.000437
+
+==============================================================================
+OPPBUD SHARE BY INDUSTRY + COMPOSITION
+==============================================================================
+  bygg    oppbud 738/1280 = 57.7 % [54.9-60.3]
+  other   oppbud 2996/3885 = 77.1 % [75.8-78.4]
+  unadjusted bygg-other CIF24 gap (own mix)          = -5.61 pp
+  basis-standardised to the OTHER group basis mix    = -8.73 pp
+  marginal CIF24 bygg=70.62  other=76.28  crude gap -5.66 pp
+
+wrote V-B1-06-results.json

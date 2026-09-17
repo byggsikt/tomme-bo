@@ -1,0 +1,14 @@
+unit_inventory | <NULL> | brreg-recovered | EUR | 1 | 1 | 0 | 0 | 0 | 66780000 | 1033000 | 1 | 1 | 1 | 0
+unit_inventory | <NULL> | brreg-recovered | NOK | 4831 | 4831 | 4644 | 109 | 49 | 824025 | 2529943 | 4831 | 4831 | 4356 | 0
+unit_inventory | <NULL> | brreg-recovered | USD | 1 | 1 | 0 | 0 | 0 | 14891000 | 525000 | 1 | 1 | 1 | 0
+unit_inventory | whole_kroner | brreg-regnskap | EUR | 1 | 1 | 0 | 0 | 0 | 66780000 | 1033000 | 1 | 1 | 1 | 0
+unit_inventory | whole_kroner | brreg-regnskap | NOK | 312 | 312 | 308 | 2 | 2 | 4507342 | 8309512 | 312 | 312 | 291 | 0
+pair_compare | 313 | 313 | 313 | 313 | 292 | 313 | 21 | 0 | 0
+acc_only_at_or_after_opening_year | 2023 | 2023 | brreg-recovered | 5 | 280
+acc_only_at_or_after_opening_year | 2024 | 2023 | brreg-recovered | 2 | 6927112
+acc_only_at_or_after_opening_year | 2024 | 2024 | brreg-recovered | 13 | 221916
+acc_only_at_or_after_opening_year | 2024 | 2024 | brreg-regnskap | 2 | 2282235
+acc_only_at_or_after_opening_year | 2025 | 2023 | brreg-recovered | 1 | 1035256
+acc_only_at_or_after_opening_year | 2025 | 2023 | brreg-regnskap | 2 | 7020062
+acc_only_at_or_after_opening_year | 2025 | 2024 | brreg-recovered | 11 | 618532
+acc_only_at_or_after_opening_year | 2025 | 2024 | brreg-regnskap | 8 | 631866

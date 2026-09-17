@@ -1,0 +1,13 @@
+a_sletting_andel | innstilt | 3897 | 3881 | 99.6 | 2708 | 2706
+a_sletting_andel | aapen | 351 | 0 | 0.0 | 0 | 0
+a_sletting_andel | avsluttet | 917 | 917 | 100.0 | 577 | 577
+a_sletting_andel | ALLE | 5165 | 4798 | 92.9 | 3285 | 3283
+b_dager_utfall_til_sletting | avsluttet | 917 | -55 | 0 | 0 | 0 | 0 | 1 | 4 | 5 | 713 | 199 | 199
+b_dager_utfall_til_sletting | innstilt | 3881 | -2 | 0 | 0 | 0 | 0 | 1 | 827 | 1 | 3050 | 824 | 824
+c_dager_apning_til_sletting | aapen | 0 |  |  | 
+c_dager_apning_til_sletting | avsluttet | 917 | 237 | 390 | 551
+c_dager_apning_til_sletting | innstilt | 3881 | 87 | 152 | 274
+d_fast_horisont_180d | avsluttet | 817 | 817 | 100.0
+d_fast_horisont_180d | innstilt | 3804 | 3782 | 99.4
+e_sletting_register | <NULL> | 5091 | 4810
+e_sletting_register | Foretaksregisteret | 6416 | 3283

@@ -1,0 +1,14 @@
+fortsettelse_kohort | 7 | 7 | 3 | 6 | 5165
+=== fortsettelse_hele_korpuset_per_aar ===
+2014 | 1
+2020 | 1
+2021 | 2
+2022 | 8
+2023 | 6
+2024 | 12
+2025 | 8
+2026 | 1
+=== retensjonsgrense_utfallstyper ===
+Konkurs - avslutning av bobehandlingen | 2023-06-02 | 15
+Konkurs - innstilling av bobehandlingen | 2023-08-25 | 36
+Konkurs - åpning | 2016-10-27 | 2576

@@ -1,0 +1,1812 @@
+standard,versjon_id,kode,navn,niva,forelder
+SN2007,30,01,"Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell",2,A
+SN2007,30,01.1,Dyrking av ettårige vekster,3,01
+SN2007,30,01.2,Dyrking av flerårige vekster,3,01
+SN2007,30,01.3,Planteformering,3,01
+SN2007,30,01.4,Husdyrhold,3,01
+SN2007,30,01.5,Kombinert husdyrhold og planteproduksjon,3,01
+SN2007,30,01.6,Tjenester tilknyttet jordbruk og etterbehandling av vekster etter innhøsting,3,01
+SN2007,30,01.7,"Jakt, viltstell og tjenester tilknyttet jakt og viltstell",3,01
+SN2007,30,01.11,"Dyrking av korn (unntatt ris), belgvekster og oljeholdige vekster",4,01.1
+SN2007,30,01.12,Dyrking av ris,4,01.1
+SN2007,30,01.13,"Dyrking av grønnsaker, meloner, rot- og knollvekster",4,01.1
+SN2007,30,01.14,Dyrking av sukkerrør,4,01.1
+SN2007,30,01.15,Dyrking av tobakk,4,01.1
+SN2007,30,01.16,Dyrking av fibervekster,4,01.1
+SN2007,30,01.19,Dyrking av ettårige vekster ellers,4,01.1
+SN2007,30,01.21,Dyrking av druer,4,01.2
+SN2007,30,01.22,Dyrking av tropiske og subtropiske frukter,4,01.2
+SN2007,30,01.23,Dyrking av sitrusfrukter,4,01.2
+SN2007,30,01.24,Dyrking av kjernefrukter og steinfrukter,4,01.2
+SN2007,30,01.25,Dyrking av annen frukt som vokser på trær eller busker samt nøtter,4,01.2
+SN2007,30,01.26,Dyrking av oljeholdige frukter,4,01.2
+SN2007,30,01.27,Dyrking av vekster for produksjon av drikkevarer,4,01.2
+SN2007,30,01.28,"Dyrking av krydder og aromatiske, medisinske og farmasøytiske vekster",4,01.2
+SN2007,30,01.29,Dyrking av flerårige vekster ellers,4,01.2
+SN2007,30,01.30,Planteformering,4,01.3
+SN2007,30,01.41,Melkeproduksjon på storfe,4,01.4
+SN2007,30,01.42,Oppdrett av annet storfe,4,01.4
+SN2007,30,01.43,Oppdrett av hester og andre dyr av hestefamilien,4,01.4
+SN2007,30,01.44,Oppdrett av kameler og andre kameldyr,4,01.4
+SN2007,30,01.45,Saue- og geitehold,4,01.4
+SN2007,30,01.46,Svinehold,4,01.4
+SN2007,30,01.47,Fjørfehold,4,01.4
+SN2007,30,01.49,Husdyrhold ellers,4,01.4
+SN2007,30,01.50,Kombinert husdyrhold og planteproduksjon,4,01.5
+SN2007,30,01.61,Tjenester tilknyttet planteproduksjon,4,01.6
+SN2007,30,01.62,Tjenester tilknyttet husdyrhold,4,01.6
+SN2007,30,01.63,Etterbehandling av vekster etter innhøsting,4,01.6
+SN2007,30,01.64,Behandling av såfrø,4,01.6
+SN2007,30,01.70,"Jakt, viltstell og tjenester tilknyttet jakt og viltstell",4,01.7
+SN2007,30,01.110,"Dyrking av korn (unntatt ris), belgvekster og oljeholdige vekster",5,01.11
+SN2007,30,01.120,Dyrking av ris,5,01.12
+SN2007,30,01.130,"Dyrking av grønnsaker, meloner, rot- og knollvekster",5,01.13
+SN2007,30,01.140,Dyrking av sukkerrør,5,01.14
+SN2007,30,01.150,Dyrking av tobakk,5,01.15
+SN2007,30,01.160,Dyrking av fibervekster,5,01.16
+SN2007,30,01.190,Dyrking av ettårige vekster ellers,5,01.19
+SN2007,30,01.210,Dyrking av druer,5,01.21
+SN2007,30,01.220,Dyrking av tropiske og subtropiske frukter,5,01.22
+SN2007,30,01.230,Dyrking av sitrusfrukter,5,01.23
+SN2007,30,01.240,Dyrking av kjernefrukter og steinfrukter,5,01.24
+SN2007,30,01.250,Dyrking av annen frukt som vokser på trær eller busker samt nøtter,5,01.25
+SN2007,30,01.260,Dyrking av oljeholdige frukter,5,01.26
+SN2007,30,01.270,Dyrking av vekster for produksjon av drikkevarer,5,01.27
+SN2007,30,01.280,"Dyrking av krydder og aromatiske, medisinske og farmasøytiske vekster",5,01.28
+SN2007,30,01.290,Dyrking av flerårige vekster ellers,5,01.29
+SN2007,30,01.300,Planteformering,5,01.30
+SN2007,30,01.410,Melkeproduksjon på storfe,5,01.41
+SN2007,30,01.420,Oppdrett av annet storfe,5,01.42
+SN2007,30,01.430,Oppdrett av hester og andre dyr av hestefamilien,5,01.43
+SN2007,30,01.440,Oppdrett av kameler og andre kameldyr,5,01.44
+SN2007,30,01.451,Sauehold,5,01.45
+SN2007,30,01.452,Geitehold,5,01.45
+SN2007,30,01.460,Svinehold,5,01.46
+SN2007,30,01.471,Hold av verpehøner for konsumeggproduksjon,5,01.47
+SN2007,30,01.479,Annet fjørfehold,5,01.47
+SN2007,30,01.490,Husdyrhold ellers,5,01.49
+SN2007,30,01.500,Kombinert husdyrhold og planteproduksjon,5,01.50
+SN2007,30,01.610,Tjenester tilknyttet planteproduksjon,5,01.61
+SN2007,30,01.620,Tjenester tilknyttet husdyrhold,5,01.62
+SN2007,30,01.630,Etterbehandling av vekster etter innhøsting,5,01.63
+SN2007,30,01.640,Behandling av såfrø,5,01.64
+SN2007,30,01.700,"Jakt, viltstell og tjenester tilknyttet jakt og viltstell",5,01.70
+SN2007,30,02,Skogbruk og tjenester tilknyttet skogbruk,2,A
+SN2007,30,02.1,Skogskjøtsel og andre skogbruksaktiviteter,3,02
+SN2007,30,02.2,Avvirkning,3,02
+SN2007,30,02.3,Innsamling av viltvoksende produkter av annet enn tre,3,02
+SN2007,30,02.4,Tjenester tilknyttet skogbruk,3,02
+SN2007,30,02.10,Skogskjøtsel og andre skogbruksaktiviteter,4,02.1
+SN2007,30,02.20,Avvirkning,4,02.2
+SN2007,30,02.30,Innsamling av viltvoksende produkter av annet enn tre,4,02.3
+SN2007,30,02.40,Tjenester tilknyttet skogbruk,4,02.4
+SN2007,30,02.100,Skogskjøtsel og andre skogbruksaktiviteter,5,02.10
+SN2007,30,02.200,Avvirkning,5,02.20
+SN2007,30,02.300,Innsamling av viltvoksende produkter av annet enn tre,5,02.30
+SN2007,30,02.400,Tjenester tilknyttet skogbruk,5,02.40
+SN2007,30,03,"Fiske, fangst og akvakultur",2,A
+SN2007,30,03.1,Fiske og fangst,3,03
+SN2007,30,03.2,Akvakultur,3,03
+SN2007,30,03.11,Hav- og kystfiske og fangst,4,03.1
+SN2007,30,03.12,Ferskvannsfiske,4,03.1
+SN2007,30,03.21,Hav- og kystbasert akvakultur,4,03.2
+SN2007,30,03.22,Ferskvannsbasert akvakultur,4,03.2
+SN2007,30,03.111,Hav- og kystfiske,5,03.11
+SN2007,30,03.112,Hvalfangst,5,03.11
+SN2007,30,03.120,Ferskvannsfiske,5,03.12
+SN2007,30,03.211,"Produksjon av matfisk, bløtdyr, krepsdyr og pigghuder i hav- og kystbasert akvakultur",5,03.21
+SN2007,30,03.212,Produksjon av yngel og settefisk i hav- og kystbasert akvakultur,5,03.21
+SN2007,30,03.213,Tjenester tilknyttet hav- og kystbasert akvakultur,5,03.21
+SN2007,30,03.221,"Produksjon av matfisk, bløtdyr og krepsdyr i ferskvannsbasert akvakultur",5,03.22
+SN2007,30,03.222,Produksjon av yngel og settefisk i ferskvannsbasert akvakultur,5,03.22
+SN2007,30,03.223,Tjenester tilknyttet ferskvannsbasert akvakultur,5,03.22
+SN2007,30,05,Bryting av steinkull og brunkull,2,B
+SN2007,30,05.1,Bryting av steinkull,3,05
+SN2007,30,05.2,Bryting av brunkull,3,05
+SN2007,30,05.10,Bryting av steinkull,4,05.1
+SN2007,30,05.20,Bryting av brunkull,4,05.2
+SN2007,30,05.100,Bryting av steinkull,5,05.10
+SN2007,30,05.200,Bryting av brunkull,5,05.20
+SN2007,30,06,Utvinning av råolje og naturgass,2,B
+SN2007,30,06.1,Utvinning av råolje,3,06
+SN2007,30,06.2,Utvinning av naturgass,3,06
+SN2007,30,06.10,Utvinning av råolje,4,06.1
+SN2007,30,06.20,Utvinning av naturgass,4,06.2
+SN2007,30,06.100,Utvinning av råolje,5,06.10
+SN2007,30,06.200,Utvinning av naturgass,5,06.20
+SN2007,30,07,Bryting av metallholdig malm,2,B
+SN2007,30,07.1,Bryting av jernmalm,3,07
+SN2007,30,07.2,Bryting av ikke-jernholdig malm,3,07
+SN2007,30,07.10,Bryting av jernmalm,4,07.1
+SN2007,30,07.21,Bryting av uran- og thoriummalm,4,07.2
+SN2007,30,07.29,Bryting av ikke-jernholdig malm ellers,4,07.2
+SN2007,30,07.100,Bryting av jernmalm,5,07.10
+SN2007,30,07.210,Bryting av uran- og thoriummalm,5,07.21
+SN2007,30,07.290,Bryting av ikke-jernholdig malm ellers,5,07.29
+SN2007,30,08,Bryting og bergverksdrift ellers,2,B
+SN2007,30,08.1,"Bryting av stein, utvinning av sand og leire",3,08
+SN2007,30,08.9,Annen bryting og utvinning,3,08
+SN2007,30,08.11,"Bryting av stein til bygge- og anleggsvirksomhet, kalkstein, gips, kritt og skifer",4,08.1
+SN2007,30,08.12,"Utvinning fra grus- og sandtak, og utvinning av leire og kaolin",4,08.1
+SN2007,30,08.91,Bryting og utvinning av kjemiske mineraler og gjødselsmineraler,4,08.9
+SN2007,30,08.92,Stikking av torv,4,08.9
+SN2007,30,08.93,Utvinning av salt,4,08.9
+SN2007,30,08.99,Annen bryting og utvinning ikke nevnt annet sted,4,08.9
+SN2007,30,08.111,Bryting av stein til bygge- og anleggsvirksomhet,5,08.11
+SN2007,30,08.112,"Bryting av kalkstein, gips og kritt",5,08.11
+SN2007,30,08.113,Bryting av skifer,5,08.11
+SN2007,30,08.120,"Utvinning fra grus- og sandtak, og utvinning av leire og kaolin",5,08.12
+SN2007,30,08.910,Bryting og utvinning av kjemiske mineraler og gjødselsmineraler,5,08.91
+SN2007,30,08.920,Stikking av torv,5,08.92
+SN2007,30,08.930,Utvinning av salt,5,08.93
+SN2007,30,08.990,Annen bryting og utvinning ikke nevnt annet sted,5,08.99
+SN2007,30,09,Tjenester tilknyttet bergverksdrift og utvinning,2,B
+SN2007,30,09.1,Tjenester tilknyttet utvinning av råolje og naturgass,3,09
+SN2007,30,09.9,Tjenester tilknyttet annen bergverksdrift,3,09
+SN2007,30,09.10,Tjenester tilknyttet utvinning av råolje og naturgass,4,09.1
+SN2007,30,09.90,Tjenester tilknyttet annen bergverksdrift,4,09.9
+SN2007,30,09.101,Boretjenester tilknyttet utvinning av råolje og naturgass,5,09.10
+SN2007,30,09.109,Andre tjenester tilknyttet utvinning av råolje og naturgass,5,09.10
+SN2007,30,09.900,Tjenester tilknyttet annen bergverksdrift,5,09.90
+SN2007,30,10,Produksjon av nærings- og nytelsesmidler,2,C
+SN2007,30,10.1,"Produksjon, bearbeiding og konservering av kjøtt og kjøttvarer",3,10
+SN2007,30,10.2,"Bearbeiding og konservering av fisk, skalldyr og bløtdyr",3,10
+SN2007,30,10.3,Bearbeiding og konservering av frukt og grønnsaker,3,10
+SN2007,30,10.4,Produksjon av vegetabilske og animalske oljer og fettstoffer,3,10
+SN2007,30,10.5,Produksjon av meierivarer og iskrem,3,10
+SN2007,30,10.6,"Produksjon av kornvarer, stivelse og stivelsesprodukter",3,10
+SN2007,30,10.7,Produksjon av bakeri- og pastavarer,3,10
+SN2007,30,10.8,Produksjon av andre næringsmidler,3,10
+SN2007,30,10.9,Produksjon av fôrvarer,3,10
+SN2007,30,10.11,Bearbeiding og konservering av kjøtt,4,10.1
+SN2007,30,10.12,Bearbeiding og konservering av fjørfekjøtt,4,10.1
+SN2007,30,10.13,Produksjon av kjøtt- og fjørfevarer,4,10.1
+SN2007,30,10.20,"Bearbeiding og konservering av fisk, skalldyr og bløtdyr",4,10.2
+SN2007,30,10.31,Bearbeiding og konservering av poteter,4,10.3
+SN2007,30,10.32,Produksjon av juice av frukt og grønnsaker,4,10.3
+SN2007,30,10.39,Bearbeiding og konservering av frukt og grønnsaker ellers,4,10.3
+SN2007,30,10.41,Produksjon av oljer og fettstoffer,4,10.4
+SN2007,30,10.42,Produksjon av margarin og lignende spiselige fettstoffer,4,10.4
+SN2007,30,10.51,Produksjon av meierivarer,4,10.5
+SN2007,30,10.52,Produksjon av iskrem,4,10.5
+SN2007,30,10.61,Produksjon av kornvarer,4,10.6
+SN2007,30,10.62,Produksjon av stivelse og stivelsesprodukter,4,10.6
+SN2007,30,10.71,Produksjon av brød og ferske konditorvarer,4,10.7
+SN2007,30,10.72,"Produksjon av kavringer, kjeks og konserverte konditorvarer",4,10.7
+SN2007,30,10.73,"Produksjon av makaroni, nudler, couscous og lignende pastavarer",4,10.7
+SN2007,30,10.81,Produksjon av sukker,4,10.8
+SN2007,30,10.82,"Produksjon av kakao, sjokolade og sukkervarer",4,10.8
+SN2007,30,10.83,Bearbeiding av te og kaffe,4,10.8
+SN2007,30,10.84,Produksjon av smakstilsettingsstoffer og krydderier,4,10.8
+SN2007,30,10.85,Produksjon av ferdigmat,4,10.8
+SN2007,30,10.86,Produksjon av homogeniserte matprodukter og diettmat,4,10.8
+SN2007,30,10.89,Produksjon av næringsmidler ikke nevnt annet sted,4,10.8
+SN2007,30,10.91,Produksjon av fôrvarer til husdyrhold,4,10.9
+SN2007,30,10.92,Produksjon av fôrvarer til kjæledyr,4,10.9
+SN2007,30,10.110,Bearbeiding og konservering av kjøtt,5,10.11
+SN2007,30,10.120,Bearbeiding og konservering av fjørfekjøtt,5,10.12
+SN2007,30,10.130,Produksjon av kjøtt- og fjørfevarer,5,10.13
+SN2007,30,10.201,"Produksjon av saltfisk, tørrfisk og klippfisk",5,10.20
+SN2007,30,10.202,"Frysing av fisk, fiskefileter, skalldyr og bløtdyr",5,10.20
+SN2007,30,10.203,Produksjon av fiskehermetikk,5,10.20
+SN2007,30,10.209,"Slakting, bearbeiding og konservering av fisk og fiskevarer ellers",5,10.20
+SN2007,30,10.310,Bearbeiding og konservering av poteter,5,10.31
+SN2007,30,10.320,Produksjon av juice av frukt og grønnsaker,5,10.32
+SN2007,30,10.390,Bearbeiding og konservering av frukt og grønnsaker ellers,5,10.39
+SN2007,30,10.411,Produksjon av rå fiskeoljer og fett,5,10.41
+SN2007,30,10.412,Produksjon av andre uraffinerte oljer og fett,5,10.41
+SN2007,30,10.413,Produksjon av raffinerte oljer og fett,5,10.41
+SN2007,30,10.420,Produksjon av margarin og lignende spiselige fettstoffer,5,10.42
+SN2007,30,10.510,Produksjon av meierivarer,5,10.51
+SN2007,30,10.520,Produksjon av iskrem,5,10.52
+SN2007,30,10.610,Produksjon av kornvarer,5,10.61
+SN2007,30,10.620,Produksjon av stivelse og stivelsesprodukter,5,10.62
+SN2007,30,10.710,Produksjon av brød og ferske konditorvarer,5,10.71
+SN2007,30,10.720,"Produksjon av kavringer, kjeks og konserverte konditorvarer",5,10.72
+SN2007,30,10.730,"Produksjon av makaroni, nudler, couscous og lignende pastavarer",5,10.73
+SN2007,30,10.810,Produksjon av sukker,5,10.81
+SN2007,30,10.820,"Produksjon av kakao, sjokolade og sukkervarer",5,10.82
+SN2007,30,10.830,Bearbeiding av te og kaffe,5,10.83
+SN2007,30,10.840,Produksjon av smakstilsettingsstoffer og krydderier,5,10.84
+SN2007,30,10.850,Produksjon av ferdigmat,5,10.85
+SN2007,30,10.860,Produksjon av homogeniserte matprodukter og diettmat,5,10.86
+SN2007,30,10.890,Produksjon av næringsmidler ikke nevnt annet sted,5,10.89
+SN2007,30,10.910,Produksjon av fôrvarer til husdyrhold,5,10.91
+SN2007,30,10.920,Produksjon av fôrvarer til kjæledyr,5,10.92
+SN2007,30,11,Produksjon av drikkevarer,2,C
+SN2007,30,11.0,Produksjon av drikkevarer,3,11
+SN2007,30,11.01,"Destillering, rektifisering og blanding av sprit",4,11.0
+SN2007,30,11.02,Produksjon av vin,4,11.0
+SN2007,30,11.03,Produksjon av sider og annen fruktvin,4,11.0
+SN2007,30,11.04,Produksjon av andre ikke-destillerte gjærede drikkevarer,4,11.0
+SN2007,30,11.05,Produksjon av øl,4,11.0
+SN2007,30,11.06,Produksjon av malt,4,11.0
+SN2007,30,11.07,"Produksjon av mineralvann, leskedrikker og annet vann på flaske",4,11.0
+SN2007,30,11.010,"Destillering, rektifisering og blanding av sprit",5,11.01
+SN2007,30,11.020,Produksjon av vin,5,11.02
+SN2007,30,11.030,Produksjon av sider og annen fruktvin,5,11.03
+SN2007,30,11.040,Produksjon av andre ikke-destillerte gjærede drikkevarer,5,11.04
+SN2007,30,11.050,Produksjon av øl,5,11.05
+SN2007,30,11.060,Produksjon av malt,5,11.06
+SN2007,30,11.070,"Produksjon av mineralvann, leskedrikker og annet vann på flaske",5,11.07
+SN2007,30,12,Produksjon av tobakksvarer,2,C
+SN2007,30,12.0,Produksjon av tobakksvarer,3,12
+SN2007,30,12.00,Produksjon av tobakksvarer,4,12.0
+SN2007,30,12.000,Produksjon av tobakksvarer,5,12.00
+SN2007,30,13,Produksjon av tekstiler,2,C
+SN2007,30,13.1,Bearbeiding og spinning av tekstilfibrer,3,13
+SN2007,30,13.2,Veving av tekstiler,3,13
+SN2007,30,13.3,Etterbehandling av tekstiler,3,13
+SN2007,30,13.9,Produksjon av andre tekstiler,3,13
+SN2007,30,13.10,Bearbeiding og spinning av tekstilfibrer,4,13.1
+SN2007,30,13.20,Veving av tekstiler,4,13.2
+SN2007,30,13.30,Etterbehandling av tekstiler,4,13.3
+SN2007,30,13.91,Produksjon av stoffer av trikotasje,4,13.9
+SN2007,30,13.92,"Produksjon av tekstilvarer, unntatt klær",4,13.9
+SN2007,30,13.93,"Produksjon av gulvtepper, -matter og -ryer",4,13.9
+SN2007,30,13.94,Produksjon av tauverk og nett,4,13.9
+SN2007,30,13.95,"Produksjon av ikke-vevde tekstiler og tekstilvarer, unntatt klær",4,13.9
+SN2007,30,13.96,Produksjon av tekstiler til teknisk og industriell bruk,4,13.9
+SN2007,30,13.99,Produksjon av tekstiler ikke nevnt annet sted,4,13.9
+SN2007,30,13.100,Bearbeiding og spinning av tekstilfibrer,5,13.10
+SN2007,30,13.200,Veving av tekstiler,5,13.20
+SN2007,30,13.300,Etterbehandling av tekstiler,5,13.30
+SN2007,30,13.910,Produksjon av stoffer av trikotasje,5,13.91
+SN2007,30,13.921,Produksjon av utstyrsvarer,5,13.92
+SN2007,30,13.929,"Produksjon av andre tekstilvarer, unntatt klær",5,13.92
+SN2007,30,13.930,"Produksjon av gulvtepper, -matter og -ryer",5,13.93
+SN2007,30,13.940,Produksjon av tauverk og nett,5,13.94
+SN2007,30,13.950,"Produksjon av ikke-vevde tekstiler og tekstilvarer, unntatt klær",5,13.95
+SN2007,30,13.960,Produksjon av tekstiler til teknisk og industriell bruk,5,13.96
+SN2007,30,13.990,Produksjon av tekstiler ikke nevnt annet sted,5,13.99
+SN2007,30,14,Produksjon av klær,2,C
+SN2007,30,14.1,"Produksjon av klær, unntatt pelsvarer",3,14
+SN2007,30,14.2,Produksjon av pelsvarer,3,14
+SN2007,30,14.3,Produksjon av klær av trikotasje,3,14
+SN2007,30,14.11,Produksjon av klær av lær,4,14.1
+SN2007,30,14.12,Produksjon av arbeidstøy,4,14.1
+SN2007,30,14.13,Produksjon av annet yttertøy,4,14.1
+SN2007,30,14.14,Produksjon av undertøy og innertøy,4,14.1
+SN2007,30,14.19,Produksjon av klær og tilbehør ellers,4,14.1
+SN2007,30,14.20,Produksjon av pelsvarer,4,14.2
+SN2007,30,14.31,Produksjon av strømpevarer,4,14.3
+SN2007,30,14.39,Produksjon av andre klær av trikotasje,4,14.3
+SN2007,30,14.110,Produksjon av klær av lær,5,14.11
+SN2007,30,14.120,Produksjon av arbeidstøy,5,14.12
+SN2007,30,14.130,Produksjon av annet yttertøy,5,14.13
+SN2007,30,14.140,Produksjon av undertøy og innertøy,5,14.14
+SN2007,30,14.190,Produksjon av klær og tilbehør ellers,5,14.19
+SN2007,30,14.200,Produksjon av pelsvarer,5,14.20
+SN2007,30,14.310,Produksjon av strømpevarer,5,14.31
+SN2007,30,14.390,Produksjon av andre klær av trikotasje,5,14.39
+SN2007,30,15,Produksjon av lær og lærvarer,2,C
+SN2007,30,15.1,"Beredning av lær, produksjon av reiseeffekter og salmakerartikler og beredning og farging av pelsskinn",3,15
+SN2007,30,15.2,Produksjon av skotøy,3,15
+SN2007,30,15.11,"Beredning av lær, og beredning og farging av pelsskinn",4,15.1
+SN2007,30,15.12,Produksjon av reiseeffekter og salmakerartikler,4,15.1
+SN2007,30,15.20,Produksjon av skotøy,4,15.2
+SN2007,30,15.110,"Beredning av lær, og beredning og farging av pelsskinn",5,15.11
+SN2007,30,15.120,Produksjon av reiseeffekter og salmakerartikler,5,15.12
+SN2007,30,15.200,Produksjon av skotøy,5,15.20
+SN2007,30,16,"Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler",2,C
+SN2007,30,16.1,"Saging, høvling og impregnering av tre",3,16
+SN2007,30,16.2,"Produksjon av varer av tre, kork, strå og flettematerialer",3,16
+SN2007,30,16.10,"Saging, høvling og impregnering av tre",4,16.1
+SN2007,30,16.21,Produksjon av finerplater og andre bygnings- og møbelplater av tre,4,16.2
+SN2007,30,16.22,Produksjon av sammensatte parkettstaver,4,16.2
+SN2007,30,16.23,Produksjon av andre bygningsartikler,4,16.2
+SN2007,30,16.24,Produksjon av treemballasje,4,16.2
+SN2007,30,16.29,"Produksjon av andre trevarer og varer av kork, strå og flettematerialer",4,16.2
+SN2007,30,16.100,"Saging, høvling og impregnering av tre",5,16.10
+SN2007,30,16.210,Produksjon av finerplater og andre bygnings- og møbelplater av tre,5,16.21
+SN2007,30,16.220,Produksjon av sammensatte parkettstaver,5,16.22
+SN2007,30,16.231,Produksjon av monteringsferdige hus,5,16.23
+SN2007,30,16.232,Produksjon av bygningsartikler,5,16.23
+SN2007,30,16.240,Produksjon av treemballasje,5,16.24
+SN2007,30,16.290,"Produksjon av andre trevarer og varer av kork, strå og flettematerialer",5,16.29
+SN2007,30,17,Produksjon av papir og papirvarer,2,C
+SN2007,30,17.1,"Produksjon av papirmasse, papir og papp",3,17
+SN2007,30,17.2,Produksjon av varer av papir og papp,3,17
+SN2007,30,17.11,Produksjon av papirmasse,4,17.1
+SN2007,30,17.12,Produksjon av papir og papp,4,17.1
+SN2007,30,17.21,Produksjon av bølgepapp og emballasje av papir og papp,4,17.2
+SN2007,30,17.22,"Produksjon av husholdnings-, sanitær- og toalettartikler av papir",4,17.2
+SN2007,30,17.23,Produksjon av kontorartikler av papir,4,17.2
+SN2007,30,17.24,Produksjon av tapeter,4,17.2
+SN2007,30,17.29,Produksjon av varer av papir og papp ellers,4,17.2
+SN2007,30,17.110,Produksjon av papirmasse,5,17.11
+SN2007,30,17.120,Produksjon av papir og papp,5,17.12
+SN2007,30,17.210,Produksjon av bølgepapp og emballasje av papir og papp,5,17.21
+SN2007,30,17.220,"Produksjon av husholdnings-, sanitær- og toalettartikler av papir",5,17.22
+SN2007,30,17.230,Produksjon av kontorartikler av papir,5,17.23
+SN2007,30,17.240,Produksjon av tapeter,5,17.24
+SN2007,30,17.290,Produksjon av varer av papir og papp ellers,5,17.29
+SN2007,30,18,Trykking og reproduksjon av innspilte opptak,2,C
+SN2007,30,18.1,Trykking og tjenester tilknyttet trykking,3,18
+SN2007,30,18.2,Reproduksjon av innspilte opptak,3,18
+SN2007,30,18.11,Trykking av aviser,4,18.1
+SN2007,30,18.12,Trykking ellers,4,18.1
+SN2007,30,18.13,Ferdiggjøring før trykking og publisering,4,18.1
+SN2007,30,18.14,Bokbinding og tilknyttede tjenester,4,18.1
+SN2007,30,18.20,Reproduksjon av innspilte opptak,4,18.2
+SN2007,30,18.110,Trykking av aviser,5,18.11
+SN2007,30,18.120,Trykking ellers,5,18.12
+SN2007,30,18.130,Ferdiggjøring før trykking og publisering,5,18.13
+SN2007,30,18.140,Bokbinding og tilknyttede tjenester,5,18.14
+SN2007,30,18.200,Reproduksjon av innspilte opptak,5,18.20
+SN2007,30,19,Produksjon av kull- og raffinerte petroleumsprodukter,2,C
+SN2007,30,19.1,Produksjon av kullprodukter,3,19
+SN2007,30,19.2,Produksjon av raffinerte petroleumsprodukter,3,19
+SN2007,30,19.10,Produksjon av kullprodukter,4,19.1
+SN2007,30,19.20,Produksjon av raffinerte petroleumsprodukter,4,19.2
+SN2007,30,19.100,Produksjon av kullprodukter,5,19.10
+SN2007,30,19.200,Produksjon av raffinerte petroleumsprodukter,5,19.20
+SN2007,30,20,Produksjon av kjemikalier og kjemiske produkter,2,C
+SN2007,30,20.1,"Produksjon av kjemiske råvarer, gjødsel og nitrogenforbindelser, basisplast og syntetisk gummi",3,20
+SN2007,30,20.2,Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter,3,20
+SN2007,30,20.3,"Produksjon av maling og lakk, trykkfarger og tetningsmidler",3,20
+SN2007,30,20.4,"Produksjon av såpe og vaskemidler, rense- og polermidler, parfyme og toalettartikler",3,20
+SN2007,30,20.5,Produksjon av andre kjemiske produkter,3,20
+SN2007,30,20.6,Produksjon av kunstfibrer,3,20
+SN2007,30,20.11,Produksjon av industrigasser,4,20.1
+SN2007,30,20.12,Produksjon av fargestoffer og pigmenter,4,20.1
+SN2007,30,20.13,Produksjon av andre uorganiske kjemikalier,4,20.1
+SN2007,30,20.14,Produksjon av andre organiske kjemiske råvarer,4,20.1
+SN2007,30,20.15,"Produksjon av gjødsel, nitrogenforbindelser og vekstjord",4,20.1
+SN2007,30,20.16,Produksjon av basisplast,4,20.1
+SN2007,30,20.17,Produksjon av syntetisk gummi,4,20.1
+SN2007,30,20.20,Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter,4,20.2
+SN2007,30,20.30,"Produksjon av maling og lakk, trykkfarger og tetningsmidler",4,20.3
+SN2007,30,20.41,"Produksjon av såpe og vaskemidler, rense- og polermidler",4,20.4
+SN2007,30,20.42,Produksjon av parfyme og toalettartikler,4,20.4
+SN2007,30,20.51,Produksjon av eksplosiver,4,20.5
+SN2007,30,20.52,Produksjon av lim,4,20.5
+SN2007,30,20.53,Produksjon av eteriske oljer,4,20.5
+SN2007,30,20.59,Produksjon av kjemiske produkter ikke nevnt annet sted,4,20.5
+SN2007,30,20.60,Produksjon av kunstfibrer,4,20.6
+SN2007,30,20.110,Produksjon av industrigasser,5,20.11
+SN2007,30,20.120,Produksjon av fargestoffer og pigmenter,5,20.12
+SN2007,30,20.130,Produksjon av andre uorganiske kjemikalier,5,20.13
+SN2007,30,20.140,Produksjon av andre organiske kjemiske råvarer,5,20.14
+SN2007,30,20.150,"Produksjon av gjødsel, nitrogenforbindelser og vekstjord",5,20.15
+SN2007,30,20.160,Produksjon av basisplast,5,20.16
+SN2007,30,20.170,Produksjon av syntetisk gummi,5,20.17
+SN2007,30,20.200,Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter,5,20.20
+SN2007,30,20.300,"Produksjon av maling og lakk, trykkfarger og tetningsmidler",5,20.30
+SN2007,30,20.410,"Produksjon av såpe og vaskemidler, rense- og polermidler",5,20.41
+SN2007,30,20.420,Produksjon av parfyme og toalettartikler,5,20.42
+SN2007,30,20.510,Produksjon av eksplosiver,5,20.51
+SN2007,30,20.520,Produksjon av lim,5,20.52
+SN2007,30,20.530,Produksjon av eteriske oljer,5,20.53
+SN2007,30,20.590,Produksjon av kjemiske produkter ikke nevnt annet sted,5,20.59
+SN2007,30,20.600,Produksjon av kunstfibrer,5,20.60
+SN2007,30,21,Produksjon av farmasøytiske råvarer og preparater,2,C
+SN2007,30,21.1,Produksjon av farmasøytiske råvarer,3,21
+SN2007,30,21.2,Produksjon av farmasøytiske preparater,3,21
+SN2007,30,21.10,Produksjon av farmasøytiske råvarer,4,21.1
+SN2007,30,21.20,Produksjon av farmasøytiske preparater,4,21.2
+SN2007,30,21.100,Produksjon av farmasøytiske råvarer,5,21.10
+SN2007,30,21.200,Produksjon av farmasøytiske preparater,5,21.20
+SN2007,30,22,Produksjon av gummi- og plastprodukter,2,C
+SN2007,30,22.1,Produksjon av gummiprodukter,3,22
+SN2007,30,22.2,Produksjon av plastprodukter,3,22
+SN2007,30,22.11,"Produksjon av gummidekk og slanger til gummidekk, og regummiering og vulkanisering av gummidekk",4,22.1
+SN2007,30,22.19,Produksjon av gummiprodukter ellers,4,22.1
+SN2007,30,22.21,Produksjon av halvfabrikater av plast,4,22.2
+SN2007,30,22.22,Produksjon av plastemballasje,4,22.2
+SN2007,30,22.23,Produksjon av byggevarer av plast,4,22.2
+SN2007,30,22.29,Produksjon av plastprodukter ellers,4,22.2
+SN2007,30,22.110,"Produksjon av gummidekk og slanger til gummidekk, og regummiering og vulkanisering av gummidekk",5,22.11
+SN2007,30,22.190,Produksjon av gummiprodukter ellers,5,22.19
+SN2007,30,22.210,Produksjon av halvfabrikater av plast,5,22.21
+SN2007,30,22.220,Produksjon av plastemballasje,5,22.22
+SN2007,30,22.230,Produksjon av byggevarer av plast,5,22.23
+SN2007,30,22.290,Produksjon av plastprodukter ellers,5,22.29
+SN2007,30,23,Produksjon av andre ikke-metallholdige mineralprodukter,2,C
+SN2007,30,23.1,Produksjon av glass og glassprodukter,3,23
+SN2007,30,23.2,Produksjon av ildfaste produkter,3,23
+SN2007,30,23.3,Produksjon av byggevarer av brent leire,3,23
+SN2007,30,23.4,Produksjon av andre porselensprodukter og keramiske produkter,3,23
+SN2007,30,23.5,"Produksjon av sement, kalk og gips",3,23
+SN2007,30,23.6,"Produksjon av betong-, sement- og gipsprodukter",3,23
+SN2007,30,23.7,Hogging og bearbeiding av monument- og bygningsstein,3,23
+SN2007,30,23.9,Produksjon av ikke-metallholdige mineralprodukter ikke nevnt annet sted,3,23
+SN2007,30,23.11,Produksjon av planglass,4,23.1
+SN2007,30,23.12,Bearbeiding av planglass,4,23.1
+SN2007,30,23.13,Produksjon av emballasje og husholdningsartikler av glass og krystall,4,23.1
+SN2007,30,23.14,Produksjon av glassfibrer,4,23.1
+SN2007,30,23.19,Produksjon av teknisk glass og andre glassvarer,4,23.1
+SN2007,30,23.20,Produksjon av ildfaste produkter,4,23.2
+SN2007,30,23.31,Produksjon av keramiske vegg- og gulvfliser,4,23.3
+SN2007,30,23.32,"Produksjon av murstein, teglstein og andre byggevarer av brent leire",4,23.3
+SN2007,30,23.41,Produksjon av keramiske husholdningsartikler og dekorasjonsgjenstander,4,23.4
+SN2007,30,23.42,Produksjon av sanitærutstyr av keramisk materiale,4,23.4
+SN2007,30,23.43,Produksjon av isolatorer og isoleringsdeler av keramisk materiale,4,23.4
+SN2007,30,23.44,Produksjon av andre keramiske produkter for teknisk bruk,4,23.4
+SN2007,30,23.49,Produksjon av andre keramiske produkter,4,23.4
+SN2007,30,23.51,Produksjon av sement,4,23.5
+SN2007,30,23.52,Produksjon av kalk og gips,4,23.5
+SN2007,30,23.61,Produksjon av betongprodukter for bygge- og anleggsvirksomhet,4,23.6
+SN2007,30,23.62,Produksjon av gipsprodukter for bygge- og anleggsvirksomhet,4,23.6
+SN2007,30,23.63,Produksjon av ferdigblandet betong,4,23.6
+SN2007,30,23.64,Produksjon av mørtel,4,23.6
+SN2007,30,23.65,Produksjon av fibersement,4,23.6
+SN2007,30,23.69,"Produksjon av betong-, sement- og gipsprodukter ellers",4,23.6
+SN2007,30,23.70,Hogging og bearbeiding av monument- og bygningsstein,4,23.7
+SN2007,30,23.91,Produksjon av slipestoffer,4,23.9
+SN2007,30,23.99,Produksjon av ikke-metallholdige mineralprodukter ikke nevnt annet sted,4,23.9
+SN2007,30,23.110,Produksjon av planglass,5,23.11
+SN2007,30,23.120,Bearbeiding av planglass,5,23.12
+SN2007,30,23.130,Produksjon av emballasje og husholdningsartikler av glass og krystall,5,23.13
+SN2007,30,23.140,Produksjon av glassfibrer,5,23.14
+SN2007,30,23.190,Produksjon av teknisk glass og andre glassvarer,5,23.19
+SN2007,30,23.200,Produksjon av ildfaste produkter,5,23.20
+SN2007,30,23.310,Produksjon av keramiske vegg- og gulvfliser,5,23.31
+SN2007,30,23.320,"Produksjon av murstein, teglstein og andre byggevarer av brent leire",5,23.32
+SN2007,30,23.410,Produksjon av keramiske husholdningsartikler og dekorasjonsgjenstander,5,23.41
+SN2007,30,23.420,Produksjon av sanitærutstyr av keramisk materiale,5,23.42
+SN2007,30,23.430,Produksjon av isolatorer og isoleringsdeler av keramisk materiale,5,23.43
+SN2007,30,23.440,Produksjon av andre keramiske produkter for teknisk bruk,5,23.44
+SN2007,30,23.490,Produksjon av andre keramiske produkter,5,23.49
+SN2007,30,23.510,Produksjon av sement,5,23.51
+SN2007,30,23.520,Produksjon av kalk og gips,5,23.52
+SN2007,30,23.610,Produksjon av betongprodukter for bygge- og anleggsvirksomhet,5,23.61
+SN2007,30,23.620,Produksjon av gipsprodukter for bygge- og anleggsvirksomhet,5,23.62
+SN2007,30,23.630,Produksjon av ferdigblandet betong,5,23.63
+SN2007,30,23.640,Produksjon av mørtel,5,23.64
+SN2007,30,23.650,Produksjon av fibersement,5,23.65
+SN2007,30,23.690,"Produksjon av betong-, sement- og gipsprodukter ellers",5,23.69
+SN2007,30,23.700,Hogging og bearbeiding av monument- og bygningsstein,5,23.70
+SN2007,30,23.910,Produksjon av slipestoffer,5,23.91
+SN2007,30,23.990,Produksjon av ikke-metallholdige mineralprodukter ikke nevnt annet sted,5,23.99
+SN2007,30,24,Produksjon av metaller,2,C
+SN2007,30,24.1,"Produksjon av jern og stål, samt ferrolegeringer",3,24
+SN2007,30,24.2,Produksjon av andre rør og rørdeler av stål,3,24
+SN2007,30,24.3,Annen bearbeiding av jern og stål,3,24
+SN2007,30,24.4,Produksjon av ikke-jernholdige metaller,3,24
+SN2007,30,24.5,Støping av metaller,3,24
+SN2007,30,24.10,"Produksjon av jern og stål, samt ferrolegeringer",4,24.1
+SN2007,30,24.20,Produksjon av andre rør og rørdeler av stål,4,24.2
+SN2007,30,24.31,Kaldtrekking av stenger og profiler,4,24.3
+SN2007,30,24.32,Kaldvalsing av bånd,4,24.3
+SN2007,30,24.33,Kaldvalsing og pressing av profilerte plater og profiler,4,24.3
+SN2007,30,24.34,Kaldtrekking av tråd,4,24.3
+SN2007,30,24.41,Produksjon av edelmetaller,4,24.4
+SN2007,30,24.42,Produksjon av aluminium,4,24.4
+SN2007,30,24.43,"Produksjon av bly, sink og tinn",4,24.4
+SN2007,30,24.44,Produksjon av kobber,4,24.4
+SN2007,30,24.45,Produksjon av ikke-jernholdige metaller ellers,4,24.4
+SN2007,30,24.46,Produksjon av kjernebrensel,4,24.4
+SN2007,30,24.51,Støping av jern,4,24.5
+SN2007,30,24.52,Støping av stål,4,24.5
+SN2007,30,24.53,Støping av lettmetaller,4,24.5
+SN2007,30,24.54,Støping av andre ikke-jernholdige metaller,4,24.5
+SN2007,30,24.101,Produksjon av jern og stål,5,24.10
+SN2007,30,24.102,Produksjon av ferrolegeringer,5,24.10
+SN2007,30,24.200,Produksjon av andre rør og rørdeler av stål,5,24.20
+SN2007,30,24.310,Kaldtrekking av stenger og profiler,5,24.31
+SN2007,30,24.320,Kaldvalsing av bånd,5,24.32
+SN2007,30,24.330,Kaldvalsing og pressing av profilerte plater og profiler,5,24.33
+SN2007,30,24.340,Kaldtrekking av tråd,5,24.34
+SN2007,30,24.410,Produksjon av edelmetaller,5,24.41
+SN2007,30,24.421,Produksjon av primæraluminium,5,24.42
+SN2007,30,24.422,Produksjon av halvfabrikater av aluminium,5,24.42
+SN2007,30,24.430,"Produksjon av bly, sink og tinn",5,24.43
+SN2007,30,24.440,Produksjon av kobber,5,24.44
+SN2007,30,24.450,Produksjon av ikke-jernholdige metaller ellers,5,24.45
+SN2007,30,24.460,Produksjon av kjernebrensel,5,24.46
+SN2007,30,24.510,Støping av jern,5,24.51
+SN2007,30,24.520,Støping av stål,5,24.52
+SN2007,30,24.530,Støping av lettmetaller,5,24.53
+SN2007,30,24.540,Støping av andre ikke-jernholdige metaller,5,24.54
+SN2007,30,25,"Produksjon av metallvarer, unntatt maskiner og utstyr",2,C
+SN2007,30,25.1,Produksjon av metallkonstruksjoner,3,25
+SN2007,30,25.2,"Produksjon av tanker, cisterner og andre beholdere av metall",3,25
+SN2007,30,25.3,"Produksjon av dampkjeler, unntatt kjeler til sentralvarmeanlegg",3,25
+SN2007,30,25.4,Produksjon av våpen og ammunisjon,3,25
+SN2007,30,25.5,"Smiing, stansing og valsing av metall, og pulvermetallurgi",3,25
+SN2007,30,25.6,Overflatebehandling og bearbeiding av metaller,3,25
+SN2007,30,25.7,"Produksjon av kjøkkenredskaper, skjære- og klipperedskaper, håndverktøy og andre jernvarer",3,25
+SN2007,30,25.9,Produksjon av andre metallvarer,3,25
+SN2007,30,25.11,Produksjon av metallkonstruksjoner og deler,4,25.1
+SN2007,30,25.12,Produksjon av dører og vinduer av metall,4,25.1
+SN2007,30,25.21,Produksjon av radiatorer og kjeler til sentralvarmeanlegg,4,25.2
+SN2007,30,25.29,"Produksjon av andre tanker, cisterner og beholdere av metall",4,25.2
+SN2007,30,25.30,"Produksjon av dampkjeler, unntatt kjeler til sentralvarmeanlegg",4,25.3
+SN2007,30,25.40,Produksjon av våpen og ammunisjon,4,25.4
+SN2007,30,25.50,"Smiing, stansing og valsing av metall, og pulvermetallurgi",4,25.5
+SN2007,30,25.61,Overflatebehandling av metaller,4,25.6
+SN2007,30,25.62,Bearbeiding av metaller,4,25.6
+SN2007,30,25.71,Produksjon av kjøkkenredskaper og skjære- og klipperedskaper,4,25.7
+SN2007,30,25.72,Produksjon av låser og beslag,4,25.7
+SN2007,30,25.73,Produksjon av håndverktøy,4,25.7
+SN2007,30,25.91,Produksjon av stålfat og lignende beholdere av jern og stål,4,25.9
+SN2007,30,25.92,Produksjon av emballasje av lettmetall,4,25.9
+SN2007,30,25.93,"Produksjon av varer av metalltråd, kjetting og fjærer",4,25.9
+SN2007,30,25.94,Produksjon av bolter og skruer,4,25.9
+SN2007,30,25.99,Produksjon av metallvarer ikke nevnt annet sted,4,25.9
+SN2007,30,25.110,Produksjon av metallkonstruksjoner og deler,5,25.11
+SN2007,30,25.120,Produksjon av dører og vinduer av metall,5,25.12
+SN2007,30,25.210,Produksjon av radiatorer og kjeler til sentralvarmeanlegg,5,25.21
+SN2007,30,25.290,"Produksjon av andre tanker, cisterner og beholdere av metall",5,25.29
+SN2007,30,25.300,"Produksjon av dampkjeler, unntatt kjeler til sentralvarmeanlegg",5,25.30
+SN2007,30,25.400,Produksjon av våpen og ammunisjon,5,25.40
+SN2007,30,25.500,"Smiing, stansing og valsing av metall, og pulvermetallurgi",5,25.50
+SN2007,30,25.610,Overflatebehandling av metaller,5,25.61
+SN2007,30,25.620,Bearbeiding av metaller,5,25.62
+SN2007,30,25.710,Produksjon av kjøkkenredskaper og skjære- og klipperedskaper,5,25.71
+SN2007,30,25.720,Produksjon av låser og beslag,5,25.72
+SN2007,30,25.730,Produksjon av håndverktøy,5,25.73
+SN2007,30,25.910,Produksjon av stålfat og lignende beholdere av jern og stål,5,25.91
+SN2007,30,25.920,Produksjon av emballasje av lettmetall,5,25.92
+SN2007,30,25.930,"Produksjon av varer av metalltråd, kjetting og fjærer",5,25.93
+SN2007,30,25.940,Produksjon av bolter og skruer,5,25.94
+SN2007,30,25.990,Produksjon av metallvarer ikke nevnt annet sted,5,25.99
+SN2007,30,26,Produksjon av datamaskiner og elektroniske og optiske produkter,2,C
+SN2007,30,26.1,Produksjon av elektroniske komponenter og kretskort,3,26
+SN2007,30,26.2,Produksjon av datamaskiner og tilleggsutstyr,3,26
+SN2007,30,26.3,Produksjon av kommunikasjonsutstyr,3,26
+SN2007,30,26.4,Produksjon av elektronikk til husholdningsbruk,3,26
+SN2007,30,26.5,"Produksjon av måle-, kontroll- og navigasjonsinstrumenter, og klokker og ur",3,26
+SN2007,30,26.6,"Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr",3,26
+SN2007,30,26.7,Produksjon av optiske instrumenter og fotografisk utstyr,3,26
+SN2007,30,26.8,Produksjon av magnetiske og optiske media,3,26
+SN2007,30,26.11,Produksjon av elektroniske komponenter,4,26.1
+SN2007,30,26.12,Produksjon av kretskort,4,26.1
+SN2007,30,26.20,Produksjon av datamaskiner og tilleggsutstyr,4,26.2
+SN2007,30,26.30,Produksjon av kommunikasjonsutstyr,4,26.3
+SN2007,30,26.40,Produksjon av elektronikk til husholdningsbruk,4,26.4
+SN2007,30,26.51,"Produksjon av måle-, kontroll- og navigasjonsinstrumenter",4,26.5
+SN2007,30,26.52,Produksjon av klokker og ur,4,26.5
+SN2007,30,26.60,"Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr",4,26.6
+SN2007,30,26.70,Produksjon av optiske instrumenter og fotografisk utstyr,4,26.7
+SN2007,30,26.80,Produksjon av magnetiske og optiske media,4,26.8
+SN2007,30,26.110,Produksjon av elektroniske komponenter,5,26.11
+SN2007,30,26.120,Produksjon av kretskort,5,26.12
+SN2007,30,26.200,Produksjon av datamaskiner og tilleggsutstyr,5,26.20
+SN2007,30,26.300,Produksjon av kommunikasjonsutstyr,5,26.30
+SN2007,30,26.400,Produksjon av elektronikk til husholdningsbruk,5,26.40
+SN2007,30,26.510,"Produksjon av måle-, kontroll- og navigasjonsinstrumenter",5,26.51
+SN2007,30,26.520,Produksjon av klokker og ur,5,26.52
+SN2007,30,26.600,"Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr",5,26.60
+SN2007,30,26.700,Produksjon av optiske instrumenter og fotografisk utstyr,5,26.70
+SN2007,30,26.800,Produksjon av magnetiske og optiske media,5,26.80
+SN2007,30,27,Produksjon av elektrisk utstyr,2,C
+SN2007,30,27.1,"Produksjon av elektromotorer, generatorer, transformatorer og elektriske fordelings- og kontrolltavler og paneler",3,27
+SN2007,30,27.2,Produksjon av batterier og akkumulatorer,3,27
+SN2007,30,27.3,Produksjon av ledninger og ledningsmateriell,3,27
+SN2007,30,27.4,Produksjon av belysningsutstyr,3,27
+SN2007,30,27.5,Produksjon av husholdningsmaskiner og -apparater,3,27
+SN2007,30,27.9,Produksjon av annet elektrisk utstyr,3,27
+SN2007,30,27.11,"Produksjon av elektromotorer, generatorer og transformatorer",4,27.1
+SN2007,30,27.12,Produksjon av elektriske fordelings- og kontrolltavler og paneler,4,27.1
+SN2007,30,27.20,Produksjon av batterier og akkumulatorer,4,27.2
+SN2007,30,27.31,Produksjon av optiske fiberkabler,4,27.3
+SN2007,30,27.32,Produksjon av andre elektroniske og elektriske ledninger og kabler,4,27.3
+SN2007,30,27.33,Produksjon av ledningsmateriell,4,27.3
+SN2007,30,27.40,Produksjon av belysningsutstyr,4,27.4
+SN2007,30,27.51,Produksjon av elektriske husholdningsmaskiner og apparater,4,27.5
+SN2007,30,27.52,Produksjon av ikke-elektriske husholdningsmaskiner og apparater,4,27.5
+SN2007,30,27.90,Produksjon av annet elektrisk utstyr,4,27.9
+SN2007,30,27.110,"Produksjon av elektromotorer, generatorer og transformatorer",5,27.11
+SN2007,30,27.120,Produksjon av elektriske fordelings- og kontrolltavler og paneler,5,27.12
+SN2007,30,27.200,Produksjon av batterier og akkumulatorer,5,27.20
+SN2007,30,27.310,Produksjon av optiske fiberkabler,5,27.31
+SN2007,30,27.320,Produksjon av andre elektroniske og elektriske ledninger og kabler,5,27.32
+SN2007,30,27.330,Produksjon av ledningsmateriell,5,27.33
+SN2007,30,27.400,Produksjon av belysningsutstyr,5,27.40
+SN2007,30,27.510,Produksjon av elektriske husholdningsmaskiner og apparater,5,27.51
+SN2007,30,27.520,Produksjon av ikke-elektriske husholdningsmaskiner og apparater,5,27.52
+SN2007,30,27.900,Produksjon av annet elektrisk utstyr,5,27.90
+SN2007,30,28,"Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted",2,C
+SN2007,30,28.1,Produksjon av maskiner og utstyr til generell bruk,3,28
+SN2007,30,28.2,Produksjon av andre maskiner og annet utstyr til generell bruk,3,28
+SN2007,30,28.3,Produksjon av jordbruks- og skogbruksmaskiner,3,28
+SN2007,30,28.4,Produksjon av maskiner til metallbearbeiding og annet maskinverktøy,3,28
+SN2007,30,28.9,Produksjon av andre spesialmaskiner,3,28
+SN2007,30,28.11,"Produksjon av motorer og turbiner, unntatt motorer til luftfartøyer og motorvogner",4,28.1
+SN2007,30,28.12,Produksjon av komponenter til hydraulisk og pneumatisk utstyr,4,28.1
+SN2007,30,28.13,Produksjon av pumper og kompressorer ellers,4,28.1
+SN2007,30,28.14,Produksjon av kraner og ventiler ellers,4,28.1
+SN2007,30,28.15,"Produksjon av lagre, gir, tannhjulsutvekslinger og andre innretninger for kraftoverføring",4,28.1
+SN2007,30,28.21,Produksjon av industri- og laboratorieovner samt brennere,4,28.2
+SN2007,30,28.22,Produksjon av løfte- og håndteringsutstyr,4,28.2
+SN2007,30,28.23,Produksjon av kontormaskiner og utstyr (unntatt datamaskiner og tilleggsutstyr),4,28.2
+SN2007,30,28.24,Produksjon av motordrevet håndverktøy,4,28.2
+SN2007,30,28.25,"Produksjon av kjøle- og ventilasjonsanlegg, unntatt til husholdningsbruk",4,28.2
+SN2007,30,28.29,"Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted",4,28.2
+SN2007,30,28.30,Produksjon av jordbruks- og skogbruksmaskiner,4,28.3
+SN2007,30,28.41,Produksjon av maskinverktøy til metallbearbeiding,4,28.4
+SN2007,30,28.49,Produksjon av maskinverktøy ikke nevnt annet sted,4,28.4
+SN2007,30,28.91,Produksjon av maskiner og utstyr til metallurgisk industri,4,28.9
+SN2007,30,28.92,Produksjon av maskiner og utstyr til bergverksdrift og bygge- og anleggsvirksomhet,4,28.9
+SN2007,30,28.93,Produksjon av maskiner og utstyr til nærings- og nytelsesmiddelindustri,4,28.9
+SN2007,30,28.94,"Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvareindustri",4,28.9
+SN2007,30,28.95,Produksjon av maskiner og utstyr til papir- og pappvareindustri,4,28.9
+SN2007,30,28.96,Produksjon av maskiner og utstyr til plast- og gummiindustri,4,28.9
+SN2007,30,28.99,Produksjon av spesialmaskiner ikke nevnt annet sted,4,28.9
+SN2007,30,28.110,"Produksjon av motorer og turbiner, unntatt motorer til luftfartøyer og motorvogner",5,28.11
+SN2007,30,28.120,Produksjon av komponenter til hydraulisk og pneumatisk utstyr,5,28.12
+SN2007,30,28.130,Produksjon av pumper og kompressorer ellers,5,28.13
+SN2007,30,28.140,Produksjon av kraner og ventiler ellers,5,28.14
+SN2007,30,28.150,"Produksjon av lagre, gir, tannhjulsutvekslinger og andre innretninger for kraftoverføring",5,28.15
+SN2007,30,28.210,Produksjon av industri- og laboratorieovner samt brennere,5,28.21
+SN2007,30,28.221,Produksjon av løfte- og håndteringsutstyr til skip og båter,5,28.22
+SN2007,30,28.229,Produksjon av løfte- og håndteringsutstyr ellers,5,28.22
+SN2007,30,28.230,Produksjon av kontormaskiner og utstyr (unntatt datamaskiner og tilleggsutstyr),5,28.23
+SN2007,30,28.240,Produksjon av motordrevet håndverktøy,5,28.24
+SN2007,30,28.250,"Produksjon av kjøle- og ventilasjonsanlegg, unntatt til husholdningsbruk",5,28.25
+SN2007,30,28.290,"Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted",5,28.29
+SN2007,30,28.300,Produksjon av jordbruks- og skogbruksmaskiner,5,28.30
+SN2007,30,28.410,Produksjon av maskinverktøy til metallbearbeiding,5,28.41
+SN2007,30,28.490,Produksjon av maskinverktøy ikke nevnt annet sted,5,28.49
+SN2007,30,28.910,Produksjon av maskiner og utstyr til metallurgisk industri,5,28.91
+SN2007,30,28.920,Produksjon av maskiner og utstyr til bergverksdrift og bygge- og anleggsvirksomhet,5,28.92
+SN2007,30,28.930,Produksjon av maskiner og utstyr til nærings- og nytelsesmiddelindustri,5,28.93
+SN2007,30,28.940,"Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvareindustri",5,28.94
+SN2007,30,28.950,Produksjon av maskiner og utstyr til papir- og pappvareindustri,5,28.95
+SN2007,30,28.960,Produksjon av maskiner og utstyr til plast- og gummiindustri,5,28.96
+SN2007,30,28.990,Produksjon av spesialmaskiner ikke nevnt annet sted,5,28.99
+SN2007,30,29,Produksjon av motorvogner og tilhengere,2,C
+SN2007,30,29.1,Produksjon av motorvogner,3,29
+SN2007,30,29.2,Produksjon av karosserier og tilhengere,3,29
+SN2007,30,29.3,Produksjon av deler og utstyr til motorvogner,3,29
+SN2007,30,29.10,Produksjon av motorvogner,4,29.1
+SN2007,30,29.20,Produksjon av karosserier og tilhengere,4,29.2
+SN2007,30,29.31,Produksjon av elektrisk og elektronisk utstyr til motorvogner,4,29.3
+SN2007,30,29.32,Produksjon av andre deler og annet utstyr til motorvogner,4,29.3
+SN2007,30,29.100,Produksjon av motorvogner,5,29.10
+SN2007,30,29.200,Produksjon av karosserier og tilhengere,5,29.20
+SN2007,30,29.310,Produksjon av elektrisk og elektronisk utstyr til motorvogner,5,29.31
+SN2007,30,29.320,Produksjon av andre deler og annet utstyr til motorvogner,5,29.32
+SN2007,30,30,Produksjon av andre transportmidler,2,C
+SN2007,30,30.1,Bygging av skip og båter,3,30
+SN2007,30,30.2,Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei,3,30
+SN2007,30,30.3,Produksjon av luftfartøyer og romfartøyer og lignende utstyr,3,30
+SN2007,30,30.4,Produksjon av militære stridskjøretøyer,3,30
+SN2007,30,30.9,Produksjon av transportmidler ikke nevnt annet sted,3,30
+SN2007,30,30.11,Bygging av skip og flytende materiell,4,30.1
+SN2007,30,30.12,Bygging av fritidsbåter,4,30.1
+SN2007,30,30.20,Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei,4,30.2
+SN2007,30,30.30,Produksjon av luftfartøyer og romfartøyer og lignende utstyr,4,30.3
+SN2007,30,30.40,Produksjon av militære stridskjøretøyer,4,30.4
+SN2007,30,30.91,Produksjon av motorsykler,4,30.9
+SN2007,30,30.92,Produksjon av sykler og invalidevogner,4,30.9
+SN2007,30,30.99,Produksjon av andre transportmidler ikke nevnt annet sted,4,30.9
+SN2007,30,30.111,Bygging av skip og skrog over 100 br.tonn,5,30.11
+SN2007,30,30.112,Bygging av skip under 100 br.tonn,5,30.11
+SN2007,30,30.113,Bygging av oljeplattformer og moduler,5,30.11
+SN2007,30,30.114,Produksjon av annet flytende materiell,5,30.11
+SN2007,30,30.115,Innrednings- og installasjonsarbeid utført på skip over 100 br.tonn,5,30.11
+SN2007,30,30.116,Innrednings- og installasjonsarbeid utført på oljeplattformer og moduler,5,30.11
+SN2007,30,30.120,Bygging av fritidsbåter,5,30.12
+SN2007,30,30.200,Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei,5,30.20
+SN2007,30,30.300,Produksjon av luftfartøyer og romfartøyer og lignende utstyr,5,30.30
+SN2007,30,30.400,Produksjon av militære stridskjøretøyer,5,30.40
+SN2007,30,30.910,Produksjon av motorsykler,5,30.91
+SN2007,30,30.920,Produksjon av sykler og invalidevogner,5,30.92
+SN2007,30,30.990,Produksjon av andre transportmidler ikke nevnt annet sted,5,30.99
+SN2007,30,31,Produksjon av møbler,2,C
+SN2007,30,31.0,Produksjon av møbler,3,31
+SN2007,30,31.01,Produksjon av kontor- og butikkmøbler,4,31.0
+SN2007,30,31.02,Produksjon av kjøkkenmøbler,4,31.0
+SN2007,30,31.03,Produksjon av madrasser,4,31.0
+SN2007,30,31.09,Produksjon av møbler ellers,4,31.0
+SN2007,30,31.010,Produksjon av kontor- og butikkmøbler,5,31.01
+SN2007,30,31.020,Produksjon av kjøkkenmøbler,5,31.02
+SN2007,30,31.030,Produksjon av madrasser,5,31.03
+SN2007,30,31.090,Produksjon av møbler ellers,5,31.09
+SN2007,30,32,Annen industriproduksjon,2,C
+SN2007,30,32.1,"Produksjon av gull- og sølvvarer, bijouteri og lignende artikler",3,32
+SN2007,30,32.2,Produksjon av musikkinstrumenter,3,32
+SN2007,30,32.3,Produksjon av sportsartikler,3,32
+SN2007,30,32.4,Produksjon av spill og leker,3,32
+SN2007,30,32.5,Produksjon av medisinske og tanntekniske instrumenter og utstyr,3,32
+SN2007,30,32.9,Industriproduksjon ikke nevnt annet sted,3,32
+SN2007,30,32.11,Preging av mynter og medaljer,4,32.1
+SN2007,30,32.12,Produksjon av gull- og sølvvarer og lignende artikler,4,32.1
+SN2007,30,32.13,Produksjon av bijouteri og lignende artikler,4,32.1
+SN2007,30,32.20,Produksjon av musikkinstrumenter,4,32.2
+SN2007,30,32.30,Produksjon av sportsartikler,4,32.3
+SN2007,30,32.40,Produksjon av spill og leker,4,32.4
+SN2007,30,32.50,Produksjon av medisinske og tanntekniske instrumenter og utstyr,4,32.5
+SN2007,30,32.91,Produksjon av koster og børster,4,32.9
+SN2007,30,32.99,Annen industriproduksjon ikke nevnt annet sted,4,32.9
+SN2007,30,32.110,Preging av mynter og medaljer,5,32.11
+SN2007,30,32.120,Produksjon av gull- og sølvvarer og lignende artikler,5,32.12
+SN2007,30,32.130,Produksjon av bijouteri og lignende artikler,5,32.13
+SN2007,30,32.200,Produksjon av musikkinstrumenter,5,32.20
+SN2007,30,32.300,Produksjon av sportsartikler,5,32.30
+SN2007,30,32.400,Produksjon av spill og leker,5,32.40
+SN2007,30,32.500,Produksjon av medisinske og tanntekniske instrumenter og utstyr,5,32.50
+SN2007,30,32.910,Produksjon av koster og børster,5,32.91
+SN2007,30,32.990,Annen industriproduksjon ikke nevnt annet sted,5,32.99
+SN2007,30,33,Reparasjon og installasjon av maskiner og utstyr,2,C
+SN2007,30,33.1,"Reparasjon av metallvarer, maskiner og utstyr",3,33
+SN2007,30,33.2,Installasjon av industrimaskiner og -utstyr,3,33
+SN2007,30,33.11,Reparasjon av bearbeidede metallprodukter,4,33.1
+SN2007,30,33.12,Reparasjon av maskiner,4,33.1
+SN2007,30,33.13,Reparasjon av elektronisk og optisk utstyr,4,33.1
+SN2007,30,33.14,Reparasjon av elektrisk utstyr,4,33.1
+SN2007,30,33.15,Reparasjon og vedlikehold av skip og båter,4,33.1
+SN2007,30,33.16,Reparasjon og vedlikehold av luftfartøyer og romfartøyer,4,33.1
+SN2007,30,33.17,Reparasjon og vedlikehold av andre transportmidler,4,33.1
+SN2007,30,33.19,Reparasjon av annet utstyr,4,33.1
+SN2007,30,33.20,Installasjon av industrimaskiner og -utstyr,4,33.2
+SN2007,30,33.110,Reparasjon av bearbeidede metallprodukter,5,33.11
+SN2007,30,33.120,Reparasjon av maskiner,5,33.12
+SN2007,30,33.130,Reparasjon av elektronisk og optisk utstyr,5,33.13
+SN2007,30,33.140,Reparasjon av elektrisk utstyr,5,33.14
+SN2007,30,33.150,Reparasjon og vedlikehold av skip og båter,5,33.15
+SN2007,30,33.160,Reparasjon og vedlikehold av luftfartøyer og romfartøyer,5,33.16
+SN2007,30,33.170,Reparasjon og vedlikehold av andre transportmidler,5,33.17
+SN2007,30,33.190,Reparasjon av annet utstyr,5,33.19
+SN2007,30,33.200,Installasjon av industrimaskiner og -utstyr,5,33.20
+SN2007,30,35,"Elektrisitets-, gass-, damp- og varmtvannsforsyning",2,D
+SN2007,30,35.1,"Produksjon, overføring og distribusjon av elektrisitet",3,35
+SN2007,30,35.2,Produksjon av gass og distribusjon av gass gjennom ledningsnett,3,35
+SN2007,30,35.3,Damp- og varmtvannsforsyning,3,35
+SN2007,30,35.11,Produksjon av elektrisitet,4,35.1
+SN2007,30,35.12,Overføring av elektrisitet,4,35.1
+SN2007,30,35.13,Distribusjon av elektrisitet,4,35.1
+SN2007,30,35.14,Handel med elektrisitet,4,35.1
+SN2007,30,35.21,Produksjon av gass,4,35.2
+SN2007,30,35.22,Distribusjon av gass gjennom ledningsnett,4,35.2
+SN2007,30,35.23,Handel med gass gjennom ledningsnett,4,35.2
+SN2007,30,35.30,Damp- og varmtvannsforsyning,4,35.3
+SN2007,30,35.111,Produksjon av elektrisitet fra vannkraft,5,35.11
+SN2007,30,35.112,Produksjon av elektrisitet fra vindkraft,5,35.11
+SN2007,30,35.113,Produksjon av elektrisitet fra biobrensel,5,35.11
+SN2007,30,35.114,Produksjon av elektrisitet fra naturgass,5,35.11
+SN2007,30,35.119,Produksjon av elektrisitet ellers,5,35.11
+SN2007,30,35.120,Overføring av elektrisitet,5,35.12
+SN2007,30,35.130,Distribusjon av elektrisitet,5,35.13
+SN2007,30,35.140,Handel med elektrisitet,5,35.14
+SN2007,30,35.210,Produksjon av gass,5,35.21
+SN2007,30,35.220,Distribusjon av gass gjennom ledningsnett,5,35.22
+SN2007,30,35.230,Handel med gass gjennom ledningsnett,5,35.23
+SN2007,30,35.300,Damp- og varmtvannsforsyning,5,35.30
+SN2007,30,36,"Uttak fra kilde, rensing og distribusjon av vann",2,E
+SN2007,30,36.0,"Uttak fra kilde, rensing og distribusjon av vann",3,36
+SN2007,30,36.00,"Uttak fra kilde, rensing og distribusjon av vann",4,36.0
+SN2007,30,36.000,"Uttak fra kilde, rensing og distribusjon av vann",5,36.00
+SN2007,30,37,Oppsamling og behandling av avløpsvann,2,E
+SN2007,30,37.0,Oppsamling og behandling av avløpsvann,3,37
+SN2007,30,37.00,Oppsamling og behandling av avløpsvann,4,37.0
+SN2007,30,37.000,Oppsamling og behandling av avløpsvann,5,37.00
+SN2007,30,38,"Innsamling, behandling, disponering og gjenvinning av avfall",2,E
+SN2007,30,38.1,Innsamling av avfall,3,38
+SN2007,30,38.2,Behandling og disponering av avfall,3,38
+SN2007,30,38.3,Materialgjenvinning,3,38
+SN2007,30,38.11,Innsamling av ikke-farlig avfall,4,38.1
+SN2007,30,38.12,Innsamling av farlig avfall,4,38.1
+SN2007,30,38.21,Behandling og disponering av ikke-farlig avfall,4,38.2
+SN2007,30,38.22,Behandling og disponering av farlig avfall,4,38.2
+SN2007,30,38.31,Demontering av vrakede gjenstander,4,38.3
+SN2007,30,38.32,Sortering og bearbeiding av avfall for materialgjenvinning,4,38.3
+SN2007,30,38.110,Innsamling av ikke-farlig avfall,5,38.11
+SN2007,30,38.120,Innsamling av farlig avfall,5,38.12
+SN2007,30,38.210,Behandling og disponering av ikke-farlig avfall,5,38.21
+SN2007,30,38.220,Behandling og disponering av farlig avfall,5,38.22
+SN2007,30,38.310,Demontering av vrakede gjenstander,5,38.31
+SN2007,30,38.320,Sortering og bearbeiding av avfall for materialgjenvinning,5,38.32
+SN2007,30,39,"Miljørydding, miljørensing og lignende virksomhet",2,E
+SN2007,30,39.0,"Miljørydding, miljørensing og lignende virksomhet",3,39
+SN2007,30,39.00,"Miljørydding, miljørensing og lignende virksomhet",4,39.0
+SN2007,30,39.000,"Miljørydding, miljørensing og lignende virksomhet",5,39.00
+SN2007,30,41,Oppføring av bygninger,2,F
+SN2007,30,41.1,Utvikling av byggeprosjekter,3,41
+SN2007,30,41.2,Oppføring av bygninger,3,41
+SN2007,30,41.10,Utvikling av byggeprosjekter,4,41.1
+SN2007,30,41.20,Oppføring av bygninger,4,41.2
+SN2007,30,41.101,Boligbyggelag,5,41.10
+SN2007,30,41.109,Utvikling og salg av egen fast eiendom ellers,5,41.10
+SN2007,30,41.200,Oppføring av bygninger,5,41.20
+SN2007,30,42,Anleggsvirksomhet,2,F
+SN2007,30,42.1,Bygging av veier og jernbaner,3,42
+SN2007,30,42.2,"Bygging av vann- og kloakkanlegg, og anlegg for elektrisitet og telekommunikasjon",3,42
+SN2007,30,42.9,Bygging av andre anlegg,3,42
+SN2007,30,42.11,Bygging av veier og motorveier,4,42.1
+SN2007,30,42.12,Bygging av jernbaner og undergrunnsbaner,4,42.1
+SN2007,30,42.13,Bygging av bruer og tunneler,4,42.1
+SN2007,30,42.21,Bygging av vann- og kloakkanlegg,4,42.2
+SN2007,30,42.22,Bygging av anlegg for elektrisitet og telekommunikasjon,4,42.2
+SN2007,30,42.91,Bygging av havne- og damanlegg,4,42.9
+SN2007,30,42.99,Bygging av andre anlegg ikke nevnt annet sted,4,42.9
+SN2007,30,42.110,Bygging av veier og motorveier,5,42.11
+SN2007,30,42.120,Bygging av jernbaner og undergrunnsbaner,5,42.12
+SN2007,30,42.130,Bygging av bruer og tunneler,5,42.13
+SN2007,30,42.210,Bygging av vann- og kloakkanlegg,5,42.21
+SN2007,30,42.220,Bygging av anlegg for elektrisitet og telekommunikasjon,5,42.22
+SN2007,30,42.910,Bygging av havne- og damanlegg,5,42.91
+SN2007,30,42.990,Bygging av andre anlegg ikke nevnt annet sted,5,42.99
+SN2007,30,43,Spesialisert bygge- og anleggsvirksomhet,2,F
+SN2007,30,43.1,Riving og grunnarbeid,3,43
+SN2007,30,43.2,"Elektrisk installasjonsarbeid, VVS-arbeid og annet installasjonsarbeid",3,43
+SN2007,30,43.3,Ferdiggjøring av bygninger,3,43
+SN2007,30,43.9,Annen spesialisert bygge- og anleggsvirksomhet,3,43
+SN2007,30,43.11,Riving av bygninger og andre konstruksjoner,4,43.1
+SN2007,30,43.12,Grunnarbeid,4,43.1
+SN2007,30,43.13,Prøveboring,4,43.1
+SN2007,30,43.21,Elektrisk installasjonsarbeid,4,43.2
+SN2007,30,43.22,VVS-arbeid,4,43.2
+SN2007,30,43.29,Annet installasjonsarbeid,4,43.2
+SN2007,30,43.31,Stukkatørarbeid og pussing,4,43.3
+SN2007,30,43.32,Snekkerarbeid,4,43.3
+SN2007,30,43.33,Gulvlegging og tapetsering,4,43.3
+SN2007,30,43.34,Maler- og glassarbeid,4,43.3
+SN2007,30,43.39,Annen ferdiggjøring av bygninger,4,43.3
+SN2007,30,43.91,Takarbeid,4,43.9
+SN2007,30,43.99,Annen spesialisert bygge- og anleggsvirksomhet,4,43.9
+SN2007,30,43.110,Riving av bygninger og andre konstruksjoner,5,43.11
+SN2007,30,43.120,Grunnarbeid,5,43.12
+SN2007,30,43.130,Prøveboring,5,43.13
+SN2007,30,43.210,Elektrisk installasjonsarbeid,5,43.21
+SN2007,30,43.221,Rørleggerarbeid,5,43.22
+SN2007,30,43.222,Kuldeanlegg- og varmepumpearbeid,5,43.22
+SN2007,30,43.223,Ventilasjonsarbeid,5,43.22
+SN2007,30,43.290,Annet installasjonsarbeid,5,43.29
+SN2007,30,43.310,Stukkatørarbeid og pussing,5,43.31
+SN2007,30,43.320,Snekkerarbeid,5,43.32
+SN2007,30,43.330,Gulvlegging og tapetsering,5,43.33
+SN2007,30,43.341,Malerarbeid,5,43.34
+SN2007,30,43.342,Glassarbeid,5,43.34
+SN2007,30,43.390,Annen ferdiggjøring av bygninger,5,43.39
+SN2007,30,43.911,Blikkenslagerarbeid,5,43.91
+SN2007,30,43.919,Takarbeid ellers,5,43.91
+SN2007,30,43.990,Annen spesialisert bygge- og anleggsvirksomhet,5,43.99
+SN2007,30,45,Handel med og reparasjon av motorvogner,2,G
+SN2007,30,45.1,"Handel med motorvogner, unntatt motorsykler",3,45
+SN2007,30,45.2,"Vedlikehold og reparasjon av motorvogner, unntatt motorsykler",3,45
+SN2007,30,45.3,"Handel med deler og utstyr til motorvogner, unntatt motorsykler",3,45
+SN2007,30,45.4,"Handel med motorsykler, deler og utstyr. Vedlikehold og reparasjon av motorsykler",3,45
+SN2007,30,45.11,"Handel med biler og lette motorvogner, unntatt motorsykler",4,45.1
+SN2007,30,45.19,"Handel med andre motorvogner, unntatt motorsykler",4,45.1
+SN2007,30,45.20,"Vedlikehold og reparasjon av motorvogner, unntatt motorsykler",4,45.2
+SN2007,30,45.31,"Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler",4,45.3
+SN2007,30,45.32,"Detaljhandel med deler og utstyr til motorvogner, unntatt motorsykler",4,45.3
+SN2007,30,45.40,"Handel med motorsykler, deler og utstyr. Vedlikehold og reparasjon av motorsykler",4,45.4
+SN2007,30,45.111,"Agentur- og engroshandel med biler og lette motorvogner, unntatt motorsykler",5,45.11
+SN2007,30,45.112,"Detaljhandel med biler og lette motorvogner, unntatt motorsykler",5,45.11
+SN2007,30,45.191,"Agentur- og engroshandel med andre motorvogner, unntatt motorsykler",5,45.19
+SN2007,30,45.192,"Detaljhandel med andre motorvogner, unntatt motorsykler",5,45.19
+SN2007,30,45.200,"Vedlikehold og reparasjon av motorvogner, unntatt motorsykler",5,45.20
+SN2007,30,45.310,"Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler",5,45.31
+SN2007,30,45.320,"Detaljhandel med deler og utstyr til motorvogner, unntatt motorsykler",5,45.32
+SN2007,30,45.401,"Agentur- og engroshandel med motorsykler, deler og utstyr",5,45.40
+SN2007,30,45.402,"Detaljhandel med motorsykler, deler og utstyr",5,45.40
+SN2007,30,45.403,Vedlikehold og reparasjon av motorsykler,5,45.40
+SN2007,30,46,"Agentur- og engroshandel, unntatt med motorvogner",2,G
+SN2007,30,46.1,Agenturhandel,3,46
+SN2007,30,46.2,Engroshandel med jordbruksråvarer og levende dyr,3,46
+SN2007,30,46.3,Engroshandel med nærings- og nytelsesmidler,3,46
+SN2007,30,46.4,Engroshandel med husholdningsvarer og varer til personlig bruk,3,46
+SN2007,30,46.5,Engroshandel med IKT-utstyr,3,46
+SN2007,30,46.6,Engroshandel med andre maskiner og annet utstyr,3,46
+SN2007,30,46.7,Engroshandel med spesialisert vareutvalg ellers,3,46
+SN2007,30,46.9,Uspesifisert engroshandel,3,46
+SN2007,30,46.11,"Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og innsatsvarer",4,46.1
+SN2007,30,46.12,"Agenturhandel med brensel, drivstoff, malm, metaller og industrikjemikalier",4,46.1
+SN2007,30,46.13,"Agenturhandel med tømmer, trelast og byggevarer",4,46.1
+SN2007,30,46.14,"Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøyer",4,46.1
+SN2007,30,46.15,"Agenturhandel med møbler, husholdningsvarer og jernvarer",4,46.1
+SN2007,30,46.16,"Agenturhandel med tekstiler, klær, pelsskinn, skotøy og lærvarer",4,46.1
+SN2007,30,46.17,Agenturhandel med nærings- og nytelsesmidler,4,46.1
+SN2007,30,46.18,Agenturhandel med spesialisert vareutvalg ellers,4,46.1
+SN2007,30,46.19,Agenturhandel med bredt vareutvalg,4,46.1
+SN2007,30,46.21,"Engroshandel med korn, råtobakk, såvarer og fôrvarer",4,46.2
+SN2007,30,46.22,Engroshandel med blomster og planter,4,46.2
+SN2007,30,46.23,Engroshandel med levende dyr,4,46.2
+SN2007,30,46.24,"Engroshandel med huder, skinn og lær",4,46.2
+SN2007,30,46.31,Engroshandel med frukt og grønnsaker,4,46.3
+SN2007,30,46.32,Engroshandel med kjøtt og kjøttvarer,4,46.3
+SN2007,30,46.33,"Engroshandel med meierivarer, egg, matolje og -fett",4,46.3
+SN2007,30,46.34,Engroshandel med drikkevarer,4,46.3
+SN2007,30,46.35,Engroshandel med tobakksvarer,4,46.3
+SN2007,30,46.36,"Engroshandel med sukker, sjokolade og sukkervarer",4,46.3
+SN2007,30,46.37,"Engroshandel med kaffe, te, kakao og krydder",4,46.3
+SN2007,30,46.38,"Engroshandel med andre næringsmidler, herunder fisk, skalldyr og bløtdyr",4,46.3
+SN2007,30,46.39,Engroshandel med bredt utvalg av nærings- og nytelsesmidler,4,46.3
+SN2007,30,46.41,Engroshandel med tekstiler og utstyrsvarer,4,46.4
+SN2007,30,46.42,Engroshandel med klær og skotøy,4,46.4
+SN2007,30,46.43,Engroshandel med elektriske husholdningsapparater,4,46.4
+SN2007,30,46.44,"Engroshandel med kjøkkenutstyr, glass, steintøy og rengjøringsmidler",4,46.4
+SN2007,30,46.45,Engroshandel med parfyme og kosmetikk,4,46.4
+SN2007,30,46.46,Engroshandel med sykepleie- og apotekvarer,4,46.4
+SN2007,30,46.47,"Engroshandel med møbler, gulvbelegg, gulvtepper og belysningsutstyr",4,46.4
+SN2007,30,46.48,"Engroshandel med klokker, ur, gull- og sølvvarer",4,46.4
+SN2007,30,46.49,Engroshandel med husholdningsvarer og varer til personlig bruk ellers,4,46.4
+SN2007,30,46.51,"Engroshandel med datamaskiner, tilleggsutstyr til datamaskiner samt programvare",4,46.5
+SN2007,30,46.52,Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler,4,46.5
+SN2007,30,46.61,Engroshandel med maskiner og utstyr til jordbruk og skogbruk,4,46.6
+SN2007,30,46.62,Engroshandel med maskinverktøy,4,46.6
+SN2007,30,46.63,"Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",4,46.6
+SN2007,30,46.64,Engroshandel med maskiner og utstyr til tekstilproduksjon,4,46.6
+SN2007,30,46.65,Engroshandel med kontormøbler,4,46.6
+SN2007,30,46.66,Engroshandel med maskiner og utstyr til kontor ellers,4,46.6
+SN2007,30,46.69,Engroshandel med maskiner og utstyr ellers,4,46.6
+SN2007,30,46.71,Engroshandel med drivstoff og brensel,4,46.7
+SN2007,30,46.72,Engroshandel med metaller og metallholdig malm,4,46.7
+SN2007,30,46.73,"Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",4,46.7
+SN2007,30,46.74,"Engroshandel med jernvarer, rørleggerartikler og oppvarmingsutstyr",4,46.7
+SN2007,30,46.75,Engroshandel med kjemiske produkter,4,46.7
+SN2007,30,46.76,Engroshandel med innsatsvarer ellers,4,46.7
+SN2007,30,46.77,Engroshandel med avfall og skrap,4,46.7
+SN2007,30,46.90,Uspesifisert engroshandel,4,46.9
+SN2007,30,46.110,"Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og innsatsvarer",5,46.11
+SN2007,30,46.120,"Agenturhandel med brensel, drivstoff, malm, metaller og industrikjemikalier",5,46.12
+SN2007,30,46.130,"Agenturhandel med tømmer, trelast og byggevarer",5,46.13
+SN2007,30,46.140,"Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøyer",5,46.14
+SN2007,30,46.150,"Agenturhandel med møbler, husholdningsvarer og jernvarer",5,46.15
+SN2007,30,46.160,"Agenturhandel med tekstiler, klær, pelsskinn, skotøy og lærvarer",5,46.16
+SN2007,30,46.170,Agenturhandel med nærings- og nytelsesmidler,5,46.17
+SN2007,30,46.180,Agenturhandel med spesialisert vareutvalg ellers,5,46.18
+SN2007,30,46.190,Agenturhandel med bredt vareutvalg,5,46.19
+SN2007,30,46.210,"Engroshandel med korn, råtobakk, såvarer og fôrvarer",5,46.21
+SN2007,30,46.220,Engroshandel med blomster og planter,5,46.22
+SN2007,30,46.230,Engroshandel med levende dyr,5,46.23
+SN2007,30,46.240,"Engroshandel med huder, skinn og lær",5,46.24
+SN2007,30,46.310,Engroshandel med frukt og grønnsaker,5,46.31
+SN2007,30,46.320,Engroshandel med kjøtt og kjøttvarer,5,46.32
+SN2007,30,46.330,"Engroshandel med meierivarer, egg, matolje og -fett",5,46.33
+SN2007,30,46.341,Engroshandel med vin og brennevin,5,46.34
+SN2007,30,46.349,Engroshandel med drikkevarer ellers,5,46.34
+SN2007,30,46.350,Engroshandel med tobakksvarer,5,46.35
+SN2007,30,46.360,"Engroshandel med sukker, sjokolade og sukkervarer",5,46.36
+SN2007,30,46.370,"Engroshandel med kaffe, te, kakao og krydder",5,46.37
+SN2007,30,46.381,"Engroshandel med fisk, skalldyr og bløtdyr",5,46.38
+SN2007,30,46.389,Engroshandel med spesialisert utvalg av nærings- og nytelsesmidler ikke nevnt annet sted,5,46.38
+SN2007,30,46.390,Engroshandel med bredt utvalg av nærings- og nytelsesmidler,5,46.39
+SN2007,30,46.410,Engroshandel med tekstiler og utstyrsvarer,5,46.41
+SN2007,30,46.421,Engroshandel med klær,5,46.42
+SN2007,30,46.422,Engroshandel med skotøy,5,46.42
+SN2007,30,46.431,Engroshandel med elektriske husholdningsapparater og -maskiner,5,46.43
+SN2007,30,46.432,Engroshandel med radio og fjernsyn,5,46.43
+SN2007,30,46.433,"Engroshandel med plater, musikk- og videokassetter og CD- og DVD-plater",5,46.43
+SN2007,30,46.434,Engroshandel med fotoutstyr,5,46.43
+SN2007,30,46.435,Engroshandel med optiske artikler,5,46.43
+SN2007,30,46.441,"Engroshandel med kjøkkenutstyr, glass og steintøy",5,46.44
+SN2007,30,46.442,Engroshandel med rengjøringsmidler,5,46.44
+SN2007,30,46.450,Engroshandel med parfyme og kosmetikk,5,46.45
+SN2007,30,46.460,Engroshandel med sykepleie- og apotekvarer,5,46.46
+SN2007,30,46.471,Engroshandel med møbler,5,46.47
+SN2007,30,46.472,Engroshandel med gulvtepper,5,46.47
+SN2007,30,46.473,Engroshandel med belysningsutstyr,5,46.47
+SN2007,30,46.481,Engroshandel med klokker og ur,5,46.48
+SN2007,30,46.482,Engroshandel med gull- og sølvvarer,5,46.48
+SN2007,30,46.491,"Engroshandel med bøker, aviser og blader",5,46.49
+SN2007,30,46.492,Engroshandel med reiseeffekter og lærvarer,5,46.49
+SN2007,30,46.493,Engroshandel med fritidsbåter og -utstyr,5,46.49
+SN2007,30,46.494,Engroshandel med sportsutstyr,5,46.49
+SN2007,30,46.495,Engroshandel med spill og leker,5,46.49
+SN2007,30,46.499,Engroshandel med husholdningsvarer og varer til personlig bruk ikke nevnt annet sted,5,46.49
+SN2007,30,46.510,"Engroshandel med datamaskiner, tilleggsutstyr til datamaskiner samt programvare",5,46.51
+SN2007,30,46.520,Engroshandel med elektronikkutstyr og telekommunikasjonsutstyr samt deler,5,46.52
+SN2007,30,46.610,Engroshandel med maskiner og utstyr til jordbruk og skogbruk,5,46.61
+SN2007,30,46.620,Engroshandel med maskinverktøy,5,46.62
+SN2007,30,46.630,"Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",5,46.63
+SN2007,30,46.640,Engroshandel med maskiner og utstyr til tekstilproduksjon,5,46.64
+SN2007,30,46.650,Engroshandel med kontormøbler,5,46.65
+SN2007,30,46.660,Engroshandel med maskiner og utstyr til kontor ellers,5,46.66
+SN2007,30,46.691,Engroshandel med maskiner og utstyr til kraftproduksjon og installasjon,5,46.69
+SN2007,30,46.692,Engroshandel med skipsutstyr og fiskeredskap,5,46.69
+SN2007,30,46.693,Engroshandel med maskiner og utstyr til industri ellers,5,46.69
+SN2007,30,46.694,"Engroshandel med maskiner og utstyr til handel, transport og tjenesteyting ellers",5,46.69
+SN2007,30,46.710,Engroshandel med drivstoff og brensel,5,46.71
+SN2007,30,46.720,Engroshandel med metaller og metallholdig malm,5,46.72
+SN2007,30,46.731,Engroshandel med tømmer,5,46.73
+SN2007,30,46.732,Engroshandel med trelast,5,46.73
+SN2007,30,46.733,Engroshandel med fargevarer,5,46.73
+SN2007,30,46.739,Engroshandel med byggevarer ikke nevnt annet sted,5,46.73
+SN2007,30,46.740,"Engroshandel med jernvarer, rørleggerartikler og oppvarmingsutstyr",5,46.74
+SN2007,30,46.750,Engroshandel med kjemiske produkter,5,46.75
+SN2007,30,46.761,Engroshandel med papir og papp,5,46.76
+SN2007,30,46.769,Engroshandel med innsatsvarer ikke nevnt annet sted,5,46.76
+SN2007,30,46.770,Engroshandel med avfall og skrap,5,46.77
+SN2007,30,46.900,Uspesifisert engroshandel,5,46.90
+SN2007,30,47,"Detaljhandel, unntatt med motorvogner",2,G
+SN2007,30,47.1,Butikkhandel med bredt vareutvalg,3,47
+SN2007,30,47.2,Butikkhandel med nærings- og nytelsesmidler i spesialforretninger,3,47
+SN2007,30,47.3,Detaljhandel med drivstoff til motorvogner,3,47
+SN2007,30,47.4,Butikkhandel med IKT-utstyr i spesialforretninger,3,47
+SN2007,30,47.5,Butikkhandel med andre husholdningsvarer i spesialforretninger,3,47
+SN2007,30,47.6,"Butikkhandel med bøker, musikkartikler og andre fritidsartikler i spesialforretninger",3,47
+SN2007,30,47.7,Annen butikkhandel i spesialforretninger,3,47
+SN2007,30,47.8,Torghandel,3,47
+SN2007,30,47.9,Detaljhandel utenom utsalgssted,3,47
+SN2007,30,47.11,Butikkhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler,4,47.1
+SN2007,30,47.19,Butikkhandel med bredt vareutvalg ellers,4,47.1
+SN2007,30,47.21,Butikkhandel med frukt og grønnsaker,4,47.2
+SN2007,30,47.22,Butikkhandel med kjøtt og kjøttvarer,4,47.2
+SN2007,30,47.23,"Butikkhandel med fisk, skalldyr og bløtdyr",4,47.2
+SN2007,30,47.24,"Butikkhandel med bakervarer, konditorvarer og sukkervarer",4,47.2
+SN2007,30,47.25,Butikkhandel med drikkevarer,4,47.2
+SN2007,30,47.26,Butikkhandel med tobakksvarer,4,47.2
+SN2007,30,47.29,Butikkhandel med nærings- og nytelsesmidler ellers,4,47.2
+SN2007,30,47.30,Detaljhandel med drivstoff til motorvogner,4,47.3
+SN2007,30,47.41,Butikkhandel med datamaskiner og utstyr til datamaskiner,4,47.4
+SN2007,30,47.42,Butikkhandel med telekommunikasjonsutstyr,4,47.4
+SN2007,30,47.43,Butikkhandel med audio- og videoutstyr,4,47.4
+SN2007,30,47.51,Butikkhandel med tekstiler og utstyrsvarer,4,47.5
+SN2007,30,47.52,"Butikkhandel med jernvarer, fargevarer og glass",4,47.5
+SN2007,30,47.53,"Butikkhandel med tapeter, gulvtepper og gardiner",4,47.5
+SN2007,30,47.54,Butikkhandel med elektriske husholdningsapparater,4,47.5
+SN2007,30,47.59,"Butikkhandel med møbler, belysningsutstyr og andre innredningsartikler",4,47.5
+SN2007,30,47.61,Butikkhandel med bøker,4,47.6
+SN2007,30,47.62,Butikkhandel med aviser og papirvarer,4,47.6
+SN2007,30,47.63,Butikkhandel med innspillinger av musikk og video,4,47.6
+SN2007,30,47.64,Butikkhandel med sportsutstyr,4,47.6
+SN2007,30,47.65,Butikkhandel med spill og leker,4,47.6
+SN2007,30,47.71,Butikkhandel med klær,4,47.7
+SN2007,30,47.72,Butikkhandel med skotøy og lærvarer,4,47.7
+SN2007,30,47.73,Butikkhandel med apotekvarer,4,47.7
+SN2007,30,47.74,Butikkhandel med medisinske og ortopediske artikler,4,47.7
+SN2007,30,47.75,Butikkhandel med kosmetikk og toalettartikler,4,47.7
+SN2007,30,47.76,"Butikkhandel med blomster og planter, kjæledyr og fôrvarer til kjæledyr",4,47.7
+SN2007,30,47.77,"Butikkhandel med ur, gull- og sølvvarer",4,47.7
+SN2007,30,47.78,Annen butikkhandel med andre nye varer i spesialforretninger,4,47.7
+SN2007,30,47.79,Butikkhandel med brukte varer,4,47.7
+SN2007,30,47.81,"Torghandel med næringsmidler, drikkevarer og tobakksvarer",4,47.8
+SN2007,30,47.82,"Torghandel med tekstiler, klær, skotøy og utstyrsvarer",4,47.8
+SN2007,30,47.89,Torghandel med andre varer,4,47.8
+SN2007,30,47.91,Postordrehandel og handel via Internett,4,47.9
+SN2007,30,47.99,Detaljhandel utenom utsalgssted ellers,4,47.9
+SN2007,30,47.111,Butikkhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler,5,47.11
+SN2007,30,47.112,Kioskhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler,5,47.11
+SN2007,30,47.190,Butikkhandel med bredt vareutvalg ellers,5,47.19
+SN2007,30,47.210,Butikkhandel med frukt og grønnsaker,5,47.21
+SN2007,30,47.220,Butikkhandel med kjøtt og kjøttvarer,5,47.22
+SN2007,30,47.230,"Butikkhandel med fisk, skalldyr og bløtdyr",5,47.23
+SN2007,30,47.241,Butikkhandel med bakervarer og konditorvarer,5,47.24
+SN2007,30,47.242,Butikkhandel med sukkervarer,5,47.24
+SN2007,30,47.251,Butikkhandel med vin og brennevin,5,47.25
+SN2007,30,47.259,Butikkhandel med drikkevarer ellers,5,47.25
+SN2007,30,47.260,Butikkhandel med tobakksvarer,5,47.26
+SN2007,30,47.291,Butikkhandel med helsekost,5,47.29
+SN2007,30,47.292,Butikkhandel med kaffe og te,5,47.29
+SN2007,30,47.299,Butikkhandel med nærings- og nytelsesmidler ikke nevnt annet sted,5,47.29
+SN2007,30,47.300,Detaljhandel med drivstoff til motorvogner,5,47.30
+SN2007,30,47.410,Butikkhandel med datamaskiner og utstyr til datamaskiner,5,47.41
+SN2007,30,47.420,Butikkhandel med telekommunikasjonsutstyr,5,47.42
+SN2007,30,47.430,Butikkhandel med audio- og videoutstyr,5,47.43
+SN2007,30,47.510,Butikkhandel med tekstiler og utstyrsvarer,5,47.51
+SN2007,30,47.521,"Butikkhandel med bredt utvalg av jernvarer, fargevarer og andre byggevarer",5,47.52
+SN2007,30,47.522,Butikkhandel med jernvarer,5,47.52
+SN2007,30,47.523,Butikkhandel med fargevarer,5,47.52
+SN2007,30,47.524,Butikkhandel med trelast,5,47.52
+SN2007,30,47.529,Butikkhandel med byggevarer ikke nevnt annet sted,5,47.52
+SN2007,30,47.531,Butikkhandel med tapeter og gulvbelegg,5,47.53
+SN2007,30,47.532,Butikkhandel med tepper,5,47.53
+SN2007,30,47.533,Butikkhandel med gardiner,5,47.53
+SN2007,30,47.540,Butikkhandel med elektriske husholdningsapparater,5,47.54
+SN2007,30,47.591,Butikkhandel med møbler,5,47.59
+SN2007,30,47.592,Butikkhandel med belysningsutstyr,5,47.59
+SN2007,30,47.593,"Butikkhandel med kjøkkenutstyr, glass og steintøy",5,47.59
+SN2007,30,47.594,Butikkhandel med musikkinstrumenter og noter,5,47.59
+SN2007,30,47.599,Butikkhandel med innredningsartikler ikke nevnt annet sted,5,47.59
+SN2007,30,47.610,Butikkhandel med bøker,5,47.61
+SN2007,30,47.620,Butikkhandel med aviser og papirvarer,5,47.62
+SN2007,30,47.630,Butikkhandel med innspillinger av musikk og video,5,47.63
+SN2007,30,47.641,Butikkhandel med sportsutstyr,5,47.64
+SN2007,30,47.642,Butikkhandel med fritidsbåter og -utstyr,5,47.64
+SN2007,30,47.650,Butikkhandel med spill og leker,5,47.65
+SN2007,30,47.710,Butikkhandel med klær,5,47.71
+SN2007,30,47.721,Butikkhandel med skotøy,5,47.72
+SN2007,30,47.722,Butikkhandel med reiseeffekter av lær og lærimitasjoner og varer av lær,5,47.72
+SN2007,30,47.730,Butikkhandel med apotekvarer,5,47.73
+SN2007,30,47.740,Butikkhandel med medisinske og ortopediske artikler,5,47.74
+SN2007,30,47.750,Butikkhandel med kosmetikk og toalettartikler,5,47.75
+SN2007,30,47.761,Butikkhandel med blomster og planter,5,47.76
+SN2007,30,47.762,Butikkhandel med kjæledyr og fôrvarer til kjæledyr,5,47.76
+SN2007,30,47.771,Butikkhandel med ur og klokker,5,47.77
+SN2007,30,47.772,Butikkhandel med gull- og sølvvarer,5,47.77
+SN2007,30,47.781,Butikkhandel med fotoutstyr,5,47.78
+SN2007,30,47.782,Butikkhandel med optiske artikler,5,47.78
+SN2007,30,47.789,Butikkhandel ikke nevnt annet sted,5,47.78
+SN2007,30,47.791,Butikkhandel med antikviteter,5,47.79
+SN2007,30,47.792,Butikkhandel med brukte klær,5,47.79
+SN2007,30,47.799,Butikkhandel med brukte varer ellers,5,47.79
+SN2007,30,47.810,"Torghandel med næringsmidler, drikkevarer og tobakksvarer",5,47.81
+SN2007,30,47.820,"Torghandel med tekstiler, klær, skotøy og utstyrsvarer",5,47.82
+SN2007,30,47.890,Torghandel med andre varer,5,47.89
+SN2007,30,47.911,Postordre-/Internetthandel med bredt vareutvalg,5,47.91
+SN2007,30,47.912,"Postordre-/Internetthandel med tekstiler, utstyrsvarer, klær, skotøy, reiseeffekter og lærvarer",5,47.91
+SN2007,30,47.913,"Postordre-/Internetthandel med belysningsutstyr, kjøkkenutstyr, møbler og innredningsartikler",5,47.91
+SN2007,30,47.914,"Postordre-/Internetthandel med elektriske husholdningsapparater, radio, fjernsyn, plater, kassetter og musikkinstrumenter",5,47.91
+SN2007,30,47.915,"Postordre-/internetthandel med bøker, papir, aviser og blader",5,47.91
+SN2007,30,47.916,Postordre-/Internetthandel med IKT-utstyr,5,47.91
+SN2007,30,47.917,Postordre-/Internetthandel med helsekost,5,47.91
+SN2007,30,47.919,Postordre-/Internetthandel med annet spesialisert vareutvalg,5,47.91
+SN2007,30,47.990,Detaljhandel utenom utsalgssted ellers,5,47.99
+SN2007,30,49,Landtransport og rørtransport,2,H
+SN2007,30,49.1,Passasjertransport med jernbane,3,49
+SN2007,30,49.2,Godstransport med jernbane,3,49
+SN2007,30,49.3,Annen landtransport med passasjerer,3,49
+SN2007,30,49.4,"Godstransport på vei, herunder flyttetransport",3,49
+SN2007,30,49.5,Rørtransport,3,49
+SN2007,30,49.10,Passasjertransport med jernbane,4,49.1
+SN2007,30,49.20,Godstransport med jernbane,4,49.2
+SN2007,30,49.31,Transport med rutebil og sporvei i by- og forstadsområde,4,49.3
+SN2007,30,49.32,Drosjebiltransport,4,49.3
+SN2007,30,49.39,Landtransport med passasjerer ikke nevnt annet sted,4,49.3
+SN2007,30,49.41,Godstransport på vei,4,49.4
+SN2007,30,49.42,Flyttetransport,4,49.4
+SN2007,30,49.50,Rørtransport,4,49.5
+SN2007,30,49.100,Passasjertransport med jernbane,5,49.10
+SN2007,30,49.200,Godstransport med jernbane,5,49.20
+SN2007,30,49.311,Rutebiltransport i by- og forstadsområde,5,49.31
+SN2007,30,49.312,Transport med sporveis- og forstadsbane,5,49.31
+SN2007,30,49.320,Drosjebiltransport,5,49.32
+SN2007,30,49.391,Rutebiltransport utenfor by- og forstadsområde,5,49.39
+SN2007,30,49.392,Turbiltransport,5,49.39
+SN2007,30,49.393,"Transport med taubaner, kabelbaner og skiheiser",5,49.39
+SN2007,30,49.410,Godstransport på vei,5,49.41
+SN2007,30,49.420,Flyttetransport,5,49.42
+SN2007,30,49.500,Rørtransport,5,49.50
+SN2007,30,50,Sjøfart,2,H
+SN2007,30,50.1,Sjøfart og kysttrafikk med passasjerer,3,50
+SN2007,30,50.2,Sjøfart og kysttrafikk med gods,3,50
+SN2007,30,50.3,Passasjertransport på elver og innsjøer,3,50
+SN2007,30,50.4,Godstransport på elver og innsjøer,3,50
+SN2007,30,50.10,Sjøfart og kysttrafikk med passasjerer,4,50.1
+SN2007,30,50.20,Sjøfart og kysttrafikk med gods,4,50.2
+SN2007,30,50.30,Passasjertransport på elver og innsjøer,4,50.3
+SN2007,30,50.40,Godstransport på elver og innsjøer,4,50.4
+SN2007,30,50.101,Utenriks sjøfart med passasjerer,5,50.10
+SN2007,30,50.102,Innenlandske kystruter med passasjerer,5,50.10
+SN2007,30,50.109,Kysttrafikk ellers med passasjerer,5,50.10
+SN2007,30,50.201,Utenriks sjøfart med gods,5,50.20
+SN2007,30,50.202,Innenriks sjøfart med gods,5,50.20
+SN2007,30,50.203,Slepebåter,5,50.20
+SN2007,30,50.204,Forsyning og andre sjøtransporttjenester for offshore,5,50.20
+SN2007,30,50.300,Passasjertransport på elver og innsjøer,5,50.30
+SN2007,30,50.400,Godstransport på elver og innsjøer,5,50.40
+SN2007,30,51,Lufttransport,2,H
+SN2007,30,51.1,Lufttransport med passasjerer,3,51
+SN2007,30,51.2,Lufttransport med gods samt romfart,3,51
+SN2007,30,51.10,Lufttransport med passasjerer,4,51.1
+SN2007,30,51.21,Lufttransport med gods,4,51.2
+SN2007,30,51.22,Romfart,4,51.2
+SN2007,30,51.100,Lufttransport med passasjerer,5,51.10
+SN2007,30,51.210,Lufttransport med gods,5,51.21
+SN2007,30,51.220,Romfart,5,51.22
+SN2007,30,52,Lagring og andre tjenester tilknyttet transport,2,H
+SN2007,30,52.1,Lagring,3,52
+SN2007,30,52.2,Andre tjenester tilknyttet transport,3,52
+SN2007,30,52.10,Lagring,4,52.1
+SN2007,30,52.21,Andre tjenester tilknyttet landtransport,4,52.2
+SN2007,30,52.22,Andre tjenester tilknyttet sjøtransport,4,52.2
+SN2007,30,52.23,Andre tjenester tilknyttet lufttransport,4,52.2
+SN2007,30,52.24,Lasting og lossing,4,52.2
+SN2007,30,52.29,Andre tjenester tilknyttet transport,4,52.2
+SN2007,30,52.100,Lagring,5,52.10
+SN2007,30,52.211,Drift av gods- og transportsentraler,5,52.21
+SN2007,30,52.212,Drift av parkeringsplasser og parkeringshus,5,52.21
+SN2007,30,52.213,Drift av bomstasjoner,5,52.21
+SN2007,30,52.214,Drift av taxisentraler og annen formidling av persontransport,5,52.21
+SN2007,30,52.216,Kondensering av gass med henblikk på transport,5,52.21
+SN2007,30,52.219,Tjenester tilknyttet landtransport ellers,5,52.21
+SN2007,30,52.221,Drift av havne- og kaianlegg,5,52.22
+SN2007,30,52.222,Redningstjeneste,5,52.22
+SN2007,30,52.223,Forsyningsbaser,5,52.22
+SN2007,30,52.229,Tjenester tilknyttet sjøtransport ellers,5,52.22
+SN2007,30,52.230,Andre tjenester tilknyttet lufttransport,5,52.23
+SN2007,30,52.240,Lasting og lossing,5,52.24
+SN2007,30,52.291,Spedisjon,5,52.29
+SN2007,30,52.292,Skipsmegling,5,52.29
+SN2007,30,52.293,Flymegling,5,52.29
+SN2007,30,52.299,Transportformidling ellers,5,52.29
+SN2007,30,53,Post og distribusjonsvirksomhet,2,H
+SN2007,30,53.1,Landsdekkende posttjenester,3,53
+SN2007,30,53.2,Andre post- og budtjenester,3,53
+SN2007,30,53.10,Landsdekkende posttjenester,4,53.1
+SN2007,30,53.20,Andre post- og budtjenester,4,53.2
+SN2007,30,53.100,Landsdekkende posttjenester,5,53.10
+SN2007,30,53.200,Andre post- og budtjenester,5,53.20
+SN2007,30,55,Overnattingsvirksomhet,2,I
+SN2007,30,55.1,Hotellvirksomhet,3,55
+SN2007,30,55.2,Drift av vandrerhjem og ferieleiligheter,3,55
+SN2007,30,55.3,Drift av campingplasser,3,55
+SN2007,30,55.9,Annen overnatting,3,55
+SN2007,30,55.10,Hotellvirksomhet,4,55.1
+SN2007,30,55.20,Drift av vandrerhjem og ferieleiligheter,4,55.2
+SN2007,30,55.30,Drift av campingplasser,4,55.3
+SN2007,30,55.90,Annen overnatting,4,55.9
+SN2007,30,55.101,"Drift av hoteller, pensjonater og moteller med restaurant",5,55.10
+SN2007,30,55.102,"Drift av hoteller, pensjonater og moteller uten restaurant",5,55.10
+SN2007,30,55.201,Drift av vandrerhjem,5,55.20
+SN2007,30,55.202,Drift av ferieleiligheter,5,55.20
+SN2007,30,55.300,Drift av campingplasser,5,55.30
+SN2007,30,55.900,Annen overnatting,5,55.90
+SN2007,30,56,Serveringsvirksomhet,2,I
+SN2007,30,56.1,Restaurantvirksomhet,3,56
+SN2007,30,56.2,Cateringvirksomhet og kantiner drevet som selvstendig virksomhet,3,56
+SN2007,30,56.3,Drift av barer,3,56
+SN2007,30,56.10,Restaurantvirksomhet,4,56.1
+SN2007,30,56.21,Cateringvirksomhet,4,56.2
+SN2007,30,56.29,Kantiner drevet som selvstendig virksomhet,4,56.2
+SN2007,30,56.30,Drift av barer,4,56.3
+SN2007,30,56.101,Drift av restauranter og kafeer,5,56.10
+SN2007,30,56.102,Drift av gatekjøkken,5,56.10
+SN2007,30,56.210,Cateringvirksomhet,5,56.21
+SN2007,30,56.290,Kantiner drevet som selvstendig virksomhet,5,56.29
+SN2007,30,56.301,Drift av puber,5,56.30
+SN2007,30,56.309,Drift av barer ellers,5,56.30
+SN2007,30,58,Forlagsvirksomhet,2,J
+SN2007,30,58.1,"Utgivelse av bøker, tidsskrifter og annen forlagsvirksomhet",3,58
+SN2007,30,58.2,Utgivelse av programvare,3,58
+SN2007,30,58.11,Utgivelse av bøker,4,58.1
+SN2007,30,58.12,Utgivelse av kataloger og adresselister,4,58.1
+SN2007,30,58.13,Utgivelse av aviser,4,58.1
+SN2007,30,58.14,Utgivelse av blader og tidsskrifter,4,58.1
+SN2007,30,58.19,Forlagsvirksomhet ellers,4,58.1
+SN2007,30,58.21,Utgivelse av programvare for dataspill,4,58.2
+SN2007,30,58.29,Utgivelse av annen programvare,4,58.2
+SN2007,30,58.110,Utgivelse av bøker,5,58.11
+SN2007,30,58.120,Utgivelse av kataloger og adresselister,5,58.12
+SN2007,30,58.130,Utgivelse av aviser,5,58.13
+SN2007,30,58.140,Utgivelse av blader og tidsskrifter,5,58.14
+SN2007,30,58.190,Forlagsvirksomhet ellers,5,58.19
+SN2007,30,58.210,Utgivelse av programvare for dataspill,5,58.21
+SN2007,30,58.290,Utgivelse av annen programvare,5,58.29
+SN2007,30,59,"Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak",2,J
+SN2007,30,59.1,"Virksomhet innen film, video og fjernsynsprogrammer",3,59
+SN2007,30,59.2,Produksjon og utgivelse av musikk- og lydopptak,3,59
+SN2007,30,59.11,"Produksjon av film, video og fjernsynsprogrammer",4,59.1
+SN2007,30,59.12,"Etterarbeid knyttet til produksjon av film, video og fjernsynsprogrammer",4,59.1
+SN2007,30,59.13,"Distribusjon av film, video og fjernsynsprogrammer",4,59.1
+SN2007,30,59.14,Filmframvisning,4,59.1
+SN2007,30,59.20,Produksjon og utgivelse av musikk- og lydopptak,4,59.2
+SN2007,30,59.110,"Produksjon av film, video og fjernsynsprogrammer",5,59.11
+SN2007,30,59.120,"Etterarbeid knyttet til produksjon av film, video og fjernsynsprogrammer",5,59.12
+SN2007,30,59.130,"Distribusjon av film, video og fjernsynsprogrammer",5,59.13
+SN2007,30,59.140,Filmframvisning,5,59.14
+SN2007,30,59.200,Produksjon og utgivelse av musikk- og lydopptak,5,59.20
+SN2007,30,60,Radio- og fjernsynskringkasting,2,J
+SN2007,30,60.1,Radiokringkasting,3,60
+SN2007,30,60.2,Fjernsynskringkasting,3,60
+SN2007,30,60.10,Radiokringkasting,4,60.1
+SN2007,30,60.20,Fjernsynskringkasting,4,60.2
+SN2007,30,60.100,Radiokringkasting,5,60.10
+SN2007,30,60.200,Fjernsynskringkasting,5,60.20
+SN2007,30,61,Telekommunikasjon,2,J
+SN2007,30,61.1,Kabelbasert telekommunikasjon,3,61
+SN2007,30,61.2,Trådløs telekommunikasjon,3,61
+SN2007,30,61.3,Satellittbasert telekommunikasjon,3,61
+SN2007,30,61.9,Telekommunikasjon ellers,3,61
+SN2007,30,61.10,Kabelbasert telekommunikasjon,4,61.1
+SN2007,30,61.20,Trådløs telekommunikasjon,4,61.2
+SN2007,30,61.30,Satellittbasert telekommunikasjon,4,61.3
+SN2007,30,61.90,Telekommunikasjon ellers,4,61.9
+SN2007,30,61.100,Kabelbasert telekommunikasjon,5,61.10
+SN2007,30,61.200,Trådløs telekommunikasjon,5,61.20
+SN2007,30,61.300,Satellittbasert telekommunikasjon,5,61.30
+SN2007,30,61.900,Telekommunikasjon ellers,5,61.90
+SN2007,30,62,Tjenester tilknyttet informasjonsteknologi,2,J
+SN2007,30,62.0,Tjenester tilknyttet informasjonsteknologi,3,62
+SN2007,30,62.01,Programmeringstjenester,4,62.0
+SN2007,30,62.02,Konsulentvirksomhet tilknyttet informasjonsteknologi,4,62.0
+SN2007,30,62.03,Forvaltning og drift av IT-systemer,4,62.0
+SN2007,30,62.09,Andre tjenester tilknyttet informasjonsteknologi,4,62.0
+SN2007,30,62.010,Programmeringstjenester,5,62.01
+SN2007,30,62.020,Konsulentvirksomhet tilknyttet informasjonsteknologi,5,62.02
+SN2007,30,62.030,Forvaltning og drift av IT-systemer,5,62.03
+SN2007,30,62.090,Andre tjenester tilknyttet informasjonsteknologi,5,62.09
+SN2007,30,63,Informasjonstjenester,2,J
+SN2007,30,63.1,"Databehandling, datalagring og tilknyttede tjenester, drift av web-portaler",3,63
+SN2007,30,63.9,Andre informasjonstjenester,3,63
+SN2007,30,63.11,"Databehandling, datalagring og tilknyttede tjenester",4,63.1
+SN2007,30,63.12,Drift av web-portaler,4,63.1
+SN2007,30,63.91,Nyhetsbyråer,4,63.9
+SN2007,30,63.99,Andre informasjonstjenester ikke nevnt annet sted,4,63.9
+SN2007,30,63.110,"Databehandling, datalagring og tilknyttede tjenester",5,63.11
+SN2007,30,63.120,Drift av web-portaler,5,63.12
+SN2007,30,63.910,Nyhetsbyråer,5,63.91
+SN2007,30,63.990,Andre informasjonstjenester ikke nevnt annet sted,5,63.99
+SN2007,30,64,Finansieringsvirksomhet,2,K
+SN2007,30,64.1,Bankvirksomhet,3,64
+SN2007,30,64.2,Holdingselskaper,3,64
+SN2007,30,64.3,"Verdipapirfond, investeringsselskaper o.l.",3,64
+SN2007,30,64.9,Annen finansieringsvirksomhet,3,64
+SN2007,30,64.11,Sentralbankvirksomhet,4,64.1
+SN2007,30,64.19,Bankvirksomhet ellers,4,64.1
+SN2007,30,64.20,Holdingselskaper,4,64.2
+SN2007,30,64.30,"Verdipapirfond, investeringsselskaper o.l.",4,64.3
+SN2007,30,64.91,Finansiell leasing,4,64.9
+SN2007,30,64.92,Annen kredittgivning,4,64.9
+SN2007,30,64.99,Annen finansieringsvirksomhet ikke nevnt annet sted,4,64.9
+SN2007,30,64.110,Sentralbankvirksomhet,5,64.11
+SN2007,30,64.190,Bankvirksomhet ellers,5,64.19
+SN2007,30,64.201,Finansielle holdingselskaper,5,64.20
+SN2007,30,64.202,Spesielle holdingselskaper,5,64.20
+SN2007,30,64.301,Verdipapirfond,5,64.30
+SN2007,30,64.302,Alternative investeringsfond (AIF) som ikke er verdipapirfond,5,64.30
+SN2007,30,64.305,Finansstiftelser,5,64.30
+SN2007,30,64.306,Egeninvesteringsselskaper i finansielle konsern og for offentlig forvaltning,5,64.30
+SN2007,30,64.308,Familieeide egeninvesteringsselskaper,5,64.30
+SN2007,30,64.910,Finansiell leasing,5,64.91
+SN2007,30,64.920,Annen kredittgivning,5,64.92
+SN2007,30,64.990,Annen finansieringsvirksomhet ikke nevnt annet sted,5,64.99
+SN2007,30,65,"Forsikringsvirksomhet og pensjonskasser, unntatt trygdeordninger underlagt offentlig forvaltning",2,K
+SN2007,30,65.1,Forsikring,3,65
+SN2007,30,65.2,Gjenforsikring,3,65
+SN2007,30,65.3,Pensjonskasser,3,65
+SN2007,30,65.11,Livsforsikring,4,65.1
+SN2007,30,65.12,Skadeforsikring,4,65.1
+SN2007,30,65.20,Gjenforsikring,4,65.2
+SN2007,30,65.30,Pensjonskasser,4,65.3
+SN2007,30,65.110,Livsforsikring,5,65.11
+SN2007,30,65.120,Skadeforsikring,5,65.12
+SN2007,30,65.200,Gjenforsikring,5,65.20
+SN2007,30,65.300,Pensjonskasser,5,65.30
+SN2007,30,66,Tjenester tilknyttet finansierings- og forsikringsvirksomhet,2,K
+SN2007,30,66.1,Tjenester tilknyttet finansieringsvirksomhet,3,66
+SN2007,30,66.2,Tjenester tilknyttet forsikringsvirksomhet og pensjonskasser,3,66
+SN2007,30,66.3,Fondsforvaltningsvirksomhet,3,66
+SN2007,30,66.11,Administrasjon av finansmarkeder,4,66.1
+SN2007,30,66.12,Verdipapirmegling,4,66.1
+SN2007,30,66.19,Andre tjenester tilknyttet finansieringsvirksomhet,4,66.1
+SN2007,30,66.21,Risiko- og skadevurdering,4,66.2
+SN2007,30,66.22,Forsikringsformidling,4,66.2
+SN2007,30,66.29,Andre tjenester tilknyttet forsikringsvirksomhet og pensjonskasser,4,66.2
+SN2007,30,66.30,Fondsforvaltningsvirksomhet,4,66.3
+SN2007,30,66.110,Administrasjon av finansmarkeder,5,66.11
+SN2007,30,66.120,Verdipapirmegling,5,66.12
+SN2007,30,66.190,Andre tjenester tilknyttet finansieringsvirksomhet,5,66.19
+SN2007,30,66.210,Risiko- og skadevurdering,5,66.21
+SN2007,30,66.220,Forsikringsformidling,5,66.22
+SN2007,30,66.290,Andre tjenester tilknyttet forsikringsvirksomhet og pensjonskasser,5,66.29
+SN2007,30,66.300,Fondsforvaltningsvirksomhet,5,66.30
+SN2007,30,68,Omsetning og drift av fast eiendom,2,L
+SN2007,30,68.1,Kjøp og salg av egen fast eiendom,3,68
+SN2007,30,68.2,Utleie av egen eller leid fast eiendom,3,68
+SN2007,30,68.3,Omsetning og drift av fast eiendom på oppdrag,3,68
+SN2007,30,68.10,Kjøp og salg av egen fast eiendom,4,68.1
+SN2007,30,68.20,Utleie av egen eller leid fast eiendom,4,68.2
+SN2007,30,68.31,Eiendomsmegling,4,68.3
+SN2007,30,68.32,Eiendomsforvaltning,4,68.3
+SN2007,30,68.100,Kjøp og salg av egen fast eiendom,5,68.10
+SN2007,30,68.201,Borettslag,5,68.20
+SN2007,30,68.209,Utleie av egen eller leid fast eiendom ellers,5,68.20
+SN2007,30,68.310,Eiendomsmegling,5,68.31
+SN2007,30,68.320,Eiendomsforvaltning,5,68.32
+SN2007,30,69,Juridisk og regnskapsmessig tjenesteyting,2,M
+SN2007,30,69.1,Juridisk tjenesteyting,3,69
+SN2007,30,69.2,"Regnskap, revisjon og skatterådgivning",3,69
+SN2007,30,69.10,Juridisk tjenesteyting,4,69.1
+SN2007,30,69.20,"Regnskap, revisjon og skatterådgivning",4,69.2
+SN2007,30,69.100,Juridisk tjenesteyting,5,69.10
+SN2007,30,69.201,Regnskap og bokføring,5,69.20
+SN2007,30,69.202,Revisjon,5,69.20
+SN2007,30,69.203,Skatterådgivning,5,69.20
+SN2007,30,70,"Hovedkontortjenester, administrativ rådgivning",2,M
+SN2007,30,70.1,Hovedkontortjenester,3,70
+SN2007,30,70.2,Administrativ rådgivning,3,70
+SN2007,30,70.10,Hovedkontortjenester,4,70.1
+SN2007,30,70.21,PR og kommunikasjonstjenester,4,70.2
+SN2007,30,70.22,Bedriftsrådgivning og annen administrativ rådgivning,4,70.2
+SN2007,30,70.100,Hovedkontortjenester,5,70.10
+SN2007,30,70.210,PR og kommunikasjonstjenester,5,70.21
+SN2007,30,70.220,Bedriftsrådgivning og annen administrativ rådgivning,5,70.22
+SN2007,30,71,"Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse",2,M
+SN2007,30,71.1,Arkitektvirksomhet og teknisk konsulentvirksomhet,3,71
+SN2007,30,71.2,Teknisk prøving og analyse,3,71
+SN2007,30,71.11,Arkitektvirksomhet,4,71.1
+SN2007,30,71.12,Teknisk konsulentvirksomhet,4,71.1
+SN2007,30,71.20,Teknisk prøving og analyse,4,71.2
+SN2007,30,71.111,Plan- og reguleringsarbeid,5,71.11
+SN2007,30,71.112,Arkitekttjenester vedrørende byggverk,5,71.11
+SN2007,30,71.113,Landskapsarkitekttjenester,5,71.11
+SN2007,30,71.121,Byggeteknisk konsulentvirksomhet,5,71.12
+SN2007,30,71.122,Geologiske undersøkelser,5,71.12
+SN2007,30,71.123,Kart og oppmåling,5,71.12
+SN2007,30,71.129,Annen teknisk konsulentvirksomhet,5,71.12
+SN2007,30,71.200,Teknisk prøving og analyse,5,71.20
+SN2007,30,72,Forskning og utviklingsarbeid,2,M
+SN2007,30,72.1,Forskning og utviklingsarbeid innen naturvitenskap og teknikk,3,72
+SN2007,30,72.2,Forskning og utviklingsarbeid innen samfunnsvitenskap og humanistiske fag,3,72
+SN2007,30,72.11,Forskning og utviklingsarbeid innen bioteknologi,4,72.1
+SN2007,30,72.19,Annen forskning og annet utviklingsarbeid innen naturvitenskap og teknikk,4,72.1
+SN2007,30,72.20,Forskning og utviklingsarbeid innen samfunnsvitenskap og humanistiske fag,4,72.2
+SN2007,30,72.110,Forskning og utviklingsarbeid innen bioteknologi,5,72.11
+SN2007,30,72.190,Annen forskning og annet utviklingsarbeid innen naturvitenskap og teknikk,5,72.19
+SN2007,30,72.200,Forskning og utviklingsarbeid innen samfunnsvitenskap og humanistiske fag,5,72.20
+SN2007,30,73,Annonse- og reklamevirksomhet og markedsundersøkelser,2,M
+SN2007,30,73.1,Annonse- og reklamevirksomhet,3,73
+SN2007,30,73.2,Markeds- og opinionsundersøkelser,3,73
+SN2007,30,73.11,Reklamebyråer,4,73.1
+SN2007,30,73.12,Medieformidlingstjenester,4,73.1
+SN2007,30,73.20,Markeds- og opinionsundersøkelser,4,73.2
+SN2007,30,73.110,Reklamebyråer,5,73.11
+SN2007,30,73.120,Medieformidlingstjenester,5,73.12
+SN2007,30,73.200,Markeds- og opinionsundersøkelser,5,73.20
+SN2007,30,74,"Annen faglig, vitenskapelig og teknisk virksomhet",2,M
+SN2007,30,74.1,Spesialisert designvirksomhet,3,74
+SN2007,30,74.2,Fotografvirksomhet,3,74
+SN2007,30,74.3,Oversettelses- og tolkevirksomhet,3,74
+SN2007,30,74.9,"Annen faglig, vitenskapelig og teknisk virksomhet",3,74
+SN2007,30,74.10,Spesialisert designvirksomhet,4,74.1
+SN2007,30,74.20,Fotografvirksomhet,4,74.2
+SN2007,30,74.30,Oversettelses- og tolkevirksomhet,4,74.3
+SN2007,30,74.90,"Annen faglig, vitenskapelig og teknisk virksomhet",4,74.9
+SN2007,30,74.101,"Industridesign, produktdesign og annen teknisk designvirksomhet",5,74.10
+SN2007,30,74.102,Grafisk og visuell kommunikasjonsdesign,5,74.10
+SN2007,30,74.103,"Interiørarkitekt-, interiørdesign- og interiørkonsulentvirksomhet",5,74.10
+SN2007,30,74.200,Fotografvirksomhet,5,74.20
+SN2007,30,74.300,Oversettelses- og tolkevirksomhet,5,74.30
+SN2007,30,74.901,Takseringsvirksomhet,5,74.90
+SN2007,30,74.902,Modellbyråvirksomhet,5,74.90
+SN2007,30,74.903,Impresariovirksomhet,5,74.90
+SN2007,30,74.909,"Annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",5,74.90
+SN2007,30,75,Veterinærtjenester,2,M
+SN2007,30,75.0,Veterinærtjenester,3,75
+SN2007,30,75.00,Veterinærtjenester,4,75.0
+SN2007,30,75.000,Veterinærtjenester,5,75.00
+SN2007,30,77,Utleie- og leasingvirksomhet,2,N
+SN2007,30,77.1,Utleie og leasing av motorvogner,3,77
+SN2007,30,77.2,Utleie og leasing av husholdningsvarer og varer til personlig bruk,3,77
+SN2007,30,77.3,"Utleie og leasing av andre maskiner, og annet utstyr og materiell",3,77
+SN2007,30,77.4,"Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker",3,77
+SN2007,30,77.11,Utleie og leasing av biler og andre lette motorvogner,4,77.1
+SN2007,30,77.12,Utleie og leasing av lastebiler,4,77.1
+SN2007,30,77.21,Utleie og leasing av sports- og fritidsutstyr,4,77.2
+SN2007,30,77.22,"Utleie av videofilm, DVD og lignende",4,77.2
+SN2007,30,77.29,Utleie og leasing av andre husholdningsvarer og varer til personlig bruk,4,77.2
+SN2007,30,77.31,Utleie og leasing av landbruksmaskiner og -utstyr,4,77.3
+SN2007,30,77.32,Utleie og leasing av bygge- og anleggsmaskiner og -utstyr,4,77.3
+SN2007,30,77.33,Utleie og leasing av kontor- og datamaskiner,4,77.3
+SN2007,30,77.34,Utleie og leasing av sjøtransportmateriell,4,77.3
+SN2007,30,77.35,Utleie og leasing av lufttransportmateriell,4,77.3
+SN2007,30,77.39,Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted,4,77.3
+SN2007,30,77.40,"Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker",4,77.4
+SN2007,30,77.110,Utleie og leasing av biler og andre lette motorvogner,5,77.11
+SN2007,30,77.120,Utleie og leasing av lastebiler,5,77.12
+SN2007,30,77.210,Utleie og leasing av sports- og fritidsutstyr,5,77.21
+SN2007,30,77.220,"Utleie av videofilm, DVD og lignende",5,77.22
+SN2007,30,77.290,Utleie og leasing av andre husholdningsvarer og varer til personlig bruk,5,77.29
+SN2007,30,77.310,Utleie og leasing av landbruksmaskiner og -utstyr,5,77.31
+SN2007,30,77.320,Utleie og leasing av bygge- og anleggsmaskiner og -utstyr,5,77.32
+SN2007,30,77.330,Utleie og leasing av kontor- og datamaskiner,5,77.33
+SN2007,30,77.340,Utleie og leasing av sjøtransportmateriell,5,77.34
+SN2007,30,77.350,Utleie og leasing av lufttransportmateriell,5,77.35
+SN2007,30,77.390,Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted,5,77.39
+SN2007,30,77.400,"Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker",5,77.40
+SN2007,30,78,Arbeidskrafttjenester,2,N
+SN2007,30,78.1,Rekruttering og formidling av arbeidskraft,3,78
+SN2007,30,78.2,Utleie av arbeidskraft,3,78
+SN2007,30,78.3,Andre personaladministrative tjenester,3,78
+SN2007,30,78.10,Rekruttering og formidling av arbeidskraft,4,78.1
+SN2007,30,78.20,Utleie av arbeidskraft,4,78.2
+SN2007,30,78.30,Andre personaladministrative tjenester,4,78.3
+SN2007,30,78.100,Rekruttering og formidling av arbeidskraft,5,78.10
+SN2007,30,78.200,Utleie av arbeidskraft,5,78.20
+SN2007,30,78.300,Andre personaladministrative tjenester,5,78.30
+SN2007,30,79,Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester,2,N
+SN2007,30,79.1,Reisebyrå- og reisearrangørvirksomhet,3,79
+SN2007,30,79.9,Annen arrangørvirksomhet og tilknyttede tjenester,3,79
+SN2007,30,79.11,Reisebyråvirksomhet,4,79.1
+SN2007,30,79.12,Reisearrangørvirksomhet,4,79.1
+SN2007,30,79.90,Annen arrangørvirksomhet og tilknyttede tjenester,4,79.9
+SN2007,30,79.110,Reisebyråvirksomhet,5,79.11
+SN2007,30,79.120,Reisearrangørvirksomhet,5,79.12
+SN2007,30,79.901,Turistkontorvirksomhet og destinasjonsselskaper,5,79.90
+SN2007,30,79.902,Guider og reiseledere,5,79.90
+SN2007,30,79.903,"Opplevelses-, arrangements- og aktivitetsarrangørvirksomhet",5,79.90
+SN2007,30,79.909,Turistrelaterte tjenester ikke nevnt annet sted,5,79.90
+SN2007,30,80,Vakttjeneste og etterforsking,2,N
+SN2007,30,80.1,Private vakttjenester,3,80
+SN2007,30,80.2,Tjenester tilknyttet vakttjenester,3,80
+SN2007,30,80.3,Etterforsking,3,80
+SN2007,30,80.10,Private vakttjenester,4,80.1
+SN2007,30,80.20,Tjenester tilknyttet vakttjenester,4,80.2
+SN2007,30,80.30,Etterforsking,4,80.3
+SN2007,30,80.100,Private vakttjenester,5,80.10
+SN2007,30,80.200,Tjenester tilknyttet vakttjenester,5,80.20
+SN2007,30,80.300,Etterforsking,5,80.30
+SN2007,30,81,Tjenester tilknyttet eiendomsdrift,2,N
+SN2007,30,81.1,Kombinerte tjenester tilknyttet eiendomsdrift,3,81
+SN2007,30,81.2,Rengjøringsvirksomhet,3,81
+SN2007,30,81.3,Beplantning av hager og parkanlegg,3,81
+SN2007,30,81.10,Kombinerte tjenester tilknyttet eiendomsdrift,4,81.1
+SN2007,30,81.21,Rengjøring av bygninger,4,81.2
+SN2007,30,81.22,Utvendig rengjøring av bygninger og industriell rengjøring,4,81.2
+SN2007,30,81.29,Annen rengjøringsvirksomhet,4,81.2
+SN2007,30,81.30,Beplantning av hager og parkanlegg,4,81.3
+SN2007,30,81.101,Vaktmestertjenester,5,81.10
+SN2007,30,81.109,Andre kombinerte tjenester tilknyttet eiendomsdrift,5,81.10
+SN2007,30,81.210,Rengjøring av bygninger,5,81.21
+SN2007,30,81.220,Utvendig rengjøring av bygninger og industriell rengjøring,5,81.22
+SN2007,30,81.291,Skadedyrkontroll,5,81.29
+SN2007,30,81.299,Annen rengjøringsvirksomhet ikke nevnt annet sted,5,81.29
+SN2007,30,81.300,Beplantning av hager og parkanlegg,5,81.30
+SN2007,30,82,Annen forretningsmessig tjenesteyting,2,N
+SN2007,30,82.1,Kontortjenester,3,82
+SN2007,30,82.2,Telefonvakttjenester og telefonsalg,3,82
+SN2007,30,82.3,"Kongress-, messe- og utstillingsvirksomhet",3,82
+SN2007,30,82.9,Forretningsmessig tjenesteyting ikke nevnt annet sted,3,82
+SN2007,30,82.11,Kombinerte kontortjenester,4,82.1
+SN2007,30,82.19,"Fotokopiering, forberedelse av dokumenter og andre spesialiserte kontortjenester",4,82.1
+SN2007,30,82.20,Telefonvakttjenester og telefonsalg,4,82.2
+SN2007,30,82.30,"Kongress-, messe- og utstillingsvirksomhet",4,82.3
+SN2007,30,82.91,Inkasso- og kredittopplysningsvirksomhet,4,82.9
+SN2007,30,82.92,Pakkevirksomhet,4,82.9
+SN2007,30,82.99,Annen forretningsmessig tjenesteyting ikke nevnt annet sted,4,82.9
+SN2007,30,82.110,Kombinerte kontortjenester,5,82.11
+SN2007,30,82.190,"Fotokopiering, forberedelse av dokumenter og andre spesialiserte kontortjenester",5,82.19
+SN2007,30,82.201,Telefonvakttjenester,5,82.20
+SN2007,30,82.202,Telefonsalg,5,82.20
+SN2007,30,82.300,"Kongress-, messe- og utstillingsvirksomhet",5,82.30
+SN2007,30,82.910,Inkasso- og kredittopplysningsvirksomhet,5,82.91
+SN2007,30,82.920,Pakkevirksomhet,5,82.92
+SN2007,30,82.990,Annen forretningsmessig tjenesteyting ikke nevnt annet sted,5,82.99
+SN2007,30,84,"Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning",2,O
+SN2007,30,84.1,Offentlig administrasjon og forvaltning,3,84
+SN2007,30,84.2,Offentlig administrasjon tilknyttet utenriks- og sikkerhetssaker,3,84
+SN2007,30,84.3,Trygdeordninger underlagt offentlig forvaltning,3,84
+SN2007,30,84.11,Generell offentlig administrasjon,4,84.1
+SN2007,30,84.12,"Offentlig administrasjon tilknyttet helsestell, sosial virksomhet, undervisning, kirke, kultur og miljøvern",4,84.1
+SN2007,30,84.13,Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked,4,84.1
+SN2007,30,84.21,Utenrikssaker,4,84.2
+SN2007,30,84.22,Forsvar,4,84.2
+SN2007,30,84.23,Retts- og fengselsvesen,4,84.2
+SN2007,30,84.24,Politi- og påtalemyndighet,4,84.2
+SN2007,30,84.25,Brannvern,4,84.2
+SN2007,30,84.30,Trygdeordninger underlagt offentlig forvaltning,4,84.3
+SN2007,30,84.110,Generell offentlig administrasjon,5,84.11
+SN2007,30,84.120,"Offentlig administrasjon tilknyttet helsestell, sosial virksomhet, undervisning, kirke, kultur og miljøvern",5,84.12
+SN2007,30,84.130,Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked,5,84.13
+SN2007,30,84.210,Utenrikssaker,5,84.21
+SN2007,30,84.220,Forsvar,5,84.22
+SN2007,30,84.230,Retts- og fengselsvesen,5,84.23
+SN2007,30,84.240,Politi- og påtalemyndighet,5,84.24
+SN2007,30,84.250,Brannvern,5,84.25
+SN2007,30,84.300,Trygdeordninger underlagt offentlig forvaltning,5,84.30
+SN2007,30,85,Undervisning,2,P
+SN2007,30,85.1,Førskoleundervisning,3,85
+SN2007,30,85.2,Grunnskoleundervisning,3,85
+SN2007,30,85.3,Undervisning på videregående skoles nivå,3,85
+SN2007,30,85.4,Undervisning i høyere utdanning,3,85
+SN2007,30,85.5,Annen undervisning,3,85
+SN2007,30,85.6,Tjenester tilknyttet undervisning,3,85
+SN2007,30,85.10,Førskoleundervisning,4,85.1
+SN2007,30,85.20,Grunnskoleundervisning,4,85.2
+SN2007,30,85.31,Videregående opplæring innen allmennfaglige studieretninger,4,85.3
+SN2007,30,85.32,Videregående opplæring innen tekniske og andre yrkesfaglige studieretninger,4,85.3
+SN2007,30,85.41,Undervisning ved fagskoler,4,85.4
+SN2007,30,85.42,Undervisning på universitets- og høgskolenivå,4,85.4
+SN2007,30,85.51,Undervisning innen idrett og rekreasjon,4,85.5
+SN2007,30,85.52,Undervisning innen kultur,4,85.5
+SN2007,30,85.53,Trafikkskoleundervisning,4,85.5
+SN2007,30,85.59,Annen undervisning ikke nevnt annet sted,4,85.5
+SN2007,30,85.60,Tjenester tilknyttet undervisning,4,85.6
+SN2007,30,85.100,Førskoleundervisning,5,85.10
+SN2007,30,85.201,Ordinær grunnskoleundervisning,5,85.20
+SN2007,30,85.202,Spesialskoleundervisning for funksjonshemmede,5,85.20
+SN2007,30,85.203,Kompetansesentra og annen spesialundervisning,5,85.20
+SN2007,30,85.310,Videregående opplæring innen allmennfaglige studieretninger,5,85.31
+SN2007,30,85.320,Videregående opplæring innen tekniske og andre yrkesfaglige studieretninger,5,85.32
+SN2007,30,85.410,Undervisning ved fagskoler,5,85.41
+SN2007,30,85.421,Undervisning ved universiteter,5,85.42
+SN2007,30,85.422,Undervisning ved vitenskapelige høgskoler,5,85.42
+SN2007,30,85.423,Undervisning ved statlige høgskoler,5,85.42
+SN2007,30,85.424,Undervisning ved militære høgskoler,5,85.42
+SN2007,30,85.429,Undervisning ved andre høgskoler,5,85.42
+SN2007,30,85.510,Undervisning innen idrett og rekreasjon,5,85.51
+SN2007,30,85.521,Kommunal kulturskoleundervisning,5,85.52
+SN2007,30,85.522,Undervisning i kunstfag,5,85.52
+SN2007,30,85.529,Annen undervisning innen kultur,5,85.52
+SN2007,30,85.530,Trafikkskoleundervisning,5,85.53
+SN2007,30,85.591,Folkehøgskoleundervisning,5,85.59
+SN2007,30,85.592,Arbeidsmarkedskurs,5,85.59
+SN2007,30,85.593,Studieforbunds- og frivillige organisasjoners kurs,5,85.59
+SN2007,30,85.594,Voksenopplæringssentre,5,85.59
+SN2007,30,85.595,Timelærervirksomhet,5,85.59
+SN2007,30,85.596,Undervisning innen religion,5,85.59
+SN2007,30,85.599,Annen undervisning ikke nevnt annet sted,5,85.59
+SN2007,30,85.601,Pedagogisk-psykologisk rådgivningstjeneste,5,85.60
+SN2007,30,85.609,Andre tjenester tilknyttet undervisning,5,85.60
+SN2007,30,86,Helsetjenester,2,Q
+SN2007,30,86.1,Sykehustjenester,3,86
+SN2007,30,86.2,Lege- og tannlegetjenester,3,86
+SN2007,30,86.9,Andre helsetjenester,3,86
+SN2007,30,86.10,Sykehustjenester,4,86.1
+SN2007,30,86.21,Legetjeneste,4,86.2
+SN2007,30,86.22,Spesialisert legetjeneste,4,86.2
+SN2007,30,86.23,Tannhelsetjenester,4,86.2
+SN2007,30,86.90,Andre helsetjenester,4,86.9
+SN2007,30,86.101,Alminnelige somatiske sykehus,5,86.10
+SN2007,30,86.102,Somatiske spesialsykehus,5,86.10
+SN2007,30,86.103,Andre somatiske spesialinstitusjoner,5,86.10
+SN2007,30,86.104,Institusjoner i psykisk helsevern for voksne,5,86.10
+SN2007,30,86.105,Institusjoner i psykisk helsevern for barn og unge,5,86.10
+SN2007,30,86.106,Rusmiddelinstitusjoner,5,86.10
+SN2007,30,86.107,Rehabiliterings- og opptreningsinstitusjoner,5,86.10
+SN2007,30,86.211,Allmenn legetjeneste,5,86.21
+SN2007,30,86.212,Somatiske poliklinikker,5,86.21
+SN2007,30,86.221,"Spesialisert legetjeneste, unntatt psykiatrisk legetjeneste",5,86.22
+SN2007,30,86.222,Legetjenester innen psykisk helsevern,5,86.22
+SN2007,30,86.223,Poliklinikker i psykisk helsevern for voksne,5,86.22
+SN2007,30,86.224,Poliklinikker i psykisk helsevern for barn og unge,5,86.22
+SN2007,30,86.225,Rusmiddelpoliklinikker,5,86.22
+SN2007,30,86.230,Tannhelsetjenester,5,86.23
+SN2007,30,86.901,Hjemmesykepleie,5,86.90
+SN2007,30,86.902,Fysioterapitjeneste,5,86.90
+SN2007,30,86.903,Helsestasjons- og skolehelsetjeneste,5,86.90
+SN2007,30,86.904,Annen forebyggende helsetjeneste,5,86.90
+SN2007,30,86.905,Klinisk psykologtjeneste,5,86.90
+SN2007,30,86.906,Medisinske laboratorietjenester,5,86.90
+SN2007,30,86.907,Ambulansetjenester,5,86.90
+SN2007,30,86.909,Andre helsetjenester,5,86.90
+SN2007,30,87,Pleie- og omsorgstjenester i institusjon,2,Q
+SN2007,30,87.1,Pleie- og omsorgstjenester i institusjon,3,87
+SN2007,30,87.2,"Institusjoner og bofellesskap innen omsorg for psykisk utviklingshemmede, psykisk helsearbeid og rusmiddelomsorg",3,87
+SN2007,30,87.3,Institusjoner og bofellesskap innen omsorg for eldre og funksjonshemmede,3,87
+SN2007,30,87.9,Andre omsorgsinstitusjoner,3,87
+SN2007,30,87.10,Pleie- og omsorgstjenester i institusjon,4,87.1
+SN2007,30,87.20,"Institusjoner og bofellesskap innen omsorg for psykisk utviklingshemmede, psykisk helsearbeid og rusmiddelomsorg",4,87.2
+SN2007,30,87.30,Institusjoner og bofellesskap innen omsorg for eldre og funksjonshemmede,4,87.3
+SN2007,30,87.90,Andre omsorgsinstitusjoner,4,87.9
+SN2007,30,87.101,Somatiske spesialsykehjem,5,87.10
+SN2007,30,87.102,Somatiske sykehjem,5,87.10
+SN2007,30,87.201,Psykiatriske sykehjem,5,87.20
+SN2007,30,87.202,Omsorgsinstitusjoner for rusmiddelmisbrukere,5,87.20
+SN2007,30,87.203,Bofellesskap for psykisk utviklingshemmede,5,87.20
+SN2007,30,87.301,Aldershjem,5,87.30
+SN2007,30,87.302,Bofellesskap for eldre og funksjonshemmede med fast tilknyttet personell hele døgnet,5,87.30
+SN2007,30,87.303,Bofellesskap for eldre og funksjonshemmede med fast tilknyttet personell deler av døgnet,5,87.30
+SN2007,30,87.304,Avlastningsboliger/-institusjoner,5,87.30
+SN2007,30,87.305,Barneboliger,5,87.30
+SN2007,30,87.901,Institusjoner innen barne- og ungdomsvern,5,87.90
+SN2007,30,87.909,Omsorgsinstitusjoner ellers,5,87.90
+SN2007,30,88,Sosiale omsorgstjenester uten botilbud,2,Q
+SN2007,30,88.1,Sosialtjenester uten botilbud for eldre og funksjonshemmede,3,88
+SN2007,30,88.9,Andre sosialtjenester uten botilbud,3,88
+SN2007,30,88.10,Sosialtjenester uten botilbud for eldre og funksjonshemmede,4,88.1
+SN2007,30,88.91,Sosialtjenester uten botilbud for barn og ungdom,4,88.9
+SN2007,30,88.99,Andre sosialtjenester uten botilbud ikke nevnt annet sted,4,88.9
+SN2007,30,88.101,Hjemmehjelp,5,88.10
+SN2007,30,88.102,Dagsentra/aktivitetssentra for eldre og funksjonshemmede,5,88.10
+SN2007,30,88.103,Eldresentre,5,88.10
+SN2007,30,88.911,Barnehager,5,88.91
+SN2007,30,88.912,Barneparker og dagmammaer,5,88.91
+SN2007,30,88.913,Skolefritidsordninger,5,88.91
+SN2007,30,88.914,Fritidsklubber for barn og ungdom,5,88.91
+SN2007,30,88.991,Barneverntjenester,5,88.99
+SN2007,30,88.992,Familieverntjenester,5,88.99
+SN2007,30,88.993,Arbeidstrening for ordinært arbeidsmarked,5,88.99
+SN2007,30,88.994,Varig tilrettelagt arbeid,5,88.99
+SN2007,30,88.995,Sosiale velferdsorganisasjoner,5,88.99
+SN2007,30,88.996,Asylmottak,5,88.99
+SN2007,30,88.997,Sosialtjenester for rusmiddelmisbrukere uten botilbud,5,88.99
+SN2007,30,88.998,Kommunale sosialkontortjenester,5,88.99
+SN2007,30,88.999,Andre sosialtjenester uten botilbud,5,88.99
+SN2007,30,90,Kunstnerisk virksomhet og underholdningsvirksomhet,2,R
+SN2007,30,90.0,Kunstnerisk virksomhet og underholdningsvirksomhet,3,90
+SN2007,30,90.01,Utøvende kunstnere og underholdningsvirksomhet,4,90.0
+SN2007,30,90.02,Tjenester tilknyttet underholdningsvirksomhet,4,90.0
+SN2007,30,90.03,Selvstendig kunstnerisk virksomhet,4,90.0
+SN2007,30,90.04,Drift av lokaler tilknyttet kunstnerisk virksomhet,4,90.0
+SN2007,30,90.011,Utøvende kunstnere og underholdningsvirksomhet innen musikk,5,90.01
+SN2007,30,90.012,Utøvende kunstnere og underholdningsvirksomhet innen scenekunst,5,90.01
+SN2007,30,90.019,Utøvende kunstnere og underholdningsvirksomhet ikke nevnt annet sted,5,90.01
+SN2007,30,90.020,Tjenester tilknyttet underholdningsvirksomhet,5,90.02
+SN2007,30,90.031,Selvstendig kunstnerisk virksomhet innen visuell kunst,5,90.03
+SN2007,30,90.032,Selvstendig kunstnerisk virksomhet innen musikk,5,90.03
+SN2007,30,90.033,Selvstendig kunstnerisk virksomhet innen scenekunst,5,90.03
+SN2007,30,90.034,Selvstendig kunstnerisk virksomhet innen litteratur,5,90.03
+SN2007,30,90.035,Selvstendig kunstnerisk virksomhet innen blogging ,5,90.03
+SN2007,30,90.039,Selvstendig kunstnerisk virksomhet ikke nevnt annet sted,5,90.03
+SN2007,30,90.040,Drift av lokaler tilknyttet kunstnerisk virksomhet,5,90.04
+SN2007,30,91,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",2,R
+SN2007,30,91.0,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",3,91
+SN2007,30,91.01,Drift av biblioteker og arkiver,4,91.0
+SN2007,30,91.02,Drift av museer,4,91.0
+SN2007,30,91.03,Drift av historiske steder og bygninger og lignende severdigheter,4,91.0
+SN2007,30,91.04,Drift av botaniske og zoologiske hager og naturreservater,4,91.0
+SN2007,30,91.011,Drift av folkebiblioteker,5,91.01
+SN2007,30,91.012,Drift av fag- og forskningsbiblioteker,5,91.01
+SN2007,30,91.013,Drift av arkiver,5,91.01
+SN2007,30,91.021,Drift av kunst- og kunstindustrimuseer,5,91.02
+SN2007,30,91.022,Drift av kulturhistoriske museer,5,91.02
+SN2007,30,91.023,Drift av naturhistoriske museer,5,91.02
+SN2007,30,91.029,Drift av museer ikke nevnt annet sted,5,91.02
+SN2007,30,91.030,Drift av historiske steder og bygninger og lignende severdigheter,5,91.03
+SN2007,30,91.040,Drift av botaniske og zoologiske hager og naturreservater,5,91.04
+SN2007,30,92,Lotteri og totalisatorspill,2,R
+SN2007,30,92.0,Lotteri og totalisatorspill,3,92
+SN2007,30,92.00,Lotteri og totalisatorspill,4,92.0
+SN2007,30,92.000,Lotteri og totalisatorspill,5,92.00
+SN2007,30,93,Sports- og fritidsaktiviteter og drift av fornøyelsesetablissementer,2,R
+SN2007,30,93.1,Sportsaktiviteter,3,93
+SN2007,30,93.2,Fritidsaktiviteter og drift av fornøyelsesetablissementer,3,93
+SN2007,30,93.11,Drift av idrettsanlegg,4,93.1
+SN2007,30,93.12,Idrettslag og -klubber,4,93.1
+SN2007,30,93.13,Treningssentre,4,93.1
+SN2007,30,93.19,Andre sportsaktiviteter,4,93.1
+SN2007,30,93.21,Drift av fornøyelses- og temaparker,4,93.2
+SN2007,30,93.29,Andre fritidsaktiviteter,4,93.2
+SN2007,30,93.110,Drift av idrettsanlegg,5,93.11
+SN2007,30,93.120,Idrettslag og -klubber,5,93.12
+SN2007,30,93.130,Treningssentre,5,93.13
+SN2007,30,93.190,Andre sportsaktiviteter,5,93.19
+SN2007,30,93.210,Drift av fornøyelses- og temaparker,5,93.21
+SN2007,30,93.291,Opplevelsesaktiviteter,5,93.29
+SN2007,30,93.292,Fritidsetablissement,5,93.29
+SN2007,30,93.299,Fritidsvirksomhet ellers,5,93.29
+SN2007,30,94,Aktiviteter i medlemsorganisasjoner,2,S
+SN2007,30,94.1,Næringslivs- og arbeidsgiverorganisasjoner og yrkessammenslutninger,3,94
+SN2007,30,94.2,Arbeidstakerorganisasjoner,3,94
+SN2007,30,94.9,Aktiviteter i andre medlemsorganisasjoner,3,94
+SN2007,30,94.11,Næringslivs- og arbeidsgiverorganisasjoner,4,94.1
+SN2007,30,94.12,Yrkessammenslutninger,4,94.1
+SN2007,30,94.20,Arbeidstakerorganisasjoner,4,94.2
+SN2007,30,94.91,Religiøse organisasjoner,4,94.9
+SN2007,30,94.92,Partipolitiske organisasjoner,4,94.9
+SN2007,30,94.99,Aktiviteter i andre medlemsorganisasjoner ikke nevnt annet sted,4,94.9
+SN2007,30,94.110,Næringslivs- og arbeidsgiverorganisasjoner,5,94.11
+SN2007,30,94.120,Yrkessammenslutninger,5,94.12
+SN2007,30,94.200,Arbeidstakerorganisasjoner,5,94.20
+SN2007,30,94.910,Religiøse organisasjoner,5,94.91
+SN2007,30,94.920,Partipolitiske organisasjoner,5,94.92
+SN2007,30,94.991,Aktiviteter i andre interesseorganisasjoner ikke nevnt annet sted,5,94.99
+SN2007,30,94.992,Fond/legat som støtter veldedige og allmennyttige formål,5,94.99
+SN2007,30,95,"Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk",2,S
+SN2007,30,95.1,Reparasjon av datamaskiner og kommunikasjonsutstyr,3,95
+SN2007,30,95.2,Reparasjon av husholdningsvarer og varer til personlig bruk,3,95
+SN2007,30,95.11,Reparasjon av datamaskiner og tilleggsutstyr,4,95.1
+SN2007,30,95.12,Reparasjon av kommunikasjonsutstyr,4,95.1
+SN2007,30,95.21,Reparasjon av elektronikk til husholdningsbruk,4,95.2
+SN2007,30,95.22,Reparasjon av husholdningsvarer og hageredskaper,4,95.2
+SN2007,30,95.23,Reparasjon av skotøy og lærvarer,4,95.2
+SN2007,30,95.24,Reparasjon av møbler og boliginnredning,4,95.2
+SN2007,30,95.25,"Reparasjon av ur, gull- og sølvvarer",4,95.2
+SN2007,30,95.29,Reparasjon av andre husholdningsvarer og varer til personlig bruk,4,95.2
+SN2007,30,95.110,Reparasjon av datamaskiner og tilleggsutstyr,5,95.11
+SN2007,30,95.120,Reparasjon av kommunikasjonsutstyr,5,95.12
+SN2007,30,95.210,Reparasjon av elektronikk til husholdningsbruk,5,95.21
+SN2007,30,95.220,Reparasjon av husholdningsvarer og hageredskaper,5,95.22
+SN2007,30,95.230,Reparasjon av skotøy og lærvarer,5,95.23
+SN2007,30,95.240,Reparasjon av møbler og boliginnredning,5,95.24
+SN2007,30,95.250,"Reparasjon av ur, gull- og sølvvarer",5,95.25
+SN2007,30,95.290,Reparasjon av andre husholdningsvarer og varer til personlig bruk,5,95.29
+SN2007,30,96,Annen personlig tjenesteyting,2,S
+SN2007,30,96.0,Annen personlig tjenesteyting,3,96
+SN2007,30,96.01,Vaskeri- og renserivirksomhet,4,96.0
+SN2007,30,96.02,Frisering og annen skjønnhetspleie,4,96.0
+SN2007,30,96.03,Begravelsesbyråvirksomhet og drift av kirkegårder og krematorier,4,96.0
+SN2007,30,96.04,Virksomhet knyttet til kroppspleie og fysisk velvære,4,96.0
+SN2007,30,96.09,Personlig tjenesteyting ikke nevnt annet sted,4,96.0
+SN2007,30,96.010,Vaskeri- og renserivirksomhet,5,96.01
+SN2007,30,96.020,Frisering og annen skjønnhetspleie,5,96.02
+SN2007,30,96.030,Begravelsesbyråvirksomhet og drift av kirkegårder og krematorier,5,96.03
+SN2007,30,96.040,Virksomhet knyttet til kroppspleie og fysisk velvære,5,96.04
+SN2007,30,96.090,Personlig tjenesteyting ikke nevnt annet sted,5,96.09
+SN2007,30,97,Lønnet arbeid i private husholdninger,2,T
+SN2007,30,97.0,Lønnet arbeid i private husholdninger,3,97
+SN2007,30,97.00,Lønnet arbeid i private husholdninger,4,97.0
+SN2007,30,97.000,Lønnet arbeid i private husholdninger,5,97.00
+SN2007,30,99,Internasjonale organisasjoner og organer,2,U
+SN2007,30,99.0,Internasjonale organisasjoner og organer,3,99
+SN2007,30,99.00,Internasjonale organisasjoner og organer,4,99.0
+SN2007,30,99.000,Internasjonale organisasjoner og organer,5,99.00
+SN2007,30,A,"Jordbruk, skogbruk og fiske",1,
+SN2007,30,B,Bergverksdrift og utvinning,1,
+SN2007,30,C,Industri,1,
+SN2007,30,D,"Elektrisitets-, gass-, damp- og varmtvannsforsyning",1,
+SN2007,30,E,"Vannforsyning, avløps- og renovasjonsvirksomhet",1,
+SN2007,30,F,Bygge- og anleggsvirksomhet,1,
+SN2007,30,G,"Varehandel, reparasjon av motorvogner",1,
+SN2007,30,H,Transport og lagring,1,
+SN2007,30,I,Overnattings- og serveringsvirksomhet,1,
+SN2007,30,J,Informasjon og kommunikasjon,1,
+SN2007,30,K,Finansierings- og forsikringsvirksomhet,1,
+SN2007,30,L,Omsetning og drift av fast eiendom,1,
+SN2007,30,M,"Faglig, vitenskapelig og teknisk tjenesteyting",1,
+SN2007,30,N,Forretningsmessig tjenesteyting,1,
+SN2007,30,O,"Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning",1,
+SN2007,30,P,Undervisning,1,
+SN2007,30,Q,Helse- og sosialtjenester,1,
+SN2007,30,R,"Kulturell virksomhet, underholdning og fritidsaktiviteter",1,
+SN2007,30,S,Annen tjenesteyting,1,
+SN2007,30,T,Lønnet arbeid i private husholdninger,1,
+SN2007,30,U,Internasjonale organisasjoner og organer,1,

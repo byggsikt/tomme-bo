@@ -1,0 +1,56 @@
+==============================================================================
+PER-COURT CIF24 RD, SE AND IV WEIGHT (all 23 courts)
+==============================================================================
+court                                 n_opp  n_pet    RD pp   se pp     weight      w*RD
+OSLO TINGRETT                           527    384    +7.70    2.78     1290.3    99.294
+TRØNDELAG TINGRETT                      351     62    +9.89    4.81      432.2    42.735
+HORDALAND TINGRETT                      288    110    +8.13    5.26      360.9    29.345
+ROMERIKE OG GLÅMDAL TINGRETT            232    133    +4.81    4.56      481.7    23.166
+AGDER TINGRETT                          260     61    +2.58    6.59      230.5     5.947
+RINGERIKE, ASKER OG BÆRUM TINGRETT      209    101    +0.96    5.47      334.5     3.217
+VESTFOLD TINGRETT                       204     69    +8.44    6.00      277.7    23.449
+SØR-ROGALAND TINGRETT                   214     53    -0.64    7.35      185.1    -1.177
+MØRE OG ROMSDAL TINGRETT                201     44    +1.59    6.46      239.4     3.797
+SØNDRE ØSTFOLD TINGRETT                 165     66   +11.26    6.10      269.1    30.302
+BUSKERUD TINGRETT                       148     78    +5.56    5.59      319.8    17.799
+FOLLO OG NORDRE ØSTFOLD TINGRETT        116     71    +2.70    6.11      268.2     7.229
+TELEMARK TINGRETT                       145     24   -21.95   10.80       85.8   -18.827
+ØSTRE INNLANDET TINGRETT                111     35    +6.39    8.33      144.0     9.205
+VESTRE INNLANDET TINGRETT               102     28    +5.24    9.49      111.1     5.822
+NORD-TROMS OG SENJA TINGRETT             77     29    +9.32    8.03      155.3    14.476
+HAUGALAND OG SUNNHORDLAND TINGRETT       83     14    +2.58   10.22       95.8     2.474
+SALTEN OG LOFOTEN TINGRETT               71     23   +12.30    9.69      106.5    13.107
+MIDTRE HÅLOGALAND TINGRETT               66     12   -18.94   15.14       43.6    -8.265
+HELGELAND TINGRETT                       63     10    +3.81   13.74       53.0     2.018
+SOGN OG FJORDANE TINGRETT                45      6    +3.33   16.34       37.4     1.248
+VESTRE FINNMARK TINGRETT                 39      9   +41.03    7.88      161.2    66.130
+SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI      17      9    -3.92   19.21       27.1    -1.063
+
+==============================================================================
+IV POOLING UNDER DIFFERENT STRATUM-INCLUSION RULES
+==============================================================================
+  all 23 courts (no restriction)                       RD +6.50 pp [+3.91; +9.10]  Q=34.9 df=22 p_het=0.04  k=23
+  courts with >= 10 estates in EACH group              RD +5.56 pp [+2.92; +8.21]  Q=14.9 df=19 p_het=0.73  k=20
+  courts with >= 20 estates in EACH group              RD +5.84 pp [+3.14; +8.53]  Q=12.2 df=16 p_het=0.73  k=17
+  courts with >= 30 estates in EACH group              RD +6.09 pp [+3.27; +8.91]  Q=4.9 df=12 p_het=0.96  k=13
+  courts dropped by the >=10 rule: ['SOGN OG FJORDANE TINGRETT', 'VESTRE FINNMARK TINGRETT', 'SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI']
+     SOGN OG FJORDANE TINGRETT              n_opp= 45 n_pet=  6 RD=  +3.33 pp  se= 16.34  weight=     37.4
+     VESTRE FINNMARK TINGRETT               n_opp= 39 n_pet=  9 RD= +41.03 pp  se=  7.88  weight=    161.2
+     SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI    n_opp= 17 n_pet=  9 RD=  -3.92 pp  se= 19.21  weight=     27.1
+
+  DerSimonian-Laird random-effects (23 courts): RD +6.14 pp [+2.56; +9.73]  tau = 4.99 pp
+
+==============================================================================
+LOGISTIC PETITION OR - WHICH SPEC GIVES 1.38 ?
+==============================================================================
+  as-of  petition only                  OR = 1.276 [1.102; 1.477]
+  as-of  petition + 22 courts           OR = 1.285 [1.107; 1.493]
+  as-of  petition + bygg                OR = 1.366 [1.177; 1.586]
+  as-of  petition + bygg + 22 courts    OR = 1.376 [1.180; 1.604]
+
+  730 d  petition only                  OR = 1.407 [1.184; 1.671]
+  730 d  petition + 22 courts           OR = 1.425 [1.193; 1.701]
+  730 d  petition + bygg                OR = 1.510 [1.267; 1.801]
+  730 d  petition + bygg + 22 courts    OR = 1.530 [1.277; 1.833]
+
+wrote V-B1-08-results.json

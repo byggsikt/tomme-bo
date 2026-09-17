@@ -1,0 +1,17 @@
+--- A1: non-NOK rows (orgnr, fy, cur, source) ---
+926168061 | 2023 | EUR | brreg-recovered | 66780000 | 61860000 | 1033000
+926168061 | 2023 | EUR | brreg-regnskap | 66780000 | 61860000 | 1033000
+994715208 | 2022 | USD | brreg-recovered | 14891000 | -29794000 | 525000
+--- A2: overlapping (orgnr,fy) pairs across the two sources ---
+323 | 323 | 323 | 323 | 0 | 0
+--- A3: multiples of 1000 test, by source ---
+brreg-recovered | <NULL> | 4749 | 79 | 4174 | 137
+brreg-regnskap | whole_kroner | 321 | 2 | 290 | 4
+--- A4: equity exactly at classic AS share-capital levels (NOK) ---
+other | 5100
+NOK-level 30000 | 82
+NOK-level 100000 | 5
+--- A5: total_assets vs registered share capital (kunngjoring.kapital, NOK) ---
+4815 | 87.9 | 96.7 | 811552 | 30000 | 12.3666
+--- A6: distribution of total_assets (last pre-open row) ---
+4831 | 6076 | 239218 | 824025 | 2857685 | 21554468.5 | 1395631078 | 2529943
