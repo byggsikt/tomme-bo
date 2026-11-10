@@ -1,0 +1,687 @@
+{
+ "M0 rå": {
+  "n": 3772,
+  "OR": 0.736,
+  "lo": 0.624,
+  "hi": 0.867,
+  "p": 0.000257,
+  "RD": -6.0,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": null
+ },
+ "M1 size7": {
+  "n": 3772,
+  "OR": 0.75,
+  "lo": 0.629,
+  "hi": 0.894,
+  "p": 0.0013,
+  "RD": -4.9,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 19.0
+ },
+ "M1b log10(TA)+sq+ingen regnskap": {
+  "n": 3772,
+  "OR": 0.739,
+  "lo": 0.62,
+  "hi": 0.881,
+  "p": 0.00075,
+  "RD": -5.1,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 15.0
+ },
+ "M2 oppbud": {
+  "n": 3772,
+  "OR": 0.682,
+  "lo": 0.577,
+  "hi": 0.807,
+  "p": 8.34e-06,
+  "RD": -7.5,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": -25.0
+ },
+ "M3 regnskap levert": {
+  "n": 3772,
+  "OR": 0.72,
+  "lo": 0.61,
+  "hi": 0.849,
+  "p": 9.74e-05,
+  "RD": -6.4,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": -6.0
+ },
+ "M4 size7+oppbud+gap+alder": {
+  "n": 3772,
+  "OR": 0.717,
+  "lo": 0.599,
+  "hi": 0.857,
+  "p": 0.000265,
+  "RD": -5.7,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 5.0
+ },
+ "M5 = M4 + rettskrets": {
+  "n": 3772,
+  "OR": 0.708,
+  "lo": 0.59,
+  "hi": 0.85,
+  "p": 0.000212,
+  "RD": -5.8,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 4.0
+ },
+ "M6 = M5 + varsel": {
+  "n": 3772,
+  "OR": 0.708,
+  "lo": 0.59,
+  "hi": 0.85,
+  "p": 0.000212,
+  "RD": -5.8,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 4.0
+ },
+ "bygg + driftsinntektsbånd": {
+  "n": 3772,
+  "OR": 0.982,
+  "lo": 0.821,
+  "hi": 1.174,
+  "p": 0.839,
+  "RD": -0.3,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 95.0
+ },
+ "bygg + log10(rev)+sq+mangler+ingen regnskap": {
+  "n": 3772,
+  "OR": 0.986,
+  "lo": 0.824,
+  "hi": 1.179,
+  "p": 0.873,
+  "RD": -0.2,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 97.0
+ },
+ "M7 = M5 + driftsinntektsbånd": {
+  "n": 3772,
+  "OR": 0.865,
+  "lo": 0.715,
+  "hi": 1.047,
+  "p": 0.136,
+  "RD": -2.3,
+  "RDlo": NaN,
+  "RDhi": NaN,
+  "forklart_pct": 62.0
+ },
+ "M7 med område F": {
+  "n": 3772,
+  "OR": 0.926,
+  "lo": 0.771,
+  "hi": 1.112,
+  "p": 0.411,
+  "RD": -1.2,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "M7 as-of, alle 5165": {
+  "n": 5165,
+  "OR": 0.885,
+  "lo": 0.752,
+  "hi": 1.041,
+  "p": 0.14,
+  "RD": -2.0,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "oppbud rå": {
+  "n": 2745,
+  "OR": 0.56,
+  "lo": 0.46,
+  "hi": 0.684,
+  "p": 1.09e-08,
+  "RD": -12.2,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "oppbud M5": {
+  "n": 2745,
+  "OR": 0.608,
+  "lo": 0.488,
+  "hi": 0.756,
+  "p": 8.02e-06,
+  "RD": -8.8,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "oppbud M7": {
+  "n": 2745,
+  "OR": 0.771,
+  "lo": 0.613,
+  "hi": 0.97,
+  "p": 0.0266,
+  "RD": -4.3,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "begjæring rå": {
+  "n": 1027,
+  "OR": 1.09,
+  "lo": 0.797,
+  "hi": 1.49,
+  "p": 0.591,
+  "RD": 1.4,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "begjæring M5": {
+  "n": 1027,
+  "OR": 1.035,
+  "lo": 0.734,
+  "hi": 1.459,
+  "p": 0.845,
+  "RD": 0.5,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "begjæring M7": {
+  "n": 1027,
+  "OR": 1.118,
+  "lo": 0.785,
+  "hi": 1.592,
+  "p": 0.537,
+  "RD": 1.6,
+  "RDlo": NaN,
+  "RDhi": NaN
+ },
+ "_interaksjoner": {
+  "bygg x oppbud (M5)": {
+   "chi2": 5.826,
+   "df": 1,
+   "p": 0.0158
+  },
+  "bygg x oppbud (M7)": {
+   "chi2": 4.195,
+   "df": 1,
+   "p": 0.0405
+  },
+  "bygg x størrelse (M5)": {
+   "chi2": 6.072,
+   "df": 6,
+   "p": 0.415
+  },
+  "bygg x regnskap (M5)": {
+   "chi2": 0.062,
+   "df": 1,
+   "p": 0.804
+  },
+  "bygg x driftsinnt (M5)": {
+   "chi2": 2.563,
+   "df": 5,
+   "p": 0.767
+  }
+ },
+ "_M7_kovariater": {
+  "bygg": {
+   "OR": 0.865,
+   "lo": 0.715,
+   "hi": 1.047
+  },
+  "size7=1 ingen": {
+   "OR": 0.909,
+   "lo": 0.0,
+   "hi": 10686474581524.463
+  },
+  "size7=2 =0": {
+   "OR": 2.038,
+   "lo": 0.723,
+   "hi": 5.746
+  },
+  "size7=3 0,5-1": {
+   "OR": 0.513,
+   "lo": 0.389,
+   "hi": 0.677
+  },
+  "size7=4 1-5": {
+   "OR": 0.411,
+   "lo": 0.317,
+   "hi": 0.532
+  },
+  "size7=5 5-20": {
+   "OR": 0.261,
+   "lo": 0.191,
+   "hi": 0.357
+  },
+  "size7=6 >=20": {
+   "OR": 0.152,
+   "lo": 0.099,
+   "hi": 0.233
+  },
+  "oppb=1": {
+   "OR": 0.873,
+   "lo": 0.717,
+   "hi": 1.063
+  },
+  "gapc=1 2plus": {
+   "OR": 1.321,
+   "lo": 1.107,
+   "hi": 1.575
+  },
+  "agec=1 <3": {
+   "OR": 0.993,
+   "lo": 0.798,
+   "hi": 1.235
+  },
+  "agec=2 >=10": {
+   "OR": 0.845,
+   "lo": 0.682,
+   "hi": 1.047
+  },
+  "agec=3 ukjent": {
+   "OR": 1.011,
+   "lo": 0.707,
+   "hi": 1.445
+  },
+  "revb=1 ingen": {
+   "OR": 0.909,
+   "lo": 0.0,
+   "hi": 10686474581524.463
+  },
+  "revb=2 mangler": {
+   "OR": 1.022,
+   "lo": 0.693,
+   "hi": 1.507
+  },
+  "revb=3 1-5": {
+   "OR": 0.589,
+   "lo": 0.456,
+   "hi": 0.762
+  },
+  "revb=4 5-20": {
+   "OR": 0.374,
+   "lo": 0.279,
+   "hi": 0.503
+  },
+  "revb=5 >=20": {
+   "OR": 0.238,
+   "lo": 0.161,
+   "hi": 0.353
+  }
+ },
+ "_rettskrets": {
+  "n_kretser": 23,
+  "negativ_i": 18,
+  "pearson_r": -0.276,
+  "tabell": [
+   {
+    "krets": "AGDER TINGRETT",
+    "n": 321,
+    "byggandel": 19.6,
+    "b": 69.8,
+    "o": 74.0,
+    "d": -4.2
+   },
+   {
+    "krets": "BUSKERUD TINGRETT",
+    "n": 226,
+    "byggandel": 33.2,
+    "b": 78.7,
+    "o": 80.1,
+    "d": -1.5
+   },
+   {
+    "krets": "FOLLO OG NORDRE ØSTFOLD TINGRETT",
+    "n": 187,
+    "byggandel": 32.6,
+    "b": 72.1,
+    "o": 81.7,
+    "d": -9.6
+   },
+   {
+    "krets": "HAUGALAND OG SUNNHORDLAND TINGRETT",
+    "n": 97,
+    "byggandel": 17.5,
+    "b": 88.2,
+    "o": 83.8,
+    "d": 4.5
+   },
+   {
+    "krets": "HELGELAND TINGRETT",
+    "n": 73,
+    "byggandel": 16.4,
+    "b": 66.7,
+    "o": 78.7,
+    "d": -12.0
+   },
+   {
+    "krets": "HORDALAND TINGRETT",
+    "n": 398,
+    "byggandel": 27.9,
+    "b": 59.5,
+    "o": 69.7,
+    "d": -10.2
+   },
+   {
+    "krets": "MIDTRE HÅLOGALAND TINGRETT",
+    "n": 78,
+    "byggandel": 30.8,
+    "b": 58.3,
+    "o": 81.5,
+    "d": -23.1
+   },
+   {
+    "krets": "MØRE OG ROMSDAL TINGRETT",
+    "n": 245,
+    "byggandel": 26.1,
+    "b": 79.7,
+    "o": 82.9,
+    "d": -3.2
+   },
+   {
+    "krets": "NORD-TROMS OG SENJA TINGRETT",
+    "n": 106,
+    "byggandel": 28.3,
+    "b": 80.0,
+    "o": 78.9,
+    "d": 1.1
+   },
+   {
+    "krets": "OSLO TINGRETT",
+    "n": 911,
+    "byggandel": 19.5,
+    "b": 78.7,
+    "o": 77.5,
+    "d": 1.2
+   },
+   {
+    "krets": "RINGERIKE, ASKER OG BÆRUM TINGRETT",
+    "n": 310,
+    "byggandel": 30.3,
+    "b": 66.0,
+    "o": 75.0,
+    "d": -9.0
+   },
+   {
+    "krets": "ROMERIKE OG GLÅMDAL TINGRETT",
+    "n": 365,
+    "byggandel": 34.8,
+    "b": 79.5,
+    "o": 73.9,
+    "d": 5.6
+   },
+   {
+    "krets": "SALTEN OG LOFOTEN TINGRETT",
+    "n": 94,
+    "byggandel": 23.4,
+    "b": 77.3,
+    "o": 76.4,
+    "d": 0.9
+   },
+   {
+    "krets": "SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI",
+    "n": 26,
+    "byggandel": 30.8,
+    "b": 62.5,
+    "o": 72.2,
+    "d": -9.7
+   },
+   {
+    "krets": "SOGN OG FJORDANE TINGRETT",
+    "n": 51,
+    "byggandel": 11.8,
+    "b": 50.0,
+    "o": 84.4,
+    "d": -34.4
+   },
+   {
+    "krets": "SØNDRE ØSTFOLD TINGRETT",
+    "n": 231,
+    "byggandel": 23.4,
+    "b": 59.3,
+    "o": 76.3,
+    "d": -17.0
+   },
+   {
+    "krets": "SØR-ROGALAND TINGRETT",
+    "n": 267,
+    "byggandel": 15.7,
+    "b": 57.1,
+    "o": 74.2,
+    "d": -17.1
+   },
+   {
+    "krets": "TELEMARK TINGRETT",
+    "n": 169,
+    "byggandel": 27.2,
+    "b": 56.5,
+    "o": 78.0,
+    "d": -21.5
+   },
+   {
+    "krets": "TRØNDELAG TINGRETT",
+    "n": 413,
+    "byggandel": 20.8,
+    "b": 76.7,
+    "o": 80.4,
+    "d": -3.7
+   },
+   {
+    "krets": "VESTFOLD TINGRETT",
+    "n": 273,
+    "byggandel": 26.4,
+    "b": 68.1,
+    "o": 75.1,
+    "d": -7.1
+   },
+   {
+    "krets": "VESTRE FINNMARK TINGRETT",
+    "n": 48,
+    "byggandel": 29.2,
+    "b": 64.3,
+    "o": 70.6,
+    "d": -6.3
+   },
+   {
+    "krets": "VESTRE INNLANDET TINGRETT",
+    "n": 130,
+    "byggandel": 25.4,
+    "b": 66.7,
+    "o": 78.4,
+    "d": -11.7
+   },
+   {
+    "krets": "ØSTRE INNLANDET TINGRETT",
+    "n": 146,
+    "byggandel": 28.1,
+    "b": 73.2,
+    "o": 74.3,
+    "d": -1.1
+   }
+  ]
+ },
+ "_std_regnskap": {
+  "std": 69.6,
+  "ovrige": 76.0,
+  "diff": -6.4,
+  "mh_or": 0.72
+ },
+ "_std_alder": {
+  "std": 68.4,
+  "diff": -7.7,
+  "mh_or": 0.694
+ },
+ "_gap_uten_ingen_regnskap": [
+  {
+   "navn": "1 aar",
+   "b_k": 172,
+   "b_n": 267,
+   "b_p": 64.4,
+   "o_k": 694,
+   "o_n": 932,
+   "o_p": 74.5,
+   "diff_pp": -10.0,
+   "lo_pp": -16.5,
+   "hi_pp": -3.8
+  },
+  {
+   "navn": "2+ aar",
+   "b_k": 414,
+   "b_n": 586,
+   "b_p": 70.6,
+   "o_k": 1311,
+   "o_n": 1734,
+   "o_p": 75.6,
+   "diff_pp": -5.0,
+   "lo_pp": -9.2,
+   "hi_pp": -0.9
+  }
+ ],
+ "_gap_B3_fold": [
+  {
+   "navn": "1 aar (B3-fold: inkl. ingen regnskap)",
+   "b_k": 240,
+   "b_n": 348,
+   "b_p": 69.0,
+   "o_k": 847,
+   "o_n": 1104,
+   "o_p": 76.7,
+   "diff_pp": -7.8,
+   "lo_pp": -13.3,
+   "hi_pp": -2.5
+  },
+  {
+   "navn": "2+ aar (B3-fold: inkl. ingen regnskap)",
+   "b_k": 414,
+   "b_n": 586,
+   "b_p": 70.6,
+   "o_k": 1311,
+   "o_n": 1734,
+   "o_p": 75.6,
+   "diff_pp": -5.0,
+   "lo_pp": -9.2,
+   "hi_pp": -0.9
+  }
+ ],
+ "_oppbud_profil": {
+  "bygg_oppbud_rev_median": 5.29,
+  "bygg_oppbud_rev_ge5": 47.0,
+  "ovrige_oppbud_rev_median": 2.26,
+  "bygg_begj_rev_median": 2.59,
+  "oppbudsandel_bygg_per_size": {
+   "ingen regnskap": 39.4,
+   "<1 MNOK": 49.5,
+   "1-5 MNOK": 62.1,
+   ">=5 MNOK": 85.8
+  },
+  "oppbudsandel_ovrige_per_size": {
+   "ingen regnskap": 70.2,
+   "<1 MNOK": 75.1,
+   "1-5 MNOK": 78.5,
+   ">=5 MNOK": 84.1
+  }
+ },
+ "_oppbud_x_size": [
+  {
+   "navn": "oppbud / ingen regnskap",
+   "b_k": 27,
+   "b_n": 35,
+   "b_p": 77.1,
+   "o_k": 103,
+   "o_n": 120,
+   "o_p": 85.8,
+   "diff_pp": -8.7,
+   "lo_pp": -25.6,
+   "hi_pp": 4.4
+  },
+  {
+   "navn": "oppbud / <1 MNOK",
+   "b_k": 176,
+   "b_n": 216,
+   "b_p": 81.5,
+   "o_k": 971,
+   "o_n": 1131,
+   "o_p": 85.9,
+   "diff_pp": -4.4,
+   "lo_pp": -10.4,
+   "hi_pp": 0.7
+  },
+  {
+   "navn": "oppbud / 1-5 MNOK",
+   "b_k": 101,
+   "b_n": 183,
+   "b_p": 55.2,
+   "o_k": 387,
+   "o_n": 566,
+   "o_p": 68.4,
+   "diff_pp": -13.2,
+   "lo_pp": -21.3,
+   "hi_pp": -5.1
+  },
+  {
+   "navn": "oppbud / >=5 MNOK",
+   "b_k": 43,
+   "b_n": 116,
+   "b_p": 37.1,
+   "o_k": 192,
+   "o_n": 378,
+   "o_p": 50.8,
+   "diff_pp": -13.7,
+   "lo_pp": -23.4,
+   "hi_pp": -3.4
+  },
+  {
+   "navn": "begjæring / ingen regnskap",
+   "b_k": 41,
+   "b_n": 46,
+   "b_p": 89.1,
+   "o_k": 50,
+   "o_n": 52,
+   "o_p": 96.2,
+   "diff_pp": -7.0,
+   "lo_pp": -19.5,
+   "hi_pp": 4.0
+  },
+  {
+   "navn": "begjæring / <1 MNOK",
+   "b_k": 183,
+   "b_n": 214,
+   "b_p": 85.5,
+   "o_k": 313,
+   "o_n": 368,
+   "o_p": 85.1,
+   "diff_pp": 0.5,
+   "lo_pp": -5.8,
+   "hi_pp": 6.2
+  },
+  {
+   "navn": "begjæring / 1-5 MNOK",
+   "b_k": 73,
+   "b_n": 104,
+   "b_p": 70.2,
+   "o_k": 107,
+   "o_n": 153,
+   "o_p": 69.9,
+   "diff_pp": 0.3,
+   "lo_pp": -11.3,
+   "hi_pp": 11.3
+  },
+  {
+   "navn": "begjæring / >=5 MNOK",
+   "b_k": 10,
+   "b_n": 20,
+   "b_p": 50.0,
+   "o_k": 35,
+   "o_n": 70,
+   "o_p": 50.0,
+   "diff_pp": 0.0,
+   "lo_pp": -23.1,
+   "hi_pp": 23.1
+  }
+ ]
+}

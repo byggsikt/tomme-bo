@@ -1,0 +1,18 @@
+== verdier ==
+Oppbud | 10010
+== kunngj_type ==
+Konkurs - åpning | 10010
+== aar ==
+2017 | 8
+2018 | 4
+2019 | 19
+2020 | 43
+2021 | 67
+2022 | 367
+2023 | 2165
+2024 | 2794
+2025 | 2767
+2026 | 1776
+== like-varianter av feltnavnet ==
+Konkurs åpnet | 13646
+Åpnet etter | 10010

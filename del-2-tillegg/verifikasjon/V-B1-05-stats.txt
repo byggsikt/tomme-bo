@@ -1,0 +1,48 @@
+n = 5165
+cause split: {1: 3897, 0: 351, 2: 917}
+negative event times: 0
+
+==============================================================================
+1. BASIS - as-of 24.08.2026 (all 5165, mixed follow-up)
+==============================================================================
+  oppbud       n= 3734  innstilt 2772/3734 = 74.2 % [72.8-75.6]  ordinary 19.1 %  open 6.6 %
+  ikke_oppbud  n= 1431  innstilt 1125/1431 = 78.6 % [76.4-80.7]  ordinary 14.2 %  open 7.2 %
+  RD (petition - oppbud) = +4.4 pp  Newcombe [+1.8; +6.9]  chi2Y=10.5 p=0.001208
+
+==============================================================================
+2. BASIS - assumption-free 730-day window (opened <= 2024-08-24)
+==============================================================================
+  sub-cohort n=3772  excluded 1393
+  oppbud       n= 2745  innstilt<=730d 2000/2745 = 72.9 % [71.2-74.5]   (as-of same sub-cohort 2035/2745 = 74.1 %)
+  ikke_oppbud  n= 1027  innstilt<=730d 812/1027 = 79.1 % [76.5-81.4]   (as-of same sub-cohort 821/1027 = 79.9 %)
+  RD = +6.2 pp  Newcombe [+3.1; +9.1]  chi2Y=14.8 p=0.0001168
+
+==============================================================================
+3. AALEN-JOHANSEN CIF by basis (my own implementation)
+==============================================================================
+  oppbud       n= 3734  CIF12=62.96  CIF18=70.92  CIF24=73.50 [loglog 72.05-74.90] [wald 72.08-74.93] se=0.00726
+               CIF ordinary 24m = 18.35   CIF-days to 50 % = 212   raw median among innstilt = 141
+  ikke_oppbud  n= 1431  CIF12=63.80  CIF18=74.63  CIF24=78.52 [loglog 76.26-80.59] [wald 76.35-80.68] se=0.01104
+               CIF ordinary 24m = 13.64   CIF-days to 50 % = 238   raw median among innstilt = 182
+  RD at 12 m: +0.84 pp  Wald-delta [-2.09; +3.77]  z=0.56 p=0.575
+  RD at 18 m: +3.72 pp  Wald-delta [+1.03; +6.40]  z=2.71 p=0.00664
+  RD at 24 m: +5.01 pp  Wald-delta [+2.42; +7.61]  z=3.79 p=0.000148
+  Gray rho=0 (petition vs oppbud): U=13.51 V=790.37 z=0.48 p=0.631
+  first day petition CIF exceeds oppbud CIF: 43
+  max oppbud lead: 8.5 pp at day 125
+  bootstrap B=2000 seed 20260912: RD24 [+2.56; +7.43]  petition CIF24 [76.33-80.63]  oppbud CIF24 [72.15-74.93]
+
+==============================================================================
+4. FOLLOW-UP BALANCE CHECK (is the as-of gap a censoring artifact?)
+==============================================================================
+  oppbud       median follow-up 851 d, mean 848 d, opened median 2024-04-25
+  ikke_oppbud  median follow-up 852 d, mean 847 d, opened median 2024-04-24
+  oppbud share by opening quarter:
+    2023Q3  234/327 = 71.6 %
+    2023Q4  707/978 = 72.3 %
+    2024Q1  709/955 = 74.2 %
+    2024Q2  738/1063 = 69.4 %
+    2024Q3  636/846 = 75.2 %
+    2024Q4  710/996 = 71.3 %
+
+wrote V-B1-05-results.json

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 824" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="fig1-tittel fig1-desc" width="1200" height="824">
+  <title id="fig1-tittel">Femti år med tall — og tre diskrete målepunkter</title>
+  <desc id="fig1-desc">Punktdiagram med verdiakse fra 0 til 100 prosent. Tre målepunkter for andelen konkursbo som innstilles etter konkursloven § 135: 1976 = 40 prosent og 1996 = 75 prosent, begge gjengitt fra Ot.prp. nr. 26 (1998-99) og tegnet som åpne ringer i kjølig blå; 2023/24-kohorten = 75,5 prosent, denne studiens egen måling på 5 165 bo, tegnet som et fylt punkt i varm rust. Punktene er ikke bundet sammen: mellomrommene 1977–1995 og 1997–2023 er markert som spenn uten kohortkoblet observasjon. Under diagrammet står de offisielle tallene fra 1999 til 2019 som finnes, men som ikke kan tegnes inn fordi de har en annen nevner.</desc>
+  <g font-family="Euclid Circular B, Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-variant-numeric="tabular-nums" style="font-variant-numeric:tabular-nums">
+  <rect x="0.00" y="0.00" width="1200.00" height="824.00" fill="#f5f0e6"/>
+  <text x="76.00" y="46.00" font-size="11" fill="#625e55" font-weight="500" letter-spacing="0.14em" style="letter-spacing:0.14em;font-variant-numeric:tabular-nums">FIGUR 1</text>
+  <text x="76.00" y="78.00" font-size="21" fill="#171815" font-weight="600">Femti år med tall — og tre diskrete målepunkter</text>
+  <text x="76.00" y="106.00" font-size="14.5" fill="#625e55">Andelen konkursbo som innstilles fordi midlene ikke dekker bobehandlingen. Tre målinger på femti år — med tre ulike nevnere.</text>
+  <text x="76.00" y="126.00" font-size="14.5" fill="#625e55">Punktene er derfor aldri bundet sammen med en kurve. Aksen begynner på null.</text>
+  <text x="76.00" y="175.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">100 %</text>
+  <text x="76.00" y="250.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">75</text>
+  <text x="76.00" y="325.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">50</text>
+  <text x="76.00" y="400.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">25</text>
+  <text x="76.00" y="475.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">0</text>
+  <text x="100.00" y="250.00" font-size="12.5" fill="#b9782f" style="font-variant-numeric:tabular-nums">tre av fire</text>
+  <line x1="120.38" y1="180.00" x2="153.67" y2="180.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="173.09" y1="180.00" x2="542.04" y2="180.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="561.45" y1="180.00" x2="1079.25" y2="180.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="1105.16" y1="180.00" x2="1144.00" y2="180.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="173.09" y1="255.00" x2="412.16" y2="255.00" stroke="#b9782f" stroke-width="1" stroke-dasharray="1.5 4.5" stroke-opacity="0.85"/>
+  <line x1="535.04" y1="255.00" x2="542.04" y2="255.00" stroke="#b9782f" stroke-width="1" stroke-dasharray="1.5 4.5" stroke-opacity="0.85"/>
+  <line x1="561.45" y1="255.00" x2="1079.25" y2="255.00" stroke="#b9782f" stroke-width="1" stroke-dasharray="1.5 4.5" stroke-opacity="0.85"/>
+  <line x1="1105.16" y1="255.00" x2="1144.00" y2="255.00" stroke="#b9782f" stroke-width="1" stroke-dasharray="1.5 4.5" stroke-opacity="0.85"/>
+  <line x1="99.00" y1="330.00" x2="153.67" y2="330.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="173.09" y1="330.00" x2="180.09" y2="330.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="245.53" y1="330.00" x2="542.04" y2="330.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="561.45" y1="330.00" x2="1079.25" y2="330.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="1105.16" y1="330.00" x2="1144.00" y2="330.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="99.00" y1="405.00" x2="153.67" y2="405.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="173.09" y1="405.00" x2="180.09" y2="405.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="440.47" y1="405.00" x2="542.04" y2="405.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="561.45" y1="405.00" x2="1079.25" y2="405.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="1105.16" y1="405.00" x2="1144.00" y2="405.00" stroke="#d8cfbe" stroke-width="1"/>
+  <rect x="153.67" y="180.00" width="19.42" height="180.00" fill="#e9e1d4"/>
+  <rect x="153.67" y="360.00" width="19.42" height="120.00" fill="#2e6f91" fill-opacity="0.28"/>
+  <rect x="542.04" y="180.00" width="19.42" height="75.00" fill="#e9e1d4"/>
+  <rect x="542.04" y="255.00" width="19.42" height="225.00" fill="#2e6f91" fill-opacity="0.28"/>
+  <rect x="1079.25" y="180.00" width="25.91" height="73.50" fill="#e9e1d4"/>
+  <rect x="1079.25" y="253.50" width="25.91" height="226.50" fill="#9a4d35" fill-opacity="0.28"/>
+  <line x1="76.00" y1="480.00" x2="1144.00" y2="480.00" stroke="#625e55" stroke-width="1"/>
+  <line x1="231.35" y1="480.00" x2="231.35" y2="485.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="425.53" y1="480.00" x2="425.53" y2="485.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="619.71" y1="480.00" x2="619.71" y2="485.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="813.89" y1="480.00" x2="813.89" y2="485.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="1008.07" y1="480.00" x2="1008.07" y2="485.00" stroke="#d8cfbe" stroke-width="1"/>
+  <line x1="150.67" y1="360.00" x2="176.09" y2="360.00" stroke="#2e6f91" stroke-width="3" stroke-linecap="butt"/>
+  <circle cx="163.38" cy="360.00" r="6.5" fill="#f5f0e6" stroke="#2e6f91" stroke-width="2.75"/>
+  <line x1="539.04" y1="255.00" x2="564.45" y2="255.00" stroke="#2e6f91" stroke-width="3" stroke-linecap="butt"/>
+  <circle cx="551.75" cy="255.00" r="6.5" fill="#f5f0e6" stroke="#2e6f91" stroke-width="2.75"/>
+  <line x1="1076.25" y1="253.50" x2="1108.16" y2="253.50" stroke="#9a4d35" stroke-width="3" stroke-linecap="butt"/>
+  <circle cx="1092.21" cy="253.50" r="7" fill="#9a4d35"/>
+  <line x1="176.09" y1="360.00" x2="186.09" y2="360.00" stroke="#2e6f91" stroke-width="1" stroke-opacity="0.55"/>
+  <line x1="529.04" y1="255.00" x2="539.04" y2="255.00" stroke="#2e6f91" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="189.09" y="334.00" font-size="20" fill="#2e6f91" font-weight="600" style="font-variant-numeric:tabular-nums">40 %</text>
+  <text x="189.09" y="358.00" font-size="13" fill="#2e6f91" font-weight="600" style="font-variant-numeric:tabular-nums">«to av fem boer»</text>
+  <text x="189.09" y="382.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">Kilde: Ot.prp. nr. 26 (1998-99), del 4 pkt. 1.1</text>
+  <text x="189.09" y="400.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">Nevner: avsluttede bo — innstilte etter § 135</text>
+  <text x="189.09" y="418.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">mot ordinært sluttede etter § 128</text>
+  <text x="189.09" y="436.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">(nevneren dokumentert i NOU 1993: 16 s. 133)</text>
+  <text x="526.04" y="228.00" font-size="20" fill="#2e6f91" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">75 %</text>
+  <text x="526.04" y="252.00" font-size="13" fill="#2e6f91" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">«tre av fire boer»</text>
+  <text x="526.04" y="276.00" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">Kilde: Ot.prp. nr. 26 (1998-99), del 4 pkt. 1.1</text>
+  <text x="526.04" y="294.00" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">Nevner: ikke oppgitt i kilden</text>
+  <text x="1144.00" y="204.00" font-size="23" fill="#9a4d35" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">75,5 %</text>
+  <text x="1144.00" y="228.00" font-size="13" fill="#9a4d35" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">denne studiens måling — 2023/24-kohorten</text>
+  <text x="1144.00" y="282.00" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">Byggsikt · 5&#160;165 bo åpnet 01.09.2023–31.12.2024</text>
+  <text x="1144.00" y="300.00" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">Nevner: åpningskohorten, hvert bo fulgt til utfall</text>
+  <text x="1144.00" y="318.00" font-size="12.5" fill="#625e55" text-anchor="end" style="font-variant-numeric:tabular-nums">Kumulativ insidens ved 24 mnd.: 74,8 %</text>
+  <text x="231.35" y="500.00" font-size="12.5" fill="#625e55" text-anchor="middle" style="font-variant-numeric:tabular-nums">1980</text>
+  <text x="425.53" y="500.00" font-size="12.5" fill="#625e55" text-anchor="middle" style="font-variant-numeric:tabular-nums">1990</text>
+  <text x="619.71" y="500.00" font-size="12.5" fill="#625e55" text-anchor="middle" style="font-variant-numeric:tabular-nums">2000</text>
+  <text x="813.89" y="500.00" font-size="12.5" fill="#625e55" text-anchor="middle" style="font-variant-numeric:tabular-nums">2010</text>
+  <text x="1008.07" y="500.00" font-size="12.5" fill="#625e55" text-anchor="middle" style="font-variant-numeric:tabular-nums">2020</text>
+  <text x="163.38" y="500.00" font-size="12.5" fill="#2e6f91" font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">1976</text>
+  <text x="551.75" y="500.00" font-size="12.5" fill="#2e6f91" font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">1996</text>
+  <text x="1092.21" y="500.00" font-size="12.5" fill="#9a4d35" font-weight="600" text-anchor="middle" style="font-variant-numeric:tabular-nums">2023/24</text>
+  <line x1="173.09" y1="528.00" x2="542.04" y2="528.00" stroke="#8c9a8e" stroke-width="1" stroke-opacity="0.85"/>
+  <line x1="173.09" y1="523.00" x2="173.09" y2="528.00" stroke="#8c9a8e" stroke-width="1" stroke-opacity="0.85"/>
+  <line x1="542.04" y1="523.00" x2="542.04" y2="528.00" stroke="#8c9a8e" stroke-width="1" stroke-opacity="0.85"/>
+  <text x="357.56" y="548.00" font-size="12.5" fill="#8c9a8e" text-anchor="middle" style="font-variant-numeric:tabular-nums">1977–1995 · ingen observasjon</text>
+  <line x1="561.45" y1="528.00" x2="1079.25" y2="528.00" stroke="#8c9a8e" stroke-width="1" stroke-opacity="0.85"/>
+  <line x1="561.45" y1="523.00" x2="561.45" y2="528.00" stroke="#8c9a8e" stroke-width="1" stroke-opacity="0.85"/>
+  <line x1="1079.25" y1="523.00" x2="1079.25" y2="528.00" stroke="#8c9a8e" stroke-width="1" stroke-opacity="0.85"/>
+  <text x="820.35" y="548.00" font-size="12.5" fill="#8c9a8e" text-anchor="middle" style="font-variant-numeric:tabular-nums">1997–2023 · ingen kohortkoblet observasjon — tallene som finnes, står under</text>
+  <line x1="76.00" y1="570.00" x2="1144.00" y2="570.00" stroke="#d8cfbe" stroke-width="1"/>
+  <text x="76.00" y="594.00" font-size="14.5" fill="#171815" font-weight="600">Mellomrommet er ikke tomt for tall — men ingen av dem kan tegnes inn på denne aksen</text>
+  <text x="76.00" y="618.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">Det finnes offisielle tallfestinger for 1999, 2000, 2002, første halvår 2003 og for tiåret 2010–2019. De er ført opp under, med nevnertype.</text>
+  <text x="76.00" y="636.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">Ingen av dem har åpningskohorten som nevner: de teller innstillinger i et kalenderår uten hensyn til når boene ble åpnet, eller de er andeler av bo som</text>
+  <text x="76.00" y="654.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">alt var avsluttet, eller av undergrupper etter hvem som begjærte konkursen. Statistisk sentralbyrå og Brønnøysundregistrene teller åpninger, ikke utfall.</text>
+  <text x="76.00" y="686.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">1999</text>
+  <text x="184.00" y="686.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">3&#160;005 innstilte bo</text>
+  <text x="372.00" y="686.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">råtall for kalenderåret</text>
+  <text x="76.00" y="705.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">2000</text>
+  <text x="184.00" y="705.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">3&#160;577 innstilte bo</text>
+  <text x="372.00" y="705.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">råtall for kalenderåret</text>
+  <text x="76.00" y="724.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">2002</text>
+  <text x="184.00" y="724.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">2&#160;767 innstilte bo</text>
+  <text x="372.00" y="724.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">råtall for kalenderåret</text>
+  <text x="76.00" y="743.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">1. halvår 2003</text>
+  <text x="184.00" y="743.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">1&#160;691 + 524 innstilte bo</text>
+  <text x="372.00" y="743.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">råtall, konkurs + tvangsavvikling</text>
+  <text x="610.00" y="686.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">ca. 2000</text>
+  <text x="718.00" y="686.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">75–80 %</text>
+  <text x="906.00" y="686.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">av avslutningene</text>
+  <text x="610.00" y="705.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">udatert utvalg</text>
+  <text x="718.00" y="705.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">53 % og 77 %</text>
+  <text x="906.00" y="705.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">undergrupper etter rekvirent</text>
+  <text x="610.00" y="724.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">2010–2019</text>
+  <text x="718.00" y="724.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">89,9 % (18&#160;345 av 20&#160;413)</text>
+  <text x="906.00" y="724.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">av avsluttede saker</text>
+  <text x="610.00" y="743.00" font-size="12.5" fill="#625e55" font-weight="600" style="font-variant-numeric:tabular-nums">2023 og 2026</text>
+  <text x="718.00" y="743.00" font-size="12.5" fill="#625e55" style="font-variant-numeric:tabular-nums">«90 prosent»</text>
+  <text x="906.00" y="743.00" font-size="12.5" fill="#8c9a8e" style="font-variant-numeric:tabular-nums">kilden regner av avslutningene</text>
+  <text x="76.00" y="786.00" font-size="11" fill="#625e55" style="font-variant-numeric:tabular-nums">Byggsikt · offentlig tilgjengelige registerkunngjøringer · utfall observert til 24.08.2026. Historiske punkter: Ot.prp. nr. 26 (1998-99) del 4 pkt. 1.1 og del 6 pkt. I.1 med NOU 1993: 16.</text>
+  <text x="76.00" y="804.00" font-size="11" fill="#625e55" style="font-variant-numeric:tabular-nums">Tall i mellomrommet: Ot.prp. nr. 23 (2003-2004) pkt. 2, 7.1 og 16.2 · Mjøs, Kostøl og Pelja (2021) tabell 4 panel E · høringsnotat 13.01.2023 · Prop. 56 L (2025–2026) · Statistisk sentralbyrå.</text>
+  </g>
+</svg>

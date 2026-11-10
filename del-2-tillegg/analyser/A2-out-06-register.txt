@@ -1,0 +1,3 @@
+ingen_felt | Konkursregisteret | 1431
+oppbud | Konkursregisteret | 3727
+oppbud | Foretaksregisteret | 7

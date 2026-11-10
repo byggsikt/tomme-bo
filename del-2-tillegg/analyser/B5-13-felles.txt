@@ -1,0 +1,19 @@
+Cellestorrelser i den felles standarden (balansegruppe x grunnlag), n = 5142:
+  5 MNOK+        oppbud      vekt 0.131 | bygg n= 215 | ovrige n= 458
+  5 MNOK+        ingen_felt  vekt 0.024 | bygg n=  35 | ovrige n=  89
+  1-5 MNOK       oppbud      vekt 0.198 | bygg n= 256 | ovrige n= 760
+  1-5 MNOK       ingen_felt  vekt 0.069 | bygg n= 151 | ovrige n= 206
+  under 1 MNOK   oppbud      vekt 0.356 | bygg n= 332 | ovrige n=1499
+  under 1 MNOK   ingen_felt  vekt 0.158 | bygg n= 313 | ovrige n= 498
+  uten regnskap  oppbud      vekt 0.039 | bygg n=  44 | ovrige n= 155
+  uten regnskap  ingen_felt  vekt 0.025 | bygg n=  64 | ovrige n=  67
+
+Andel innstilt, standardisert for BADE balansestorrelse og apningsgrunnlag:
+  bygg    72.3 %
+  ovrige  76.4 %
+  differanse: -4.1 pp
+  95 % bootstrap-intervall: [-6.8, -1.5] pp (2000 gyldige trekk)
+
+Og motsatt: grunnlagskontrasten standardisert for BADE balansestorrelse og bransje:
+  oppbud 74.9 % | ikke-oppbud 75.9 % | differanse +1.0 pp
+  95 % bootstrap-intervall: [-1.7, +3.7] pp

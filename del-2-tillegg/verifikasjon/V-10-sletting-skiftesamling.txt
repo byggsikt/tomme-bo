@@ -1,0 +1,6 @@
+a_sletting | aapen | 351 | 0 | 0.0 | median_utfall_til_sletting=- samme_dag=0 innen30d=0 median_aapning_til_sletting=-
+a_sletting | avsluttet | 917 | 917 | 100.0 | median_utfall_til_sletting=0 samme_dag=713 innen30d=912 median_aapning_til_sletting=390
+a_sletting | innstilt | 3897 | 3881 | 99.6 | median_utfall_til_sletting=0 samme_dag=3050 innen30d=3874 median_aapning_til_sletting=152
+b_signal | ny_bostyrer | 64 |  |  | Kontaktinformasjon til ny bostyrer
+b_signal | ny_fordringsfrist | 1 |  |  | Ny fordringsfrist er satt
+b_signal | skiftesamling | 6 |  |  | Ny skiftesamling berammet ; Ny skiftesamling berammet til 11.12.24 kl. 09:00 Ski tinghus ; Ny skiftesamling berammet til 12.08.24 kl. 13:30 ; Ny skiftesamling berammet til 27.06.24 kl. 10:15 i Hordaland

@@ -1,0 +1,127 @@
+{
+ "inter_rev_df5": {
+  "chi2": 2.563,
+  "df": 5,
+  "p": 0.767,
+  "ledd": [
+   "1 ingen",
+   "2 mangler",
+   "3 1-5",
+   "4 5-20",
+   "5 >=20"
+  ]
+ },
+ "inter_rev_df4_uten_ingen_regnskap": {
+  "chi2": 2.545,
+  "df": 4,
+  "p": 0.637,
+  "ledd": [
+   "2 mangler",
+   "3 1-5",
+   "4 5-20",
+   "5 >=20"
+  ]
+ },
+ "ca_tertiler": {
+  "lav": {
+   "bygg": 72.7,
+   "n_b": 227,
+   "ovrige": 75.1,
+   "n_o": 912
+  },
+  "middels": {
+   "bygg": 61.5,
+   "n_b": 410,
+   "ovrige": 69.8,
+   "n_o": 728
+  },
+  "hoy": {
+   "bygg": 77.1,
+   "n_b": 201,
+   "ovrige": 77.8,
+   "n_o": 937
+  }
+ },
+ "sammensetning_logOR": {
+  "n": 3415,
+  "M5_OR": 0.713,
+  "M5_pluss_OR": 0.743,
+  "B3": [
+   0.713,
+   0.743
+  ]
+ },
+ "rev_asof": [
+  {
+   "band": "ingen regnskap",
+   "bygg": "104 (8.1 %)",
+   "ovrige": "228 (5.9 %)",
+   "bygg_asof": "88/104=84.6",
+   "ovrige_asof": "205/228=89.9"
+  },
+  {
+   "band": "mangler",
+   "bygg": "45 (3.5 %)",
+   "ovrige": "430 (11.1 %)",
+   "bygg_asof": "39/45=86.7",
+   "ovrige_asof": "376/430=87.4"
+  },
+  {
+   "band": "<1 MNOK",
+   "bygg": "211 (16.5 %)",
+   "ovrige": "1075 (27.7 %)",
+   "bygg_asof": "186/211=88.2",
+   "ovrige_asof": "950/1075=88.4"
+  },
+  {
+   "band": "1-5 MNOK",
+   "bygg": "452 (35.3 %)",
+   "ovrige": "1221 (31.4 %)",
+   "bygg_asof": "361/452=79.9",
+   "ovrige_asof": "939/1221=76.9"
+  },
+  {
+   "band": "5-20 MNOK",
+   "bygg": "323 (25.2 %)",
+   "ovrige": "689 (17.7 %)",
+   "bygg_asof": "186/323=57.6",
+   "ovrige_asof": "409/689=59.4"
+  },
+  {
+   "band": ">=20 MNOK",
+   "bygg": "145 (11.3 %)",
+   "ovrige": "242 (6.2 %)",
+   "bygg_asof": "51/145=35.2",
+   "ovrige_asof": "107/242=44.2"
+  }
+ ],
+ "uten_hendelse_innen_730": {
+  "navn": "uten hendelse innen 730 d",
+  "b_k": 88,
+  "b_n": 934,
+  "b_p": 9.4,
+  "o_k": 202,
+  "o_n": 2838,
+  "o_p": 7.1,
+  "diff_pp": 2.3,
+  "lo_pp": 0.3,
+  "hi_pp": 4.5
+ },
+ "rev_null_rapportert": {
+  "bygg": 22,
+  "ovrige": 177,
+  "B3": [
+   22,
+   177
+  ]
+ },
+ "spearman_rev_ta": 0.7,
+ "rev_per_ta_median": {
+  "bygg": 3.48,
+  "ovrige": 2.5,
+  "B3": [
+   3.47,
+   2.48
+  ]
+ }
+}

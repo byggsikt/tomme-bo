@@ -1,0 +1,38 @@
+====================================================================================================
+B5/12 — OVERLEVER BYGGFORSKJELLEN EN STORRELSESSTANDARDISERING?
+Bygg = SN2007 naeringshovedomrade F, studiens eget kart v3 pa bransjeetiketten i kunngjoringen.
+Klassifisert: 5142/5165 = 99.6 % [99.3-99.7] av kohorten.
+====================================================================================================
+
+Raa andel innstilt (as-of 24.08.2026):
+  bygg    1015/1410 = 72.0 % [69.6-74.3]
+  ovrige  2867/3732 = 76.8 % [75.4-78.1]
+  differanse bygg minus ovrige: -4.8 pp
+
+Balansefordelingen er ULIK — byggboene er storre:
+balansegruppe  | bygg                     | ovrige                  
+5 MNOK+        | 250/1410 = 17.7 %        | 547/3732 = 14.7 %       
+1-5 MNOK       | 407/1410 = 28.9 %        | 966/3732 = 25.9 %       
+under 1 MNOK   | 645/1410 = 45.7 %        | 1997/3732 = 53.5 %      
+uten regnskap  | 108/1410 = 7.7 %         | 222/3732 = 5.9 %        
+
+Andel innstilt INNAD i hver balansegruppe:
+balansegruppe  | bygg                        | ovrige                      | differanse
+5 MNOK+        | 127/250 = 50.8 % [44.6-56.9] | 294/547 = 53.7 % [49.6-57.9] |     -2.9 pp
+1-5 MNOK       | 258/407 = 63.4 % [58.6-67.9] | 655/966 = 67.8 % [64.8-70.7] |     -4.4 pp
+under 1 MNOK   | 539/645 = 83.6 % [80.5-86.2] | 1718/1997 = 86.0 % [84.4-87.5] |     -2.5 pp
+uten regnskap  | 91/108 = 84.3 % [76.2-89.9] | 200/222 = 90.1 % [85.5-93.4] |     -5.8 pp
+
+Direkte standardisert til kohortens balansefordeling:
+  bygg    73.1 %
+  ovrige  76.4 %
+  standardisert differanse: -3.3 pp (raa var -4.8 pp)
+  95 % bootstrap-intervall: [-5.9, -0.8] pp — forskjellen OVERLEVER
+
+Samme test pa 12-manedershorisonten:
+  raa: bygg 56.7 % / ovrige 65.7 % (-9.1 pp) | standardisert: 58.4 % / 65.1 % (-6.8 pp)
+
+Kontroll — oppbudsandel og apenandel etter bransje:
+  bygg    oppbud 847/1410 = 60.1 % [57.5-62.6] | apne 125/1410 = 8.9 % [7.5-10.5]
+  ovrige  oppbud 2872/3732 = 77.0 % [75.6-78.3] | apne 221/3732 = 5.9 % [5.2-6.7]
+  median totalkapital: bygg 1020033 NOK, ovrige 759578 NOK

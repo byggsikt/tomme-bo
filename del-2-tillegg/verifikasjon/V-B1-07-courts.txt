@@ -1,0 +1,64 @@
+distinct court strings: 23
+blank court rows: 0
+     911  OSLO TINGRETT
+     413  TRØNDELAG TINGRETT
+     398  HORDALAND TINGRETT
+     365  ROMERIKE OG GLÅMDAL TINGRETT
+     321  AGDER TINGRETT
+     310  RINGERIKE, ASKER OG BÆRUM TINGRETT
+     273  VESTFOLD TINGRETT
+     267  SØR-ROGALAND TINGRETT
+     245  MØRE OG ROMSDAL TINGRETT
+     231  SØNDRE ØSTFOLD TINGRETT
+     226  BUSKERUD TINGRETT
+     187  FOLLO OG NORDRE ØSTFOLD TINGRETT
+     169  TELEMARK TINGRETT
+     146  ØSTRE INNLANDET TINGRETT
+     130  VESTRE INNLANDET TINGRETT
+     106  NORD-TROMS OG SENJA TINGRETT
+      97  HAUGALAND OG SUNNHORDLAND TINGRETT
+      94  SALTEN OG LOFOTEN TINGRETT
+      78  MIDTRE HÅLOGALAND TINGRETT
+      73  HELGELAND TINGRETT
+      51  SOGN OG FJORDANE TINGRETT
+      48  VESTRE FINNMARK TINGRETT
+      26  SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI
+
+==============================================================================
+PER-COURT PETITION EFFECT (10 largest)
+==============================================================================
+court                                n  oppb n      %     asof opp     asof pet  CIF24 o  CIF24 p       RD               [wald]   Gray p
+OSLO TINGRETT                      911     527   57.8   394/527      314/384        73.4     81.1     +7.7 [  +2.2;  +13.2]    0.007
+TRØNDELAG TINGRETT                 413     351   85.0   275/351       54/62         77.2     87.1     +9.9 [  +0.5;  +19.3]    0.451
+HORDALAND TINGRETT                 398     288   72.4   187/288       79/110        64.0     72.1     +8.1 [  -2.2;  +18.4]    0.663
+ROMERIKE OG GLÅMDAL TINGRETT       365     232   63.6   172/232      105/133        74.1     78.9     +4.8 [  -4.1;  +13.7]    0.707
+AGDER TINGRETT                     321     260   81.0   191/260       44/61         73.6     76.1     +2.6 [ -10.3;  +15.5]    0.141
+RINGERIKE, ASKER OG BÆRUM TINGRETT   310     209   67.4   150/209       74/101        72.1     73.0     +1.0 [  -9.8;  +11.7]    0.620
+VESTFOLD TINGRETT                  273     204   74.7   147/204       53/69         72.2     80.7     +8.4 [  -3.3;  +20.2]    0.595
+SØR-ROGALAND TINGRETT              267     214   80.1   153/214       38/53         70.1     69.5     -0.6 [ -15.0;  +13.8]    0.169
+MØRE OG ROMSDAL TINGRETT           245     201   82.0   165/201       36/44         80.2     81.8     +1.6 [ -11.1;  +14.3]    0.565
+SØNDRE ØSTFOLD TINGRETT            231     165   71.4   114/165       53/66         69.4     80.6    +11.3 [  -0.7;  +23.2]    0.492
+
+  MH OR as-of  = 1.283 [1.105; 1.489]   strata used 23
+  MH OR 730 d  = 1.424 [1.193; 1.699]   strata used 23
+  IV-pooled CIF24 RD = +6.50 pp [+3.91; +9.10]  Cochran Q=34.9 df=22 p=0.04  strata 23
+  sign positive in 19/23 courts (of 23 total)
+  stratified Gray z = 0.95 p = 0.341
+
+==============================================================================
+LOGISTIC: court-adjusted, and LR test for court before/after basis
+==============================================================================
+  as-of: petition OR adj. for court = 1.285 [1.107; 1.493]
+         interaction OR WITH 22 court dummies = 1.932 [1.407; 2.651]
+         interaction OR crude (saturated 2x2x2) = 1.959 [1.430; 2.683]
+         LR chi2(22) for court: unadjusted 46.9 (p=0.00152)  ->  adjusted for basis 47.0 (p=0.00148)
+         petition effect within OTHER (log-odds OR) = 1.084; within BYGG = 2.124
+  730 d: petition OR adj. for court = 1.425 [1.193; 1.701]
+         interaction OR WITH 22 court dummies = 1.892 [1.302; 2.750]
+         interaction OR crude (saturated 2x2x2) = 1.944 [1.342; 2.816]
+         LR chi2(22) for court: unadjusted 42.2 (p=0.00599)  ->  adjusted for basis 42.4 (p=0.00561)
+         petition effect within OTHER (log-odds OR) = 1.200; within BYGG = 2.332
+
+  court oppbud share vs court as-of innstilt share: Pearson r = 0.15 (p = 0.50), k = 23 courts
+
+wrote V-B1-07-results.json

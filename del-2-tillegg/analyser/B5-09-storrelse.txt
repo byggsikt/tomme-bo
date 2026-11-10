@@ -1,0 +1,95 @@
+========================================================================================================
+B5/09 — STORRELSE OG STANDARDISERING. n = 5 165, as-of 24.08.2026
+Balansegruppe = totalkapital i siste arsregnskap MED regnskapsar FOR apningsaret (dekning 4 833/5 165 = 93,6 %).
+Enhet: hele kroner. Kontrollert: 2 683 selskapsar finnes i BEGGE regnskapskilder med IDENTISK total_assets
+(forhold 1,0000, null avvik) — 'amount_unit' blank vs whole_kroner er en merkelapp, ikke en skala.
+2 av 4 833 rader er merket i utenlandsk valuta (USD 14,9 mill., EUR 66,8 mill.); begge ligger i toppgruppen uansett.
+========================================================================================================
+
+## 1. TID TIL INNSTILLING PER BALANSEGRUPPE — tabellen advokaten kan bruke pa en konkret klient
+balansegruppe  |      n | 3 mnd   6 mnd   9 mnd   12 mnd  18 mnd  601 d   | 24 mnd*   | median  
+5 MNOK+        |    806 | 3.3%    13.0%   22.7%   29.0%   44.2%   46.7%   |  47.9% (584) |    322 d
+1-5 MNOK       |   1378 | 11.8%   30.8%   44.8%   52.8%   62.8%   63.8%   |  66.4% (1006) |    197 d
+under 1 MNOK   |   2649 | 29.6%   59.3%   71.9%   77.4%   83.6%   84.0%   |  85.2% (1929) |    122 d
+uten regnskap  |    332 | 27.7%   54.2%   66.9%   75.9%   84.0%   85.5%   |  87.4% (253) |    140 d
+* 24 mnd pa delkohorten apnet <= 2024-08-24; n i parentes.
+
+Tellere: 
+  5 MNOK+        n=806  3 mnd=27  6 mnd=105  9 mnd=183  12 mnd=234  18 mnd=356  601 d=376
+  1-5 MNOK       n=1378  3 mnd=162  6 mnd=425  9 mnd=617  12 mnd=728  18 mnd=866  601 d=879
+  under 1 MNOK   n=2649  3 mnd=783  6 mnd=1571  9 mnd=1904  12 mnd=2050  18 mnd=2215  601 d=2226
+  uten regnskap  n=332  3 mnd=92  6 mnd=180  9 mnd=222  12 mnd=252  18 mnd=279  601 d=284
+
+Samme tabell, ENDELIG utfall per balansegruppe (as-of):
+balansegruppe  |      n | innstilt                    | ordinaert avsluttet         | fortsatt apent             
+5 MNOK+        |    806 | 423/806 = 52.5 % [49.0-55.9] | 214/806 = 26.6 % [23.6-29.7] | 169/806 = 21.0 % [18.3-23.9]
+1-5 MNOK       |   1378 | 917/1378 = 66.5 % [64.0-69.0] | 362/1378 = 26.3 % [24.0-28.7] | 99/1378 = 7.2 % [5.9-8.7]  
+under 1 MNOK   |   2649 | 2264/2649 = 85.5 % [84.1-86.8] | 312/2649 = 11.8 % [10.6-13.1] | 73/2649 = 2.8 % [2.2-3.5]  
+uten regnskap  |    332 | 293/332 = 88.3 % [84.3-91.3] | 29/332 = 8.7 % [6.2-12.3]   | 10/332 = 3.0 % [1.6-5.5]   
+
+========================================================================================================
+## 2. ER FORSKJELLEN MELLOM OPPBUD OG IKKE-OPPBUD EGENTLIG EN STORRELSESFORSKJELL?
+========================================================================================================
+
+Oppbudsandel innad i hver balansegruppe (oppbudsboene er systematisk STORRE):
+  5 MNOK+        681/806 = 84.5 % [81.8-86.8]
+  1-5 MNOK       1019/1378 = 73.9 % [71.6-76.2]
+  under 1 MNOK   1833/2649 = 69.2 % [67.4-70.9]
+  uten regnskap  201/332 = 60.5 % [55.2-65.7]
+
+Ustandardisert (raa) andel innstilt:
+  oppbud      2772/3734 = 74.2 % [72.8-75.6]
+  ingen_felt  1125/1431 = 78.6 % [76.4-80.7]
+  raa differanse (ikke-oppbud minus oppbud): +4.4 pp
+
+Direkte standardisert til kohortens egen balansefordeling (vekt = n i gruppen / 5 165):
+  oppbud      standardisert 75.2 %
+  ingen_felt  standardisert 75.9 %
+  standardisert differanse: +0.7 pp
+  95 % bootstrap-intervall (2 000 trekk): [-2.0, +3.3] pp
+  -> Av den raa forskjellen pa +4.4 pp blir +0.7 pp igjen nar balansestorrelsen holdes fast.
+
+Samme oving pa 3- og 6-manedershorisontene (andel innstilt innen):
+  3 mnd  raa: oppbud 22.5 % / ikke-oppbud 15.6 % (-6.9 pp) | standardisert: 23.5 % / 14.3 % (-9.2 pp)
+  6 mnd  raa: oppbud 45.9 % / ikke-oppbud 39.6 % (-6.3 pp) | standardisert: 47.4 % / 36.7 % (-10.7 pp)
+  12 mnd raa: oppbud 63.0 % / ikke-oppbud 63.8 % (+0.8 pp) | standardisert: 64.4 % / 60.0 % (-4.4 pp)
+
+========================================================================================================
+## 3. DE 351 APNE BOENE — hvem er de?
+========================================================================================================
+
+Apningsar:
+  apnet 2023: 41/1305 = 3.1 % [2.3-4.2]
+  apnet 2024: 310/3860 = 8.0 % [7.2-8.9]
+
+Halvar (apningskohortens egne vinduer) — apenandel faller ikke bare med tiden:
+  2023H2  41/1305 = 3.1 % [2.3-4.2]  (median oppfolging 1032 d)
+  2024H1  122/2018 = 6.0 % [5.1-7.2]  (median oppfolging 872 d)
+  2024H2  188/1842 = 10.2 % [8.9-11.7]  (median oppfolging 685 d)
+
+Balansefordeling: de 351 mot kohorten
+balansegruppe  | andel av de 351      | andel av kohorten    | apenandel i gruppen       
+5 MNOK+        | 169/351 = 48.1 %     | 806/5165 = 15.6 %    | 169/806 = 21.0 % [18.3-23.9]
+1-5 MNOK       | 99/351 = 28.2 %      | 1378/5165 = 26.7 %   | 99/1378 = 7.2 % [5.9-8.7] 
+under 1 MNOK   | 73/351 = 20.8 %      | 2649/5165 = 51.3 %   | 73/2649 = 2.8 % [2.2-3.5] 
+uten regnskap  | 10/351 = 2.8 %       | 332/5165 = 6.4 %     | 10/332 = 3.0 % [1.6-5.5]  
+
+De 351 er 6,8 % av boene, men 36.6 % av kohortens samlede bokforte totalkapital (11159 av 30501 mill. kr).
+De 3 897 innstilte er 75,5 % av boene, men bare 41.2 % av totalkapitalen.
+
+Storrelsesfordeling i tall (totalkapital, NOK):
+  kohort     n=4833  p10=     31872 p25=    239284 p50=    824283 p75=    2865147 p90=     9412578
+  innstilt   n=3604  p10=     24107 p25=    160992 p50=    606189 p75=    1774975 p90=     6046740
+  avsluttet  n= 888  p10=    277938 p25=    679057 p50=   1823242 p75=    4828507 p90=    13819882
+  apen       n= 341  p10=    536476 p25=   1444578 p50=   4921176 p75=   18953018 p90=    61585069
+  Mann-Whitney apen vs innstilt (totalkapital): U = 975622, p = 1.8e-72 (ensidig storre)
+
+Kontroll: er 'apen' bare en langsom innstilling? Blant de som ALLEREDE er avgjort,
+hvor stor andel av hver balansegruppe endte ordinaert avsluttet (dvs. hadde midler):
+  5 MNOK+        214/637 = 33.6 % [30.0-37.4]
+  1-5 MNOK       362/1279 = 28.3 % [25.9-30.8]
+  under 1 MNOK   312/2576 = 12.1 % [10.9-13.4]
+  uten regnskap  29/322 = 9.0 % [6.3-12.6]
+
+Tilleggstest til B5/08: 16 av 16 domstoler med n >= 40 i bade 2023 og 2026 steg.
+  Fortegnstest (binomial, p = 0,5): p = 3.1e-05

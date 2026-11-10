@@ -1,0 +1,15 @@
+avsluttet_ordinaert_alle_5165 | ingen_felt | 1431 | 2 | 24 | 57 | 89 | 153 | 166
+avsluttet_ordinaert_alle_5165 | oppbud | 3734 | 10 | 109 | 236 | 341 | 531 | 588
+horisont_730_delkohort | ingen_felt | 1027 | 812 | 142 | 73 | 767 | 663 | 
+horisont_730_delkohort | oppbud | 2745 | 2000 | 528 | 217 | 1932 | 1712 | 
+horisont_730_delkohort_total | alle | 3772 | 2812 | 670 | 290 |  |  | 
+horisont_alle_5165 | ingen_felt | 1431 | 223 | 567 | 792 | 913 | 1068 | 1083
+horisont_alle_5165 | oppbud | 3734 | 841 | 1714 | 2134 | 2351 | 2648 | 2682
+horisont_alle_5165_total | alle | 5165 | 1064 | 2281 | 2926 | 3264 | 3716 | 3765
+kvantiler_innstilling | ingen_felt | 1125 | 71 | 104 | 182 | 311 | 431 | 914
+kvantiler_innstilling | oppbud | 2772 | 63 | 83 | 141 | 258 | 417 | 991
+kvantiler_ordinaer_avslutning | ingen_felt | 203 | 173 | 264 | 415 | 539 | 686 | 998
+kvantiler_ordinaer_avslutning | oppbud | 714 | 157 | 231 | 384 | 552 | 662 | 917
+sanity | 5165 | 0 | 601 | 1088 |  |  |  | 
+uavklart_alle_5165 | ingen_felt | 1431 | 1206 | 840 | 582 | 429 | 210 | 182
+uavklart_alle_5165 | oppbud | 3734 | 2883 | 1911 | 1364 | 1042 | 555 | 464

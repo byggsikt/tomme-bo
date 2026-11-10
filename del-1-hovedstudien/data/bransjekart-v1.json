@@ -1,0 +1,4550 @@
+{
+ "versjon": "v1",
+ "kjoredato": "2026-08-30",
+ "beskrivelse": "bransje-etikett (60 tegn, fra kunngjoring.insolvens paa aapningsraden) -> NACE via modal industry_code_1 i selskapsuniverset",
+ "antall_etiketter": 756,
+ "antall_uten_treff": 380,
+ "bygg_koder": [
+  "41",
+  "42",
+  "43"
+ ],
+ "kart": [
+  {
+   "etikett": "Agentur- og engroshandel med andre motorvogner, unntatt moto",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agentur- og engroshandel med biler og lette motorvogner, unn",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agentur- og engroshandel med deler og utstyr til motorvogner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agentur- og engroshandel med motorsykler, deler og utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med bredt vareutvalg",
+   "kode": "46.190",
+   "n": 167,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med maskiner, produksjonsutstyr, båter og luft",
+   "kode": "46.140",
+   "n": 175,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med møbler, husholdningsvarer og jernvarer",
+   "kode": "46.150",
+   "n": 271,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med nærings- og nytelsesmidler",
+   "kode": "46.170",
+   "n": 158,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med spesialisert vareutvalg ellers",
+   "kode": "46.180",
+   "n": 992,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med tekstiler, klær, pelsskinn, skotøy og lærv",
+   "kode": "46.160",
+   "n": 494,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Agenturhandel med tømmer, trelast og byggevarer",
+   "kode": "46.130",
+   "n": 134,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Aktiviteter i andre interesseorganisasjoner ikke nevnt annet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Aktiviteter i dagspa, badstue og dampbad",
+   "kode": "96.230",
+   "n": 2954,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Aktiviteter innenfor tradisjonell, komplementær og alternati",
+   "kode": "86.960",
+   "n": 3367,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Aktiviteter utført av turistkontorer og destinasjonsselskape",
+   "kode": "79.901",
+   "n": 211,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Aktiviteter utført av utflukts- og eventarrangører",
+   "kode": "79.121",
+   "n": 2759,
+   "kandidater": 1
+  },
+  {
+   "etikett": "All annen faglig, vitenskapelig og teknisk virksomhet ikke n",
+   "kode": "74.990",
+   "n": 5580,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Allmenn legetjeneste",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Allmenn legetjeneste\nTannhelsetjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Allmennlegetjenester",
+   "kode": "86.210",
+   "n": 16435,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Alternative investeringsfond (AIF) som ikke er verdipapirfon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre egeninvesteringsselskaper",
+   "kode": "64.323",
+   "n": 14099,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre helsetjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre helsetjenester ellers",
+   "kode": "86.993",
+   "n": 8205,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre helsetjenester ellers\nOmsorgstjenester i botilbud for",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre informasjonstjenester ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre kombinerte tjenester tilknyttet eiendomsdrift",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre personlige tjenester ikke nevnt annet sted",
+   "kode": "96.990",
+   "n": 7916,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre post- og budtjenester",
+   "kode": "53.200",
+   "n": 6936,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre sosialtjenester uten botilbud",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre sosialtjenester uten botilbud ellers",
+   "kode": "88.996",
+   "n": 4600,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre sportsaktiviteter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre støttetjenester for transport",
+   "kode": "52.260",
+   "n": 471,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet finansieringsvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet finansieringsvirksomhet og kollek",
+   "kode": "66.190",
+   "n": 150,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet forsikringsvirksomhet og pensjons",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet informasjonsteknologi",
+   "kode": "62.900",
+   "n": 392,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet kunstnerisk virksomhet og underho",
+   "kode": "90.390",
+   "n": 8051,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet lufttransport",
+   "kode": "52.230",
+   "n": 219,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet sjøtransport",
+   "kode": "52.220",
+   "n": 930,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet undervisning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet undervisning ikke nevnt annet ste",
+   "kode": "85.699",
+   "n": 1752,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet utvinning av råolje og naturgass",
+   "kode": "09.109",
+   "n": 866,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Andre tjenester tilknyttet utvinning av råolje og naturgass\n",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen bryting og utvinning ikke nevnt annet sted",
+   "kode": "08.990",
+   "n": 40,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen detaljhandel med andre nye varer",
+   "kode": "47.780",
+   "n": 2620,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen ferdiggjøring av bygninger",
+   "kode": "43.350",
+   "n": 382,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen forebyggende helsetjeneste",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+   "kode": "82.990",
+   "n": 3865,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen forskning og annet utviklingsarbeid innen naturvitensk",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen industriproduksjon ikke nevnt annet sted",
+   "kode": "32.990",
+   "n": 571,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen rengjøringsvirksomhet ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen rengjøringsvirksomhet og snømåking",
+   "kode": "81.230",
+   "n": 1417,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen spesialisert bygge- og anleggsvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen spesialisert bygge- og anleggsvirksomhet\nUtleie og lea",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt an",
+   "kode": "43.990",
+   "n": 3493,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen spesialisert byggevirksomhet i forbindelse med oppføri",
+   "kode": "43.420",
+   "n": 267,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen teknisk konsulentvirksomhet",
+   "kode": "71.129",
+   "n": 18719,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen teknisk konsulentvirksomhet\nUtleie av arbeidskraft",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen trafikkskoleundervisning",
+   "kode": "85.532",
+   "n": 587,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen undervisning ellers",
+   "kode": "85.597",
+   "n": 14666,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen undervisning ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annen virksomhet for distribuering av innhold",
+   "kode": "60.390",
+   "n": 1286,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annet fjørfehold",
+   "kode": "01.479",
+   "n": 524,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Annet installasjonsarbeid",
+   "kode": "43.240",
+   "n": 756,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Arbeidstrening for ordinært arbeidsmarked",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Arkitekttjenester vedrørende byggverk",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Arkitekttjenester vedrørende byggverk\nByggeteknisk konsulent",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Arkitektvirksomhet",
+   "kode": "71.110",
+   "n": 4222,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Asylmottak",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Asylmottakstjenester",
+   "kode": "87.992",
+   "n": 39,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Avlastningsboliger/-institusjoner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Avvirkning",
+   "kode": "02.200",
+   "n": 15387,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Avvirkning\nOppføring av bygninger",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Avvirkning\nUtleie av egen eller leid fast eiendom ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Barnehager",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Barneverntjenester",
+   "kode": "88.991",
+   "n": 1096,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bearbeiding av metaller",
+   "kode": "25.530",
+   "n": 2039,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bearbeiding av planglass",
+   "kode": "23.120",
+   "n": 48,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bearbeiding av te og kaffe",
+   "kode": "10.830",
+   "n": 108,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bearbeiding og konservering av frukt og grønnsaker ellers",
+   "kode": "10.390",
+   "n": 87,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bearbeiding og konservering av kjøtt",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bedriftsrådgivning og annen administrativ rådgivning",
+   "kode": "70.200",
+   "n": 31572,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bedriftsrådgivning og annen administrativ rådgivning\nTelefon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Begravelsesbyråvirksomhet og drift av kirkegårder og kremato",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Begravelsesbyråvirksomhet og lignende tjenester",
+   "kode": "96.300",
+   "n": 464,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Behandling og disponering av ikke-farlig avfall",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Beplantning av hager og parkanlegg",
+   "kode": "81.300",
+   "n": 2134,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Blikkenslagerarbeid på tak",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bryting av dekorstein, kalkstein, gips, skifer og annen stei",
+   "kode": "08.110",
+   "n": 320,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bryting av ikke-jernholdig malm ellers",
+   "kode": "07.290",
+   "n": 15,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bryting av stein til bygge- og anleggsvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel ikke nevnt annet sted\nVarig tilrettelagt arbeid",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med apotekvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med audio- og videoutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bakervarer og konditorvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bakervarer og konditorvarer\nButikkhandel me",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med belysningsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med blomster og planter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bredt utvalg av jernvarer, fargevarer og an",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bredt vareutvalg ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bredt vareutvalg ellers\nButikkhandel med in",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bredt vareutvalg med hovedvekt på nærings-",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med brukte klær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med brukte varer ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med byggevarer ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med bøker",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med datamaskiner og utstyr til datamaskiner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med drikkevarer ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med elektriske husholdningsapparater",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med fargevarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med fisk, skalldyr og bløtdyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med fisk, skalldyr og bløtdyr\nUtleie av egen el",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med fotoutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med fritidsbåter og -utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med frukt og grønnsaker",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med gardiner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med gull- og sølvvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med helsekost",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med innredningsartikler ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med jernvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med kjæledyr og fôr til kjæledyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med kjøkkenutstyr, glass og steintøy",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med kjøtt og kjøttvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med klær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med klær\nFrisering og annen skjønnhetspleie",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med kosmetikk og toalettartikler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med medisinske og ortopediske artikler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med musikkinstrumenter og noter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med møbler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med møbler\nPostordre-/Internetthandel med belys",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med nærings- og nytelsesmidler ikke nevnt annet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med optiske artikler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med reiseeffekter av lær og lærimitasjoner og v",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med skotøy",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med spill og leker",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med sportsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med sukkervarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med tapeter og gulvbelegg",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med tekstiler og utstyrsvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med tekstiler og utstyrsvarer\nButikkhandel med",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med telekommunikasjonsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med tobakksvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med trelast",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Butikkhandel med ur og klokker",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Byggeteknisk konsulentvirksomhet",
+   "kode": "71.121",
+   "n": 6905,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av andre anlegg ikke nevnt annet sted",
+   "kode": "42.990",
+   "n": 438,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av anlegg for elektrisitet og telekommunikasjon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av anlegg for elektrisitet og telekommunikasjon på l",
+   "kode": "42.222",
+   "n": 195,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av broer og tunneler",
+   "kode": "42.130",
+   "n": 99,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av bruer og tunneler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av fritidsbåter",
+   "kode": "30.120",
+   "n": 185,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av havne- og damanlegg",
+   "kode": "42.910",
+   "n": 94,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av jernbaner og undergrunnsbaner",
+   "kode": "42.120",
+   "n": 108,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av sivile skip og flytende materiell",
+   "kode": "30.110",
+   "n": 351,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av skip og skrog over 100 br.tonn",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av skip og skrog over 100 br.tonn\nAnnen teknisk kons",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av skip og skrog over 100 br.tonn\nInnrednings- og in",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av skip og skrog over 100 br.tonn\nReparasjon og vedl",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av skip under 100 br.tonn",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av vann- og kloakkanlegg",
+   "kode": "42.210",
+   "n": 433,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Bygging av veier og motorveier",
+   "kode": "42.110",
+   "n": 540,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Catering for arrangementer",
+   "kode": "56.210",
+   "n": 3031,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Cateringvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Cateringvirksomhet\nArbeidstrening for ordinært arbeidsmarked",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dagaktivitetstilbud tilpasset målgrupper",
+   "kode": "88.102",
+   "n": 48,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Damp- og varmtvannsforsyning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Databehandling, datalagring og tilknyttede tjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Datainfrastruktur, -behandling, -lagring og tilknyttede tjen",
+   "kode": "63.100",
+   "n": 907,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dataprogrammeringstjenester",
+   "kode": "62.100",
+   "n": 16797,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dataprogrammeringstjenester\nFrisering og barbering",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Demontering av vrakede gjenstander",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Destillering, rektifisering og blanding av sprit",
+   "kode": "11.010",
+   "n": 61,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med andre motorvogner, unntatt motorsykler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med andre motorvogner, unntatt motorsykler\nVedl",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med apotekvarer",
+   "kode": "47.730",
+   "n": 317,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med bakervarer, konditorvarer og sukkervarer",
+   "kode": "47.240",
+   "n": 357,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med biler og lette motorvogner, unntatt motorsy",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med blomster, planter, gjødsel og plantevernmid",
+   "kode": "47.761",
+   "n": 1094,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med bredt vareutvalg ellers",
+   "kode": "47.120",
+   "n": 2118,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings-",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med brukte varer",
+   "kode": "47.790",
+   "n": 1316,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med bøker",
+   "kode": "47.610",
+   "n": 281,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med deler og utstyr til motorvogner",
+   "kode": "47.820",
+   "n": 1333,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med deler og utstyr til motorvogner\nReparasjon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med deler og utstyr til motorvogner, unntatt mo",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med drivstoff til motorvogner",
+   "kode": "47.300",
+   "n": 1015,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med elektriske husholdningsapparater",
+   "kode": "47.540",
+   "n": 456,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med fisk, skalldyr og bløtdyr",
+   "kode": "47.230",
+   "n": 243,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med fritidsbåter og tilhørende utstyr",
+   "kode": "47.632",
+   "n": 490,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med frukt og grønnsaker",
+   "kode": "47.210",
+   "n": 176,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med husholdningsredskaper og bestikk, servise,",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med informasjons- og kommunikasjonsteknologiuts",
+   "kode": "47.400",
+   "n": 897,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med innredningsartikler ikke nevnt annet sted",
+   "kode": "47.559",
+   "n": 1373,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass",
+   "kode": "47.520",
+   "n": 1704,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med kjæledyr og varer til kjæledyr",
+   "kode": "47.762",
+   "n": 796,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med klær",
+   "kode": "47.710",
+   "n": 5523,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med klær\nDetaljhandel med kosmetikk og toaletta",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med klær\nIndustri-, produkt- og motedesignvirks",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med kosmetikk og toalettartikler",
+   "kode": "47.750",
+   "n": 1857,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med kulturvarer ikke nevnt annet sted",
+   "kode": "47.690",
+   "n": 1300,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med medisinske og ortopediske artikler",
+   "kode": "47.740",
+   "n": 702,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med motorsykler og tilhørende deler og utstyr",
+   "kode": "47.830",
+   "n": 309,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med motorsykler og tilhørende deler og utstyr\nR",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med motorsykler, deler og utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med motorvogner",
+   "kode": "47.810",
+   "n": 5372,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med motorvogner\nReparasjon og vedlikehold av mo",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med møbler, gjelder også madrasser",
+   "kode": "47.551",
+   "n": 909,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med nærings- og nytelsesmidler ellers",
+   "kode": "47.270",
+   "n": 1296,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med skotøy og lærvarer",
+   "kode": "47.720",
+   "n": 483,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med spill og leker",
+   "kode": "47.640",
+   "n": 826,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med sportsvarer",
+   "kode": "47.631",
+   "n": 2166,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med tapet, gulvtepper og gulvbelegg",
+   "kode": "47.530",
+   "n": 95,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med tekstiler og utstyrsvarer",
+   "kode": "47.510",
+   "n": 1228,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med tekstiler og utstyrsvarer\nDetaljhandel med",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel med ur, klokker og smykker",
+   "kode": "47.770",
+   "n": 952,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Detaljhandel utenom utsalgssted ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Distribusjon av film, video og fjernsynsprogrammer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av barer",
+   "kode": "56.300",
+   "n": 911,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av barer ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av campingplasser",
+   "kode": "55.300",
+   "n": 1127,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av ferieleiligheter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av ferieleiligheter\nDrift av puber",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av fornøyelses- og temaparker",
+   "kode": "93.210",
+   "n": 145,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av gatekjøkken",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av gods- og transportsentraler",
+   "kode": "52.211",
+   "n": 393,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av havne- og kaianlegg",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av historiske steder og bygninger og lignende severdig",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av hoteller",
+   "kode": "55.100",
+   "n": 1821,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av hoteller, pensjonater og moteller med restaurant",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av hoteller, pensjonater og moteller med restaurant\nDr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av hoteller, pensjonater og moteller med restaurant\nKo",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av hoteller, pensjonater og moteller med restaurant\nUt",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av hoteller, pensjonater og moteller uten restaurant",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av idrettsanlegg",
+   "kode": "93.110",
+   "n": 1123,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av lokaler tilknyttet kunstnerisk virksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av mobile serveringssteder",
+   "kode": "56.120",
+   "n": 337,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av parkeringsplasser og parkeringshus",
+   "kode": "52.212",
+   "n": 309,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av puber",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter",
+   "kode": "56.110",
+   "n": 11848,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter\nAndre tjenester tilknyttet kunstnerisk",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter\nUtleie av egen eller leid fast eiendom",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter og kafeer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter og kafeer\nBedriftsrådgivning og annen",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter og kafeer\nCateringvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter og kafeer\nDrift av barer ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter og kafeer\nDrift av gatekjøkken",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av restauranter og kafeer\nFrisering og annen skjønnhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av søkemotorer",
+   "kode": "63.910",
+   "n": 612,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av taxisentraler og annen formidling av persontranspor",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av vandrerhjem",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av vandrerhjem og ferieleiligheter",
+   "kode": "55.200",
+   "n": 2042,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av vandrerhjem og ferieleiligheter\nDrift av restaurant",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drift av web-portaler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drosjebiltransport",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drosjebiltransport\nFrisering og annen skjønnhetspleie",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Drosjebiltransport\nTrafikkskoleundervisning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av annen frukt som vokser på trær eller busker samt",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av ettårige vekster ellers",
+   "kode": "01.190",
+   "n": 5237,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av grønnsaker, meloner, rot- og knollvekster",
+   "kode": "01.130",
+   "n": 1793,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av grønnsaker, meloner, rot- og knollvekster\nSvineho",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av kjernefrukter og steinfrukter",
+   "kode": "01.240",
+   "n": 961,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vek",
+   "kode": "01.110",
+   "n": 10128,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Dyrking av krydder og aromatiske, medisinske og farmasøytisk",
+   "kode": "01.280",
+   "n": 46,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Eiendomsforvaltning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Eiendomsforvaltning på oppdrag",
+   "kode": "68.320",
+   "n": 12773,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Eiendomsmegling",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Eiendomsmegling og andre formidlingstjenester for eiendom",
+   "kode": "68.310",
+   "n": 784,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Elektrisk installasjonsarbeid",
+   "kode": "43.210",
+   "n": 5650,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Elektrisk installasjonsarbeid\nDetaljhandel med deler og utst",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Elektrisk installasjonsarbeid\nRørleggerarbeid",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med andre husholdningsvarer",
+   "kode": "46.490",
+   "n": 2219,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med andre næringsmidler",
+   "kode": "46.380",
+   "n": 752,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med apotekvarer og medisinske varer",
+   "kode": "46.460",
+   "n": 1041,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med avfall og skrap",
+   "kode": "46.870",
+   "n": 149,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med belysningsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med belysningsutstyr\nButikkhandel med belysning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med blomster og planter",
+   "kode": "46.220",
+   "n": 102,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
+   "kode": "46.390",
+   "n": 785,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med byggevarer ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med bøker, aviser og blader",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med datamaskiner, tilleggsutstyr til datamaskin",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med deler og utstyr for motorvogner",
+   "kode": "46.720",
+   "n": 366,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med drikkevarer",
+   "kode": "46.340",
+   "n": 933,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med drikkevarer ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med drivstoff og brensel",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med elektriske husholdningsapparater",
+   "kode": "46.430",
+   "n": 174,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med elektriske husholdningsapparater og -maskin",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med elektronikkutstyr og telekommunikasjonsutst",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med fargevarer\nButikkhandel med fargevarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med fisk, skalldyr og bløtdyr",
+   "kode": "46.322",
+   "n": 679,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med fotoutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med fritidsbåter og -utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med frukt og grønnsaker",
+   "kode": "46.310",
+   "n": 205,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med gull- og sølvvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med gulvtepper",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med husholdnings-, kontor- og butikkmøbler, gul",
+   "kode": "46.470",
+   "n": 792,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med husholdningsvarer og varer til personlig br",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med informasjons- og kommunikasjonsteknologiuts",
+   "kode": "46.500",
+   "n": 1616,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med innsatsvarer ellers",
+   "kode": "46.860",
+   "n": 292,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med innsatsvarer ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med jernvarer, rørleggerartikler og oppvarmings",
+   "kode": "46.840",
+   "n": 629,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med kaffe, te, kakao og krydder",
+   "kode": "46.370",
+   "n": 170,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med kjemiske produkter",
+   "kode": "46.850",
+   "n": 424,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med kjøkkenutstyr av porselen, glass og steintø",
+   "kode": "46.440",
+   "n": 221,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med kjøkkenutstyr, glass og steintøy",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med kjøtt og kjøttvarer",
+   "kode": "46.321",
+   "n": 82,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med klokker og ur",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med klokker, ur og smykker",
+   "kode": "46.480",
+   "n": 142,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med klær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med klær\nButikkhandel med klær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med klær og skotøy",
+   "kode": "46.420",
+   "n": 1236,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med kontormøbler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med korn, råtobakk, såvarer og fôrvarer",
+   "kode": "46.210",
+   "n": 126,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr ellers",
+   "kode": "46.640",
+   "n": 3334,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr til bergverksdrift, olje",
+   "kode": "46.630",
+   "n": 970,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr til handel, transport og",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr til industri ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr til jordbruk og skogbruk",
+   "kode": "46.610",
+   "n": 658,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr til kontor ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskiner og utstyr til kraftproduksjon og i",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med maskinverktøy",
+   "kode": "46.620",
+   "n": 294,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med meierivarer, egg, matolje og -fett",
+   "kode": "46.330",
+   "n": 67,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med metaller og metallholdig malm",
+   "kode": "46.820",
+   "n": 195,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med motorvogner",
+   "kode": "46.710",
+   "n": 462,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med møbler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med optiske artikler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med papir og papp",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med parfyme og kosmetikk",
+   "kode": "46.450",
+   "n": 397,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med parfyme og kosmetikk\nEngroshandel med sykep",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med rengjøringsmidler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med skipsutstyr og fiskeredskap",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med skotøy",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med spesialisert utvalg av nærings- og nytelses",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med spill og leker",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med sportsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med sukker, sjokolade og sukkervarer",
+   "kode": "46.360",
+   "n": 70,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med sykepleie- og apotekvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med tekstiler og utstyrsvarer",
+   "kode": "46.410",
+   "n": 380,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med trelast",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med tømmer, trelast, byggevarer og sanitærutsty",
+   "kode": "46.830",
+   "n": 2035,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Engroshandel med vin og brennevin",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Enheten er slettet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Etterarbeid knyttet til produksjon av film, video og fjernsy",
+   "kode": "59.120",
+   "n": 911,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Etterbehandling av tekstiler",
+   "kode": "13.300",
+   "n": 229,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Etterbehandling av treprodukter",
+   "kode": "16.270",
+   "n": 12,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Etterforskningstjenester og private vakttjenester",
+   "kode": "80.010",
+   "n": 441,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Familieeide egeninvesteringsselskaper",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Familieverntjenester",
+   "kode": "88.992",
+   "n": 547,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Filmframvisning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fiske og fangst i sjø",
+   "kode": "03.110",
+   "n": 7782,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fjernsynskringkasting",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Flyttetransport",
+   "kode": "49.420",
+   "n": 648,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Folkehøgskoleundervisning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fondsforvaltningsvirksomhet",
+   "kode": "66.300",
+   "n": 227,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forebyggende helsearbeid",
+   "kode": "86.992",
+   "n": 2894,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forlagsvirksomhet ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Formidlingstjenester tilknyttet detaljhandel med bredt vareu",
+   "kode": "47.910",
+   "n": 256,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Formidlingstjenester tilknyttet detaljhandel med spesialiser",
+   "kode": "47.920",
+   "n": 1895,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Formidlingstjenester tilknyttet forretningsmessig tjenesteyt",
+   "kode": "82.400",
+   "n": 221,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Formidlingstjenester tilknyttet kurs og veiledere",
+   "kode": "85.610",
+   "n": 43,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forsikringsformidling",
+   "kode": "66.220",
+   "n": 275,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forskning og eksperimentell utvikling innenfor naturvitenska",
+   "kode": "72.100",
+   "n": 1881,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forskning og utviklingsarbeid innen bioteknologi",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forskning og utviklingsarbeid innen samfunnsvitenskap og hum",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forsyningsbaser",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Forvaltning og drift av IT-systemer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fotografvirksomhet",
+   "kode": "74.200",
+   "n": 9021,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fotokopiering, forberedelse av dokumenter og andre spesialis",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Frisering og annen skjønnhetspleie",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Frisering og barbering",
+   "kode": "96.210",
+   "n": 8878,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fritidsetablissement",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fritidsvirksomhet ellers",
+   "kode": "93.292",
+   "n": 1737,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Frysing av fisk, fiskefileter, skalldyr og bløtdyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Frysing og videre bearbeiding av fisk, skalldyr og bløtdyr",
+   "kode": "10.203",
+   "n": 362,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fysioterapi- og ergoterapitjenester",
+   "kode": "86.950",
+   "n": 6931,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Fysioterapitjeneste",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Førskoleundervisning og drift av barnehager",
+   "kode": "85.100",
+   "n": 2982,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Geitehold",
+   "kode": "01.452",
+   "n": 1006,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Geitehold\nByggeteknisk konsulentvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Geologiske undersøkelser",
+   "kode": "71.122",
+   "n": 727,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Glassarbeid",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Godstransport på vei",
+   "kode": "49.410",
+   "n": 11593,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Godstransport på vei\nAndre post- og budtjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Godstransport på vei\nProgrammeringstjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Grafisk design og visuell kommunikasjonsdesign",
+   "kode": "74.120",
+   "n": 6665,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Grafisk og visuell kommunikasjonsdesign",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Grunnarbeid",
+   "kode": "43.120",
+   "n": 12947,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Grunnarbeid\nUtleie og leasing av bygge- og anleggsmaskiner o",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Guide- og reiseledervirksomhet",
+   "kode": "79.902",
+   "n": 2973,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Guider og reiseledere",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Gulvlegging og tapetsering",
+   "kode": "43.330",
+   "n": 1554,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Handel med elektrisitet",
+   "kode": "35.150",
+   "n": 355,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Hav- og kystfiske",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Hjemmehjelp",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Hjemmesykepleie",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Hogging og bearbeiding av monument- og bygningsstein",
+   "kode": "23.700",
+   "n": 195,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Hold av verpehøner for konsumeggproduksjon\nButikkhandel med",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Husdyrhold ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Husdyrhold ikke nevnt annet sted",
+   "kode": "01.489",
+   "n": 1733,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Idrettslag og -klubber",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Impresariovirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Industri-, produkt- og motedesignvirksomhet",
+   "kode": "74.110",
+   "n": 5355,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Industridesign, produktdesign og annen teknisk designvirksom",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Inkasso- og kredittopplysningsvirksomhet",
+   "kode": "82.910",
+   "n": 155,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Innenriks sjøfart med gods",
+   "kode": "50.202",
+   "n": 326,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Innrednings- og installasjonsarbeid utført på borerigger og",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Innrednings- og installasjonsarbeid utført på skip over 100",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Innsamling av farlig avfall",
+   "kode": "38.120",
+   "n": 49,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Innsamling av ikke-farlig avfall",
+   "kode": "38.110",
+   "n": 356,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Installasjon av industrimaskiner og -utstyr",
+   "kode": "33.200",
+   "n": 548,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Interiørarkitekt, interiørdesign og interiørkonsulentvirksom",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Interiørdesignvirksomhet",
+   "kode": "74.130",
+   "n": 2898,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Investeringsselskaper og lignende lukket for allmennheten",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Juridisk tjenesteyting",
+   "kode": "69.100",
+   "n": 2876,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kabelbasert telekommunikasjon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kabelbasert, satellittbasert og trådløs telekommunikasjon",
+   "kode": "61.100",
+   "n": 554,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kantinedrift og annen cateringvirksomhet",
+   "kode": "56.220",
+   "n": 266,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kantiner drevet som selvstendig virksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kart og oppmåling",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kioskhandel med bredt vareutvalg med hovedvekt på nærings- o",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kjøp og salg av egen fast eiendom",
+   "kode": "68.110",
+   "n": 14129,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Klinisk psykologtjeneste",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kombinerte kontortjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kombinerte tjenester tilknyttet eiendomsdrift",
+   "kode": "81.100",
+   "n": 6688,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kongress-, messe- og utstillingsvirksomhet",
+   "kode": "82.300",
+   "n": 439,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Konsulentvirksomhet tilknyttet informasjonsteknologi",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forv",
+   "kode": "62.200",
+   "n": 15882,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kontortjenester",
+   "kode": "82.100",
+   "n": 1249,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kuldeanlegg- og varmepumpearbeid",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kuldeanlegg-, varmepumpearbeid og installasjon av peiser",
+   "kode": "43.222",
+   "n": 1180,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kysttrafikk ellers med passasjerer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Kysttrafikk med passasjerer ikke nevnt annet sted",
+   "kode": "50.109",
+   "n": 426,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Lagring",
+   "kode": "52.100",
+   "n": 263,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Landskapsarkitekttjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Leasing av immateriell eiendom og lignende produkter, unntat",
+   "kode": "77.400",
+   "n": 324,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Legetjenester innen psykisk helsevern",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Logistikktjenester",
+   "kode": "52.250",
+   "n": 200,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Lotteri og totalisatorspill",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Lotteri- og gamblingvirksomhet",
+   "kode": "92.000",
+   "n": 191,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Lufttransport med passasjerer",
+   "kode": "51.100",
+   "n": 179,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Lufttransport med passasjerer\nLufttransport med gods",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Maler- og glassarbeid",
+   "kode": "43.340",
+   "n": 5073,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Malerarbeid",
+   "kode": "43.341",
+   "n": 1,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Malerarbeid\nButikkhandel med fargevarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Markeds- og opinionsundersøkelser",
+   "kode": "73.200",
+   "n": 168,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Materialgjenvinning",
+   "kode": "38.210",
+   "n": 366,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Medieformidlingstjenester",
+   "kode": "73.120",
+   "n": 174,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Medisinske laboratorietjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Melkeproduksjon på storfe",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Melkeproduksjon på storfe\nSvinehold",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Miljørydding, miljørensing og lignende virksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Miljøutbedring, opprydding og lignende aktivitet",
+   "kode": "39.000",
+   "n": 63,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Murerarbeid",
+   "kode": "43.910",
+   "n": 1193,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Nyhetsbyråer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Omsorgsinstitusjoner ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Omsorgstjenester i botilbud for personer med psykiske helsep",
+   "kode": "87.201",
+   "n": 32,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Oppdrett av annet storfe til kjøttproduksjon og sædproduksjo",
+   "kode": "01.420",
+   "n": 5140,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Oppdrett av hester og andre dyr av hestefamilien",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Oppføring av bygninger",
+   "kode": "41.000",
+   "n": 25675,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Oppføring av bygninger\nEiendomsmegling",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Opplevelses-, arrangements- og aktivitetsarrangørvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Opplevelsesaktiviteter",
+   "kode": "93.291",
+   "n": 1254,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Oppsamling og behandling av avløpsvann",
+   "kode": "37.000",
+   "n": 471,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Ordinær grunnskoleundervisning",
+   "kode": "85.201",
+   "n": 398,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Ortopedi- og fotterapitjenester",
+   "kode": "86.991",
+   "n": 1209,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Overflatebehandling av metaller",
+   "kode": "25.510",
+   "n": 279,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Overflatebehandling av metaller\nAnnen spesialisert bygge- og",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Oversettelses- og tolkevirksomhet",
+   "kode": "74.300",
+   "n": 3440,
+   "kandidater": 1
+  },
+  {
+   "etikett": "PR og kommunikasjonstjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "PR og kommunikasjonstjenester\nReklamebyråer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "PR og kommunikasjonstjenester\nTelefonsalg",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Pakkevirksomhet",
+   "kode": "82.920",
+   "n": 50,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Passasjertransport med jernbane",
+   "kode": "49.110",
+   "n": 24,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Passasjertransport på forespørsel utført av fører med kjøret",
+   "kode": "49.330",
+   "n": 11216,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Passasjertransport utenom rutetabell",
+   "kode": "49.320",
+   "n": 680,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Personlig tjenesteyting ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Plan- og reguleringsarbeid",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med IKT-utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med annet spesialisert vareutvalg",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med belysningsutstyr, kjøkkenutst",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med bredt vareutvalg",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med elektriske husholdningsappara",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med helsekost",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Postordre-/Internetthandel med tekstiler, utstyrsvarer, klær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Pr og kommunikasjonstjenester",
+   "kode": "73.300",
+   "n": 2067,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Praktisk bistand i hjemmet",
+   "kode": "88.101",
+   "n": 247,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Private vakttjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre bygningsartikler",
+   "kode": "16.230",
+   "n": 510,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre deler og annet utstyr til motorvogner",
+   "kode": "29.320",
+   "n": 92,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre keramiske produkter for teknisk bruk",
+   "kode": "23.440",
+   "n": 3,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre metallvarer ikke nevnt annet sted",
+   "kode": "25.990",
+   "n": 315,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre spesialmaskiner ikke nevnt annet sted",
+   "kode": "28.990",
+   "n": 174,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre tekstilvarer, unntatt klær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre tekstilvarer, unntatt klær\nButikkhandel",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre trevarer og varer av kork, strå og flett",
+   "kode": "16.280",
+   "n": 472,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre uorganiske kjemikalier",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av andre uorganiske kjemiske råvarer",
+   "kode": "20.130",
+   "n": 31,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av annet elektrisk utstyr",
+   "kode": "27.900",
+   "n": 151,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av annet yttertøy",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av batterier og akkumulatorer",
+   "kode": "27.200",
+   "n": 29,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av belysningsutstyr",
+   "kode": "27.400",
+   "n": 46,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av betongprodukter for bygge- og anleggsvirksomhe",
+   "kode": "23.610",
+   "n": 169,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av bijouteri og lignende artikler",
+   "kode": "32.130",
+   "n": 247,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av brød og ferske konditorvarer",
+   "kode": "10.710",
+   "n": 1898,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av brød og ferske konditorvarer\nButikkhandel med",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av brød og ferske konditorvarer\nDetaljhandel med",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av byggevarer av plast",
+   "kode": "22.240",
+   "n": 38,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av bygningsartikler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av datamaskiner og tilleggsutstyr\nUtgivelse av an",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av dører og vinduer av metall",
+   "kode": "25.120",
+   "n": 126,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av dører og vinduer av plast",
+   "kode": "22.230",
+   "n": 9,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektrisitet ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektrisitet fra biobrensel, avfallsforbrennin",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektrisitet fra vannkraft",
+   "kode": "35.121",
+   "n": 1025,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektrisitet fra vindkraft",
+   "kode": "35.122",
+   "n": 175,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektriske fordelings- og kontrolltavler og pa",
+   "kode": "27.120",
+   "n": 115,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektriske husholdningsmaskiner og -apparater",
+   "kode": "27.510",
+   "n": 40,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektromotorer, generatorer og transformatorer",
+   "kode": "27.110",
+   "n": 53,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av elektronikk til husholdningsbruk",
+   "kode": "26.400",
+   "n": 36,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av ferdigblandet betong",
+   "kode": "23.630",
+   "n": 112,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av ferdigmat",
+   "kode": "10.850",
+   "n": 110,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av film, video og fjernsynsprogrammer",
+   "kode": "59.110",
+   "n": 7757,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av film, video og fjernsynsprogrammer\nFotografvir",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av finerplater og andre bygnings- og møbelplater",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av fisk, bløtdyr, krepsdyr og andre dyr som lever",
+   "kode": "03.221",
+   "n": 27,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av fisk, bløtdyr, krepsdyr og pigghuder i sjø og",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av fôrvarer for akvakultur",
+   "kode": "10.912",
+   "n": 17,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av fôrvarer til husdyrhold",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av fôrvarer til kjæledyr",
+   "kode": "10.920",
+   "n": 22,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av fôrvarer til kjæledyr\nAnnen teknisk konsulentv",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av gjødsel og nitrogenforbindelser",
+   "kode": "20.150",
+   "n": 73,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av gjødsel, nitrogenforbindelser og vekstjord",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av halvfabrikater av aluminium",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av halvfabrikater av plast",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av homogeniserte matprodukter og diettmat",
+   "kode": "10.860",
+   "n": 25,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av håndverktøy",
+   "kode": "25.630",
+   "n": 41,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av ikke-elektriske husholdningsmaskiner og -appar",
+   "kode": "27.520",
+   "n": 13,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av ikke-metallholdige mineralprodukter ikke nevnt",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av industrigasser",
+   "kode": "20.110",
+   "n": 53,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av iskrem",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kakao, sjokolade og sukkervarer",
+   "kode": "10.820",
+   "n": 96,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av karosserier og tilhengere",
+   "kode": "29.200",
+   "n": 89,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kavringer, kjeks og konserverte konditorvarer",
+   "kode": "10.720",
+   "n": 37,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kjemiske produkter ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kjøkkenmøbler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kjøkkenredskaper og skjære- og klipperedskaper",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kjøtt- og fjørfevarer",
+   "kode": "10.130",
+   "n": 215,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av klær av lær",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av klær av trikotasje og heklede klær",
+   "kode": "14.100",
+   "n": 315,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kontor- og butikkmøbler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kontorartikler av papir",
+   "kode": "17.230",
+   "n": 6,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av kornvarer",
+   "kode": "10.610",
+   "n": 46,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av lokomotiver og annet rullende materiell til je",
+   "kode": "30.200",
+   "n": 7,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av låser og beslag",
+   "kode": "25.620",
+   "n": 73,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av løfte- og håndteringsutstyr ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av løfte- og håndteringsutstyr til skip og båter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av maskiner og utstyr til bergverksdrift og bygge",
+   "kode": "28.920",
+   "n": 54,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av maskiner og utstyr til generell bruk ikke nevn",
+   "kode": "28.290",
+   "n": 356,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av maskiner og utstyr til generell bruk, ikke nev",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av maskiner og utstyr til nærings- og nytelsesmid",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av matfisk og skalldyr i ferskvannsbasert fiskeop",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av matfisk og skalldyr i hav- og kystbasert fiske",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av medisinske og tanntekniske instrumenter og uts",
+   "kode": "32.500",
+   "n": 336,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av meierivarer",
+   "kode": "10.510",
+   "n": 121,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av metallkonstruksjoner og deler",
+   "kode": "25.110",
+   "n": 477,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av metallkonstruksjoner og deler\nVentilasjonsarbe",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av metallvarer ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av mineralvann, leskedrikker og annet vann på fla",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av monteringsferdige hus",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av monteringsferdige hus\nOppføring av bygninger",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av måle-, kontroll- og navigasjonsinstrumenter",
+   "kode": "26.510",
+   "n": 172,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av møbler",
+   "kode": "31.000",
+   "n": 1493,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av møbler\nOppføring av bygninger",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av møbler ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av næringsmidler ikke nevnt annet sted",
+   "kode": "10.890",
+   "n": 310,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av optiske instrumenter og fotografisk utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av optiske instrumenter, magnetiske og optiske me",
+   "kode": "26.700",
+   "n": 32,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av papir og papp",
+   "kode": "17.120",
+   "n": 18,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av parfyme og toalettartikler",
+   "kode": "20.420",
+   "n": 139,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av planglass",
+   "kode": "23.110",
+   "n": 19,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av plastemballasje",
+   "kode": "22.220",
+   "n": 45,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av pumper og kompressorer ellers",
+   "kode": "28.130",
+   "n": 51,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av raffinerte petroleumsprodukter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av reiseeffekter og salmakerartikler",
+   "kode": "15.120",
+   "n": 112,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av saltfisk, tørrfisk og klippfisk",
+   "kode": "10.201",
+   "n": 109,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av sider og annen fruktvin",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av skotøy",
+   "kode": "15.200",
+   "n": 22,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av smakstilsettingsstoffer og krydderier",
+   "kode": "10.840",
+   "n": 62,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av spesialmaskiner ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av spill og leker",
+   "kode": "32.400",
+   "n": 105,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av sportsartikler",
+   "kode": "32.300",
+   "n": 133,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av stivelse og stivelsesprodukter",
+   "kode": "10.620",
+   "n": 3,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av såpe og vaskemidler, rense- og polermidler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av teknisk glass og andre glassvarer",
+   "kode": "23.150",
+   "n": 13,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av tekstiler ikke nevnt annet sted",
+   "kode": "13.990",
+   "n": 182,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av tekstiler til teknisk og industriell bruk",
+   "kode": "13.960",
+   "n": 205,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av treemballasje",
+   "kode": "16.240",
+   "n": 66,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av utstyrsvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av varer av papir og papp ellers",
+   "kode": "17.250",
+   "n": 24,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av vin",
+   "kode": "11.020",
+   "n": 21,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av yngel og settefisk i ferskvannsbasert fiskeopp",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av yngel og settefisk i sjø og brakkvann",
+   "kode": "03.212",
+   "n": 85,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av yttertøy",
+   "kode": "14.210",
+   "n": 1435,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon av øl",
+   "kode": "11.050",
+   "n": 238,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Produksjon og utgivelse av musikk- og lydopptak",
+   "kode": "59.200",
+   "n": 3494,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Programmeringstjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Programmeringstjenester\nAnnen forretningsmessig tjenesteytin",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Prøveboring",
+   "kode": "43.130",
+   "n": 9,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Psykolog- og psykoterapitjenester, unntatt legetjenester inn",
+   "kode": "86.930",
+   "n": 5602,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Radiokringkasting og distribuering av musikk og andre lydmed",
+   "kode": "60.100",
+   "n": 227,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Redningstjeneste",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Regnskap og bokføring",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Regnskapsføring og bokføring",
+   "kode": "69.202",
+   "n": 4353,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reisearrangørvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reisearrangørvirksomhet ellers",
+   "kode": "79.122",
+   "n": 800,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reisebyråvirksomhet",
+   "kode": "79.110",
+   "n": 481,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reklamebyråer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reklamebyråvirksomhet",
+   "kode": "73.110",
+   "n": 10983,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Rekruttering og formidling av arbeidskraft",
+   "kode": "78.100",
+   "n": 1358,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Rengjøring av bygninger",
+   "kode": "81.210",
+   "n": 6499,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av andre husholdningsvarer og varer til personlig",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av annet utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av bearbeidede metallprodukter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av datamaskiner og tilleggsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av elektrisk utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av elektronisk og optisk utstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av husholdningsvarer og hageredskaper",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av kommunikasjonsutstyr",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av maskiner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av møbler og boliginnredning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av skotøy og lærvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon av ur, gull- og sølvvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av andre transportmidler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av annet utstyr",
+   "kode": "33.190",
+   "n": 199,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av datamaskiner og kommunikasjonsu",
+   "kode": "95.100",
+   "n": 493,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av elektrisk utstyr",
+   "kode": "33.140",
+   "n": 143,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av luftfartøyer og romfartøyer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av maskiner",
+   "kode": "33.120",
+   "n": 4584,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av motorsykler",
+   "kode": "95.320",
+   "n": 185,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av motorvogner",
+   "kode": "95.310",
+   "n": 7194,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av sivile skip og båter",
+   "kode": "33.150",
+   "n": 1388,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Reparasjon og vedlikehold av skip og båter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Revisjon",
+   "kode": "69.201",
+   "n": 780,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Riving av bygninger og andre byggverk",
+   "kode": "43.110",
+   "n": 305,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Riving av bygninger og andre konstruksjoner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Rørleggerarbeid",
+   "kode": "43.221",
+   "n": 5162,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Rørleggerarbeid\nEngroshandel med rengjøringsmidler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Saging, høvling og impregnering av tre",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Sauehold",
+   "kode": "01.451",
+   "n": 11466,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Selvstendig kunstnerisk virksomhet ikke nevnt annet sted",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Selvstendig kunstnerisk virksomhet innen litteratur",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Selvstendig kunstnerisk virksomhet innen visuell kunst",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Skadedyrkontroll",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Skapende kunstnerisk virksomhet innenfor komposisjon av musi",
+   "kode": "90.112",
+   "n": 2277,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Skipsmegling",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Skjønnhetspleie",
+   "kode": "96.220",
+   "n": 6509,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Skogskjøtsel og andre skogbruksaktiviteter",
+   "kode": "02.100",
+   "n": 1498,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Slakting av fisk, skalldyr og bløtdyr",
+   "kode": "10.202",
+   "n": 100,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Slakting, bearbeiding og konservering av fisk og fiskevarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Slepebåter",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Smiing, stansing og valsing av metall, og pulvermetallurgi",
+   "kode": "25.400",
+   "n": 75,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Snekkerarbeid",
+   "kode": "43.320",
+   "n": 11632,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Snekkerarbeid\nReparasjon og vedlikehold av motorvogner",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Sortering og bearbeiding av avfall for materialgjenvinning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Sosialtjenester for rusmiddelmisbrukere uten botilbud",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Spedisjon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Spesialisert byggevirksomhet i forbindelse med anleggsarbeid",
+   "kode": "43.500",
+   "n": 192,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Spesialisert legetjeneste, unntatt psykiatrisk legetjeneste",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Spesialisert rusbehandling",
+   "kode": "86.103",
+   "n": 30,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Spesialiserte legetjenester, unntatt psykiatriske legetjenes",
+   "kode": "86.221",
+   "n": 3654,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Spesielle holdingselskaper",
+   "kode": "64.220",
+   "n": 299,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Sportsaktiviteter ikke nevnt annet sted",
+   "kode": "93.190",
+   "n": 2772,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Stukkatørarbeid og pussing",
+   "kode": "43.310",
+   "n": 20,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Svinehold",
+   "kode": "01.460",
+   "n": 1540,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Takarbeid",
+   "kode": "43.410",
+   "n": 1598,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Takarbeid ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Takseringsvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tannhelsetjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tannlegetjenester",
+   "kode": "86.230",
+   "n": 5963,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Teknisk prøving og analyse",
+   "kode": "71.200",
+   "n": 935,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Telefonsalg",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Telefonvakttjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Telefonvakttjenester og telefonsalg",
+   "kode": "82.200",
+   "n": 786,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Telekommunikasjon ellers",
+   "kode": "61.900",
+   "n": 227,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester i seniorsentre",
+   "kode": "88.103",
+   "n": 31,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet fiske, fangst og akvakultur",
+   "kode": "03.300",
+   "n": 571,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet hav- og kystbasert fiskeoppdrett",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet husdyrhold",
+   "kode": "01.620",
+   "n": 3156,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet landtransport ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet landtransport ikke nevnt annet sted",
+   "kode": "52.219",
+   "n": 429,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet planteproduksjon",
+   "kode": "01.610",
+   "n": 2381,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet sjøtransport ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet skogbruk",
+   "kode": "02.400",
+   "n": 2339,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet skogbruk\nOppføring av bygninger",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet underholdningsvirksomhet",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Tjenester tilknyttet vakttjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Torghandel med næringsmidler, drikkevarer og tobakksvarer",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Trafikkskoleundervisning",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Transportformidling ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Treningssentervirksomhet",
+   "kode": "93.130",
+   "n": 1776,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Treningssentre",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Trykking ellers",
+   "kode": "18.120",
+   "n": 639,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Trykking ellers\nBokbinding og tilknyttede tjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Trykking ellers\nKontortjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Trådløs telekommunikasjon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Turbiltransport",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Turistkontorvirksomhet og destinasjonsselskaper",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning i kunstfag",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning innen idrett og rekreasjon",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning innenfor idrett og rekreasjon",
+   "kode": "85.510",
+   "n": 14026,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning innenfor kort høyere yrkesfaglig utdanning\nAnne",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning ved andre høgskoler",
+   "kode": "85.403",
+   "n": 85,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning ved fagskoler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Undervisning ved godkjente trafikkskoler",
+   "kode": "85.531",
+   "n": 1108,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Uoppgitt",
+   "kode": "00.000",
+   "n": 59997,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Uspesifisert engroshandel",
+   "kode": "46.900",
+   "n": 1294,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utenriks sjøfart med gods",
+   "kode": "50.201",
+   "n": 1520,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utenriks sjøfart med passasjerer",
+   "kode": "50.101",
+   "n": 47,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utgivelse av annen programvare",
+   "kode": "58.290",
+   "n": 823,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utgivelse av aviser",
+   "kode": "58.120",
+   "n": 456,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utgivelse av blader og tidsskrifter",
+   "kode": "58.130",
+   "n": 472,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utgivelse av bøker",
+   "kode": "58.110",
+   "n": 1420,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utgivelse av programvare for dataspill",
+   "kode": "58.210",
+   "n": 96,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie av arbeidskraft",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie av arbeidskraft og andre personaladministrative tjene",
+   "kode": "78.200",
+   "n": 3455,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie av egen eller leid fast eiendom",
+   "kode": "68.200",
+   "n": 76450,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie av egen eller leid fast eiendom ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av andre husholdningsvarer og varer til pe",
+   "kode": "77.220",
+   "n": 878,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av andre maskiner og annet utstyr og mater",
+   "kode": "77.390",
+   "n": 1491,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av biler og andre lette motorvogner",
+   "kode": "77.110",
+   "n": 1174,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av bygge- og anleggsmaskiner og -utstyr",
+   "kode": "77.320",
+   "n": 2224,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av kontor- og datamaskiner",
+   "kode": "77.330",
+   "n": 65,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av landbruksmaskiner og -utstyr",
+   "kode": "77.310",
+   "n": 372,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av lastebiler",
+   "kode": "77.120",
+   "n": 135,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av sjøtransportmateriell",
+   "kode": "77.340",
+   "n": 394,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utleie og leasing av sports- og fritidsutstyr",
+   "kode": "77.210",
+   "n": 618,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Uttak fra kilde, rensing og distribusjon av vann",
+   "kode": "36.000",
+   "n": 1876,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utvendig rengjøring av bygninger og industriell rengjøring",
+   "kode": "81.220",
+   "n": 770,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utvikling og salg av byggeprosjekter",
+   "kode": "68.120",
+   "n": 14690,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utvikling og salg av egen fast eiendom ellers",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utvinning fra grus- og sandtak, og utvinning av leire og kao",
+   "kode": "08.120",
+   "n": 523,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utøvende kunstnere og underholdningsvirksomhet innen musikk",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Utøvende kunstnere og underholdningsvirksomhet innen sceneku",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "VVS-arbeid",
+   "kode": "43.220",
+   "n": 1,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Vaktmestertjenester",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Vaskeri- og renserivirksomhet",
+   "kode": "96.100",
+   "n": 279,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Vedlikehold og reparasjon av motorsykler",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Vedlikehold og reparasjon av motorvogner, unntatt motorsykle",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Ventilasjonsarbeid",
+   "kode": "43.223",
+   "n": 715,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Verdipapirmegling",
+   "kode": "66.120",
+   "n": 110,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Veterinærtjenester",
+   "kode": "75.000",
+   "n": 2039,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Virksomhet knyttet til kroppspleie og fysisk velvære",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  },
+  {
+   "etikett": "Voksenopplæringssentre\nAnnen undervisning ikke nevnt annet s",
+   "kode": null,
+   "n": null,
+   "kandidater": 1
+  }
+ ]
+}

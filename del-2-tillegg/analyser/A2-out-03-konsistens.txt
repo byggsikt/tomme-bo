@@ -1,0 +1,11 @@
+== SANITY: kohort og utfall ==
+kohort | 5165
+innstilt | 3897
+ordinaer | 917
+aapen | 351
+oppbud | 3734
+ingen_felt | 1431
+== KONSISTENS: insolvensfelt utfylt, oppbud vs ingen felt ==
+ERROR:  relation "ins" does not exist
+LINE 10: FROM ins GROUP BY 1 ORDER BY 1;
+              ^

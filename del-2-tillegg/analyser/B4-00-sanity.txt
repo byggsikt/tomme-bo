@@ -1,0 +1,4 @@
+sanity | innstilt | 3897
+sanity | aapen | 351
+sanity | avsluttet | 917
+total | alle | 5165

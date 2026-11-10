@@ -1,0 +1,1786 @@
+standard,versjon_id,kode,navn,niva,forelder
+SN2025,3218,01,"Jordbruk og tjenester tilknyttet jordbruk, jakt og viltstell",2,A
+SN2025,3218,01.1,Dyrking av ettårige vekster,3,01
+SN2025,3218,01.2,Dyrking av flerårige vekster,3,01
+SN2025,3218,01.3,Planteformering,3,01
+SN2025,3218,01.4,Husdyrhold,3,01
+SN2025,3218,01.5,Kombinert husdyrhold og planteproduksjon,3,01
+SN2025,3218,01.6,Tjenester tilknyttet jordbruk og etterbehandling av vekster etter innhøsting,3,01
+SN2025,3218,01.7,"Jakt, fangst, viltstell og tilknyttede tjenester",3,01
+SN2025,3218,01.11,"Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",4,01.1
+SN2025,3218,01.12,Dyrking av ris,4,01.1
+SN2025,3218,01.13,"Dyrking av grønnsaker, meloner, rot- og knollvekster",4,01.1
+SN2025,3218,01.14,Dyrking av sukkerrør,4,01.1
+SN2025,3218,01.15,Dyrking av tobakk,4,01.1
+SN2025,3218,01.16,Dyrking av fibervekster,4,01.1
+SN2025,3218,01.19,Dyrking av ettårige vekster ellers,4,01.1
+SN2025,3218,01.21,Dyrking av druer,4,01.2
+SN2025,3218,01.22,Dyrking av tropiske og subtropiske frukter,4,01.2
+SN2025,3218,01.23,Dyrking av sitrusfrukter,4,01.2
+SN2025,3218,01.24,Dyrking av kjernefrukter og steinfrukter,4,01.2
+SN2025,3218,01.25,Dyrking av annen frukt som vokser på trær eller busker samt nøtter,4,01.2
+SN2025,3218,01.26,Dyrking av oljeholdige frukter,4,01.2
+SN2025,3218,01.27,Dyrking av vekster for produksjon av drikkevarer,4,01.2
+SN2025,3218,01.28,"Dyrking av krydder og aromatiske, medisinske og farmasøytiske vekster",4,01.2
+SN2025,3218,01.29,Dyrking av flerårige vekster ellers,4,01.2
+SN2025,3218,01.30,Planteformering,4,01.3
+SN2025,3218,01.41,Melkeproduksjon på storfe og oppdrett av melkekyr,4,01.4
+SN2025,3218,01.42,Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon,4,01.4
+SN2025,3218,01.43,Hestehold,4,01.4
+SN2025,3218,01.44,Oppdrett av kameler og andre kameldyr,4,01.4
+SN2025,3218,01.45,Saue- og geitehold,4,01.4
+SN2025,3218,01.46,Svinehold,4,01.4
+SN2025,3218,01.47,Fjørfehold,4,01.4
+SN2025,3218,01.48,Husdyrhold ellers,4,01.4
+SN2025,3218,01.50,Kombinert husdyrhold og planteproduksjon,4,01.5
+SN2025,3218,01.61,Tjenester tilknyttet planteproduksjon,4,01.6
+SN2025,3218,01.62,Tjenester tilknyttet husdyrhold,4,01.6
+SN2025,3218,01.63,Etterbehandling av vekster etter innhøsting og behandling av såfrø,4,01.6
+SN2025,3218,01.70,"Jakt, fangst, viltstell og tilknyttede tjenester",4,01.7
+SN2025,3218,01.110,"Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",5,01.11
+SN2025,3218,01.120,Dyrking av ris,5,01.12
+SN2025,3218,01.130,"Dyrking av grønnsaker, meloner, rot- og knollvekster",5,01.13
+SN2025,3218,01.140,Dyrking av sukkerrør,5,01.14
+SN2025,3218,01.150,Dyrking av tobakk,5,01.15
+SN2025,3218,01.160,Dyrking av fibervekster,5,01.16
+SN2025,3218,01.190,Dyrking av ettårige vekster ellers,5,01.19
+SN2025,3218,01.210,Dyrking av druer,5,01.21
+SN2025,3218,01.220,Dyrking av tropiske og subtropiske frukter,5,01.22
+SN2025,3218,01.230,Dyrking av sitrusfrukter,5,01.23
+SN2025,3218,01.240,Dyrking av kjernefrukter og steinfrukter,5,01.24
+SN2025,3218,01.250,Dyrking av annen frukt som vokser på trær eller busker samt nøtter,5,01.25
+SN2025,3218,01.260,Dyrking av oljeholdige frukter,5,01.26
+SN2025,3218,01.270,Dyrking av vekster for produksjon av drikkevarer,5,01.27
+SN2025,3218,01.280,"Dyrking av krydder og aromatiske, medisinske og farmasøytiske vekster",5,01.28
+SN2025,3218,01.290,Dyrking av flerårige vekster ellers,5,01.29
+SN2025,3218,01.300,Planteformering,5,01.30
+SN2025,3218,01.410,Melkeproduksjon på storfe og oppdrett av melkekyr,5,01.41
+SN2025,3218,01.420,Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon,5,01.42
+SN2025,3218,01.430,Hestehold,5,01.43
+SN2025,3218,01.440,Oppdrett av kameler og andre kameldyr,5,01.44
+SN2025,3218,01.451,Sauehold,5,01.45
+SN2025,3218,01.452,Geitehold,5,01.45
+SN2025,3218,01.460,Svinehold,5,01.46
+SN2025,3218,01.471,Hold av verpehøner for konsumeggproduksjon,5,01.47
+SN2025,3218,01.479,Annet fjørfehold,5,01.47
+SN2025,3218,01.481,Reindrift,5,01.48
+SN2025,3218,01.489,Husdyrhold ikke nevnt annet sted,5,01.48
+SN2025,3218,01.500,Kombinert husdyrhold og planteproduksjon,5,01.50
+SN2025,3218,01.610,Tjenester tilknyttet planteproduksjon,5,01.61
+SN2025,3218,01.620,Tjenester tilknyttet husdyrhold,5,01.62
+SN2025,3218,01.630,Etterbehandling av vekster etter innhøsting og behandling av såfrø,5,01.63
+SN2025,3218,01.700,"Jakt, fangst, viltstell og tilknyttede tjenester",5,01.70
+SN2025,3218,02,Skogbruk og tjenester tilknyttet skogbruk,2,A
+SN2025,3218,02.1,Skogskjøtsel og andre skogbruksaktiviteter,3,02
+SN2025,3218,02.2,Avvirkning,3,02
+SN2025,3218,02.3,Innsamling av viltvoksende produkter av annet enn tre,3,02
+SN2025,3218,02.4,Tjenester tilknyttet skogbruk,3,02
+SN2025,3218,02.10,Skogskjøtsel og andre skogbruksaktiviteter,4,02.1
+SN2025,3218,02.20,Avvirkning,4,02.2
+SN2025,3218,02.30,Innsamling av viltvoksende produkter av annet enn tre,4,02.3
+SN2025,3218,02.40,Tjenester tilknyttet skogbruk,4,02.4
+SN2025,3218,02.100,Skogskjøtsel og andre skogbruksaktiviteter,5,02.10
+SN2025,3218,02.200,Avvirkning,5,02.20
+SN2025,3218,02.300,Innsamling av viltvoksende produkter av annet enn tre,5,02.30
+SN2025,3218,02.400,Tjenester tilknyttet skogbruk,5,02.40
+SN2025,3218,03,"Fiske, fangst og akvakultur",2,A
+SN2025,3218,03.1,Fiske og fangst,3,03
+SN2025,3218,03.2,Akvakultur,3,03
+SN2025,3218,03.3,"Tjenester tilknyttet fiske, fangst og akvakultur",3,03
+SN2025,3218,03.11,Fiske og fangst i sjø,4,03.1
+SN2025,3218,03.12,Fiske og fangst i ferskvann,4,03.1
+SN2025,3218,03.21,Akvakultur i sjø og brakkvann,4,03.2
+SN2025,3218,03.22,Akvakultur i ferskvann,4,03.2
+SN2025,3218,03.30,"Tjenester tilknyttet fiske, fangst og akvakultur",4,03.3
+SN2025,3218,03.110,Fiske og fangst i sjø,5,03.11
+SN2025,3218,03.120,Fiske og fangst i ferskvann,5,03.12
+SN2025,3218,03.211,"Produksjon av fisk, bløtdyr, krepsdyr og pigghuder i sjø og brakkvann",5,03.21
+SN2025,3218,03.212,Produksjon av yngel og settefisk i sjø og brakkvann,5,03.21
+SN2025,3218,03.221,"Produksjon av fisk, bløtdyr, krepsdyr og andre dyr som lever i ferskvann",5,03.22
+SN2025,3218,03.222,Produksjon av yngel og settefisk i ferskvann,5,03.22
+SN2025,3218,03.300,"Tjenester tilknyttet fiske, fangst og akvakultur",5,03.30
+SN2025,3218,05,Bryting av steinkull og brunkull,2,B
+SN2025,3218,05.1,Bryting av steinkull,3,05
+SN2025,3218,05.2,Bryting av brunkull,3,05
+SN2025,3218,05.10,Bryting av steinkull,4,05.1
+SN2025,3218,05.20,Bryting av brunkull,4,05.2
+SN2025,3218,05.100,Bryting av steinkull,5,05.10
+SN2025,3218,05.200,Bryting av brunkull,5,05.20
+SN2025,3218,06,Utvinning av råolje og naturgass,2,B
+SN2025,3218,06.1,Utvinning av råolje,3,06
+SN2025,3218,06.2,Utvinning av naturgass,3,06
+SN2025,3218,06.10,Utvinning av råolje,4,06.1
+SN2025,3218,06.20,Utvinning av naturgass,4,06.2
+SN2025,3218,06.100,Utvinning av råolje,5,06.10
+SN2025,3218,06.200,Utvinning av naturgass,5,06.20
+SN2025,3218,07,Bryting av metallholdig malm,2,B
+SN2025,3218,07.1,Bryting av jernmalm,3,07
+SN2025,3218,07.2,Bryting av ikke-jernholdig malm,3,07
+SN2025,3218,07.10,Bryting av jernmalm,4,07.1
+SN2025,3218,07.21,Bryting av uran- og thoriummalm,4,07.2
+SN2025,3218,07.29,Bryting av ikke-jernholdig malm ellers,4,07.2
+SN2025,3218,07.100,Bryting av jernmalm,5,07.10
+SN2025,3218,07.210,Bryting av uran- og thoriummalm,5,07.21
+SN2025,3218,07.290,Bryting av ikke-jernholdig malm ellers,5,07.29
+SN2025,3218,08,Bryting og bergverksdrift ellers,2,B
+SN2025,3218,08.1,"Bryting av stein, utvinning av sand og leire",3,08
+SN2025,3218,08.9,Bryting og utvinning ikke nevnt annet sted,3,08
+SN2025,3218,08.11,"Bryting av dekorstein, kalkstein, gips, skifer og annen stein",4,08.1
+SN2025,3218,08.12,"Utvinning fra grus- og sandtak, og utvinning av leire og kaolin",4,08.1
+SN2025,3218,08.91,Bryting og utvinning av kjemiske mineraler og gjødselmineraler,4,08.9
+SN2025,3218,08.92,Stikking av torv,4,08.9
+SN2025,3218,08.93,Utvinning av salt,4,08.9
+SN2025,3218,08.99,Annen bryting og utvinning ikke nevnt annet sted,4,08.9
+SN2025,3218,08.110,"Bryting av dekorstein, kalkstein, gips, skifer og annen stein",5,08.11
+SN2025,3218,08.120,"Utvinning fra grus- og sandtak, og utvinning av leire og kaolin",5,08.12
+SN2025,3218,08.910,Bryting og utvinning av kjemiske mineraler og gjødselmineraler,5,08.91
+SN2025,3218,08.920,Stikking av torv,5,08.92
+SN2025,3218,08.930,Utvinning av salt,5,08.93
+SN2025,3218,08.990,Annen bryting og utvinning ikke nevnt annet sted,5,08.99
+SN2025,3218,09,Tjenester tilknyttet bergverksdrift og utvinning,2,B
+SN2025,3218,09.1,Tjenester tilknyttet utvinning av råolje og naturgass,3,09
+SN2025,3218,09.9,Tjenester tilknyttet annen bergverksdrift,3,09
+SN2025,3218,09.10,Tjenester tilknyttet utvinning av råolje og naturgass,4,09.1
+SN2025,3218,09.90,Tjenester tilknyttet annen bergverksdrift,4,09.9
+SN2025,3218,09.101,Boretjenester tilknyttet utvinning av råolje og naturgass,5,09.10
+SN2025,3218,09.109,Andre tjenester tilknyttet utvinning av råolje og naturgass,5,09.10
+SN2025,3218,09.900,Tjenester tilknyttet annen bergverksdrift,5,09.90
+SN2025,3218,10,Produksjon av nærings- og nytelsesmidler,2,C
+SN2025,3218,10.1,"Produksjon, bearbeiding og konservering av kjøtt og kjøttvarer",3,10
+SN2025,3218,10.2,"Bearbeiding og konservering av fisk, skalldyr og bløtdyr",3,10
+SN2025,3218,10.3,Bearbeiding og konservering av frukt og grønnsaker,3,10
+SN2025,3218,10.4,Produksjon av vegetabilske og animalske oljer og fettstoffer,3,10
+SN2025,3218,10.5,Produksjon av meierivarer og spiselige isprodukter,3,10
+SN2025,3218,10.6,"Produksjon av kornvarer, stivelse og stivelsesprodukter",3,10
+SN2025,3218,10.7,Produksjon av bakervarer og melprodukter,3,10
+SN2025,3218,10.8,Produksjon av andre næringsmidler,3,10
+SN2025,3218,10.9,Produksjon av fôrvarer,3,10
+SN2025,3218,10.11,Bearbeiding og konservering av kjøtt unntatt fjørfekjøtt,4,10.1
+SN2025,3218,10.12,Bearbeiding og konservering av fjørfekjøtt,4,10.1
+SN2025,3218,10.13,Produksjon av kjøtt- og fjørfevarer,4,10.1
+SN2025,3218,10.20,"Bearbeiding og konservering av fisk, skalldyr og bløtdyr",4,10.2
+SN2025,3218,10.31,Bearbeiding og konservering av poteter,4,10.3
+SN2025,3218,10.32,Produksjon av juice av frukt og grønnsaker,4,10.3
+SN2025,3218,10.39,Bearbeiding og konservering av frukt og grønnsaker ellers,4,10.3
+SN2025,3218,10.41,Produksjon av oljer og fettstoffer,4,10.4
+SN2025,3218,10.42,Produksjon av margarin og lignende spiselige fettstoffer,4,10.4
+SN2025,3218,10.51,Produksjon av meierivarer,4,10.5
+SN2025,3218,10.52,Produksjon av iskrem og andre spiselige isprodukter,4,10.5
+SN2025,3218,10.61,Produksjon av kornvarer,4,10.6
+SN2025,3218,10.62,Produksjon av stivelse og stivelsesprodukter,4,10.6
+SN2025,3218,10.71,Produksjon av brød og ferske konditorvarer,4,10.7
+SN2025,3218,10.72,"Produksjon av kavringer, kjeks og konserverte konditorvarer",4,10.7
+SN2025,3218,10.73,Produksjon av melprodukter ellers,4,10.7
+SN2025,3218,10.81,Produksjon av sukker,4,10.8
+SN2025,3218,10.82,"Produksjon av kakao, sjokolade og sukkervarer",4,10.8
+SN2025,3218,10.83,Bearbeiding av te og kaffe,4,10.8
+SN2025,3218,10.84,Produksjon av smakstilsettingsstoffer og krydderier,4,10.8
+SN2025,3218,10.85,Produksjon av ferdigmat,4,10.8
+SN2025,3218,10.86,Produksjon av homogeniserte matprodukter og diettmat,4,10.8
+SN2025,3218,10.89,Produksjon av næringsmidler ikke nevnt annet sted,4,10.8
+SN2025,3218,10.91,Produksjon av fôrvarer til husdyrhold,4,10.9
+SN2025,3218,10.92,Produksjon av fôrvarer til kjæledyr,4,10.9
+SN2025,3218,10.110,Bearbeiding og konservering av kjøtt unntatt fjørfekjøtt,5,10.11
+SN2025,3218,10.120,Bearbeiding og konservering av fjørfekjøtt,5,10.12
+SN2025,3218,10.130,Produksjon av kjøtt- og fjørfevarer,5,10.13
+SN2025,3218,10.201,"Produksjon av saltfisk, tørrfisk og klippfisk",5,10.20
+SN2025,3218,10.202,"Slakting av fisk, skalldyr og bløtdyr",5,10.20
+SN2025,3218,10.203,"Frysing og videre bearbeiding av fisk, skalldyr og bløtdyr",5,10.20
+SN2025,3218,10.310,Bearbeiding og konservering av poteter,5,10.31
+SN2025,3218,10.320,Produksjon av juice av frukt og grønnsaker,5,10.32
+SN2025,3218,10.390,Bearbeiding og konservering av frukt og grønnsaker ellers,5,10.39
+SN2025,3218,10.410,Produksjon av oljer og fettstoffer,5,10.41
+SN2025,3218,10.420,Produksjon av margarin og lignende spiselige fettstoffer,5,10.42
+SN2025,3218,10.510,Produksjon av meierivarer,5,10.51
+SN2025,3218,10.520,Produksjon av iskrem og andre spiselige isprodukter,5,10.52
+SN2025,3218,10.610,Produksjon av kornvarer,5,10.61
+SN2025,3218,10.620,Produksjon av stivelse og stivelsesprodukter,5,10.62
+SN2025,3218,10.710,Produksjon av brød og ferske konditorvarer,5,10.71
+SN2025,3218,10.720,"Produksjon av kavringer, kjeks og konserverte konditorvarer",5,10.72
+SN2025,3218,10.730,Produksjon av melprodukter ellers,5,10.73
+SN2025,3218,10.810,Produksjon av sukker,5,10.81
+SN2025,3218,10.820,"Produksjon av kakao, sjokolade og sukkervarer",5,10.82
+SN2025,3218,10.830,Bearbeiding av te og kaffe,5,10.83
+SN2025,3218,10.840,Produksjon av smakstilsettingsstoffer og krydderier,5,10.84
+SN2025,3218,10.850,Produksjon av ferdigmat,5,10.85
+SN2025,3218,10.860,Produksjon av homogeniserte matprodukter og diettmat,5,10.86
+SN2025,3218,10.890,Produksjon av næringsmidler ikke nevnt annet sted,5,10.89
+SN2025,3218,10.911,Produksjon av fôrvarer for husdyr i landbruk,5,10.91
+SN2025,3218,10.912,Produksjon av fôrvarer for akvakultur,5,10.91
+SN2025,3218,10.920,Produksjon av fôrvarer til kjæledyr,5,10.92
+SN2025,3218,11,Produksjon av drikkevarer,2,C
+SN2025,3218,11.0,Produksjon av drikkevarer,3,11
+SN2025,3218,11.01,"Destillering, rektifisering og blanding av sprit",4,11.0
+SN2025,3218,11.02,Produksjon av vin,4,11.0
+SN2025,3218,11.03,Produksjon av sider og andre gjærede fruktdrikker,4,11.0
+SN2025,3218,11.04,Produksjon av andre ikke-destillerte gjærede drikkevarer,4,11.0
+SN2025,3218,11.05,Produksjon av øl,4,11.0
+SN2025,3218,11.06,Produksjon av malt,4,11.0
+SN2025,3218,11.07,Produksjon av leskedrikker og flaskevann,4,11.0
+SN2025,3218,11.010,"Destillering, rektifisering og blanding av sprit",5,11.01
+SN2025,3218,11.020,Produksjon av vin,5,11.02
+SN2025,3218,11.030,Produksjon av sider og andre gjærede fruktdrikker,5,11.03
+SN2025,3218,11.040,Produksjon av andre ikke-destillerte gjærede drikkevarer,5,11.04
+SN2025,3218,11.050,Produksjon av øl,5,11.05
+SN2025,3218,11.060,Produksjon av malt,5,11.06
+SN2025,3218,11.070,Produksjon av leskedrikker og flaskevann,5,11.07
+SN2025,3218,12,Produksjon av tobakksvarer,2,C
+SN2025,3218,12.0,Produksjon av tobakksvarer,3,12
+SN2025,3218,12.00,Produksjon av tobakksvarer,4,12.0
+SN2025,3218,12.000,Produksjon av tobakksvarer,5,12.00
+SN2025,3218,13,Produksjon av tekstiler,2,C
+SN2025,3218,13.1,Bearbeiding og spinning av tekstilfibre,3,13
+SN2025,3218,13.2,Veving av tekstiler,3,13
+SN2025,3218,13.3,Etterbehandling av tekstiler,3,13
+SN2025,3218,13.9,Produksjon av andre tekstiler,3,13
+SN2025,3218,13.10,Bearbeiding og spinning av tekstilfibre,4,13.1
+SN2025,3218,13.20,Veving av tekstiler,4,13.2
+SN2025,3218,13.30,Etterbehandling av tekstiler,4,13.3
+SN2025,3218,13.91,Produksjon av trikotasjestoffer og heklede stoffer,4,13.9
+SN2025,3218,13.92,Produksjon av husholdningstekstiler og innredningsvarer i stoff klare til bruk,4,13.9
+SN2025,3218,13.93,"Produksjon av gulvtepper, -matter og -ryer",4,13.9
+SN2025,3218,13.94,"Produksjon av tauverk, rep, hyssing og nett",4,13.9
+SN2025,3218,13.95,Produksjon av ikke-vevde tekstiler og tekstilvarer,4,13.9
+SN2025,3218,13.96,Produksjon av tekstiler til teknisk og industriell bruk,4,13.9
+SN2025,3218,13.99,Produksjon av tekstiler ikke nevnt annet sted,4,13.9
+SN2025,3218,13.100,Bearbeiding og spinning av tekstilfibre,5,13.10
+SN2025,3218,13.200,Veving av tekstiler,5,13.20
+SN2025,3218,13.300,Etterbehandling av tekstiler,5,13.30
+SN2025,3218,13.910,Produksjon av trikotasjestoffer og heklede stoffer,5,13.91
+SN2025,3218,13.920,Produksjon av husholdningstekstiler og innredningsvarer i stoff klare til bruk,5,13.92
+SN2025,3218,13.930,"Produksjon av gulvtepper, -matter og -ryer",5,13.93
+SN2025,3218,13.940,"Produksjon av tauverk, rep, hyssing og nett",5,13.94
+SN2025,3218,13.950,Produksjon av ikke-vevde tekstiler og tekstilvarer,5,13.95
+SN2025,3218,13.960,Produksjon av tekstiler til teknisk og industriell bruk,5,13.96
+SN2025,3218,13.990,Produksjon av tekstiler ikke nevnt annet sted,5,13.99
+SN2025,3218,14,Produksjon av klær,2,C
+SN2025,3218,14.1,Produksjon av klær av trikotasje og heklede klær,3,14
+SN2025,3218,14.2,Produksjon av andre klær og tilbehør,3,14
+SN2025,3218,14.10,Produksjon av klær av trikotasje og heklede klær,4,14.1
+SN2025,3218,14.21,Produksjon av yttertøy,4,14.2
+SN2025,3218,14.22,Produksjon av undertøy,4,14.2
+SN2025,3218,14.23,Produksjon av arbeidstøy,4,14.2
+SN2025,3218,14.24,Produksjon av klær av lær og pelsvarer,4,14.2
+SN2025,3218,14.29,Produksjon av klær og tilbehør ikke nevnt annet sted,4,14.2
+SN2025,3218,14.100,Produksjon av klær av trikotasje og heklede klær,5,14.10
+SN2025,3218,14.210,Produksjon av yttertøy,5,14.21
+SN2025,3218,14.220,Produksjon av undertøy,5,14.22
+SN2025,3218,14.230,Produksjon av arbeidstøy,5,14.23
+SN2025,3218,14.240,Produksjon av klær av lær og pelsvarer,5,14.24
+SN2025,3218,14.290,Produksjon av klær og tilbehør ikke nevnt annet sted,5,14.29
+SN2025,3218,15,Produksjon av lær og andre relaterte produkter,2,C
+SN2025,3218,15.1,"Beredning og farging av lær og pelsskinn, produksjon av reiseeffekter og salmakerartikler",3,15
+SN2025,3218,15.2,Produksjon av skotøy,3,15
+SN2025,3218,15.11,Beredning og farging av lær og pelsskinn,4,15.1
+SN2025,3218,15.12,Produksjon av reiseeffekter og salmakerartikler,4,15.1
+SN2025,3218,15.20,Produksjon av skotøy,4,15.2
+SN2025,3218,15.110,Beredning og farging av lær og pelsskinn,5,15.11
+SN2025,3218,15.120,Produksjon av reiseeffekter og salmakerartikler,5,15.12
+SN2025,3218,15.200,Produksjon av skotøy,5,15.20
+SN2025,3218,16,"Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler",2,C
+SN2025,3218,16.1,"Saging, høvling, bearbeiding og etterbehandling av tre",3,16
+SN2025,3218,16.2,"Produksjon av varer av tre, kork, strå og flettematerialer",3,16
+SN2025,3218,16.11,Saging og høvling av tre,4,16.1
+SN2025,3218,16.12,Bearbeiding og etterbehandling av tre,4,16.1
+SN2025,3218,16.21,Produksjon av finerplater og andre bygnings- og møbelplater av tre,4,16.2
+SN2025,3218,16.22,Produksjon av sammensatte parkettstaver,4,16.2
+SN2025,3218,16.23,Produksjon av andre bygningsartikler,4,16.2
+SN2025,3218,16.24,Produksjon av treemballasje,4,16.2
+SN2025,3218,16.25,Produksjon av dører og vinduer i tre,4,16.2
+SN2025,3218,16.26,Produksjon av fast brensel av vegetabilsk biomasse,4,16.2
+SN2025,3218,16.27,Etterbehandling av treprodukter,4,16.2
+SN2025,3218,16.28,"Produksjon av andre trevarer og varer av kork, strå og flettematerialer",4,16.2
+SN2025,3218,16.110,Saging og høvling av tre,5,16.11
+SN2025,3218,16.120,Bearbeiding og etterbehandling av tre,5,16.12
+SN2025,3218,16.210,Produksjon av finerplater og andre bygnings- og møbelplater av tre,5,16.21
+SN2025,3218,16.220,Produksjon av sammensatte parkettstaver,5,16.22
+SN2025,3218,16.230,Produksjon av andre bygningsartikler,5,16.23
+SN2025,3218,16.240,Produksjon av treemballasje,5,16.24
+SN2025,3218,16.250,Produksjon av dører og vinduer i tre,5,16.25
+SN2025,3218,16.260,Produksjon av fast brensel av vegetabilsk biomasse,5,16.26
+SN2025,3218,16.270,Etterbehandling av treprodukter,5,16.27
+SN2025,3218,16.280,"Produksjon av andre trevarer og varer av kork, strå og flettematerialer",5,16.28
+SN2025,3218,17,Produksjon av papir og papirvarer,2,C
+SN2025,3218,17.1,"Produksjon av papirmasse, papir og papp",3,17
+SN2025,3218,17.2,Produksjon av varer av papir og papp,3,17
+SN2025,3218,17.11,Produksjon av papirmasse,4,17.1
+SN2025,3218,17.12,Produksjon av papir og papp,4,17.1
+SN2025,3218,17.21,"Produksjon av bølgepapp, papp og emballasje av papir og papp",4,17.2
+SN2025,3218,17.22,"Produksjon av husholdnings-, sanitær- og toalettartikler",4,17.2
+SN2025,3218,17.23,Produksjon av kontorartikler av papir,4,17.2
+SN2025,3218,17.24,Produksjon av tapet,4,17.2
+SN2025,3218,17.25,Produksjon av varer av papir og papp ellers,4,17.2
+SN2025,3218,17.110,Produksjon av papirmasse,5,17.11
+SN2025,3218,17.120,Produksjon av papir og papp,5,17.12
+SN2025,3218,17.210,"Produksjon av bølgepapp, papp og emballasje av papir og papp",5,17.21
+SN2025,3218,17.220,"Produksjon av husholdnings-, sanitær- og toalettartikler",5,17.22
+SN2025,3218,17.230,Produksjon av kontorartikler av papir,5,17.23
+SN2025,3218,17.240,Produksjon av tapet,5,17.24
+SN2025,3218,17.250,Produksjon av varer av papir og papp ellers,5,17.25
+SN2025,3218,18,Trykking og reproduksjon av innspilte opptak,2,C
+SN2025,3218,18.1,Trykking og tjenester tilknyttet trykking,3,18
+SN2025,3218,18.2,Reproduksjon av innspilte opptak,3,18
+SN2025,3218,18.11,Trykking av aviser,4,18.1
+SN2025,3218,18.12,Trykking ellers,4,18.1
+SN2025,3218,18.13,Ferdiggjøring før trykking og publisering,4,18.1
+SN2025,3218,18.14,Bokbinding og tilknyttede tjenester,4,18.1
+SN2025,3218,18.20,Reproduksjon av innspilte opptak,4,18.2
+SN2025,3218,18.110,Trykking av aviser,5,18.11
+SN2025,3218,18.120,Trykking ellers,5,18.12
+SN2025,3218,18.130,Ferdiggjøring før trykking og publisering,5,18.13
+SN2025,3218,18.140,Bokbinding og tilknyttede tjenester,5,18.14
+SN2025,3218,18.200,Reproduksjon av innspilte opptak,5,18.20
+SN2025,3218,19,Produksjon av kullprodukter og raffinerte petroleumsprodukter,2,C
+SN2025,3218,19.1,Produksjon av kullprodukter,3,19
+SN2025,3218,19.2,Produksjon av raffinerte petroleumsprodukter og fossile brenselsprodukter,3,19
+SN2025,3218,19.10,Produksjon av kullprodukter,4,19.1
+SN2025,3218,19.20,Produksjon av raffinerte petroleumsprodukter og fossile brenselsprodukter,4,19.2
+SN2025,3218,19.100,Produksjon av kullprodukter,5,19.10
+SN2025,3218,19.200,Produksjon av raffinerte petroleumsprodukter og fossile brenselsprodukter,5,19.20
+SN2025,3218,20,Produksjon av kjemikalier og kjemiske produkter,2,C
+SN2025,3218,20.1,"Produksjon av kjemiske råvarer, gjødsel og nitrogenforbindelser, basisplast og syntetisk gummi",3,20
+SN2025,3218,20.2,"Produksjon av plantevern-, skadedyr- og desinfeksjonsmidler og andre landbrukskjemiske produkter",3,20
+SN2025,3218,20.3,"Produksjon av maling, lakk og lignende ytterbelegg, trykkfarger og tetningsmidler",3,20
+SN2025,3218,20.4,"Produksjon av vaske-, rense- og poleringsmidler",3,20
+SN2025,3218,20.5,Produksjon av andre kjemiske produkter,3,20
+SN2025,3218,20.6,Produksjon av kunstfibre,3,20
+SN2025,3218,20.11,Produksjon av industrigasser,4,20.1
+SN2025,3218,20.12,Produksjon av fargestoffer og pigmenter,4,20.1
+SN2025,3218,20.13,Produksjon av andre uorganiske kjemiske råvarer,4,20.1
+SN2025,3218,20.14,Produksjon av andre organiske kjemiske råvarer,4,20.1
+SN2025,3218,20.15,Produksjon av gjødsel og nitrogenforbindelser,4,20.1
+SN2025,3218,20.16,Produksjon av basisplast,4,20.1
+SN2025,3218,20.17,Produksjon av syntetisk gummi,4,20.1
+SN2025,3218,20.20,"Produksjon av plantevern-, skadedyr- og desinfeksjonsmidler og andre landbrukskjemiske produkter",4,20.2
+SN2025,3218,20.30,"Produksjon av maling, lakk og lignende ytterbelegg, trykkfarger og tetningsmidler",4,20.3
+SN2025,3218,20.41,"Produksjon av såpe og vaske-, rense- og poleringsmidler",4,20.4
+SN2025,3218,20.42,Produksjon av parfyme og toalettartikler,4,20.4
+SN2025,3218,20.51,Produksjon av flytende biobrensel,4,20.5
+SN2025,3218,20.59,Produksjon av andre kjemiske produkter ikke nevnt annet sted,4,20.5
+SN2025,3218,20.60,Produksjon av kunstfibre,4,20.6
+SN2025,3218,20.110,Produksjon av industrigasser,5,20.11
+SN2025,3218,20.120,Produksjon av fargestoffer og pigmenter,5,20.12
+SN2025,3218,20.130,Produksjon av andre uorganiske kjemiske råvarer,5,20.13
+SN2025,3218,20.140,Produksjon av andre organiske kjemiske råvarer,5,20.14
+SN2025,3218,20.150,Produksjon av gjødsel og nitrogenforbindelser,5,20.15
+SN2025,3218,20.160,Produksjon av basisplast,5,20.16
+SN2025,3218,20.170,Produksjon av syntetisk gummi,5,20.17
+SN2025,3218,20.200,"Produksjon av plantevern-, skadedyr- og desinfeksjonsmidler og andre landbrukskjemiske produkter",5,20.20
+SN2025,3218,20.300,"Produksjon av maling, lakk og lignende ytterbelegg, trykkfarger og tetningsmidler",5,20.30
+SN2025,3218,20.410,"Produksjon av såpe og vaske-, rense- og poleringsmidler",5,20.41
+SN2025,3218,20.420,Produksjon av parfyme og toalettartikler,5,20.42
+SN2025,3218,20.510,Produksjon av flytende biobrensel,5,20.51
+SN2025,3218,20.590,Produksjon av andre kjemiske produkter ikke nevnt annet sted,5,20.59
+SN2025,3218,20.600,Produksjon av kunstfibre,5,20.60
+SN2025,3218,21,Produksjon av farmasøytiske råvarer og preparater,2,C
+SN2025,3218,21.1,Produksjon av farmasøytiske råvarer,3,21
+SN2025,3218,21.2,Produksjon av farmasøytiske preparater,3,21
+SN2025,3218,21.10,Produksjon av farmasøytiske råvarer,4,21.1
+SN2025,3218,21.20,Produksjon av farmasøytiske preparater,4,21.2
+SN2025,3218,21.100,Produksjon av farmasøytiske råvarer,5,21.10
+SN2025,3218,21.200,Produksjon av farmasøytiske preparater,5,21.20
+SN2025,3218,22,Produksjon av gummi- og plastprodukter,2,C
+SN2025,3218,22.1,Produksjon av gummiprodukter,3,22
+SN2025,3218,22.2,Produksjon av plastprodukter,3,22
+SN2025,3218,22.11,"Produksjon av gummidekk og slanger til gummidekk, og regummiering og mønsterskjæring av gummidekk",4,22.1
+SN2025,3218,22.12,Produksjon av gummiprodukter ellers,4,22.1
+SN2025,3218,22.21,"Produksjon av plater, film, rør og profiler av plast",4,22.2
+SN2025,3218,22.22,Produksjon av plastemballasje,4,22.2
+SN2025,3218,22.23,Produksjon av dører og vinduer av plast,4,22.2
+SN2025,3218,22.24,Produksjon av byggevarer av plast,4,22.2
+SN2025,3218,22.25,Bearbeiding og etterbehandling av plastprodukter,4,22.2
+SN2025,3218,22.26,Produksjon av plastprodukter ellers,4,22.2
+SN2025,3218,22.110,"Produksjon av gummidekk og slanger til gummidekk, og regummiering og mønsterskjæring av gummidekk",5,22.11
+SN2025,3218,22.120,Produksjon av gummiprodukter ellers,5,22.12
+SN2025,3218,22.210,"Produksjon av plater, film, rør og profiler av plast",5,22.21
+SN2025,3218,22.220,Produksjon av plastemballasje,5,22.22
+SN2025,3218,22.230,Produksjon av dører og vinduer av plast,5,22.23
+SN2025,3218,22.240,Produksjon av byggevarer av plast,5,22.24
+SN2025,3218,22.250,Bearbeiding og etterbehandling av plastprodukter,5,22.25
+SN2025,3218,22.260,Produksjon av plastprodukter ellers,5,22.26
+SN2025,3218,23,Produksjon av andre ikke-metalliske mineralprodukter,2,C
+SN2025,3218,23.1,Produksjon av glass og glassprodukter,3,23
+SN2025,3218,23.2,Produksjon av ildfaste produkter,3,23
+SN2025,3218,23.3,Produksjon av byggevarer av brent leire,3,23
+SN2025,3218,23.4,Produksjon av andre porselensprodukter og keramiske produkter,3,23
+SN2025,3218,23.5,"Produksjon av sement, kalk og gips",3,23
+SN2025,3218,23.6,"Produksjon av betong-, sement- og gipsprodukter",3,23
+SN2025,3218,23.7,Hogging og bearbeiding av monument- og bygningsstein,3,23
+SN2025,3218,23.9,Produksjon av slipestoffer og ikke-metalliske mineralprodukter ikke nevnt annet sted,3,23
+SN2025,3218,23.11,Produksjon av planglass,4,23.1
+SN2025,3218,23.12,Bearbeiding av planglass,4,23.1
+SN2025,3218,23.13,Produksjon av emballasje og husholdningsartikler av glass og krystall,4,23.1
+SN2025,3218,23.14,Produksjon av glassfibre,4,23.1
+SN2025,3218,23.15,Produksjon av teknisk glass og andre glassvarer,4,23.1
+SN2025,3218,23.20,Produksjon av ildfaste produkter,4,23.2
+SN2025,3218,23.31,Produksjon av keramiske vegg- og gulvfliser,4,23.3
+SN2025,3218,23.32,"Produksjon av murstein, teglstein og andre byggevarer av brent leire",4,23.3
+SN2025,3218,23.41,Produksjon av keramiske husholdningsartikler og dekorasjonsgjenstander,4,23.4
+SN2025,3218,23.42,Produksjon av sanitærutstyr av keramisk materiale,4,23.4
+SN2025,3218,23.43,Produksjon av isolatorer og isoleringsdeler av keramisk materiale,4,23.4
+SN2025,3218,23.44,Produksjon av andre keramiske produkter for teknisk bruk,4,23.4
+SN2025,3218,23.45,Produksjon av andre keramiske produkter,4,23.4
+SN2025,3218,23.51,Produksjon av sement,4,23.5
+SN2025,3218,23.52,Produksjon av kalk og gips,4,23.5
+SN2025,3218,23.61,Produksjon av betongprodukter for bygge- og anleggsvirksomhet,4,23.6
+SN2025,3218,23.62,Produksjon av gipsprodukter for bygge- og anleggsvirksomhet,4,23.6
+SN2025,3218,23.63,Produksjon av ferdigblandet betong,4,23.6
+SN2025,3218,23.64,Produksjon av mørtel,4,23.6
+SN2025,3218,23.65,Produksjon av fibersement,4,23.6
+SN2025,3218,23.66,"Produksjon av betong-, sement- og gipsprodukter ellers",4,23.6
+SN2025,3218,23.70,Hogging og bearbeiding av monument- og bygningsstein,4,23.7
+SN2025,3218,23.91,Produksjon av slipestoffer,4,23.9
+SN2025,3218,23.99,Produksjon av andre ikke-metalliske mineralprodukter ikke nevnt annet sted,4,23.9
+SN2025,3218,23.110,Produksjon av planglass,5,23.11
+SN2025,3218,23.120,Bearbeiding av planglass,5,23.12
+SN2025,3218,23.130,Produksjon av emballasje og husholdningsartikler av glass og krystall,5,23.13
+SN2025,3218,23.140,Produksjon av glassfibre,5,23.14
+SN2025,3218,23.150,Produksjon av teknisk glass og andre glassvarer,5,23.15
+SN2025,3218,23.200,Produksjon av ildfaste produkter,5,23.20
+SN2025,3218,23.310,Produksjon av keramiske vegg- og gulvfliser,5,23.31
+SN2025,3218,23.320,"Produksjon av murstein, teglstein og andre byggevarer av brent leire",5,23.32
+SN2025,3218,23.410,Produksjon av keramiske husholdningsartikler og dekorasjonsgjenstander,5,23.41
+SN2025,3218,23.420,Produksjon av sanitærutstyr av keramisk materiale,5,23.42
+SN2025,3218,23.430,Produksjon av isolatorer og isoleringsdeler av keramisk materiale,5,23.43
+SN2025,3218,23.440,Produksjon av andre keramiske produkter for teknisk bruk,5,23.44
+SN2025,3218,23.450,Produksjon av andre keramiske produkter,5,23.45
+SN2025,3218,23.510,Produksjon av sement,5,23.51
+SN2025,3218,23.520,Produksjon av kalk og gips,5,23.52
+SN2025,3218,23.610,Produksjon av betongprodukter for bygge- og anleggsvirksomhet,5,23.61
+SN2025,3218,23.620,Produksjon av gipsprodukter for bygge- og anleggsvirksomhet,5,23.62
+SN2025,3218,23.630,Produksjon av ferdigblandet betong,5,23.63
+SN2025,3218,23.640,Produksjon av mørtel,5,23.64
+SN2025,3218,23.650,Produksjon av fibersement,5,23.65
+SN2025,3218,23.660,"Produksjon av betong-, sement- og gipsprodukter ellers",5,23.66
+SN2025,3218,23.700,Hogging og bearbeiding av monument- og bygningsstein,5,23.70
+SN2025,3218,23.910,Produksjon av slipestoffer,5,23.91
+SN2025,3218,23.990,Produksjon av andre ikke-metalliske mineralprodukter ikke nevnt annet sted,5,23.99
+SN2025,3218,24,Produksjon av metaller,2,C
+SN2025,3218,24.1,"Produksjon av jern og stål, samt ferrolegeringer",3,24
+SN2025,3218,24.2,"Produksjon av rør, rørdeler og andre hule konstruksjoner av stål",3,24
+SN2025,3218,24.3,Annen bearbeiding av stål,3,24
+SN2025,3218,24.4,Produksjon av edelmetaller og ikke-jernholdige metaller,3,24
+SN2025,3218,24.5,Støping av metaller,3,24
+SN2025,3218,24.10,"Produksjon av jern og stål, samt ferrolegeringer",4,24.1
+SN2025,3218,24.20,"Produksjon av rør, rørdeler og andre hule konstruksjoner av stål",4,24.2
+SN2025,3218,24.31,Kaldtrekking av stenger og profiler,4,24.3
+SN2025,3218,24.32,Kaldvalsing av bånd,4,24.3
+SN2025,3218,24.33,Kaldvalsing og pressing av profilerte plater og profiler,4,24.3
+SN2025,3218,24.34,Kaldtrekking av tråd,4,24.3
+SN2025,3218,24.41,Produksjon av edelmetaller,4,24.4
+SN2025,3218,24.42,Produksjon av aluminium,4,24.4
+SN2025,3218,24.43,"Produksjon av bly, sink og tinn",4,24.4
+SN2025,3218,24.44,Produksjon av kobber,4,24.4
+SN2025,3218,24.45,Produksjon av ikke-jernholdige metaller ellers,4,24.4
+SN2025,3218,24.46,Produksjon av kjernebrensel,4,24.4
+SN2025,3218,24.51,Støping av jern,4,24.5
+SN2025,3218,24.52,Støping av stål,4,24.5
+SN2025,3218,24.53,Støping av lettmetaller,4,24.5
+SN2025,3218,24.54,Støping av andre ikke-jernholdige metaller,4,24.5
+SN2025,3218,24.100,"Produksjon av jern og stål, samt ferrolegeringer",5,24.10
+SN2025,3218,24.200,"Produksjon av rør, rørdeler og andre hule konstruksjoner av stål",5,24.20
+SN2025,3218,24.310,Kaldtrekking av stenger og profiler,5,24.31
+SN2025,3218,24.320,Kaldvalsing av bånd,5,24.32
+SN2025,3218,24.330,Kaldvalsing og pressing av profilerte plater og profiler,5,24.33
+SN2025,3218,24.340,Kaldtrekking av tråd,5,24.34
+SN2025,3218,24.410,Produksjon av edelmetaller,5,24.41
+SN2025,3218,24.420,Produksjon av aluminium,5,24.42
+SN2025,3218,24.430,"Produksjon av bly, sink og tinn",5,24.43
+SN2025,3218,24.440,Produksjon av kobber,5,24.44
+SN2025,3218,24.450,Produksjon av ikke-jernholdige metaller ellers,5,24.45
+SN2025,3218,24.460,Produksjon av kjernebrensel,5,24.46
+SN2025,3218,24.510,Støping av jern,5,24.51
+SN2025,3218,24.520,Støping av stål,5,24.52
+SN2025,3218,24.530,Støping av lettmetaller,5,24.53
+SN2025,3218,24.540,Støping av andre ikke-jernholdige metaller,5,24.54
+SN2025,3218,25,"Produksjon av metallvarer, unntatt maskiner og utstyr",2,C
+SN2025,3218,25.1,Produksjon av metallkonstruksjoner,3,25
+SN2025,3218,25.2,"Produksjon av tanker, cisterner og andre beholdere av metall",3,25
+SN2025,3218,25.3,Produksjon av våpen og ammunisjon,3,25
+SN2025,3218,25.4,"Smiing, stansing og valsing av metall, og pulvermetallurgi",3,25
+SN2025,3218,25.5,Overflatebehandling og bearbeiding av metaller,3,25
+SN2025,3218,25.6,"Produksjon av kjøkkenredskaper, håndverktøy og andre jernvarer",3,25
+SN2025,3218,25.9,Produksjon av andre metallvarer,3,25
+SN2025,3218,25.11,Produksjon av metallkonstruksjoner og deler,4,25.1
+SN2025,3218,25.12,Produksjon av dører og vinduer av metall,4,25.1
+SN2025,3218,25.21,Produksjon av radiatorer til sentralvarmeanlegg og dampgeneratorer og -kjeler,4,25.2
+SN2025,3218,25.22,"Produksjon av andre tanker, cisterner og beholdere av metall",4,25.2
+SN2025,3218,25.30,Produksjon av våpen og ammunisjon,4,25.3
+SN2025,3218,25.40,"Smiing, stansing og valsing av metall, og pulvermetallurgi",4,25.4
+SN2025,3218,25.51,Overflatebehandling av metaller,4,25.5
+SN2025,3218,25.52,Varmebehandling av metaller,4,25.5
+SN2025,3218,25.53,Bearbeiding av metaller,4,25.5
+SN2025,3218,25.61,Produksjon av kjøkkenredskaper,4,25.6
+SN2025,3218,25.62,Produksjon av låser og beslag,4,25.6
+SN2025,3218,25.63,Produksjon av håndverktøy,4,25.6
+SN2025,3218,25.91,Produksjon av stålfat og lignende beholdere av jern og stål,4,25.9
+SN2025,3218,25.92,Produksjon av emballasje av lettmetall,4,25.9
+SN2025,3218,25.93,"Produksjon av varer av metalltråd, kjetting og fjærer",4,25.9
+SN2025,3218,25.94,Produksjon av bolter og skruer,4,25.9
+SN2025,3218,25.99,Produksjon av andre metallvarer ikke nevnt annet sted,4,25.9
+SN2025,3218,25.110,Produksjon av metallkonstruksjoner og deler,5,25.11
+SN2025,3218,25.120,Produksjon av dører og vinduer av metall,5,25.12
+SN2025,3218,25.210,Produksjon av radiatorer til sentralvarmeanlegg og dampgeneratorer og -kjeler,5,25.21
+SN2025,3218,25.220,"Produksjon av andre tanker, cisterner og beholdere av metall",5,25.22
+SN2025,3218,25.300,Produksjon av våpen og ammunisjon,5,25.30
+SN2025,3218,25.400,"Smiing, stansing og valsing av metall, og pulvermetallurgi",5,25.40
+SN2025,3218,25.510,Overflatebehandling av metaller,5,25.51
+SN2025,3218,25.520,Varmebehandling av metaller,5,25.52
+SN2025,3218,25.530,Bearbeiding av metaller,5,25.53
+SN2025,3218,25.610,Produksjon av kjøkkenredskaper,5,25.61
+SN2025,3218,25.620,Produksjon av låser og beslag,5,25.62
+SN2025,3218,25.630,Produksjon av håndverktøy,5,25.63
+SN2025,3218,25.910,Produksjon av stålfat og lignende beholdere av jern og stål,5,25.91
+SN2025,3218,25.920,Produksjon av emballasje av lettmetall,5,25.92
+SN2025,3218,25.930,"Produksjon av varer av metalltråd, kjetting og fjærer",5,25.93
+SN2025,3218,25.940,Produksjon av bolter og skruer,5,25.94
+SN2025,3218,25.990,Produksjon av andre metallvarer ikke nevnt annet sted,5,25.99
+SN2025,3218,26,Produksjon av datamaskiner og elektroniske og optiske produkter,2,C
+SN2025,3218,26.1,Produksjon av elektroniske komponenter og kretskort,3,26
+SN2025,3218,26.2,Produksjon av datamaskiner og tilleggsutstyr,3,26
+SN2025,3218,26.3,Produksjon av kommunikasjonsutstyr,3,26
+SN2025,3218,26.4,Produksjon av elektronikk til husholdningsbruk,3,26
+SN2025,3218,26.5,"Produksjon av måle- og kontrollinstrumenter, klokker og ur",3,26
+SN2025,3218,26.6,"Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr",3,26
+SN2025,3218,26.7,"Produksjon av optiske instrumenter, magnetiske og optiske medier og fotografisk utstyr",3,26
+SN2025,3218,26.11,Produksjon av elektroniske komponenter,4,26.1
+SN2025,3218,26.12,Produksjon av kretskort,4,26.1
+SN2025,3218,26.20,Produksjon av datamaskiner og tilleggsutstyr,4,26.2
+SN2025,3218,26.30,Produksjon av kommunikasjonsutstyr,4,26.3
+SN2025,3218,26.40,Produksjon av elektronikk til husholdningsbruk,4,26.4
+SN2025,3218,26.51,"Produksjon av måle-, kontroll- og navigasjonsinstrumenter",4,26.5
+SN2025,3218,26.52,Produksjon av klokker og ur,4,26.5
+SN2025,3218,26.60,"Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr",4,26.6
+SN2025,3218,26.70,"Produksjon av optiske instrumenter, magnetiske og optiske medier og fotografisk utstyr",4,26.7
+SN2025,3218,26.110,Produksjon av elektroniske komponenter,5,26.11
+SN2025,3218,26.120,Produksjon av kretskort,5,26.12
+SN2025,3218,26.200,Produksjon av datamaskiner og tilleggsutstyr,5,26.20
+SN2025,3218,26.300,Produksjon av kommunikasjonsutstyr,5,26.30
+SN2025,3218,26.400,Produksjon av elektronikk til husholdningsbruk,5,26.40
+SN2025,3218,26.510,"Produksjon av måle-, kontroll- og navigasjonsinstrumenter",5,26.51
+SN2025,3218,26.520,Produksjon av klokker og ur,5,26.52
+SN2025,3218,26.600,"Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr",5,26.60
+SN2025,3218,26.700,"Produksjon av optiske instrumenter, magnetiske og optiske medier og fotografisk utstyr",5,26.70
+SN2025,3218,27,Produksjon av elektrisk utstyr,2,C
+SN2025,3218,27.1,"Produksjon av elektromotorer, generatorer, transformatorer og elektriske fordelings- og kontrolltavler og paneler",3,27
+SN2025,3218,27.2,Produksjon av batterier og akkumulatorer,3,27
+SN2025,3218,27.3,Produksjon av ledninger og ledningsmateriell,3,27
+SN2025,3218,27.4,Produksjon av belysningsutstyr,3,27
+SN2025,3218,27.5,Produksjon av husholdningsmaskiner og -apparater,3,27
+SN2025,3218,27.9,Produksjon av annet elektrisk utstyr,3,27
+SN2025,3218,27.11,"Produksjon av elektromotorer, generatorer og transformatorer",4,27.1
+SN2025,3218,27.12,Produksjon av elektriske fordelings- og kontrolltavler og paneler,4,27.1
+SN2025,3218,27.20,Produksjon av batterier og akkumulatorer,4,27.2
+SN2025,3218,27.31,Produksjon av optiske fiberkabler,4,27.3
+SN2025,3218,27.32,Produksjon av andre elektroniske og elektriske ledninger og kabler,4,27.3
+SN2025,3218,27.33,Produksjon av ledningsmateriell,4,27.3
+SN2025,3218,27.40,Produksjon av belysningsutstyr,4,27.4
+SN2025,3218,27.51,Produksjon av elektriske husholdningsmaskiner og -apparater,4,27.5
+SN2025,3218,27.52,Produksjon av ikke-elektriske husholdningsmaskiner og -apparater,4,27.5
+SN2025,3218,27.90,Produksjon av annet elektrisk utstyr,4,27.9
+SN2025,3218,27.110,"Produksjon av elektromotorer, generatorer og transformatorer",5,27.11
+SN2025,3218,27.120,Produksjon av elektriske fordelings- og kontrolltavler og paneler,5,27.12
+SN2025,3218,27.200,Produksjon av batterier og akkumulatorer,5,27.20
+SN2025,3218,27.310,Produksjon av optiske fiberkabler,5,27.31
+SN2025,3218,27.320,Produksjon av andre elektroniske og elektriske ledninger og kabler,5,27.32
+SN2025,3218,27.330,Produksjon av ledningsmateriell,5,27.33
+SN2025,3218,27.400,Produksjon av belysningsutstyr,5,27.40
+SN2025,3218,27.510,Produksjon av elektriske husholdningsmaskiner og -apparater,5,27.51
+SN2025,3218,27.520,Produksjon av ikke-elektriske husholdningsmaskiner og -apparater,5,27.52
+SN2025,3218,27.900,Produksjon av annet elektrisk utstyr,5,27.90
+SN2025,3218,28,Produksjon av maskiner og utstyr ikke nevnt annet sted,2,C
+SN2025,3218,28.1,Produksjon av maskiner og utstyr til generell bruk,3,28
+SN2025,3218,28.2,Produksjon av andre maskiner og annet utstyr til generell bruk,3,28
+SN2025,3218,28.3,Produksjon av jordbruks- og skogbruksmaskiner,3,28
+SN2025,3218,28.4,Produksjon av maskiner til metallbearbeiding og maskinverktøy,3,28
+SN2025,3218,28.9,Produksjon av andre spesialmaskiner,3,28
+SN2025,3218,28.11,"Produksjon av motorer og turbiner, unntatt motorer til luftfartøy og motorvogner",4,28.1
+SN2025,3218,28.12,Produksjon av komponenter til hydraulisk og pneumatisk utstyr,4,28.1
+SN2025,3218,28.13,Produksjon av pumper og kompressorer ellers,4,28.1
+SN2025,3218,28.14,Produksjon av kraner og ventiler ellers,4,28.1
+SN2025,3218,28.15,"Produksjon av lagre, gir, tannhjulsutvekslinger og andre innretninger for kraftoverføring",4,28.1
+SN2025,3218,28.21,Produksjon av ovner og permanente varmeapparater til bruk i husholdninger,4,28.2
+SN2025,3218,28.22,Produksjon av løfte- og håndteringsutstyr,4,28.2
+SN2025,3218,28.23,"Produksjon av kontormaskiner og utstyr, unntatt datamaskiner og tilleggsutstyr",4,28.2
+SN2025,3218,28.24,Produksjon av motordrevet håndverktøy,4,28.2
+SN2025,3218,28.25,"Produksjon av kjøle- og ventilasjonsanlegg, unntatt til husholdningsbruk",4,28.2
+SN2025,3218,28.29,Produksjon av maskiner og utstyr til generell bruk ikke nevnt annet sted,4,28.2
+SN2025,3218,28.30,Produksjon av jordbruks- og skogbruksmaskiner,4,28.3
+SN2025,3218,28.41,Produksjon av maskiner og maskinverktøy til metallbearbeiding,4,28.4
+SN2025,3218,28.42,Produksjon av maskinverktøy ellers,4,28.4
+SN2025,3218,28.91,Produksjon av maskiner og utstyr til metallurgisk industri,4,28.9
+SN2025,3218,28.92,Produksjon av maskiner og utstyr til bergverksdrift og bygge- og anleggsvirksomhet,4,28.9
+SN2025,3218,28.93,"Produksjon av maskiner og utstyr til nærings-, nytelsesmiddel-, drikke- og tobakksindustri",4,28.9
+SN2025,3218,28.94,"Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvareindustri",4,28.9
+SN2025,3218,28.95,Produksjon av maskiner og utstyr til papir- og pappvareindustri,4,28.9
+SN2025,3218,28.96,Produksjon av maskiner og utstyr til plast- og gummiindustri,4,28.9
+SN2025,3218,28.97,Produksjon av maskiner og utstyr til additiv tilvirkning,4,28.9
+SN2025,3218,28.99,Produksjon av andre spesialmaskiner ikke nevnt annet sted,4,28.9
+SN2025,3218,28.110,"Produksjon av motorer og turbiner, unntatt motorer til luftfartøy og motorvogner",5,28.11
+SN2025,3218,28.120,Produksjon av komponenter til hydraulisk og pneumatisk utstyr,5,28.12
+SN2025,3218,28.130,Produksjon av pumper og kompressorer ellers,5,28.13
+SN2025,3218,28.140,Produksjon av kraner og ventiler ellers,5,28.14
+SN2025,3218,28.150,"Produksjon av lagre, gir, tannhjulsutvekslinger og andre innretninger for kraftoverføring",5,28.15
+SN2025,3218,28.210,Produksjon av ovner og permanente varmeapparater til bruk i husholdninger,5,28.21
+SN2025,3218,28.220,Produksjon av løfte- og håndteringsutstyr,5,28.22
+SN2025,3218,28.230,"Produksjon av kontormaskiner og utstyr, unntatt datamaskiner og tilleggsutstyr",5,28.23
+SN2025,3218,28.240,Produksjon av motordrevet håndverktøy,5,28.24
+SN2025,3218,28.250,"Produksjon av kjøle- og ventilasjonsanlegg, unntatt til husholdningsbruk",5,28.25
+SN2025,3218,28.290,Produksjon av maskiner og utstyr til generell bruk ikke nevnt annet sted,5,28.29
+SN2025,3218,28.300,Produksjon av jordbruks- og skogbruksmaskiner,5,28.30
+SN2025,3218,28.410,Produksjon av maskiner og maskinverktøy til metallbearbeiding,5,28.41
+SN2025,3218,28.420,Produksjon av maskinverktøy ellers,5,28.42
+SN2025,3218,28.910,Produksjon av maskiner og utstyr til metallurgisk industri,5,28.91
+SN2025,3218,28.920,Produksjon av maskiner og utstyr til bergverksdrift og bygge- og anleggsvirksomhet,5,28.92
+SN2025,3218,28.930,"Produksjon av maskiner og utstyr til nærings-, nytelsesmiddel-, drikke- og tobakksindustri",5,28.93
+SN2025,3218,28.940,"Produksjon av maskiner og utstyr til tekstil-, konfeksjons- og lærvareindustri",5,28.94
+SN2025,3218,28.950,Produksjon av maskiner og utstyr til papir- og pappvareindustri,5,28.95
+SN2025,3218,28.960,Produksjon av maskiner og utstyr til plast- og gummiindustri,5,28.96
+SN2025,3218,28.970,Produksjon av maskiner og utstyr til additiv tilvirkning,5,28.97
+SN2025,3218,28.990,Produksjon av andre spesialmaskiner ikke nevnt annet sted,5,28.99
+SN2025,3218,29,Produksjon av motorvogner og tilhengere,2,C
+SN2025,3218,29.1,Produksjon av motorvogner,3,29
+SN2025,3218,29.2,Produksjon av karosserier og tilhengere,3,29
+SN2025,3218,29.3,Produksjon av deler og utstyr til motorvogner,3,29
+SN2025,3218,29.10,Produksjon av motorvogner,4,29.1
+SN2025,3218,29.20,Produksjon av karosserier og tilhengere,4,29.2
+SN2025,3218,29.31,Produksjon av elektrisk og elektronisk utstyr til motorvogner,4,29.3
+SN2025,3218,29.32,Produksjon av andre deler og annet utstyr til motorvogner,4,29.3
+SN2025,3218,29.100,Produksjon av motorvogner,5,29.10
+SN2025,3218,29.200,Produksjon av karosserier og tilhengere,5,29.20
+SN2025,3218,29.310,Produksjon av elektrisk og elektronisk utstyr til motorvogner,5,29.31
+SN2025,3218,29.320,Produksjon av andre deler og annet utstyr til motorvogner,5,29.32
+SN2025,3218,30,Produksjon av andre transportmidler,2,C
+SN2025,3218,30.1,Bygging av skip og båter,3,30
+SN2025,3218,30.2,Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei,3,30
+SN2025,3218,30.3,Produksjon av luft- og romfartøy og tilhørende utstyr,3,30
+SN2025,3218,30.4,Produksjon av militære stridskjøretøy,3,30
+SN2025,3218,30.9,Produksjon av transportmidler ikke nevnt annet sted,3,30
+SN2025,3218,30.11,Bygging av sivile skip og flytende materiell,4,30.1
+SN2025,3218,30.12,Bygging av fritidsbåter,4,30.1
+SN2025,3218,30.13,Bygging av militære skip og fartøy,4,30.1
+SN2025,3218,30.20,Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei,4,30.2
+SN2025,3218,30.31,Produksjon av sivile luft- og romfartøy og tilhørende utstyr,4,30.3
+SN2025,3218,30.32,Produksjon av militære luft- og romfartøy og tilhørende utstyr,4,30.3
+SN2025,3218,30.40,Produksjon av militære stridskjøretøy,4,30.4
+SN2025,3218,30.91,Produksjon av motorsykler,4,30.9
+SN2025,3218,30.92,"Produksjon av sykler, rullestoler, elektriske mobilitetsscootere og lignende fremkomstmidler",4,30.9
+SN2025,3218,30.99,Produksjon av andre transportmidler ikke nevnt annet sted,4,30.9
+SN2025,3218,30.110,Bygging av sivile skip og flytende materiell,5,30.11
+SN2025,3218,30.120,Bygging av fritidsbåter,5,30.12
+SN2025,3218,30.130,Bygging av militære skip og fartøy,5,30.13
+SN2025,3218,30.200,Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei,5,30.20
+SN2025,3218,30.310,Produksjon av sivile luft- og romfartøy og tilhørende utstyr,5,30.31
+SN2025,3218,30.320,Produksjon av militære luft- og romfartøy og tilhørende utstyr,5,30.32
+SN2025,3218,30.400,Produksjon av militære stridskjøretøy,5,30.40
+SN2025,3218,30.910,Produksjon av motorsykler,5,30.91
+SN2025,3218,30.920,"Produksjon av sykler, rullestoler, elektriske mobilitetsscootere og lignende fremkomstmidler",5,30.92
+SN2025,3218,30.990,Produksjon av andre transportmidler ikke nevnt annet sted,5,30.99
+SN2025,3218,31,Produksjon av møbler,2,C
+SN2025,3218,31.0,Produksjon av møbler,3,31
+SN2025,3218,31.00,Produksjon av møbler,4,31.0
+SN2025,3218,31.000,Produksjon av møbler,5,31.00
+SN2025,3218,32,Annen industriproduksjon,2,C
+SN2025,3218,32.1,"Produksjon av smykker, bijouteri og lignende artikler",3,32
+SN2025,3218,32.2,Produksjon av musikkinstrumenter,3,32
+SN2025,3218,32.3,Produksjon av sportsartikler,3,32
+SN2025,3218,32.4,Produksjon av spill og leker,3,32
+SN2025,3218,32.5,Produksjon av medisinske og tanntekniske instrumenter og utstyr,3,32
+SN2025,3218,32.9,Industriproduksjon ikke nevnt annet sted,3,32
+SN2025,3218,32.11,Preging av mynter,4,32.1
+SN2025,3218,32.12,Produksjon av smykker og lignende artikler,4,32.1
+SN2025,3218,32.13,Produksjon av bijouteri og lignende artikler,4,32.1
+SN2025,3218,32.20,Produksjon av musikkinstrumenter,4,32.2
+SN2025,3218,32.30,Produksjon av sportsartikler,4,32.3
+SN2025,3218,32.40,Produksjon av spill og leker,4,32.4
+SN2025,3218,32.50,Produksjon av medisinske og tanntekniske instrumenter og utstyr,4,32.5
+SN2025,3218,32.91,Produksjon av koster og børster,4,32.9
+SN2025,3218,32.99,Annen industriproduksjon ikke nevnt annet sted,4,32.9
+SN2025,3218,32.110,Preging av mynter,5,32.11
+SN2025,3218,32.120,Produksjon av smykker og lignende artikler,5,32.12
+SN2025,3218,32.130,Produksjon av bijouteri og lignende artikler,5,32.13
+SN2025,3218,32.200,Produksjon av musikkinstrumenter,5,32.20
+SN2025,3218,32.300,Produksjon av sportsartikler,5,32.30
+SN2025,3218,32.400,Produksjon av spill og leker,5,32.40
+SN2025,3218,32.500,Produksjon av medisinske og tanntekniske instrumenter og utstyr,5,32.50
+SN2025,3218,32.910,Produksjon av koster og børster,5,32.91
+SN2025,3218,32.990,Annen industriproduksjon ikke nevnt annet sted,5,32.99
+SN2025,3218,33,"Reparasjon, vedlikehold og installasjon av maskiner og utstyr",2,C
+SN2025,3218,33.1,"Reparasjon og vedlikehold av bearbeidede metallprodukter, maskiner og utstyr",3,33
+SN2025,3218,33.2,Installasjon av industrimaskiner og -utstyr,3,33
+SN2025,3218,33.11,Reparasjon og vedlikehold av bearbeidede metallprodukter,4,33.1
+SN2025,3218,33.12,Reparasjon og vedlikehold av maskiner,4,33.1
+SN2025,3218,33.13,Reparasjon og vedlikehold av elektronisk og optisk utstyr,4,33.1
+SN2025,3218,33.14,Reparasjon og vedlikehold av elektrisk utstyr,4,33.1
+SN2025,3218,33.15,Reparasjon og vedlikehold av sivile skip og båter,4,33.1
+SN2025,3218,33.16,Reparasjon og vedlikehold av sivile luft- og romfartøy,4,33.1
+SN2025,3218,33.17,Reparasjon og vedlikehold av andre sivile transportmidler,4,33.1
+SN2025,3218,33.18,"Reparasjon og vedlikehold av militære stridskjøretøy, skip, båter, luft- og romfartøy",4,33.1
+SN2025,3218,33.19,Reparasjon og vedlikehold av annet utstyr,4,33.1
+SN2025,3218,33.20,Installasjon av industrimaskiner og -utstyr,4,33.2
+SN2025,3218,33.110,Reparasjon og vedlikehold av bearbeidede metallprodukter,5,33.11
+SN2025,3218,33.120,Reparasjon og vedlikehold av maskiner,5,33.12
+SN2025,3218,33.130,Reparasjon og vedlikehold av elektronisk og optisk utstyr,5,33.13
+SN2025,3218,33.140,Reparasjon og vedlikehold av elektrisk utstyr,5,33.14
+SN2025,3218,33.150,Reparasjon og vedlikehold av sivile skip og båter,5,33.15
+SN2025,3218,33.160,Reparasjon og vedlikehold av sivile luft- og romfartøy,5,33.16
+SN2025,3218,33.170,Reparasjon og vedlikehold av andre sivile transportmidler,5,33.17
+SN2025,3218,33.180,"Reparasjon og vedlikehold av militære stridskjøretøy, skip, båter, luft- og romfartøy",5,33.18
+SN2025,3218,33.190,Reparasjon og vedlikehold av annet utstyr,5,33.19
+SN2025,3218,33.200,Installasjon av industrimaskiner og -utstyr,5,33.20
+SN2025,3218,35,"Forsyning av elektrisitet, gass, damp og kjøleluft",2,D
+SN2025,3218,35.1,"Produksjon, overføring og distribusjon av elektrisitet",3,35
+SN2025,3218,35.2,Produksjon av gass og distribusjon av gass gjennom ledningsnett,3,35
+SN2025,3218,35.3,Vannbåren og luftbåren varme- og kjøleforsyning,3,35
+SN2025,3218,35.4,Aktiviteter til meglere og agenter knyttet til elektrisk kraft og naturgass,3,35
+SN2025,3218,35.11,Produksjon av elektrisitet fra ikke-fornybare kilder,4,35.1
+SN2025,3218,35.12,Produksjon av elektrisitet fra fornybare kilder,4,35.1
+SN2025,3218,35.13,Overføring av elektrisitet,4,35.1
+SN2025,3218,35.14,Distribusjon av elektrisitet,4,35.1
+SN2025,3218,35.15,Handel med elektrisitet,4,35.1
+SN2025,3218,35.16,Lagring av elektrisitet,4,35.1
+SN2025,3218,35.21,Produksjon av gass,4,35.2
+SN2025,3218,35.22,Distribusjon av gass gjennom ledningsnett,4,35.2
+SN2025,3218,35.23,Handel med gass gjennom ledningsnett,4,35.2
+SN2025,3218,35.24,Lagring av gass som del av distribusjonstjenester,4,35.2
+SN2025,3218,35.30,Vannbåren og luftbåren varme- og kjøleforsyning,4,35.3
+SN2025,3218,35.40,Aktiviteter til meglere og agenter knyttet til elektrisk kraft og naturgass,4,35.4
+SN2025,3218,35.110,Produksjon av elektrisitet fra ikke-fornybare kilder,5,35.11
+SN2025,3218,35.121,Produksjon av elektrisitet fra vannkraft,5,35.12
+SN2025,3218,35.122,Produksjon av elektrisitet fra vindkraft,5,35.12
+SN2025,3218,35.123,Produksjon av elektrisitet fra solenergi,5,35.12
+SN2025,3218,35.129,Produksjon av elektrisitet fra fornybare kilder ikke nevnt annet sted,5,35.12
+SN2025,3218,35.130,Overføring av elektrisitet,5,35.13
+SN2025,3218,35.140,Distribusjon av elektrisitet,5,35.14
+SN2025,3218,35.150,Handel med elektrisitet,5,35.15
+SN2025,3218,35.160,Lagring av elektrisitet,5,35.16
+SN2025,3218,35.210,Produksjon av gass,5,35.21
+SN2025,3218,35.220,Distribusjon av gass gjennom ledningsnett,5,35.22
+SN2025,3218,35.230,Handel med gass gjennom ledningsnett,5,35.23
+SN2025,3218,35.240,Lagring av gass som del av distribusjonstjenester,5,35.24
+SN2025,3218,35.300,Vannbåren og luftbåren varme- og kjøleforsyning,5,35.30
+SN2025,3218,35.400,Aktiviteter til meglere og agenter knyttet til elektrisk kraft og naturgass,5,35.40
+SN2025,3218,36,"Uttak fra kilde, rensing og distribusjon av vann",2,E
+SN2025,3218,36.0,"Uttak fra kilde, rensing og distribusjon av vann",3,36
+SN2025,3218,36.00,"Uttak fra kilde, rensing og distribusjon av vann",4,36.0
+SN2025,3218,36.000,"Uttak fra kilde, rensing og distribusjon av vann",5,36.00
+SN2025,3218,37,Oppsamling og behandling av avløpsvann,2,E
+SN2025,3218,37.0,Oppsamling og behandling av avløpsvann,3,37
+SN2025,3218,37.00,Oppsamling og behandling av avløpsvann,4,37.0
+SN2025,3218,37.000,Oppsamling og behandling av avløpsvann,5,37.00
+SN2025,3218,38,"Innsamling, gjenvinning og behandling av avfall",2,E
+SN2025,3218,38.1,Innsamling av avfall,3,38
+SN2025,3218,38.2,Gjenvinning av avfall,3,38
+SN2025,3218,38.3,Avfallshåndtering uten gjenvinning,3,38
+SN2025,3218,38.11,Innsamling av ikke-farlig avfall,4,38.1
+SN2025,3218,38.12,Innsamling av farlig avfall,4,38.1
+SN2025,3218,38.21,Materialgjenvinning,4,38.2
+SN2025,3218,38.22,Energigjenvinning,4,38.2
+SN2025,3218,38.23,Annen gjenvinning av avfall,4,38.2
+SN2025,3218,38.31,Forbrenning av avfall uten energigjenvinning,4,38.3
+SN2025,3218,38.32,Drift av deponi og permanent lagring av avfall,4,38.3
+SN2025,3218,38.33,Annen avfallshåndtering uten gjenvinning,4,38.3
+SN2025,3218,38.110,Innsamling av ikke-farlig avfall,5,38.11
+SN2025,3218,38.120,Innsamling av farlig avfall,5,38.12
+SN2025,3218,38.210,Materialgjenvinning,5,38.21
+SN2025,3218,38.220,Energigjenvinning,5,38.22
+SN2025,3218,38.230,Annen gjenvinning av avfall,5,38.23
+SN2025,3218,38.310,Forbrenning av avfall uten energigjenvinning,5,38.31
+SN2025,3218,38.320,Drift av deponi og permanent lagring av avfall,5,38.32
+SN2025,3218,38.330,Annen avfallshåndtering uten gjenvinning,5,38.33
+SN2025,3218,39,"Miljøutbedring, opprydding og lignende aktivitet",2,E
+SN2025,3218,39.0,"Miljøutbedring, opprydding og lignende aktivitet",3,39
+SN2025,3218,39.00,"Miljøutbedring, opprydding og lignende aktivitet",4,39.0
+SN2025,3218,39.000,"Miljøutbedring, opprydding og lignende aktivitet",5,39.00
+SN2025,3218,41,Oppføring av bygninger,2,F
+SN2025,3218,41.0,Oppføring av bygninger,3,41
+SN2025,3218,41.00,Oppføring av bygninger,4,41.0
+SN2025,3218,41.000,Oppføring av bygninger,5,41.00
+SN2025,3218,42,Anleggsvirksomhet,2,F
+SN2025,3218,42.1,Bygging av veier og jernbaner,3,42
+SN2025,3218,42.2,"Bygging av vann- og kloakkanlegg, og anlegg for elektrisitet og telekommunikasjon",3,42
+SN2025,3218,42.9,Bygging av andre anlegg,3,42
+SN2025,3218,42.11,Bygging av veier og motorveier,4,42.1
+SN2025,3218,42.12,Bygging av jernbaner og undergrunnsbaner,4,42.1
+SN2025,3218,42.13,Bygging av broer og tunneler,4,42.1
+SN2025,3218,42.21,Bygging av vann- og kloakkanlegg,4,42.2
+SN2025,3218,42.22,Bygging av anlegg for elektrisitet og telekommunikasjon,4,42.2
+SN2025,3218,42.91,Bygging av havne- og damanlegg,4,42.9
+SN2025,3218,42.99,Bygging av andre anlegg ikke nevnt annet sted,4,42.9
+SN2025,3218,42.110,Bygging av veier og motorveier,5,42.11
+SN2025,3218,42.120,Bygging av jernbaner og undergrunnsbaner,5,42.12
+SN2025,3218,42.130,Bygging av broer og tunneler,5,42.13
+SN2025,3218,42.210,Bygging av vann- og kloakkanlegg,5,42.21
+SN2025,3218,42.221,Bygging av anlegg for elektrisitet og telekommunikasjon til sjøs,5,42.22
+SN2025,3218,42.222,Bygging av anlegg for elektrisitet og telekommunikasjon på land,5,42.22
+SN2025,3218,42.910,Bygging av havne- og damanlegg,5,42.91
+SN2025,3218,42.990,Bygging av andre anlegg ikke nevnt annet sted,5,42.99
+SN2025,3218,43,Spesialisert bygge- og anleggsvirksomhet,2,F
+SN2025,3218,43.1,Riving og grunnarbeid,3,43
+SN2025,3218,43.2,"Elektrisk installasjonsarbeid, VVS-arbeid og annet installasjonsarbeid",3,43
+SN2025,3218,43.3,Ferdiggjøring av bygninger,3,43
+SN2025,3218,43.4,Spesialisert byggevirksomhet i forbindelse med oppføring av bygninger,3,43
+SN2025,3218,43.5,Spesialisert byggevirksomhet i forbindelse med anleggsarbeid,3,43
+SN2025,3218,43.6,Formidlingstjenester innenfor spesialisert bygge- og anleggsvirksomhet,3,43
+SN2025,3218,43.9,Annen spesialisert bygge- og anleggsvirksomhet,3,43
+SN2025,3218,43.11,Riving av bygninger og andre byggverk,4,43.1
+SN2025,3218,43.12,Grunnarbeid,4,43.1
+SN2025,3218,43.13,Prøveboring,4,43.1
+SN2025,3218,43.21,Elektrisk installasjonsarbeid,4,43.2
+SN2025,3218,43.22,VVS-arbeid,4,43.2
+SN2025,3218,43.23,Installasjon av isoleringsmateriale,4,43.2
+SN2025,3218,43.24,Annet installasjonsarbeid,4,43.2
+SN2025,3218,43.31,Stukkatørarbeid og pussing,4,43.3
+SN2025,3218,43.32,Snekkerarbeid,4,43.3
+SN2025,3218,43.33,Gulvlegging og tapetsering,4,43.3
+SN2025,3218,43.34,Maler- og glassarbeid,4,43.3
+SN2025,3218,43.35,Annen ferdiggjøring av bygninger,4,43.3
+SN2025,3218,43.41,Takarbeid,4,43.4
+SN2025,3218,43.42,Annen spesialisert byggevirksomhet i forbindelse med oppføring av bygninger,4,43.4
+SN2025,3218,43.50,Spesialisert byggevirksomhet i forbindelse med anleggsarbeid,4,43.5
+SN2025,3218,43.60,Formidlingstjenester innenfor spesialisert bygge- og anleggsvirksomhet,4,43.6
+SN2025,3218,43.91,Murerarbeid,4,43.9
+SN2025,3218,43.99,Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt annet sted,4,43.9
+SN2025,3218,43.110,Riving av bygninger og andre byggverk,5,43.11
+SN2025,3218,43.120,Grunnarbeid,5,43.12
+SN2025,3218,43.130,Prøveboring,5,43.13
+SN2025,3218,43.210,Elektrisk installasjonsarbeid,5,43.21
+SN2025,3218,43.221,Rørleggerarbeid,5,43.22
+SN2025,3218,43.222,"Kuldeanlegg-, varmepumpearbeid og installasjon av peiser",5,43.22
+SN2025,3218,43.223,Ventilasjonsarbeid,5,43.22
+SN2025,3218,43.230,Installasjon av isoleringsmateriale,5,43.23
+SN2025,3218,43.240,Annet installasjonsarbeid,5,43.24
+SN2025,3218,43.310,Stukkatørarbeid og pussing,5,43.31
+SN2025,3218,43.320,Snekkerarbeid,5,43.32
+SN2025,3218,43.330,Gulvlegging og tapetsering,5,43.33
+SN2025,3218,43.340,Maler- og glassarbeid,5,43.34
+SN2025,3218,43.350,Annen ferdiggjøring av bygninger,5,43.35
+SN2025,3218,43.410,Takarbeid,5,43.41
+SN2025,3218,43.420,Annen spesialisert byggevirksomhet i forbindelse med oppføring av bygninger,5,43.42
+SN2025,3218,43.500,Spesialisert byggevirksomhet i forbindelse med anleggsarbeid,5,43.50
+SN2025,3218,43.600,Formidlingstjenester innenfor spesialisert bygge- og anleggsvirksomhet,5,43.60
+SN2025,3218,43.910,Murerarbeid,5,43.91
+SN2025,3218,43.990,Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt annet sted,5,43.99
+SN2025,3218,46,Engroshandel,2,G
+SN2025,3218,46.1,Agenturhandel,3,46
+SN2025,3218,46.2,Engroshandel med jordbruksråvarer og levende dyr,3,46
+SN2025,3218,46.3,Engroshandel med nærings- og nytelsesmidler,3,46
+SN2025,3218,46.4,Engroshandel med husholdningsvarer,3,46
+SN2025,3218,46.5,Engroshandel med informasjons- og kommunikasjonsteknologiutstyr,3,46
+SN2025,3218,46.6,Engroshandel med andre maskiner og annet utstyr,3,46
+SN2025,3218,46.7,"Engroshandel med motorvogner, motorsykler og tilhørende deler og utstyr",3,46
+SN2025,3218,46.8,Engroshandel med spesialisert vareutvalg ellers,3,46
+SN2025,3218,46.9,Uspesifisert engroshandel,3,46
+SN2025,3218,46.11,"Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og halvfabrikater",4,46.1
+SN2025,3218,46.12,"Agenturhandel med brensel, drivstoff, malm, metaller og industrikjemikalier",4,46.1
+SN2025,3218,46.13,"Agenturhandel med tømmer, trelast og byggevarer",4,46.1
+SN2025,3218,46.14,"Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøy",4,46.1
+SN2025,3218,46.15,"Agenturhandel med møbler, husholdningsvarer og jernvarer",4,46.1
+SN2025,3218,46.16,"Agenturhandel med tekstiler, klær, pelsskinn, skotøy og lærvarer",4,46.1
+SN2025,3218,46.17,Agenturhandel med nærings- og nytelsesmidler,4,46.1
+SN2025,3218,46.18,Agenturhandel med spesialisert vareutvalg ellers,4,46.1
+SN2025,3218,46.19,Agenturhandel med bredt vareutvalg,4,46.1
+SN2025,3218,46.21,"Engroshandel med korn, råtobakk, såvarer og fôrvarer",4,46.2
+SN2025,3218,46.22,Engroshandel med blomster og planter,4,46.2
+SN2025,3218,46.23,Engroshandel med levende dyr,4,46.2
+SN2025,3218,46.24,"Engroshandel med huder, skinn og lær",4,46.2
+SN2025,3218,46.31,Engroshandel med frukt og grønnsaker,4,46.3
+SN2025,3218,46.32,"Engroshandel med kjøtt, kjøttvarer, fisk og fiskeprodukter",4,46.3
+SN2025,3218,46.33,"Engroshandel med meierivarer, egg, matolje og -fett",4,46.3
+SN2025,3218,46.34,Engroshandel med drikkevarer,4,46.3
+SN2025,3218,46.35,Engroshandel med tobakksvarer,4,46.3
+SN2025,3218,46.36,"Engroshandel med sukker, sjokolade og sukkervarer",4,46.3
+SN2025,3218,46.37,"Engroshandel med kaffe, te, kakao og krydder",4,46.3
+SN2025,3218,46.38,Engroshandel med andre næringsmidler,4,46.3
+SN2025,3218,46.39,Engroshandel med bredt utvalg av nærings- og nytelsesmidler,4,46.3
+SN2025,3218,46.41,Engroshandel med tekstiler og utstyrsvarer,4,46.4
+SN2025,3218,46.42,Engroshandel med klær og skotøy,4,46.4
+SN2025,3218,46.43,Engroshandel med elektriske husholdningsapparater,4,46.4
+SN2025,3218,46.44,"Engroshandel med kjøkkenutstyr av porselen, glass og steintøy og rengjøringsmidler",4,46.4
+SN2025,3218,46.45,Engroshandel med parfyme og kosmetikk,4,46.4
+SN2025,3218,46.46,Engroshandel med apotekvarer og medisinske varer,4,46.4
+SN2025,3218,46.47,"Engroshandel med husholdnings-, kontor- og butikkmøbler, gulvtepper og belysningsutstyr",4,46.4
+SN2025,3218,46.48,"Engroshandel med klokker, ur og smykker",4,46.4
+SN2025,3218,46.49,Engroshandel med andre husholdningsvarer,4,46.4
+SN2025,3218,46.50,Engroshandel med informasjons- og kommunikasjonsteknologiutstyr,4,46.5
+SN2025,3218,46.61,Engroshandel med maskiner og utstyr til jordbruk og skogbruk,4,46.6
+SN2025,3218,46.62,Engroshandel med maskinverktøy,4,46.6
+SN2025,3218,46.63,"Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",4,46.6
+SN2025,3218,46.64,Engroshandel med maskiner og utstyr ellers,4,46.6
+SN2025,3218,46.71,Engroshandel med motorvogner,4,46.7
+SN2025,3218,46.72,Engroshandel med deler og utstyr for motorvogner,4,46.7
+SN2025,3218,46.73,Engroshandel med motorsykler og tilhørende deler og utstyr,4,46.7
+SN2025,3218,46.81,"Engroshandel med drivstoff, brensel og beslektede produkter",4,46.8
+SN2025,3218,46.82,Engroshandel med metaller og metallholdig malm,4,46.8
+SN2025,3218,46.83,"Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",4,46.8
+SN2025,3218,46.84,"Engroshandel med jernvarer, rørleggerartikler og oppvarmingsutstyr",4,46.8
+SN2025,3218,46.85,Engroshandel med kjemiske produkter,4,46.8
+SN2025,3218,46.86,Engroshandel med innsatsvarer ellers,4,46.8
+SN2025,3218,46.87,Engroshandel med avfall og skrap,4,46.8
+SN2025,3218,46.89,Engroshandel med spesialisert vareutvalg ikke nevnt annet sted,4,46.8
+SN2025,3218,46.90,Uspesifisert engroshandel,4,46.9
+SN2025,3218,46.110,"Agenturhandel med jordbruksråvarer, levende dyr, tekstilråvarer og halvfabrikater",5,46.11
+SN2025,3218,46.120,"Agenturhandel med brensel, drivstoff, malm, metaller og industrikjemikalier",5,46.12
+SN2025,3218,46.130,"Agenturhandel med tømmer, trelast og byggevarer",5,46.13
+SN2025,3218,46.140,"Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøy",5,46.14
+SN2025,3218,46.150,"Agenturhandel med møbler, husholdningsvarer og jernvarer",5,46.15
+SN2025,3218,46.160,"Agenturhandel med tekstiler, klær, pelsskinn, skotøy og lærvarer",5,46.16
+SN2025,3218,46.170,Agenturhandel med nærings- og nytelsesmidler,5,46.17
+SN2025,3218,46.180,Agenturhandel med spesialisert vareutvalg ellers,5,46.18
+SN2025,3218,46.190,Agenturhandel med bredt vareutvalg,5,46.19
+SN2025,3218,46.210,"Engroshandel med korn, råtobakk, såvarer og fôrvarer",5,46.21
+SN2025,3218,46.220,Engroshandel med blomster og planter,5,46.22
+SN2025,3218,46.230,Engroshandel med levende dyr,5,46.23
+SN2025,3218,46.240,"Engroshandel med huder, skinn og lær",5,46.24
+SN2025,3218,46.310,Engroshandel med frukt og grønnsaker,5,46.31
+SN2025,3218,46.321,Engroshandel med kjøtt og kjøttvarer,5,46.32
+SN2025,3218,46.322,"Engroshandel med fisk, skalldyr og bløtdyr",5,46.32
+SN2025,3218,46.330,"Engroshandel med meierivarer, egg, matolje og -fett",5,46.33
+SN2025,3218,46.340,Engroshandel med drikkevarer,5,46.34
+SN2025,3218,46.350,Engroshandel med tobakksvarer,5,46.35
+SN2025,3218,46.360,"Engroshandel med sukker, sjokolade og sukkervarer",5,46.36
+SN2025,3218,46.370,"Engroshandel med kaffe, te, kakao og krydder",5,46.37
+SN2025,3218,46.380,Engroshandel med andre næringsmidler,5,46.38
+SN2025,3218,46.390,Engroshandel med bredt utvalg av nærings- og nytelsesmidler,5,46.39
+SN2025,3218,46.410,Engroshandel med tekstiler og utstyrsvarer,5,46.41
+SN2025,3218,46.420,Engroshandel med klær og skotøy,5,46.42
+SN2025,3218,46.430,Engroshandel med elektriske husholdningsapparater,5,46.43
+SN2025,3218,46.440,"Engroshandel med kjøkkenutstyr av porselen, glass og steintøy og rengjøringsmidler",5,46.44
+SN2025,3218,46.450,Engroshandel med parfyme og kosmetikk,5,46.45
+SN2025,3218,46.460,Engroshandel med apotekvarer og medisinske varer,5,46.46
+SN2025,3218,46.470,"Engroshandel med husholdnings-, kontor- og butikkmøbler, gulvtepper og belysningsutstyr",5,46.47
+SN2025,3218,46.480,"Engroshandel med klokker, ur og smykker",5,46.48
+SN2025,3218,46.490,Engroshandel med andre husholdningsvarer,5,46.49
+SN2025,3218,46.500,Engroshandel med informasjons- og kommunikasjonsteknologiutstyr,5,46.50
+SN2025,3218,46.610,Engroshandel med maskiner og utstyr til jordbruk og skogbruk,5,46.61
+SN2025,3218,46.620,Engroshandel med maskinverktøy,5,46.62
+SN2025,3218,46.630,"Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",5,46.63
+SN2025,3218,46.640,Engroshandel med maskiner og utstyr ellers,5,46.64
+SN2025,3218,46.710,Engroshandel med motorvogner,5,46.71
+SN2025,3218,46.720,Engroshandel med deler og utstyr for motorvogner,5,46.72
+SN2025,3218,46.730,Engroshandel med motorsykler og tilhørende deler og utstyr,5,46.73
+SN2025,3218,46.810,"Engroshandel med drivstoff, brensel og beslektede produkter",5,46.81
+SN2025,3218,46.820,Engroshandel med metaller og metallholdig malm,5,46.82
+SN2025,3218,46.830,"Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",5,46.83
+SN2025,3218,46.840,"Engroshandel med jernvarer, rørleggerartikler og oppvarmingsutstyr",5,46.84
+SN2025,3218,46.850,Engroshandel med kjemiske produkter,5,46.85
+SN2025,3218,46.860,Engroshandel med innsatsvarer ellers,5,46.86
+SN2025,3218,46.870,Engroshandel med avfall og skrap,5,46.87
+SN2025,3218,46.890,Engroshandel med spesialisert vareutvalg ikke nevnt annet sted,5,46.89
+SN2025,3218,46.900,Uspesifisert engroshandel,5,46.90
+SN2025,3218,47,Detaljhandel,2,G
+SN2025,3218,47.1,Detaljhandel med bredt vareutvalg,3,47
+SN2025,3218,47.2,Detaljhandel med nærings- og nytelsesmidler i spesialforretninger,3,47
+SN2025,3218,47.3,Detaljhandel med drivstoff til motorvogner,3,47
+SN2025,3218,47.4,Detaljhandel med informasjons- og kommunikasjonsteknologiutstyr,3,47
+SN2025,3218,47.5,Detaljhandel med andre husholdningsvarer,3,47
+SN2025,3218,47.6,Detaljhandel med kultur- og fritidsvarer,3,47
+SN2025,3218,47.7,"Annen detaljhandel, unntatt med motorvogner og motorsykler",3,47
+SN2025,3218,47.8,"Detaljhandel med motorvogner, motorsykler og tilhørende deler og utstyr",3,47
+SN2025,3218,47.9,Formidlingstjenester tilknyttet detaljhandel,3,47
+SN2025,3218,47.11,Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler,4,47.1
+SN2025,3218,47.12,Detaljhandel med bredt vareutvalg ellers,4,47.1
+SN2025,3218,47.21,Detaljhandel med frukt og grønnsaker,4,47.2
+SN2025,3218,47.22,Detaljhandel med kjøtt og kjøttvarer,4,47.2
+SN2025,3218,47.23,"Detaljhandel med fisk, skalldyr og bløtdyr",4,47.2
+SN2025,3218,47.24,"Detaljhandel med bakervarer, konditorvarer og sukkervarer",4,47.2
+SN2025,3218,47.25,Detaljhandel med drikkevarer,4,47.2
+SN2025,3218,47.26,Detaljhandel med tobakksvarer,4,47.2
+SN2025,3218,47.27,Detaljhandel med nærings- og nytelsesmidler ellers,4,47.2
+SN2025,3218,47.30,Detaljhandel med drivstoff til motorvogner,4,47.3
+SN2025,3218,47.40,Detaljhandel med informasjons- og kommunikasjonsteknologiutstyr,4,47.4
+SN2025,3218,47.51,Detaljhandel med tekstiler og utstyrsvarer,4,47.5
+SN2025,3218,47.52,"Detaljhandel med jernvarer, byggevarer, fargevarer og glass",4,47.5
+SN2025,3218,47.53,"Detaljhandel med tapet, gulvtepper og gulvbelegg",4,47.5
+SN2025,3218,47.54,Detaljhandel med elektriske husholdningsapparater,4,47.5
+SN2025,3218,47.55,"Detaljhandel med møbler, belysningsutstyr, dekketøy og andre innredningsartikler",4,47.5
+SN2025,3218,47.61,Detaljhandel med bøker,4,47.6
+SN2025,3218,47.62,Detaljhandel med aviser og papirvarer,4,47.6
+SN2025,3218,47.63,Detaljhandel med sportsutstyr,4,47.6
+SN2025,3218,47.64,Detaljhandel med spill og leker,4,47.6
+SN2025,3218,47.69,Detaljhandel med kulturvarer ikke nevnt annet sted,4,47.6
+SN2025,3218,47.71,Detaljhandel med klær,4,47.7
+SN2025,3218,47.72,Detaljhandel med skotøy og lærvarer,4,47.7
+SN2025,3218,47.73,Detaljhandel med apotekvarer,4,47.7
+SN2025,3218,47.74,Detaljhandel med medisinske og ortopediske artikler,4,47.7
+SN2025,3218,47.75,Detaljhandel med kosmetikk og toalettartikler,4,47.7
+SN2025,3218,47.76,"Detaljhandel med blomster, planter og gjødsel, kjæledyr og fôrvarer til kjæledyr",4,47.7
+SN2025,3218,47.77,"Detaljhandel med ur, klokker og smykker",4,47.7
+SN2025,3218,47.78,Annen detaljhandel med andre nye varer,4,47.7
+SN2025,3218,47.79,Detaljhandel med brukte varer,4,47.7
+SN2025,3218,47.81,Detaljhandel med motorvogner,4,47.8
+SN2025,3218,47.82,Detaljhandel med deler og utstyr til motorvogner,4,47.8
+SN2025,3218,47.83,Detaljhandel med motorsykler og tilhørende deler og utstyr,4,47.8
+SN2025,3218,47.91,Formidlingstjenester tilknyttet detaljhandel med bredt vareutvalg,4,47.9
+SN2025,3218,47.92,Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg,4,47.9
+SN2025,3218,47.110,Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler,5,47.11
+SN2025,3218,47.120,Detaljhandel med bredt vareutvalg ellers,5,47.12
+SN2025,3218,47.210,Detaljhandel med frukt og grønnsaker,5,47.21
+SN2025,3218,47.220,Detaljhandel med kjøtt og kjøttvarer,5,47.22
+SN2025,3218,47.230,"Detaljhandel med fisk, skalldyr og bløtdyr",5,47.23
+SN2025,3218,47.240,"Detaljhandel med bakervarer, konditorvarer og sukkervarer",5,47.24
+SN2025,3218,47.250,Detaljhandel med drikkevarer,5,47.25
+SN2025,3218,47.260,Detaljhandel med tobakksvarer,5,47.26
+SN2025,3218,47.270,Detaljhandel med nærings- og nytelsesmidler ellers,5,47.27
+SN2025,3218,47.300,Detaljhandel med drivstoff til motorvogner,5,47.30
+SN2025,3218,47.400,Detaljhandel med informasjons- og kommunikasjonsteknologiutstyr,5,47.40
+SN2025,3218,47.510,Detaljhandel med tekstiler og utstyrsvarer,5,47.51
+SN2025,3218,47.520,"Detaljhandel med jernvarer, byggevarer, fargevarer og glass",5,47.52
+SN2025,3218,47.530,"Detaljhandel med tapet, gulvtepper og gulvbelegg",5,47.53
+SN2025,3218,47.540,Detaljhandel med elektriske husholdningsapparater,5,47.54
+SN2025,3218,47.551,"Detaljhandel med møbler, gjelder også madrasser",5,47.55
+SN2025,3218,47.552,Detaljhandel med belysningsartikler,5,47.55
+SN2025,3218,47.553,"Detaljhandel med husholdningsredskaper og bestikk, servise, glassvarer, porselen og keramikk",5,47.55
+SN2025,3218,47.559,Detaljhandel med innredningsartikler ikke nevnt annet sted,5,47.55
+SN2025,3218,47.610,Detaljhandel med bøker,5,47.61
+SN2025,3218,47.620,Detaljhandel med aviser og papirvarer,5,47.62
+SN2025,3218,47.631,Detaljhandel med sportsvarer,5,47.63
+SN2025,3218,47.632,Detaljhandel med fritidsbåter og tilhørende utstyr,5,47.63
+SN2025,3218,47.640,Detaljhandel med spill og leker,5,47.64
+SN2025,3218,47.690,Detaljhandel med kulturvarer ikke nevnt annet sted,5,47.69
+SN2025,3218,47.710,Detaljhandel med klær,5,47.71
+SN2025,3218,47.720,Detaljhandel med skotøy og lærvarer,5,47.72
+SN2025,3218,47.730,Detaljhandel med apotekvarer,5,47.73
+SN2025,3218,47.740,Detaljhandel med medisinske og ortopediske artikler,5,47.74
+SN2025,3218,47.750,Detaljhandel med kosmetikk og toalettartikler,5,47.75
+SN2025,3218,47.761,"Detaljhandel med blomster, planter, gjødsel og plantevernmidler",5,47.76
+SN2025,3218,47.762,Detaljhandel med kjæledyr og varer til kjæledyr,5,47.76
+SN2025,3218,47.770,"Detaljhandel med ur, klokker og smykker",5,47.77
+SN2025,3218,47.780,Annen detaljhandel med andre nye varer,5,47.78
+SN2025,3218,47.790,Detaljhandel med brukte varer,5,47.79
+SN2025,3218,47.810,Detaljhandel med motorvogner,5,47.81
+SN2025,3218,47.820,Detaljhandel med deler og utstyr til motorvogner,5,47.82
+SN2025,3218,47.830,Detaljhandel med motorsykler og tilhørende deler og utstyr,5,47.83
+SN2025,3218,47.910,Formidlingstjenester tilknyttet detaljhandel med bredt vareutvalg,5,47.91
+SN2025,3218,47.920,Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg,5,47.92
+SN2025,3218,49,Landtransport og rørtransport,2,H
+SN2025,3218,49.1,Passasjertransport med jernbane og sporvei,3,49
+SN2025,3218,49.2,Godstransport med jernbane,3,49
+SN2025,3218,49.3,Annen landtransport med passasjerer,3,49
+SN2025,3218,49.4,Godstransport på vei og flyttetransport,3,49
+SN2025,3218,49.5,Rørtransport,3,49
+SN2025,3218,49.11,Passasjertransport med jernbane,4,49.1
+SN2025,3218,49.12,Passasjertransport med sporvei,4,49.1
+SN2025,3218,49.20,Godstransport med jernbane,4,49.2
+SN2025,3218,49.31,Passasjertransport med rutebil,4,49.3
+SN2025,3218,49.32,Passasjertransport utenom rutetabell,4,49.3
+SN2025,3218,49.33,Passasjertransport på forespørsel utført av fører med kjøretøy,4,49.3
+SN2025,3218,49.34,Passasjertransport med kabelbaner og skiheiser,4,49.3
+SN2025,3218,49.39,Annen landtransport med passasjerer ikke nevnt annet sted,4,49.3
+SN2025,3218,49.41,Godstransport på vei,4,49.4
+SN2025,3218,49.42,Flyttetransport,4,49.4
+SN2025,3218,49.50,Rørtransport,4,49.5
+SN2025,3218,49.110,Passasjertransport med jernbane,5,49.11
+SN2025,3218,49.120,Passasjertransport med sporvei,5,49.12
+SN2025,3218,49.200,Godstransport med jernbane,5,49.20
+SN2025,3218,49.310,Passasjertransport med rutebil,5,49.31
+SN2025,3218,49.320,Passasjertransport utenom rutetabell,5,49.32
+SN2025,3218,49.330,Passasjertransport på forespørsel utført av fører med kjøretøy,5,49.33
+SN2025,3218,49.340,Passasjertransport med kabelbaner og skiheiser,5,49.34
+SN2025,3218,49.390,Annen landtransport med passasjerer ikke nevnt annet sted,5,49.39
+SN2025,3218,49.410,Godstransport på vei,5,49.41
+SN2025,3218,49.420,Flyttetransport,5,49.42
+SN2025,3218,49.500,Rørtransport,5,49.50
+SN2025,3218,50,Sjøfart,2,H
+SN2025,3218,50.1,Sjøfart og kysttrafikk med passasjerer,3,50
+SN2025,3218,50.2,Sjøfart og kysttrafikk med gods,3,50
+SN2025,3218,50.3,Passasjertransport på elver og innsjøer,3,50
+SN2025,3218,50.4,Godstransport på elver og innsjøer,3,50
+SN2025,3218,50.10,Sjøfart og kysttrafikk med passasjerer,4,50.1
+SN2025,3218,50.20,Sjøfart og kysttrafikk med gods,4,50.2
+SN2025,3218,50.30,Passasjertransport på elver og innsjøer,4,50.3
+SN2025,3218,50.40,Godstransport på elver og innsjøer,4,50.4
+SN2025,3218,50.101,Utenriks sjøfart med passasjerer,5,50.10
+SN2025,3218,50.102,Innenriks kystruter med passasjerer,5,50.10
+SN2025,3218,50.109,Kysttrafikk med passasjerer ikke nevnt annet sted,5,50.10
+SN2025,3218,50.201,Utenriks sjøfart med gods,5,50.20
+SN2025,3218,50.202,Innenriks sjøfart med gods,5,50.20
+SN2025,3218,50.203,Forsyning for offshore,5,50.20
+SN2025,3218,50.300,Passasjertransport på elver og innsjøer,5,50.30
+SN2025,3218,50.400,Godstransport på elver og innsjøer,5,50.40
+SN2025,3218,51,Lufttransport,2,H
+SN2025,3218,51.1,Lufttransport med passasjerer,3,51
+SN2025,3218,51.2,Lufttransport med gods samt romfart,3,51
+SN2025,3218,51.10,Lufttransport med passasjerer,4,51.1
+SN2025,3218,51.21,Lufttransport med gods,4,51.2
+SN2025,3218,51.22,Romfart,4,51.2
+SN2025,3218,51.100,Lufttransport med passasjerer,5,51.10
+SN2025,3218,51.210,Lufttransport med gods,5,51.21
+SN2025,3218,51.220,Romfart,5,51.22
+SN2025,3218,52,Lagring og andre tjenester tilknyttet transport,2,H
+SN2025,3218,52.1,Lagring,3,52
+SN2025,3218,52.2,Andre tjenester tilknyttet transport,3,52
+SN2025,3218,52.3,Formidlingstjenester tilknyttet transport,3,52
+SN2025,3218,52.10,Lagring,4,52.1
+SN2025,3218,52.21,Andre tjenester tilknyttet landtransport,4,52.2
+SN2025,3218,52.22,Andre tjenester tilknyttet sjøtransport,4,52.2
+SN2025,3218,52.23,Andre tjenester tilknyttet lufttransport,4,52.2
+SN2025,3218,52.24,Lasting og lossing,4,52.2
+SN2025,3218,52.25,Logistikktjenester,4,52.2
+SN2025,3218,52.26,Andre støttetjenester for transport,4,52.2
+SN2025,3218,52.31,Formidlingstjenester tilknyttet godstransport,4,52.3
+SN2025,3218,52.32,Formidlingstjenester tilknyttet passasjertransport,4,52.3
+SN2025,3218,52.100,Lagring,5,52.10
+SN2025,3218,52.211,Drift av gods- og transportsentraler,5,52.21
+SN2025,3218,52.212,Drift av parkeringsplasser og parkeringshus,5,52.21
+SN2025,3218,52.219,Tjenester tilknyttet landtransport ikke nevnt annet sted,5,52.21
+SN2025,3218,52.220,Andre tjenester tilknyttet sjøtransport,5,52.22
+SN2025,3218,52.230,Andre tjenester tilknyttet lufttransport,5,52.23
+SN2025,3218,52.240,Lasting og lossing,5,52.24
+SN2025,3218,52.250,Logistikktjenester,5,52.25
+SN2025,3218,52.260,Andre støttetjenester for transport,5,52.26
+SN2025,3218,52.311,Formidlingstjenester tilknyttet godstransport via skip,5,52.31
+SN2025,3218,52.312,"Formidlingstjenester tilknyttet godstransport via jernbane, luftfartøy eller på vei",5,52.31
+SN2025,3218,52.320,Formidlingstjenester tilknyttet passasjertransport,5,52.32
+SN2025,3218,53,Post- og budtjenester,2,H
+SN2025,3218,53.1,Landsdekkende posttjenester,3,53
+SN2025,3218,53.2,Andre post- og budtjenester,3,53
+SN2025,3218,53.3,Formidlingstjenester tilknyttet post- og budtjenester,3,53
+SN2025,3218,53.10,Landsdekkende posttjenester,4,53.1
+SN2025,3218,53.20,Andre post- og budtjenester,4,53.2
+SN2025,3218,53.30,Formidlingstjenester tilknyttet post- og budtjenester,4,53.3
+SN2025,3218,53.100,Landsdekkende posttjenester,5,53.10
+SN2025,3218,53.200,Andre post- og budtjenester,5,53.20
+SN2025,3218,53.300,Formidlingstjenester tilknyttet post- og budtjenester,5,53.30
+SN2025,3218,55,Overnattingsvirksomhet,2,I
+SN2025,3218,55.1,Drift av hoteller,3,55
+SN2025,3218,55.2,Drift av vandrerhjem og ferieleiligheter,3,55
+SN2025,3218,55.3,Drift av campingplasser,3,55
+SN2025,3218,55.4,Formidlingstjenester tilknyttet overnattingsvirksomhet,3,55
+SN2025,3218,55.9,Annen overnattingsvirksomhet,3,55
+SN2025,3218,55.10,Drift av hoteller,4,55.1
+SN2025,3218,55.20,Drift av vandrerhjem og ferieleiligheter,4,55.2
+SN2025,3218,55.30,Drift av campingplasser,4,55.3
+SN2025,3218,55.40,Formidlingstjenester tilknyttet overnattingsvirksomhet,4,55.4
+SN2025,3218,55.90,Annen overnattingsvirksomhet,4,55.9
+SN2025,3218,55.100,Drift av hoteller,5,55.10
+SN2025,3218,55.200,Drift av vandrerhjem og ferieleiligheter,5,55.20
+SN2025,3218,55.300,Drift av campingplasser,5,55.30
+SN2025,3218,55.400,Formidlingstjenester tilknyttet overnattingsvirksomhet,5,55.40
+SN2025,3218,55.900,Annen overnattingsvirksomhet,5,55.90
+SN2025,3218,56,Serveringsvirksomhet,2,I
+SN2025,3218,56.1,Drift av restauranter og mobile serveringssteder,3,56
+SN2025,3218,56.2,"Catering for arrangementer, kantinedrift og annen cateringvirksomhet",3,56
+SN2025,3218,56.3,Drift av barer,3,56
+SN2025,3218,56.4,Formidlingstjenester tilknyttet serveringsvirksomhet,3,56
+SN2025,3218,56.11,Drift av restauranter,4,56.1
+SN2025,3218,56.12,Drift av mobile serveringssteder,4,56.1
+SN2025,3218,56.21,Catering for arrangementer,4,56.2
+SN2025,3218,56.22,Kantinedrift og annen cateringvirksomhet,4,56.2
+SN2025,3218,56.30,Drift av barer,4,56.3
+SN2025,3218,56.40,Formidlingstjenester tilknyttet serveringsvirksomhet,4,56.4
+SN2025,3218,56.110,Drift av restauranter,5,56.11
+SN2025,3218,56.120,Drift av mobile serveringssteder,5,56.12
+SN2025,3218,56.210,Catering for arrangementer,5,56.21
+SN2025,3218,56.220,Kantinedrift og annen cateringvirksomhet,5,56.22
+SN2025,3218,56.300,Drift av barer,5,56.30
+SN2025,3218,56.400,Formidlingstjenester tilknyttet serveringsvirksomhet,5,56.40
+SN2025,3218,58,Utgivelsesvirksomhet,2,J
+SN2025,3218,58.1,"Utgivelse av bøker, aviser og annen utgivelsesvirksomhet, unntatt utgivelse av programvare",3,58
+SN2025,3218,58.2,Utgivelse av programvare,3,58
+SN2025,3218,58.11,Utgivelse av bøker,4,58.1
+SN2025,3218,58.12,Utgivelse av aviser,4,58.1
+SN2025,3218,58.13,Utgivelse av blader og tidsskrifter,4,58.1
+SN2025,3218,58.19,"Utgivelsesvirksomhet ellers, unntatt utgivelse av programvare",4,58.1
+SN2025,3218,58.21,Utgivelse av programvare for dataspill,4,58.2
+SN2025,3218,58.29,Utgivelse av annen programvare,4,58.2
+SN2025,3218,58.110,Utgivelse av bøker,5,58.11
+SN2025,3218,58.120,Utgivelse av aviser,5,58.12
+SN2025,3218,58.130,Utgivelse av blader og tidsskrifter,5,58.13
+SN2025,3218,58.190,"Utgivelsesvirksomhet ellers, unntatt utgivelse av programvare",5,58.19
+SN2025,3218,58.210,Utgivelse av programvare for dataspill,5,58.21
+SN2025,3218,58.290,Utgivelse av annen programvare,5,58.29
+SN2025,3218,59,"Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak",2,J
+SN2025,3218,59.1,"Virksomhet innenfor film, video og fjernsynsprogrammer",3,59
+SN2025,3218,59.2,Produksjon og utgivelse av musikk- og lydopptak,3,59
+SN2025,3218,59.11,"Produksjon av film, video og fjernsynsprogrammer",4,59.1
+SN2025,3218,59.12,"Etterarbeid knyttet til produksjon av film, video og fjernsynsprogrammer",4,59.1
+SN2025,3218,59.13,Distribusjon av film og video,4,59.1
+SN2025,3218,59.14,Filmfremvisning,4,59.1
+SN2025,3218,59.20,Produksjon og utgivelse av musikk- og lydopptak,4,59.2
+SN2025,3218,59.110,"Produksjon av film, video og fjernsynsprogrammer",5,59.11
+SN2025,3218,59.120,"Etterarbeid knyttet til produksjon av film, video og fjernsynsprogrammer",5,59.12
+SN2025,3218,59.130,Distribusjon av film og video,5,59.13
+SN2025,3218,59.140,Filmfremvisning,5,59.14
+SN2025,3218,59.200,Produksjon og utgivelse av musikk- og lydopptak,5,59.20
+SN2025,3218,60,"Radio- og fjernsynsprogramvirksomhet, kringkasting, nyhetsbyråvirksomhet og distribuering av annet innhold",2,J
+SN2025,3218,60.1,Radiokringkasting og distribuering av musikk og andre lydmedier,3,60
+SN2025,3218,60.2,"Fjernsynsprogramvirksomhet, kringkasting og distribuering av audiovisuelle medier",3,60
+SN2025,3218,60.3,Nyhetsbyråvirksomhet og annen virksomhet for distribuering av innhold,3,60
+SN2025,3218,60.10,Radiokringkasting og distribuering av musikk og andre lydmedier,4,60.1
+SN2025,3218,60.20,"Fjernsynsprogramvirksomhet, kringkasting og distribuering av audiovisuelle medier",4,60.2
+SN2025,3218,60.31,Nyhetsbyråvirksomhet,4,60.3
+SN2025,3218,60.39,Annen virksomhet for distribuering av innhold,4,60.3
+SN2025,3218,60.100,Radiokringkasting og distribuering av musikk og andre lydmedier,5,60.10
+SN2025,3218,60.200,"Fjernsynsprogramvirksomhet, kringkasting og distribuering av audiovisuelle medier",5,60.20
+SN2025,3218,60.310,Nyhetsbyråvirksomhet,5,60.31
+SN2025,3218,60.390,Annen virksomhet for distribuering av innhold,5,60.39
+SN2025,3218,61,Telekommunikasjon,2,K
+SN2025,3218,61.1,"Kabelbasert, satellittbasert og trådløs telekommunikasjon",3,61
+SN2025,3218,61.2,Videresalg av telekommunikasjon og formidlingstjenester tilknyttet telekommunikasjon,3,61
+SN2025,3218,61.9,Telekommunikasjon ellers,3,61
+SN2025,3218,61.10,"Kabelbasert, satellittbasert og trådløs telekommunikasjon",4,61.1
+SN2025,3218,61.20,Videresalg av telekommunikasjon og formidlingstjenester tilknyttet telekommunikasjon,4,61.2
+SN2025,3218,61.90,Telekommunikasjon ellers,4,61.9
+SN2025,3218,61.100,"Kabelbasert, satellittbasert og trådløs telekommunikasjon",5,61.10
+SN2025,3218,61.200,Videresalg av telekommunikasjon og formidlingstjenester tilknyttet telekommunikasjon,5,61.20
+SN2025,3218,61.900,Telekommunikasjon ellers,5,61.90
+SN2025,3218,62,"Dataprogrammering, konsulentvirksomhet og andre tjenester tilknyttet informasjonsteknologi",2,K
+SN2025,3218,62.1,Dataprogrammeringstjenester,3,62
+SN2025,3218,62.2,Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av IT-systemer,3,62
+SN2025,3218,62.9,Andre tjenester tilknyttet informasjonsteknologi,3,62
+SN2025,3218,62.10,Dataprogrammeringstjenester,4,62.1
+SN2025,3218,62.20,Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av IT-systemer,4,62.2
+SN2025,3218,62.90,Andre tjenester tilknyttet informasjonsteknologi,4,62.9
+SN2025,3218,62.100,Dataprogrammeringstjenester,5,62.10
+SN2025,3218,62.200,Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av IT-systemer,5,62.20
+SN2025,3218,62.900,Andre tjenester tilknyttet informasjonsteknologi,5,62.90
+SN2025,3218,63,"Datainfrastruktur, -behandling, -lagring og andre informasjonstjenester",2,K
+SN2025,3218,63.1,"Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",3,63
+SN2025,3218,63.9,Drift av søkemotorer og andre informasjonstjenester,3,63
+SN2025,3218,63.10,"Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",4,63.1
+SN2025,3218,63.91,Drift av søkemotorer,4,63.9
+SN2025,3218,63.92,Andre informasjonstjenester,4,63.9
+SN2025,3218,63.100,"Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",5,63.10
+SN2025,3218,63.910,Drift av søkemotorer,5,63.91
+SN2025,3218,63.920,Andre informasjonstjenester,5,63.92
+SN2025,3218,64,Finansieringsvirksomhet og kollektive investeringsfond,2,L
+SN2025,3218,64.1,Bankvirksomhet,3,64
+SN2025,3218,64.2,Finansielle holdingselskaper,3,64
+SN2025,3218,64.3,Kollektive investeringsfond og lignende,3,64
+SN2025,3218,64.9,Annen finansieringsvirksomhet,3,64
+SN2025,3218,64.11,Sentralbank,4,64.1
+SN2025,3218,64.19,Banker og kredittforetak,4,64.1
+SN2025,3218,64.21,Holdingforetak i finanskonsern,4,64.2
+SN2025,3218,64.22,Spesielle holdingselskaper,4,64.2
+SN2025,3218,64.31,Kollektive investeringsfond,4,64.3
+SN2025,3218,64.32,Finansstiftelser og egeninvesteringsselskaper,4,64.3
+SN2025,3218,64.91,Finansiell leasing,4,64.9
+SN2025,3218,64.92,Annen kredittgivning,4,64.9
+SN2025,3218,64.99,Annen finansieringsvirksomhet ikke nevnt annet sted,4,64.9
+SN2025,3218,64.110,Sentralbank,5,64.11
+SN2025,3218,64.190,Banker og kredittforetak,5,64.19
+SN2025,3218,64.210,Holdingforetak i finanskonsern,5,64.21
+SN2025,3218,64.220,Spesielle holdingselskaper,5,64.22
+SN2025,3218,64.311,Verdipapirfond,5,64.31
+SN2025,3218,64.312,Alternative investeringsfond (AIF) som ikke er verdipapirfond,5,64.31
+SN2025,3218,64.321,Finansstiftelser,5,64.32
+SN2025,3218,64.322,Egeninvesteringsselskaper i finansielle konsern og for offentlig forvaltning,5,64.32
+SN2025,3218,64.323,Andre egeninvesteringsselskaper,5,64.32
+SN2025,3218,64.910,Finansiell leasing,5,64.91
+SN2025,3218,64.920,Annen kredittgivning,5,64.92
+SN2025,3218,64.990,Annen finansieringsvirksomhet ikke nevnt annet sted,5,64.99
+SN2025,3218,65,"Forsikringsvirksomhet, unntatt trygdeordninger underlagt offentlig forvaltning",2,L
+SN2025,3218,65.1,Forsikring,3,65
+SN2025,3218,65.2,Gjenforsikring,3,65
+SN2025,3218,65.3,Pensjonskasser,3,65
+SN2025,3218,65.11,Livsforsikring,4,65.1
+SN2025,3218,65.12,Skadeforsikring,4,65.1
+SN2025,3218,65.20,Gjenforsikring,4,65.2
+SN2025,3218,65.30,Pensjonskasser,4,65.3
+SN2025,3218,65.110,Livsforsikring,5,65.11
+SN2025,3218,65.120,Skadeforsikring,5,65.12
+SN2025,3218,65.200,Gjenforsikring,5,65.20
+SN2025,3218,65.300,Pensjonskasser,5,65.30
+SN2025,3218,66,Tjenester tilknyttet finansiell virksomhet,2,L
+SN2025,3218,66.1,Tjenester tilknyttet finansieringsvirksomhet og kollektive investeringsfond,3,66
+SN2025,3218,66.2,Tjenester tilknyttet forsikringsvirksomhet,3,66
+SN2025,3218,66.3,Fondsforvaltningsvirksomhet,3,66
+SN2025,3218,66.11,Administrasjon av finansmarkeder,4,66.1
+SN2025,3218,66.12,Verdipapirmegling,4,66.1
+SN2025,3218,66.19,Andre tjenester tilknyttet finansieringsvirksomhet og kollektive investeringsfond,4,66.1
+SN2025,3218,66.21,Risiko- og skadevurdering,4,66.2
+SN2025,3218,66.22,Forsikringsformidling,4,66.2
+SN2025,3218,66.29,Tjenester tilknyttet forsikringsvirksomhet ikke nevnt annet sted,4,66.2
+SN2025,3218,66.30,Fondsforvaltningsvirksomhet,4,66.3
+SN2025,3218,66.110,Administrasjon av finansmarkeder,5,66.11
+SN2025,3218,66.120,Verdipapirmegling,5,66.12
+SN2025,3218,66.190,Andre tjenester tilknyttet finansieringsvirksomhet og kollektive investeringsfond,5,66.19
+SN2025,3218,66.210,Risiko- og skadevurdering,5,66.21
+SN2025,3218,66.220,Forsikringsformidling,5,66.22
+SN2025,3218,66.290,Tjenester tilknyttet forsikringsvirksomhet ikke nevnt annet sted,5,66.29
+SN2025,3218,66.300,Fondsforvaltningsvirksomhet,5,66.30
+SN2025,3218,68,Eiendomsvirksomhet,2,M
+SN2025,3218,68.1,Eiendomsvirksomhet tilknyttet egen fast eiendom og utvikling av byggeprosjekter,3,68
+SN2025,3218,68.2,Utleie av egen eller leid fast eiendom,3,68
+SN2025,3218,68.3,Eiendomsvirksomhet og drift av fast eiendom på oppdrag,3,68
+SN2025,3218,68.11,Kjøp og salg av egen fast eiendom,4,68.1
+SN2025,3218,68.12,Utvikling og salg av byggeprosjekter,4,68.1
+SN2025,3218,68.20,Utleie av egen eller leid fast eiendom,4,68.2
+SN2025,3218,68.31,Eiendomsmegling og andre formidlingstjenester for eiendom,4,68.3
+SN2025,3218,68.32,Eiendomsforvaltning på oppdrag,4,68.3
+SN2025,3218,68.110,Kjøp og salg av egen fast eiendom,5,68.11
+SN2025,3218,68.120,Utvikling og salg av byggeprosjekter,5,68.12
+SN2025,3218,68.200,Utleie av egen eller leid fast eiendom,5,68.20
+SN2025,3218,68.310,Eiendomsmegling og andre formidlingstjenester for eiendom,5,68.31
+SN2025,3218,68.320,Eiendomsforvaltning på oppdrag,5,68.32
+SN2025,3218,69,Juridisk og regnskapsmessig tjenesteyting,2,N
+SN2025,3218,69.1,Juridisk tjenesteyting,3,69
+SN2025,3218,69.2,"Regnskapsføring, bokføring, revisjon og skatterådgivning",3,69
+SN2025,3218,69.10,Juridisk tjenesteyting,4,69.1
+SN2025,3218,69.20,"Regnskapsføring, bokføring, revisjon og skatterådgivning",4,69.2
+SN2025,3218,69.100,Juridisk tjenesteyting,5,69.10
+SN2025,3218,69.201,Revisjon,5,69.20
+SN2025,3218,69.202,Regnskapsføring og bokføring,5,69.20
+SN2025,3218,69.203,Skatterådgivning,5,69.20
+SN2025,3218,70,Hovedkontortjenester og administrativ rådgivning,2,N
+SN2025,3218,70.1,Hovedkontortjenester,3,70
+SN2025,3218,70.2,Bedriftsrådgivning og annen administrativ rådgivning,3,70
+SN2025,3218,70.10,Hovedkontortjenester,4,70.1
+SN2025,3218,70.20,Bedriftsrådgivning og annen administrativ rådgivning,4,70.2
+SN2025,3218,70.100,Hovedkontortjenester,5,70.10
+SN2025,3218,70.200,Bedriftsrådgivning og annen administrativ rådgivning,5,70.20
+SN2025,3218,71,"Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse",2,N
+SN2025,3218,71.1,Arkitektvirksomhet og teknisk konsulentvirksomhet,3,71
+SN2025,3218,71.2,Teknisk prøving og analyse,3,71
+SN2025,3218,71.11,Arkitektvirksomhet,4,71.1
+SN2025,3218,71.12,Teknisk konsulentvirksomhet,4,71.1
+SN2025,3218,71.20,Teknisk prøving og analyse,4,71.2
+SN2025,3218,71.110,Arkitektvirksomhet,5,71.11
+SN2025,3218,71.121,Byggeteknisk konsulentvirksomhet,5,71.12
+SN2025,3218,71.122,Geologiske undersøkelser,5,71.12
+SN2025,3218,71.123,Utarbeidelse av kart og oppmåling,5,71.12
+SN2025,3218,71.129,Annen teknisk konsulentvirksomhet,5,71.12
+SN2025,3218,71.200,Teknisk prøving og analyse,5,71.20
+SN2025,3218,72,Forskning og eksperimentell utvikling,2,N
+SN2025,3218,72.1,Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk,3,72
+SN2025,3218,72.2,Forskning og eksperimentell utvikling innenfor samfunnsvitenskap og humanistiske fag,3,72
+SN2025,3218,72.10,Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk,4,72.1
+SN2025,3218,72.20,Forskning og eksperimentell utvikling innenfor samfunnsvitenskap og humanistiske fag,4,72.2
+SN2025,3218,72.100,Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk,5,72.10
+SN2025,3218,72.200,Forskning og eksperimentell utvikling innenfor samfunnsvitenskap og humanistiske fag,5,72.20
+SN2025,3218,73,"Annonse- og reklamevirksomhet, markedsundersøkelser og PR og kommunikasjonstjenester",2,N
+SN2025,3218,73.1,Annonse- og reklamevirksomhet,3,73
+SN2025,3218,73.2,Markeds- og opinionsundersøkelser,3,73
+SN2025,3218,73.3,PR og kommunikasjonstjenester,3,73
+SN2025,3218,73.11,Reklamebyråvirksomhet,4,73.1
+SN2025,3218,73.12,Medieformidlingstjenester,4,73.1
+SN2025,3218,73.20,Markeds- og opinionsundersøkelser,4,73.2
+SN2025,3218,73.30,PR og kommunikasjonstjenester,4,73.3
+SN2025,3218,73.110,Reklamebyråvirksomhet,5,73.11
+SN2025,3218,73.120,Medieformidlingstjenester,5,73.12
+SN2025,3218,73.200,Markeds- og opinionsundersøkelser,5,73.20
+SN2025,3218,73.300,PR og kommunikasjonstjenester,5,73.30
+SN2025,3218,74,"Annen faglig, vitenskapelig og teknisk virksomhet",2,N
+SN2025,3218,74.1,Spesialisert designvirksomhet,3,74
+SN2025,3218,74.2,Fotografvirksomhet,3,74
+SN2025,3218,74.3,Oversettelses- og tolkevirksomhet,3,74
+SN2025,3218,74.9,"Annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",3,74
+SN2025,3218,74.11,"Industri-, produkt- og motedesignvirksomhet",4,74.1
+SN2025,3218,74.12,Grafisk design og visuell kommunikasjonsdesign,4,74.1
+SN2025,3218,74.13,Interiørdesignvirksomhet,4,74.1
+SN2025,3218,74.14,Annen spesialisert designvirksomhet,4,74.1
+SN2025,3218,74.20,Fotografvirksomhet,4,74.2
+SN2025,3218,74.30,Oversettelses- og tolkevirksomhet,4,74.3
+SN2025,3218,74.91,Patentmeglervirksomhet og markedsføringstjenester,4,74.9
+SN2025,3218,74.99,"All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",4,74.9
+SN2025,3218,74.110,"Industri-, produkt- og motedesignvirksomhet",5,74.11
+SN2025,3218,74.120,Grafisk design og visuell kommunikasjonsdesign,5,74.12
+SN2025,3218,74.130,Interiørdesignvirksomhet,5,74.13
+SN2025,3218,74.140,Annen spesialisert designvirksomhet,5,74.14
+SN2025,3218,74.200,Fotografvirksomhet,5,74.20
+SN2025,3218,74.300,Oversettelses- og tolkevirksomhet,5,74.30
+SN2025,3218,74.910,Patentmeglervirksomhet og markedsføringstjenester,5,74.91
+SN2025,3218,74.990,"All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",5,74.99
+SN2025,3218,75,Veterinærtjenester,2,N
+SN2025,3218,75.0,Veterinærtjenester,3,75
+SN2025,3218,75.00,Veterinærtjenester,4,75.0
+SN2025,3218,75.000,Veterinærtjenester,5,75.00
+SN2025,3218,77,Utleie- og leasingvirksomhet,2,O
+SN2025,3218,77.1,Utleie og leasing av motorvogner,3,77
+SN2025,3218,77.2,Utleie og leasing av husholdningsvarer og varer til personlig bruk,3,77
+SN2025,3218,77.3,"Utleie og leasing av andre maskiner, og annet utstyr og materiell",3,77
+SN2025,3218,77.4,"Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker",3,77
+SN2025,3218,77.5,"Formidlingstjenester tilknyttet utleie og leasing av materielle varer, immateriell eiendom og lignende produkter",3,77
+SN2025,3218,77.11,Utleie og leasing av biler og andre lette motorvogner,4,77.1
+SN2025,3218,77.12,Utleie og leasing av lastebiler,4,77.1
+SN2025,3218,77.21,Utleie og leasing av sports- og fritidsutstyr,4,77.2
+SN2025,3218,77.22,Utleie og leasing av andre husholdningsvarer og varer til personlig bruk,4,77.2
+SN2025,3218,77.31,Utleie og leasing av landbruksmaskiner og -utstyr,4,77.3
+SN2025,3218,77.32,Utleie og leasing av bygge- og anleggsmaskiner og -utstyr,4,77.3
+SN2025,3218,77.33,Utleie og leasing av kontor- og datamaskiner,4,77.3
+SN2025,3218,77.34,Utleie og leasing av sjøtransportmateriell,4,77.3
+SN2025,3218,77.35,Utleie og leasing av lufttransportmateriell,4,77.3
+SN2025,3218,77.39,Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted,4,77.3
+SN2025,3218,77.40,"Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker",4,77.4
+SN2025,3218,77.51,"Formidlingstjenester tilknyttet utleie og leasing av biler, campingbiler og tilhengere",4,77.5
+SN2025,3218,77.52,Formidlingstjenester tilknyttet utleie og leasing av andre materielle varer og immateriell eiendom og lignende produkter,4,77.5
+SN2025,3218,77.110,Utleie og leasing av biler og andre lette motorvogner,5,77.11
+SN2025,3218,77.120,Utleie og leasing av lastebiler,5,77.12
+SN2025,3218,77.210,Utleie og leasing av sports- og fritidsutstyr,5,77.21
+SN2025,3218,77.220,Utleie og leasing av andre husholdningsvarer og varer til personlig bruk,5,77.22
+SN2025,3218,77.310,Utleie og leasing av landbruksmaskiner og -utstyr,5,77.31
+SN2025,3218,77.320,Utleie og leasing av bygge- og anleggsmaskiner og -utstyr,5,77.32
+SN2025,3218,77.330,Utleie og leasing av kontor- og datamaskiner,5,77.33
+SN2025,3218,77.340,Utleie og leasing av sjøtransportmateriell,5,77.34
+SN2025,3218,77.350,Utleie og leasing av lufttransportmateriell,5,77.35
+SN2025,3218,77.390,Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted,5,77.39
+SN2025,3218,77.400,"Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker",5,77.40
+SN2025,3218,77.510,"Formidlingstjenester tilknyttet utleie og leasing av biler, campingbiler og tilhengere",5,77.51
+SN2025,3218,77.520,Formidlingstjenester tilknyttet utleie og leasing av andre materielle varer og immateriell eiendom og lignende produkter,5,77.52
+SN2025,3218,78,Arbeidskrafttjenester,2,O
+SN2025,3218,78.1,Rekruttering og formidling av arbeidskraft,3,78
+SN2025,3218,78.2,Utleie av arbeidskraft og andre personaladministrative tjenester,3,78
+SN2025,3218,78.10,Rekruttering og formidling av arbeidskraft,4,78.1
+SN2025,3218,78.20,Utleie av arbeidskraft og andre personaladministrative tjenester,4,78.2
+SN2025,3218,78.100,Rekruttering og formidling av arbeidskraft,5,78.10
+SN2025,3218,78.200,Utleie av arbeidskraft og andre personaladministrative tjenester,5,78.20
+SN2025,3218,79,Reisebyrå- og reisearrangørvirksomhet og tilknyttede tjenester,2,O
+SN2025,3218,79.1,Reisebyrå- og reisearrangørvirksomhet,3,79
+SN2025,3218,79.9,Annen arrangørvirksomhet og tilknyttede tjenester,3,79
+SN2025,3218,79.11,Reisebyråvirksomhet,4,79.1
+SN2025,3218,79.12,Reisearrangørvirksomhet,4,79.1
+SN2025,3218,79.90,Annen arrangørvirksomhet og tilknyttede tjenester,4,79.9
+SN2025,3218,79.110,Reisebyråvirksomhet,5,79.11
+SN2025,3218,79.121,Aktiviteter utført av utflukts- og eventarrangører,5,79.12
+SN2025,3218,79.122,Reisearrangørvirksomhet ellers,5,79.12
+SN2025,3218,79.901,Aktiviteter utført av turistkontorer og destinasjonsselskaper,5,79.90
+SN2025,3218,79.902,Guide- og reiseledervirksomhet,5,79.90
+SN2025,3218,80,Etterforsknings- og vakttjenester,2,O
+SN2025,3218,80.0,Etterforsknings- og vakttjenester,3,80
+SN2025,3218,80.01,Etterforskningstjenester og private vakttjenester,4,80.0
+SN2025,3218,80.09,Vakttjenester ikke nevnt annet sted,4,80.0
+SN2025,3218,80.010,Etterforskningstjenester og private vakttjenester,5,80.01
+SN2025,3218,80.090,Vakttjenester ikke nevnt annet sted,5,80.09
+SN2025,3218,81,Tjenester tilknyttet eiendomsdrift og beplanting av hager og parkanlegg,2,O
+SN2025,3218,81.1,Kombinerte tjenester tilknyttet eiendomsdrift,3,81
+SN2025,3218,81.2,Rengjøringsvirksomhet,3,81
+SN2025,3218,81.3,Beplantning av hager og parkanlegg,3,81
+SN2025,3218,81.10,Kombinerte tjenester tilknyttet eiendomsdrift,4,81.1
+SN2025,3218,81.21,Rengjøring av bygninger,4,81.2
+SN2025,3218,81.22,Utvendig rengjøring av bygninger og industriell rengjøring,4,81.2
+SN2025,3218,81.23,Annen rengjøringsvirksomhet og snømåking,4,81.2
+SN2025,3218,81.30,Beplantning av hager og parkanlegg,4,81.3
+SN2025,3218,81.100,Kombinerte tjenester tilknyttet eiendomsdrift,5,81.10
+SN2025,3218,81.210,Rengjøring av bygninger,5,81.21
+SN2025,3218,81.220,Utvendig rengjøring av bygninger og industriell rengjøring,5,81.22
+SN2025,3218,81.230,Annen rengjøringsvirksomhet og snømåking,5,81.23
+SN2025,3218,81.300,Beplantning av hager og parkanlegg,5,81.30
+SN2025,3218,82,Annen forretningsmessig tjenesteyting,2,O
+SN2025,3218,82.1,Kontortjenester,3,82
+SN2025,3218,82.2,Callsentervirksomhet,3,82
+SN2025,3218,82.3,"Kongress-, messe- og utstillingsvirksomhet",3,82
+SN2025,3218,82.4,Formidlingstjenester tilknyttet forretningsmessig tjenesteyting ikke nevnt annet sted,3,82
+SN2025,3218,82.9,Forretningsmessig tjenesteyting ikke nevnt annet sted,3,82
+SN2025,3218,82.10,Kontortjenester,4,82.1
+SN2025,3218,82.20,Callsentervirksomhet,4,82.2
+SN2025,3218,82.30,"Kongress-, messe- og utstillingsvirksomhet",4,82.3
+SN2025,3218,82.40,Formidlingstjenester tilknyttet forretningsmessig tjenesteyting ikke nevnt annet sted,4,82.4
+SN2025,3218,82.91,Inkasso- og kredittopplysningsvirksomhet,4,82.9
+SN2025,3218,82.92,Pakkevirksomhet,4,82.9
+SN2025,3218,82.99,Annen forretningsmessig tjenesteyting ikke nevnt annet sted,4,82.9
+SN2025,3218,82.100,Kontortjenester,5,82.10
+SN2025,3218,82.200,Callsentervirksomhet,5,82.20
+SN2025,3218,82.300,"Kongress-, messe- og utstillingsvirksomhet",5,82.30
+SN2025,3218,82.400,Formidlingstjenester tilknyttet forretningsmessig tjenesteyting ikke nevnt annet sted,5,82.40
+SN2025,3218,82.910,Inkasso- og kredittopplysningsvirksomhet,5,82.91
+SN2025,3218,82.920,Pakkevirksomhet,5,82.92
+SN2025,3218,82.990,Annen forretningsmessig tjenesteyting ikke nevnt annet sted,5,82.99
+SN2025,3218,84,"Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning",2,P
+SN2025,3218,84.1,Offentlig administrasjon og forvaltning,3,84
+SN2025,3218,84.2,Offentlig administrasjon tilknyttet utenriks- og sikkerhetssaker,3,84
+SN2025,3218,84.3,Administrasjon av trygdeordninger underlagt offentlig forvaltning,3,84
+SN2025,3218,84.11,Generell offentlig administrasjon,4,84.1
+SN2025,3218,84.12,"Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",4,84.1
+SN2025,3218,84.13,Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked,4,84.1
+SN2025,3218,84.21,Utenrikssaker,4,84.2
+SN2025,3218,84.22,Forsvarsaktiviteter,4,84.2
+SN2025,3218,84.23,Aktiviteter i rettsvesen og kriminalomsorg,4,84.2
+SN2025,3218,84.24,Aktiviteter utført av politi- og påtalemyndighet,4,84.2
+SN2025,3218,84.25,Brannvernaktiviteter,4,84.2
+SN2025,3218,84.30,Administrasjon av trygdeordninger underlagt offentlig forvaltning,4,84.3
+SN2025,3218,84.110,Generell offentlig administrasjon,5,84.11
+SN2025,3218,84.120,"Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",5,84.12
+SN2025,3218,84.130,Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked,5,84.13
+SN2025,3218,84.210,Utenrikssaker,5,84.21
+SN2025,3218,84.220,Forsvarsaktiviteter,5,84.22
+SN2025,3218,84.230,Aktiviteter i rettsvesen og kriminalomsorg,5,84.23
+SN2025,3218,84.240,Aktiviteter utført av politi- og påtalemyndighet,5,84.24
+SN2025,3218,84.250,Brannvernaktiviteter,5,84.25
+SN2025,3218,84.300,Administrasjon av trygdeordninger underlagt offentlig forvaltning,5,84.30
+SN2025,3218,85,Undervisning,2,Q
+SN2025,3218,85.1,Førskoleundervisning og drift av barnehager,3,85
+SN2025,3218,85.2,Grunnskoleundervisning,3,85
+SN2025,3218,85.3,Videregående opplæring,3,85
+SN2025,3218,85.4,Undervisning innenfor høyere utdanning,3,85
+SN2025,3218,85.5,Annen undervisning,3,85
+SN2025,3218,85.6,Tjenester tilknyttet undervisning,3,85
+SN2025,3218,85.10,Førskoleundervisning og drift av barnehager,4,85.1
+SN2025,3218,85.20,Grunnskoleundervisning,4,85.2
+SN2025,3218,85.31,Videregående opplæring innenfor studieforberedende utdanningsprogram,4,85.3
+SN2025,3218,85.32,Videregående opplæring innenfor yrkesfaglige utdanningsprogram,4,85.3
+SN2025,3218,85.33,Undervisning innenfor kort høyere yrkesfaglig utdanning,4,85.3
+SN2025,3218,85.40,Undervisning innenfor høyere utdanning,4,85.4
+SN2025,3218,85.51,Undervisning innenfor idrett og rekreasjon,4,85.5
+SN2025,3218,85.52,Undervisning innenfor kultur,4,85.5
+SN2025,3218,85.53,Trafikkskoleundervisning,4,85.5
+SN2025,3218,85.59,Annen undervisning ikke nevnt annet sted,4,85.5
+SN2025,3218,85.61,Formidlingstjenester tilknyttet kurs og veiledere,4,85.6
+SN2025,3218,85.69,Tjenester tilknyttet undervisning ikke nevnt annet sted,4,85.6
+SN2025,3218,85.100,Førskoleundervisning og drift av barnehager,5,85.10
+SN2025,3218,85.201,Ordinær grunnskoleundervisning,5,85.20
+SN2025,3218,85.202,Spesialskoleundervisning på grunnskolenivå,5,85.20
+SN2025,3218,85.310,Videregående opplæring innenfor studieforberedende utdanningsprogram,5,85.31
+SN2025,3218,85.320,Videregående opplæring innenfor yrkesfaglige utdanningsprogram,5,85.32
+SN2025,3218,85.330,Undervisning innenfor kort høyere yrkesfaglig utdanning,5,85.33
+SN2025,3218,85.401,Undervisning ved universiteter,5,85.40
+SN2025,3218,85.402,Undervisning ved vitenskapelige høgskoler,5,85.40
+SN2025,3218,85.403,Undervisning ved andre høgskoler,5,85.40
+SN2025,3218,85.404,Undervisning innenfor lang høyere yrkesfaglig utdanning,5,85.40
+SN2025,3218,85.510,Undervisning innenfor idrett og rekreasjon,5,85.51
+SN2025,3218,85.521,Kulturskoleundervisning til barn og unge,5,85.52
+SN2025,3218,85.529,Annen undervisning innenfor kultur,5,85.52
+SN2025,3218,85.531,Undervisning ved godkjente trafikkskoler,5,85.53
+SN2025,3218,85.532,Annen trafikkskoleundervisning,5,85.53
+SN2025,3218,85.591,Undervisning ved folkehøgskoler,5,85.59
+SN2025,3218,85.592,Undervisning i form av arbeidsmarkedskurs/arbeidsrettede kurs,5,85.59
+SN2025,3218,85.593,"Undervisning ved voksenopplæringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",5,85.59
+SN2025,3218,85.594,Privatundervisning,5,85.59
+SN2025,3218,85.595,Undervisning innenfor religion,5,85.59
+SN2025,3218,85.596,Aktiviteter utført ved leirskoler,5,85.59
+SN2025,3218,85.597,Annen undervisning ellers,5,85.59
+SN2025,3218,85.610,Formidlingstjenester tilknyttet kurs og veiledere,5,85.61
+SN2025,3218,85.691,Pedagogisk-psykologisk rådgivningstjeneste,5,85.69
+SN2025,3218,85.692,Tjenester utført ved spesialpedagogiske kompetansesentre og tjenester utenom PPT,5,85.69
+SN2025,3218,85.699,Andre tjenester tilknyttet undervisning ikke nevnt annet sted,5,85.69
+SN2025,3218,86,Helsetjenester,2,R
+SN2025,3218,86.1,Sykehustjenester,3,86
+SN2025,3218,86.2,Lege- og tannlegetjenester,3,86
+SN2025,3218,86.9,Andre helsetjenester,3,86
+SN2025,3218,86.10,Sykehustjenester,4,86.1
+SN2025,3218,86.21,Allmennlegetjenester,4,86.2
+SN2025,3218,86.22,Spesialiserte legetjenester,4,86.2
+SN2025,3218,86.23,Tannlegetjenester,4,86.2
+SN2025,3218,86.91,Medisinske laboratorietjenester og bildediagnostikk,4,86.9
+SN2025,3218,86.92,Ambulansetransport,4,86.9
+SN2025,3218,86.93,"Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",4,86.9
+SN2025,3218,86.94,Sykepleie- og jordmortjenester,4,86.9
+SN2025,3218,86.95,Fysioterapi- og ergoterapitjenester,4,86.9
+SN2025,3218,86.96,"Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",4,86.9
+SN2025,3218,86.97,"Formidlingstjenester tilknyttet lege-, tannlegetjenester og andre helsetjenester",4,86.9
+SN2025,3218,86.99,Andre helsetjenester ikke nevnt annet sted,4,86.9
+SN2025,3218,86.101,Somatiske sykehustjenester,5,86.10
+SN2025,3218,86.102,Psykiatriske sykehustjenester for voksne,5,86.10
+SN2025,3218,86.103,Spesialisert rusbehandling,5,86.10
+SN2025,3218,86.104,Psykiatriske sykehustjenester for barn og ungdom,5,86.10
+SN2025,3218,86.210,Allmennlegetjenester,5,86.21
+SN2025,3218,86.221,"Spesialiserte legetjenester, unntatt psykiatriske legetjenester",5,86.22
+SN2025,3218,86.222,Psykiatriske legetjenester,5,86.22
+SN2025,3218,86.230,Tannlegetjenester,5,86.23
+SN2025,3218,86.910,Medisinske laboratorietjenester og bildediagnostikk,5,86.91
+SN2025,3218,86.921,Ambulansetransport unntatt luftambulanse,5,86.92
+SN2025,3218,86.922,Luftambulansetransport med fly eller helikopter,5,86.92
+SN2025,3218,86.930,"Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",5,86.93
+SN2025,3218,86.941,Sykepleietjenester og andre helsetjenester i hjemmet,5,86.94
+SN2025,3218,86.942,Helsestasjons- og skolehelsetjenester,5,86.94
+SN2025,3218,86.950,Fysioterapi- og ergoterapitjenester,5,86.95
+SN2025,3218,86.960,"Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",5,86.96
+SN2025,3218,86.970,"Formidlingstjenester tilknyttet lege-, tannlegetjenester og andre helsetjenester",5,86.97
+SN2025,3218,86.991,Ortopedi- og fotterapitjenester,5,86.99
+SN2025,3218,86.992,Forebyggende helsearbeid,5,86.99
+SN2025,3218,86.993,Andre helsetjenester ellers,5,86.99
+SN2025,3218,87,Helse- og omsorgstjenester i institusjoner og andre botilbud,2,R
+SN2025,3218,87.1,Helse- og omsorgstjenester med sykepleie i institusjoner og andre botilbud,3,87
+SN2025,3218,87.2,"Omsorgstjenester i botilbud for personer med psykiske helseproblemer, utviklingshemming eller rusmiddelproblemer",3,87
+SN2025,3218,87.3,Omsorgstjenester i botilbud for eldre eller personer med fysisk funksjonsnedsettelse,3,87
+SN2025,3218,87.9,Omsorgstjenester i andre institusjoner og botilbud,3,87
+SN2025,3218,87.10,Helse- og omsorgstjenester med sykepleie i institusjoner og andre botilbud,4,87.1
+SN2025,3218,87.20,"Omsorgstjenester i botilbud for personer med psykiske helseproblemer, utviklingshemming eller rusmiddelproblemer",4,87.2
+SN2025,3218,87.30,Omsorgstjenester i botilbud for eldre eller personer med fysisk funksjonsnedsettelse,4,87.3
+SN2025,3218,87.91,Formidlingstjenester tilknyttet omsorgstjenester i botilbud,4,87.9
+SN2025,3218,87.99,Andre omsorgs- og sosialtjenester i botilbud ikke nevnt annet sted,4,87.9
+SN2025,3218,87.101,Tjenester i spesialinstitusjon innenfor helse- og omsorg,5,87.10
+SN2025,3218,87.102,Sykehjemstjenester,5,87.10
+SN2025,3218,87.103,Øyeblikkelig hjelp døgntilbud,5,87.10
+SN2025,3218,87.104,Tjenester i avlastningsboliger/-institusjoner,5,87.10
+SN2025,3218,87.105,Tjenester i barneboliger,5,87.10
+SN2025,3218,87.106,"Helse- og omsorgstjenester i bofelleskap, samlokaliserte omsorgsboliger og lignende",5,87.10
+SN2025,3218,87.201,Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer,5,87.20
+SN2025,3218,87.202,Omsorgstjenester i botilbud for personer med utviklingshemming eller med tilsvarende funksjonsnedsettelse,5,87.20
+SN2025,3218,87.300,Omsorgstjenester i botilbud for eldre eller personer med fysisk funksjonsnedsettelse,5,87.30
+SN2025,3218,87.910,Formidlingstjenester tilknyttet omsorgstjenester i botilbud,5,87.91
+SN2025,3218,87.991,Tjenester i barneverninstitusjoner,5,87.99
+SN2025,3218,87.992,Asylmottakstjenester,5,87.99
+SN2025,3218,87.999,Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted,5,87.99
+SN2025,3218,88,Omsorgs- og sosialtjenester uten botilbud,2,R
+SN2025,3218,88.1,Omsorgs- og sosialtjenester uten botilbud for eldre og personer med funksjonsnedsettelse,3,88
+SN2025,3218,88.9,Andre sosialtjenester uten botilbud,3,88
+SN2025,3218,88.10,Omsorgs- og sosialtjenester uten botilbud for eldre og personer med funksjonsnedsettelse,4,88.1
+SN2025,3218,88.91,Dagaktivitetstilbud for barn,4,88.9
+SN2025,3218,88.99,Andre sosialtjenester uten botilbud ikke nevnt annet sted,4,88.9
+SN2025,3218,88.101,Praktisk bistand i hjemmet,5,88.10
+SN2025,3218,88.102,Dagaktivitetstilbud tilpasset målgrupper,5,88.10
+SN2025,3218,88.103,Tjenester i seniorsentre,5,88.10
+SN2025,3218,88.104,Brukerstyrt personlig assistanse (BPA),5,88.10
+SN2025,3218,88.105,Avlastning utenfor institusjon,5,88.10
+SN2025,3218,88.106,Støttekontakt- og besøkstjeneste,5,88.10
+SN2025,3218,88.910,Dagaktivitetstilbud for barn,5,88.91
+SN2025,3218,88.991,Barneverntjenester,5,88.99
+SN2025,3218,88.992,Familieverntjenester,5,88.99
+SN2025,3218,88.993,Arbeidstrening og varig tilrettelagt arbeid,5,88.99
+SN2025,3218,88.994,Velferdstjenester til sårbare grupper,5,88.99
+SN2025,3218,88.995,Sosialkontortjenester,5,88.99
+SN2025,3218,88.996,Andre sosialtjenester uten botilbud ellers,5,88.99
+SN2025,3218,90,Kunstnerisk virksomhet og underholdningsvirksomhet,2,S
+SN2025,3218,90.1,Kunstnerisk virksomhet,3,90
+SN2025,3218,90.2,Utøvende kunstnerisk virksomhet og underholdningsvirksomhet,3,90
+SN2025,3218,90.3,Tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet,3,90
+SN2025,3218,90.11,Skapende kunstnerisk virksomhet innenfor litteratur og musikalsk komposisjon,4,90.1
+SN2025,3218,90.12,Skapende kunstnerisk virksomhet innenfor visuell kunst,4,90.1
+SN2025,3218,90.13,Annen kunstnerisk virksomhet,4,90.1
+SN2025,3218,90.20,Utøvende kunstnerisk virksomhet og underholdningsvirksomhet,4,90.2
+SN2025,3218,90.31,Drift av lokaler tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet,4,90.3
+SN2025,3218,90.39,Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet,4,90.3
+SN2025,3218,90.111,Skapende kunstnerisk virksomhet innenfor litteratur,5,90.11
+SN2025,3218,90.112,Skapende kunstnerisk virksomhet innenfor komposisjon av musikk,5,90.11
+SN2025,3218,90.120,Skapende kunstnerisk virksomhet innenfor visuell kunst,5,90.12
+SN2025,3218,90.130,Annen kunstnerisk virksomhet,5,90.13
+SN2025,3218,90.201,Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk,5,90.20
+SN2025,3218,90.202,Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst,5,90.20
+SN2025,3218,90.209,Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted,5,90.20
+SN2025,3218,90.310,Drift av lokaler tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet,5,90.31
+SN2025,3218,90.390,Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet,5,90.39
+SN2025,3218,91,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",2,S
+SN2025,3218,91.1,Drift av biblioteker og arkiver,3,91
+SN2025,3218,91.2,"Drift av museer, samlinger, historiske steder og monumenter",3,91
+SN2025,3218,91.3,"Konservering, restaurering og andre tjenester tilknyttet kulturarv",3,91
+SN2025,3218,91.4,Drift av botaniske og zoologiske hager og naturreservater,3,91
+SN2025,3218,91.11,Drift av biblioteker,4,91.1
+SN2025,3218,91.12,Drift av arkiver,4,91.1
+SN2025,3218,91.21,Drift av museer og samlinger,4,91.2
+SN2025,3218,91.22,Drift av historiske steder og monumenter,4,91.2
+SN2025,3218,91.30,"Konservering, restaurering og andre tjenester tilknyttet kulturarv",4,91.3
+SN2025,3218,91.41,Drift av botaniske og zoologiske hager,4,91.4
+SN2025,3218,91.42,Drift av naturreservater,4,91.4
+SN2025,3218,91.111,Drift av folkebiblioteker,5,91.11
+SN2025,3218,91.112,Drift av fag- og forskningsbiblioteker,5,91.11
+SN2025,3218,91.120,Drift av arkiver,5,91.12
+SN2025,3218,91.211,Drift av kunst- og kunstindustrimuseer,5,91.21
+SN2025,3218,91.212,Drift av kulturhistoriske museer,5,91.21
+SN2025,3218,91.213,"Drift av naturhistoriske, teknologiske og vitenskapshistoriske museer",5,91.21
+SN2025,3218,91.220,Drift av historiske steder og monumenter,5,91.22
+SN2025,3218,91.300,"Konservering, restaurering og andre tjenester tilknyttet kulturarv",5,91.30
+SN2025,3218,91.410,Drift av botaniske og zoologiske hager,5,91.41
+SN2025,3218,91.420,Drift av naturreservater,5,91.42
+SN2025,3218,92,Lotteri- og gamblingvirksomhet,2,S
+SN2025,3218,92.0,Lotteri- og gamblingvirksomhet,3,92
+SN2025,3218,92.00,Lotteri- og gamblingvirksomhet,4,92.0
+SN2025,3218,92.000,Lotteri- og gamblingvirksomhet,5,92.00
+SN2025,3218,93,"Sports-, fornøyelses- og fritidsaktiviteter",2,S
+SN2025,3218,93.1,Sportsaktiviteter,3,93
+SN2025,3218,93.2,Fornøyelses- og fritidsaktiviteter,3,93
+SN2025,3218,93.11,Drift av idrettsanlegg,4,93.1
+SN2025,3218,93.12,Aktiviteter i idrettslag og -klubber,4,93.1
+SN2025,3218,93.13,Treningssentervirksomhet,4,93.1
+SN2025,3218,93.19,Sportsaktiviteter ikke nevnt annet sted,4,93.1
+SN2025,3218,93.21,Drift av fornøyelses- og temaparker,4,93.2
+SN2025,3218,93.29,Fornøyelses- og fritidsaktiviteter ikke nevnt annet sted,4,93.2
+SN2025,3218,93.110,Drift av idrettsanlegg,5,93.11
+SN2025,3218,93.120,Aktiviteter i idrettslag og -klubber,5,93.12
+SN2025,3218,93.130,Treningssentervirksomhet,5,93.13
+SN2025,3218,93.190,Sportsaktiviteter ikke nevnt annet sted,5,93.19
+SN2025,3218,93.210,Drift av fornøyelses- og temaparker,5,93.21
+SN2025,3218,93.291,Opplevelsesaktiviteter,5,93.29
+SN2025,3218,93.292,Fritidsvirksomhet ellers,5,93.29
+SN2025,3218,94,Aktiviteter i medlemsorganisasjoner,2,T
+SN2025,3218,94.1,Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner og yrkessammenslutninger,3,94
+SN2025,3218,94.2,Aktiviteter i arbeidstakerorganisasjoner,3,94
+SN2025,3218,94.9,Aktiviteter i andre medlemsorganisasjoner,3,94
+SN2025,3218,94.11,Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner,4,94.1
+SN2025,3218,94.12,Aktiviteter i yrkessammenslutninger,4,94.1
+SN2025,3218,94.20,Aktiviteter i arbeidstakerorganisasjoner,4,94.2
+SN2025,3218,94.91,Aktiviteter i religiøse organisasjoner,4,94.9
+SN2025,3218,94.92,Aktiviteter i partipolitiske organisasjoner,4,94.9
+SN2025,3218,94.99,Aktiviteter i andre medlemsorganisasjoner ikke nevnt annet sted,4,94.9
+SN2025,3218,94.110,Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner,5,94.11
+SN2025,3218,94.120,Aktiviteter i yrkessammenslutninger,5,94.12
+SN2025,3218,94.200,Aktiviteter i arbeidstakerorganisasjoner,5,94.20
+SN2025,3218,94.910,Aktiviteter i religiøse organisasjoner,5,94.91
+SN2025,3218,94.920,Aktiviteter i partipolitiske organisasjoner,5,94.92
+SN2025,3218,94.991,Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål,5,94.99
+SN2025,3218,94.992,Aktiviteter i andre medlemsorganisasjoner ellers,5,94.99
+SN2025,3218,95,"Reparasjon og vedlikehold av datamaskiner, husholdningsvarer, varer til personlig bruk og motorvogner og motorsykler",2,T
+SN2025,3218,95.1,Reparasjon og vedlikehold av datamaskiner og kommunikasjonsutstyr,3,95
+SN2025,3218,95.2,Reparasjon og vedlikehold av husholdningsvarer og varer til personlig bruk,3,95
+SN2025,3218,95.3,Reparasjon og vedlikehold av motorvogner og motorsykler,3,95
+SN2025,3218,95.4,"Formidlingstjenester tilknyttet reparasjon og vedlikehold av datamaskiner, husholdningsvarer og varer til personlig bruk, og motorvogner og motorsykler",3,95
+SN2025,3218,95.10,Reparasjon og vedlikehold av datamaskiner og kommunikasjonsutstyr,4,95.1
+SN2025,3218,95.21,Reparasjon og vedlikehold av elektronikk til husholdningsbruk,4,95.2
+SN2025,3218,95.22,Reparasjon og vedlikehold av husholdningsvarer og hageredskaper,4,95.2
+SN2025,3218,95.23,Reparasjon og vedlikehold av skotøy og lærvarer,4,95.2
+SN2025,3218,95.24,Reparasjon og vedlikehold av møbler og boliginnredning,4,95.2
+SN2025,3218,95.25,"Reparasjon og vedlikehold av ur, klokker og smykker",4,95.2
+SN2025,3218,95.29,Reparasjon og vedlikehold av andre husholdningsvarer og varer til personlig bruk ikke nevnt annet sted,4,95.2
+SN2025,3218,95.31,Reparasjon og vedlikehold av motorvogner,4,95.3
+SN2025,3218,95.32,Reparasjon og vedlikehold av motorsykler,4,95.3
+SN2025,3218,95.40,"Formidlingstjenester tilknyttet reparasjon og vedlikehold av datamaskiner, husholdningsvarer og varer til personlig bruk, og motorvogner og motorsykler",4,95.4
+SN2025,3218,95.100,Reparasjon og vedlikehold av datamaskiner og kommunikasjonsutstyr,5,95.10
+SN2025,3218,95.210,Reparasjon og vedlikehold av elektronikk til husholdningsbruk,5,95.21
+SN2025,3218,95.220,Reparasjon og vedlikehold av husholdningsvarer og hageredskaper,5,95.22
+SN2025,3218,95.230,Reparasjon og vedlikehold av skotøy og lærvarer,5,95.23
+SN2025,3218,95.240,Reparasjon og vedlikehold av møbler og boliginnredning,5,95.24
+SN2025,3218,95.250,"Reparasjon og vedlikehold av ur, klokker og smykker",5,95.25
+SN2025,3218,95.290,Reparasjon og vedlikehold av andre husholdningsvarer og varer til personlig bruk ikke nevnt annet sted,5,95.29
+SN2025,3218,95.310,Reparasjon og vedlikehold av motorvogner,5,95.31
+SN2025,3218,95.320,Reparasjon og vedlikehold av motorsykler,5,95.32
+SN2025,3218,95.400,"Formidlingstjenester tilknyttet reparasjon og vedlikehold av datamaskiner, husholdningsvarer og varer til personlig bruk, og motorvogner og motorsykler",5,95.40
+SN2025,3218,96,Personlig tjenesteyting,2,T
+SN2025,3218,96.1,Vaskeri- og renserivirksomhet,3,96
+SN2025,3218,96.2,"Frisering, skjønnhetsbehandling, dagspa og lignende aktiviteter",3,96
+SN2025,3218,96.3,Begravelsesbyråvirksomhet og lignende tjenester,3,96
+SN2025,3218,96.4,Formidlingstjenester tilknyttet personlig tjenesteyting,3,96
+SN2025,3218,96.9,Annen personlig tjenesteyting,3,96
+SN2025,3218,96.10,Vaskeri- og renserivirksomhet,4,96.1
+SN2025,3218,96.21,Frisering og barbering,4,96.2
+SN2025,3218,96.22,Skjønnhetspleie,4,96.2
+SN2025,3218,96.23,"Aktiviteter i dagspa, badstue og dampbad",4,96.2
+SN2025,3218,96.30,Begravelsesbyråvirksomhet og lignende tjenester,4,96.3
+SN2025,3218,96.40,Formidlingstjenester tilknyttet personlig tjenesteyting,4,96.4
+SN2025,3218,96.91,Personlig tjenesteyting i husholdninger,4,96.9
+SN2025,3218,96.99,Andre personlige tjenester ikke nevnt annet sted,4,96.9
+SN2025,3218,96.100,Vaskeri- og renserivirksomhet,5,96.10
+SN2025,3218,96.210,Frisering og barbering,5,96.21
+SN2025,3218,96.220,Skjønnhetspleie,5,96.22
+SN2025,3218,96.230,"Aktiviteter i dagspa, badstue og dampbad",5,96.23
+SN2025,3218,96.300,Begravelsesbyråvirksomhet og lignende tjenester,5,96.30
+SN2025,3218,96.400,Formidlingstjenester tilknyttet personlig tjenesteyting,5,96.40
+SN2025,3218,96.910,Personlig tjenesteyting i husholdninger,5,96.91
+SN2025,3218,96.990,Andre personlige tjenester ikke nevnt annet sted,5,96.99
+SN2025,3218,97,Lønnet arbeid i private husholdninger,2,U
+SN2025,3218,97.0,Lønnet arbeid i private husholdninger,3,97
+SN2025,3218,97.00,Lønnet arbeid i private husholdninger,4,97.0
+SN2025,3218,97.001,Aktiviteter i borettslag og boligsameier,5,97.00
+SN2025,3218,97.002,Lønnet arbeid i private husholdninger ellers,5,97.00
+SN2025,3218,98,Annen vareproduksjon og tjenesteyting i private husholdninger til eget bruk,2,U
+SN2025,3218,98.1,Annen vareproduksjon i private husholdninger til eget bruk,3,98
+SN2025,3218,98.2,Annen tjenesteyting i privat husholdninger til eget bruk,3,98
+SN2025,3218,98.10,Annen vareproduksjon i private husholdninger til eget bruk,4,98.1
+SN2025,3218,98.20,Annen tjenesteyting i privat husholdninger til eget bruk,4,98.2
+SN2025,3218,98.100,Annen vareproduksjon i private husholdninger til eget bruk,5,98.10
+SN2025,3218,98.200,Annen tjenesteyting i privat husholdninger til eget bruk,5,98.20
+SN2025,3218,99,Aktiviteter i internasjonale organisasjoner og organer,2,V
+SN2025,3218,99.0,Aktiviteter i internasjonale organisasjoner og organer,3,99
+SN2025,3218,99.00,Aktiviteter i internasjonale organisasjoner og organer,4,99.0
+SN2025,3218,99.000,Aktiviteter i internasjonale organisasjoner og organer,5,99.00
+SN2025,3218,A,"Jordbruk, skogbruk og fiske",1,
+SN2025,3218,B,Bergverksdrift og utvinning,1,
+SN2025,3218,C,Industri,1,
+SN2025,3218,D,"Forsyning av elektrisitet, gass, damp og kjøleluft",1,
+SN2025,3218,E,"Vannforsyning, avløps-, renovasjons- og oppryddingsvirksomhet",1,
+SN2025,3218,F,Bygge- og anleggsvirksomhet,1,
+SN2025,3218,G,Varehandel,1,
+SN2025,3218,H,Transport og lagring,1,
+SN2025,3218,I,Overnattings- og serveringsvirksomhet,1,
+SN2025,3218,J,"Utgivelse, kringkasting, innholdsproduksjon og distribusjonsvirksomhet",1,
+SN2025,3218,K,"Telekommunikasjon, dataprogrammering, konsulentvirksomhet, datainfrastruktur og andre tjenester tilknyttet informasjonsteknologi",1,
+SN2025,3218,L,Finansiell tjenesteyting,1,
+SN2025,3218,M,Eiendomsvirksomhet,1,
+SN2025,3218,N,"Faglig, vitenskapelig og teknisk tjenesteyting",1,
+SN2025,3218,O,Forretningsmessig tjenesteyting,1,
+SN2025,3218,P,"Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning",1,
+SN2025,3218,Q,Undervisning,1,
+SN2025,3218,R,Helse- og sosialtjenester,1,
+SN2025,3218,S,"Kulturell virksomhet, idrett og fritidsaktiviteter",1,
+SN2025,3218,T,Annen tjenesteyting,1,
+SN2025,3218,U,Lønnet arbeid i private husholdninger og annen vareproduksjon og tjenesteyting i private husholdninger til eget bruk,1,
+SN2025,3218,V,Aktiviteter i internasjonale organisasjoner og organer,1,

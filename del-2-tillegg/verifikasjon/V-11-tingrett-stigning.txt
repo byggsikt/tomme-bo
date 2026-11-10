@@ -1,0 +1,16 @@
+antall_domstolsnavn | 2023 | 23 |  |  |  | 
+antall_domstolsnavn | 2024 | 23 |  |  |  | 
+antall_domstolsnavn | 2025 | 33 |  |  |  | 
+antall_domstolsnavn | 2026 | 28 |  |  |  | 
+domstol | AGDER TINGRETT | 170 | 72.9 | 119 | 89.1 | 16.2
+domstol | BUSKERUD TINGRETT | 132 | 64.4 | 74 | 83.8 | 19.4
+domstol | FOLLO OG NORDRE ØSTFOLD TINGRETT | 102 | 60.8 | 96 | 76.0 | 15.2
+domstol | HAUGALAND OG SUNNHORDLAND TINGRETT | 73 | 75.3 | 43 | 88.4 | 13.1
+domstol | HORDALAND TINGRETT | 235 | 62.1 | 160 | 82.5 | 20.4
+domstol | OSLO TINGRETT | 614 | 64.8 | 421 | 71.0 | 6.2
+domstol | ROMERIKE OG GLÅMDAL TINGRETT | 204 | 60.3 | 185 | 65.9 | 5.6
+domstol | SØNDRE ØSTFOLD TINGRETT | 117 | 70.9 | 111 | 78.4 | 7.5
+domstol | SØR-ROGALAND TINGRETT | 164 | 77.4 | 134 | 88.8 | 11.4
+domstol | TRØNDELAG TINGRETT | 250 | 85.2 | 177 | 86.4 | 1.2
+domstol | VESTFOLD TINGRETT | 146 | 70.5 | 104 | 83.7 | 13.2
+oppsummering | n_domstoler=11 | steg=11 | falt=0 | uendret=0 |  | 

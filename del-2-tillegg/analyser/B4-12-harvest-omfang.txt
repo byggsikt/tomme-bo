@@ -1,0 +1,17 @@
+a_forste_skiftesamling | 2025-09-04 | 2026-06-24 | 37 | 19
+a2_alle_skiftesamling | 2021 | 1
+a2_alle_skiftesamling | 2022 | 2
+a2_alle_skiftesamling | 2023 | 10
+a2_alle_skiftesamling | 2024 | 21
+a2_alle_skiftesamling | 2025 | 24
+a2_alle_skiftesamling | 2026 | 40
+b_avslutning_totalt | 4403 | 2268 | 2283 | 2023-06-02 | 2026-09-10
+c_kohort_avslutning_aar | 2024 | 257
+c_kohort_avslutning_aar | 2025 | 501
+c_kohort_avslutning_aar | 2026 | 159
+d_kjennelse_avsagt | Tvangsoppløsning av aksjeselskap | 3068 | 3040
+d_kjennelse_avsagt | Tvangsavvikling av aksjeselskap | 339 | 339
+e_pengefelt | Kapital | 749875 | 481971
+e_pengefelt | Maks. kapitalforhøyelse | 19648 | 5120
+e_pengefelt | Maks. pålydende verdi | 14065 | 7270
+e_pengefelt | Maks. lånebeløp | 1059 | 577

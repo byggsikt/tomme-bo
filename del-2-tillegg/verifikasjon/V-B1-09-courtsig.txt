@@ -1,0 +1,5 @@
+court-level CIs that EXCLUDE zero (Wald-delta on CIF24 RD):
+  OSLO TINGRETT                        RD  +7.696 [ +2.239; +13.152]  z=+2.76 p=0.0057  <== EXCLUDES 0
+  TELEMARK TINGRETT                    RD -21.948 [-43.109;  -0.786]  z=-2.03 p=0.0421  <== EXCLUDES 0
+  TRØNDELAG TINGRETT                   RD  +9.889 [ +0.461; +19.317]  z=+2.06 p=0.0398  <== EXCLUDES 0
+  VESTRE FINNMARK TINGRETT             RD +41.026 [+25.588; +56.463]  z=+5.21 p=0.0000  <== EXCLUDES 0

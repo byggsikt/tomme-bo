@@ -1,0 +1,48 @@
+=== 1. DELETION after outcome (as-of 24.08.2026) ===
+Slettet etter innstilling                          3881 / 3897   =  99.6 %  [99.3; 99.7]
+Slettet etter ordinaer avslutning                   917 / 917    = 100.0 %  [99.6; 100.0]
+Slettet blant fortsatt aapne bo                       0 / 351    =   0.0 %  [0.0; 1.1]
+Sletting samme dag som innstilling                 3050 / 3881   =  78.6 %  [77.3; 79.8]
+Sletting samme dag som avslutning                   713 / 917    =  77.8 %  [74.9; 80.3]
+Sletting <=30 d etter innstilling                  3874 / 3881   =  99.8 %  [99.6; 99.9]
+Sletting <=30 d etter avslutning                    912 / 917    =  99.5 %  [98.7; 99.8]
+
+=== 2. Announcements that could say anything about money ===
+Bo med skiftesamlingskunngjoring                      6 / 5165   =   0.1 %  [0.1; 0.3]
+Bo med ny fordringsfrist                              1 / 5165   =   0.0 %  [0.0; 0.1]
+Bo med fordringshavermote                             0 / 5165   =   0.0 %  [0.0; 0.1]
+Bo med ny bostyrer                                   64 / 5165   =   1.2 %  [1.0; 1.6]
+Bo med fortsettelse (gjenopptakelse)                  7 / 5165   =   0.1 %  [0.1; 0.3]
+Innstilte bo som senere ble avsluttet                 4 / 3897   =   0.1 %  [0.0; 0.3]
+
+=== 3. Outcome given a signal (decided estates only) ===
+Innstilt | ingen signal                            3853 / 4751   =  81.1 %  [80.0; 82.2]
+Innstilt | skiftesamlingskunngjoring                  3 / 6      =  50.0 %  [18.8; 81.2]
+Innstilt | ny bostyrer                               41 / 57     =  71.9 %  [59.2; 81.9]
+
+=== 4. Revenue band x outcome, AS-OF 24.08.2026 (share innstilt of decided) ===
+innstilt | <1 MNOK                                 1146 / 1261   =  90.9 %  [89.2; 92.3]
+innstilt | 1-5 MNOK                                1302 / 1596   =  81.6 %  [79.6; 83.4]
+innstilt | 5-20 MNOK                                595 / 908    =  65.5 %  [62.4; 68.5]
+innstilt | >20 MNOK                                 158 / 286    =  55.2 %  [49.5; 60.9]
+innstilt | ingen omsetningstall                     419 / 459    =  91.3 %  [88.4; 93.5]
+innstilt | ingen regnskap                           277 / 304    =  91.1 %  [87.4; 93.8]
+innstilt | ALLE                                    3897 / 4814   =  81.0 %  [79.8; 82.0]
+kontroll: 3897 917 351 5165
+
+=== 5. Revenue band x outcome, FIXED 730-DAY WINDOW (opened <= 2024-08-24) ===
+innstilt innen 730 d | <1 MNOK                      828 / 946    =  87.5 %  [85.3; 89.5]
+innstilt innen 730 d | 1-5 MNOK                     940 / 1228   =  76.5 %  [74.1; 78.8]
+innstilt innen 730 d | 5-20 MNOK                    430 / 729    =  59.0 %  [55.4; 62.5]
+innstilt innen 730 d | >20 MNOK                     100 / 280    =  35.7 %  [30.3; 41.5]
+innstilt innen 730 d | ingen omsetningstall         303 / 348    =  87.1 %  [83.1; 90.2]
+innstilt innen 730 d | ingen regnskap               211 / 241    =  87.6 %  [82.8; 91.1]
+innstilt innen 730 d | ALLE                        2812 / 3772   =  74.5 %  [73.1; 75.9]
+kontroll: 3772 2812 670 290 3772
+
+=== 6. payroll coverage ===
+annual_account-rader med payroll_expenses (hele basen)   2785 / 652642 =   0.4 %  [0.4; 0.4]
+annual_account-rader med payroll_expenses (kohorten)      0 / 5190   =   0.0 %  [0.0; 0.1]
+brreg_ansatte-dekning, innstilte bo                  15 / 3897   =   0.4 %  [0.2; 0.6]
+brreg_ansatte-dekning, fortsatt aapne bo            349 / 351    =  99.4 %  [97.9; 99.8]
+omsetningstall finnes (kohort)                     4373 / 5165   =  84.7 %  [83.7; 85.6]

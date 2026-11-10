@@ -1,0 +1,6 @@
+enhet | <BLANK> | brreg-recovered | 4833 | 4644 | 824283
+enhet | whole_kroner | brreg-regnskap | 313 | 308 | 4508729
+par | 313 | 313 | 313 | 313 | 313 | 313 | 0
+timing | 2023 | aug-des | 1224 | 903 | 73.8
+timing | 2024 | aug-des | 1505 | 1000 | 66.4
+timing | 2024 | jan-jul | 2104 | 217 | 10.3

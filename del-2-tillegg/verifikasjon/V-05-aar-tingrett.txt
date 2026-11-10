@@ -1,0 +1,44 @@
+aar | 2016 | 1 | 0 | 0.0 | 0
+aar | 2017 | 8 | 8 | 100.0 | 8
+aar | 2018 | 4 | 4 | 100.0 | 4
+aar | 2019 | 33 | 19 | 57.6 | 19
+aar | 2020 | 72 | 43 | 59.7 | 43
+aar | 2021 | 106 | 67 | 63.2 | 67
+aar | 2022 | 599 | 367 | 61.3 | 367
+aar | 2023 | 3058 | 2165 | 70.8 | 2165
+aar | 2024 | 3860 | 2793 | 72.4 | 2793
+aar | 2025 | 3695 | 2767 | 74.9 | 2767
+aar | 2026 | 2208 | 1776 | 80.4 | 1776
+maaned_2026 | 2026-01 | 292 | 243 | 83.2 | 
+maaned_2026 | 2026-02 | 275 | 244 | 88.7 | 
+maaned_2026 | 2026-03 | 325 | 281 | 86.5 | 
+maaned_2026 | 2026-04 | 282 | 210 | 74.5 | 
+maaned_2026 | 2026-05 | 295 | 214 | 72.5 | 
+maaned_2026 | 2026-06 | 360 | 268 | 74.4 | 
+maaned_2026 | 2026-07 | 241 | 205 | 85.1 | 
+maaned_2026 | 2026-08 | 138 | 111 | 80.4 | 
+periode | 2019-2022 | 810 | 496 | 61.2 | 496
+periode | 2026-01-01..2026-08-24 | 2208 | 1776 | 80.4 | 1776
+tingrett | SOGN OG FJORDANE TINGRETT | 51 | 45 | 88.2 | 1
+tingrett | HELGELAND TINGRETT | 73 | 63 | 86.3 | 1
+tingrett | TELEMARK TINGRETT | 169 | 145 | 85.8 | 1
+tingrett | HAUGALAND OG SUNNHORDLAND TINGRETT | 97 | 83 | 85.6 | 1
+tingrett | TRØNDELAG TINGRETT | 413 | 351 | 85.0 | 1
+tingrett | MIDTRE HÅLOGALAND TINGRETT | 78 | 66 | 84.6 | 1
+tingrett | MØRE OG ROMSDAL TINGRETT | 245 | 201 | 82.0 | 1
+tingrett | VESTRE FINNMARK TINGRETT | 48 | 39 | 81.3 | 1
+tingrett | AGDER TINGRETT | 321 | 260 | 81.0 | 1
+tingrett | SØR-ROGALAND TINGRETT | 267 | 214 | 80.1 | 1
+tingrett | VESTRE INNLANDET TINGRETT | 130 | 102 | 78.5 | 1
+tingrett | ØSTRE INNLANDET TINGRETT | 146 | 111 | 76.0 | 1
+tingrett | SALTEN OG LOFOTEN TINGRETT | 94 | 71 | 75.5 | 1
+tingrett | VESTFOLD TINGRETT | 273 | 204 | 74.7 | 1
+tingrett | NORD-TROMS OG SENJA TINGRETT | 106 | 77 | 72.6 | 1
+tingrett | HORDALAND TINGRETT | 398 | 288 | 72.4 | 1
+tingrett | SØNDRE ØSTFOLD TINGRETT | 231 | 165 | 71.4 | 1
+tingrett | RINGERIKE, ASKER OG BÆRUM TINGRETT | 310 | 209 | 67.4 | 1
+tingrett | BUSKERUD TINGRETT | 226 | 148 | 65.5 | 1
+tingrett | SIS-JA NUORTA-FINNMÁRKKU DIGGEGODDI | 26 | 17 | 65.4 | 1
+tingrett | ROMERIKE OG GLÅMDAL TINGRETT | 365 | 232 | 63.6 | 1
+tingrett | FOLLO OG NORDRE ØSTFOLD TINGRETT | 187 | 116 | 62.0 | 1
+tingrett | OSLO TINGRETT | 911 | 527 | 57.8 | 1

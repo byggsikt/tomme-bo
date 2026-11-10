@@ -1,0 +1,66 @@
+{
+ "komplett_sak": {
+  "n": 3173,
+  "bygg": 823,
+  "ovrige": 2350
+ },
+ "raa_i_komplett_sak": {
+  "navn": "innstilt 730 d, komplette saker",
+  "b_k": 559,
+  "b_n": 823,
+  "b_p": 67.9,
+  "o_k": 1731,
+  "o_n": 2350,
+  "o_p": 73.7,
+  "diff_pp": -5.7,
+  "lo_pp": -9.4,
+  "hi_pp": -2.1
+ },
+ "std_rev_komplett": {
+  "bygg_std": 73.8,
+  "ovrige": 73.7,
+  "diff": 0.1,
+  "mh_or": 0.997
+ },
+ "std_storrelse_komplett": {
+  "bygg_std": 68.9,
+  "ovrige": 73.7,
+  "diff": -4.7,
+  "mh_or": 0.766
+ },
+ "std_rev_6_kvantiler": {
+  "bygg_std": 74.0,
+  "ovrige": 73.7,
+  "diff": 0.3,
+  "mh_or": 0.992
+ },
+ "std_rev_10_kvantiler": {
+  "bygg_std": 73.8,
+  "ovrige": 73.7,
+  "diff": 0.1,
+  "mh_or": 1.0
+ },
+ "std_rev_20_kvantiler": {
+  "bygg_std": 73.8,
+  "ovrige": 73.7,
+  "diff": 0.2,
+  "mh_or": 1.002
+ },
+ "logistisk_komplett_kubisk_logrev": {
+  "OR": 1.003,
+  "lo": 0.832,
+  "hi": 1.21,
+  "RD_pp": 0.1
+ },
+ "logistisk_komplett_full": {
+  "OR": 0.893,
+  "lo": 0.733,
+  "hi": 1.089,
+  "RD_pp": -1.9
+ },
+ "vekt_i_ikke_sammenliknbare_celler": {
+  "andel_vekt": 17.2,
+  "bygg_n": 111,
+  "ovrige_n": 488
+ }
+}

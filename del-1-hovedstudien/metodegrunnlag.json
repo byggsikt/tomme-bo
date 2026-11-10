@@ -1,0 +1,2061 @@
+{
+  "dokument": "metodegrunnlag",
+  "studie": {
+    "tittel": "Tomme bo: tre av fire konkursbo etter norske aksjeselskaper lukkes uten midler",
+    "undertittel": "Utfallet av 5 165 selskapskonkursbo (AS og ASA) åpnet 1. september 2023 – 31. desember 2024, etter næring, rettskrets og tid til innstilling",
+    "utgiver": "Byggsikt Data",
+    "publiseres": "byggsikt.no/rad/tomme-bo/",
+    "versjon": "1.0",
+    "studiedesign": "Eksplorativ/forklarende kohortstudie av selskapskonkursbo (AS og ASA) fulgt fra åpningskunngjøring til første utfallskunngjøring",
+    "analyseenhet": "Ett bo-forløp: én kunngjort konkursåpning og kjeden av utfallskunngjøringer etter den, nøkkelet på organisasjonsnummer + åpningsdato + saksnummer. Ett foretak bidrar med nøyaktig ett forløp. Alle antall er antall forløp, aldri kunngjøringsrader.",
+    "populasjon": "Konkursbo etter aksje- og allmennaksjeselskaper. Enkeltpersonforetak og personlige konkurser er ikke dekket og resultatene kan ikke generaliseres til dem."
+  },
+  "datoer": {
+    "som_av_dato": "2026-08-24",
+    "kjoredato": "2026-08-30",
+    "uavhengig_tallrevisjon": "2026-08-30",
+    "ekstern_fagfellevurdering": "2026-08-30",
+    "fagfellerevisjon_gjennomfort": "2026-08-31",
+    "merknad": "Alle utfall er lest per som-av-datoen; alle spørringer og ankerverifiseringer er kjørt på kjøredatoen. Begge datoer skal følge ethvert sitat av tall fra studien. Revisjonen etter fagfellevurderingen er regnet på det frosne kohortuttrekket fra kjøredatoen; ingen ny databasespørring er utført."
+  },
+  "datagrunnlag": {
+    "beskrivelse": "Studien bygger utelukkende på offentlig tilgjengelige registerkunngjøringer om konkursbehandling og på offentlig tilgjengelig statistikk fra Statistisk sentralbyrå.",
+    "hendelsesdato": "Kunngjøringsdatoen behandles som hendelsesdato. Registerforvalteren opplyser at kunngjøringene normalt er tilgjengelige samme dag som kjennelsen avsies; studien måler presist avstanden mellom to kunngjøringsdatoer.",
+    "univers": "Materialet er forankret i aksje- og allmennaksjeselskaper. Enkeltpersonforetak er i praksis ikke representert (dekning mot alle organisasjonsformer 87,4 prosent; hele differansen er enkeltpersonforetak).",
+    "reproduserbarhet": "Kurateringen og struktureringen av kunngjøringsmaterialet er egenutviklet og publiseres ikke; det som publiseres (kohortdefinisjon, fingeravtrykk, vindusbegrunnelse, kartversjon, kalibrering, aggregater) er tilstrekkelig til å etterprøve resonnementet."
+  },
+  "kohortdefinisjon": {
+    "regel": "Distinkte foretak hvis tidligste OBSERVERTE kunngjorte «Konkurs - åpning» faller i vinduet 2023-09-01 til 2024-12-31.",
+    "n": 5165,
+    "ekvivalens": "Definisjonen «tidligste observerte åpning, filtrert til vinduet» og «første åpning innenfor vinduet» gir identisk mengde; differansen er målt til null.",
+    "hvorfor_ikke_globalt_forste": "Kilden har en oppbevaringsgrense, så en konkursepisode eldre enn den finnes ikke lenger i materialet — tre foretak i kohorten bærer sporet av nettopp dette. Påstanden om at en åpning er foretakets første noensinne er ikke etterprøvbar og gjøres ikke. Formuleringen «globalt første» er erstattet 2026-08-31.",
+    "hendelsesmodell": "Firetilstands-kjede med bo-forløpet som enhet: åpnet → § 135-innstilling (absorberende); åpnet → ordinær avslutning (absorberende, konkurrerende hendelse); åpnet → fortsettelse av bobehandling → senere utfall (7 forløp); åpnet → uavgjort/sensurert 2026-08-24. Regelen «første hendelse vinner» er juridisk begrunnet: § 135-innstilling og § 128-avslutning er alternative utganger av samme bo, ikke trinn i en sekvens, og et ordinært avsluttet bo kan ikke senere innstilles av pengemangel.",
+    "fingeravtrykk_sha256": "a5aea019c8157dca67e09580f154860f0b10419cff1ec79906a09f7edcc07452",
+    "fingeravtrykk_metode": "sha256 over de 5 165 organisasjonsnumrene som ni-sifrede strenger, sortert leksikografisk stigende, sammenføyd med komma uten mellomrom, i UTF-8, uten avsluttende linjeskift. Ingen overskriftsrad, ingen datoer, ingen utfallsetiketter, ingen næring, ingen rettskrets. Beregnet i databasen. Ingen foretaksliste publiseres; fingeravtrykket gjør reproduksjonsbevis mulig uten å eksponere enkeltforetak.",
+    "fingeravtrykk_dekker": "Kun kohortmedlemskapet — hvilke 5 165 foretak som utgjør kohorten.",
+    "andre_avtrykk": {
+      "sha256": "ba0a85ab27774c0b5a7d0bcdd92c47605269e01cee571a009a80c2190de3f3c8",
+      "dekker": "Datakontrollørens frosne resultatfil data/kontroll-kjerne-2026-08-30.json — aggregatene fra en uavhengig gjennomregning, ikke kohortlisten.",
+      "metode": "sha256 over hele filens byte-innhold slik den ligger på disk (JSON, UTF-8, LF).",
+      "merknad": "De to avtrykkene hasher ULIKE artefakter og skal derfor være ulike; at de er det, er ikke en uoverensstemmelse. Presisert 2026-08-31 etter fagfellevurderingens punkt 15."
+    },
+    "fingeravtrykk_reprodusert": "Uavhengig reprodusert av datakontrolløren og av tallrevisoren 2026-08-30 med ulike spørringsformer; eksakt match begge ganger.",
+    "hva_et_avtrykk_ikke_beviser": "Et avtrykk viser at to byte-sekvenser er identiske. Det viser ikke at kohorten er korrekt avgrenset, at hendelsene er koblet til riktig åpning, eller at klassifiseringene er gyldige. Avtrykkene er integritetsmekanismer, ikke uavhengig vitenskapelig validering."
+  },
+  "estimander": {
+    "primaer_fasthorisont": {
+      "hva": "Kumulativ insidens for innstilling etter kkl. § 135 innen 24 måneder etter åpning, med ordinær avslutning av bobehandlingen som konkurrerende hendelse.",
+      "estimator": "Aalen–Johansen; varians ved deltametoden; log(−log)-transformerte 95 %-intervaller; horisont 730 dager.",
+      "alle": {
+        "verdi_pst": 74.82,
+        "publisert_pst": 74.8,
+        "ki95_pst": [
+          73.6,
+          75.99
+        ],
+        "risikomengde_730d": 292
+      },
+      "bygg_utforende": {
+        "verdi_pst": 70.54,
+        "publisert_pst": 70.5,
+        "ki95_pst": [
+          67.93,
+          72.98
+        ],
+        "risikomengde_730d": 89
+      },
+      "ovrige": {
+        "verdi_pst": 76.23,
+        "publisert_pst": 76.2,
+        "ki95_pst": [
+          74.85,
+          77.55
+        ],
+        "risikomengde_730d": 203
+      },
+      "12_og_18_mnd": {
+        "alle_pst": [
+          63.18,
+          71.89
+        ],
+        "bygg_pst": [
+          57.11,
+          66.87
+        ],
+        "ovrige_pst": [
+          65.17,
+          73.54
+        ],
+        "ki95_alle_12mnd": [
+          61.84,
+          64.47
+        ],
+        "ki95_alle_18mnd": [
+          70.64,
+          73.09
+        ],
+        "risikomengder": [
+          1478,
+          768
+        ],
+        "merknad": "Alle 5 165 bo har minst 601 dagers oppfølging, så ved 12 og 18 måneder er Aalen–Johansen-estimatet EKSAKT lik den rå andelen — ingen sensurering i vinduet."
+      },
+      "antakelsesfri_kontroll_24mnd": {
+        "hva": "Ren binomisk andel blant de 3 772 boene med minst 730 dagers oppfølging — ingen sensurering, ingen konkurrerende-risiko-estimator.",
+        "alle": "2 810/3 772 = 74,50 % [Clopper–Pearson 73,07–75,88]",
+        "bygg": "653/934 = 69,91 %",
+        "ovrige": "2 157/2 838 = 76,00 %",
+        "merknad": "Dette er nøyaktig modningskurvens 24-månederstall (74,5 %; 70,0 mot 76,0 %). Modningskurven er altså en DELKOHORT-estimator, ikke Aalen–Johansen. Begge er gyldige fasthorisont-tall; differansen på 0,3 prosentpoeng er prisen for ulik nevner."
+      },
+      "skript": "sporringer/rev2-02-kumulativ-insidens.mjs"
+    },
+    "sekundaer_as_of": {
+      "hva": "Andelen av kohorten som per 2026-08-24 har fått en § 135-kunngjøring.",
+      "verdi": "3 897/5 165 = 75,5 % [74,3–76,6]",
+      "merknad": "Eksakt for den observerte kohorten, men gir hvert bo lik nevnervekt til tross for oppfølgingstid som varierer fra 601 til 1 088 dager. Skal ALLTID merkes as-of og aldri omtales som en fasthorisont-sannsynlighet. Innført som eksplisitt merking 2026-08-31 etter fagfellevurderingens punkt 3/4."
+    },
+    "varighet": {
+      "hva": "Fordelingen av tiden fra åpningskunngjøring til § 135-kunngjøring.",
+      "primaer": "Kumulativ insidens (Aalen–Johansen)."
+    },
+    "gruppekontrast": {
+      "primaer": "Grays test på kumulativ-insidens-kurvene og risikodifferansen ved fast horisont (24 måneder, med 12 og 18 måneder som støtte).",
+      "sekundaer": "Khikvadrat med Yates' korreksjon på as-of-andelene, med Newcombe-intervall for differansen."
+    }
+  },
+  "vindusbegrunnelse": {
+    "seriestart_innstilling": "2023-08-25",
+    "seriestart_avslutning": "2023-06-02",
+    "startdato": "Kohorten starter 2023-09-01 slik at hvert bo er observerbart gjennom hele sitt liv: utfallsseriene begynner i materialet 2023-08-25 (innstilling) og 2023-06-02 (avslutning). Uavhengig bekreftelse: dekningen mot offisiell statistikk er vesentlig ufullstendig i 2023K1 (50,6 prosent) og 2023K2 (84,8 prosent) og stabiliserer seg fra 2023K3.",
+    "sluttdato": "Kohorten slutter 2024-12-31 slik at det yngste boet har minst 601 dagers (19,7 måneders) oppfølging til observasjonsslutt 2026-08-24. Median oppfølging 852 dager, maksimum 1 088.",
+    "modningsplatå": "I risikomengdeform er andelen innstilt 23,0 / 44,9 / 63,1 / 71,9 / 74,5 / 74,7 prosent ved 3/6/12/18/24/30 måneder; kurven flater ut mellom 24 og 30 måneder, og kohortens 75,5 prosent ligger på platået.",
+    "naiv_kvartalsserie": "Uten modningskorreksjon ligger åpningskvartalene 2023K3–2024K4 på 74,0–76,4 prosent og faller deretter mekanisk til 19,0 prosent i 2026K2 (høyresensurering, ikke trend). 2023K3 dekker kun september; 2026K3 er et delkvartal og strykes.",
+    "vindusfolsomhet": "Hovedvinduet og fire alternative modne vinduer: 75,1–75,6 prosent. Forlenget til 2025-06-30: 73,9. Til 2025-12-31: 71,2. Til korpusslutt: 62,4 prosent (designfeil-demonstrasjonen)."
+  },
+  "utfallsregel": {
+    "regel": "Utfall = første utfallskunngjøring på eller etter åpningsdatoen: «Konkurs - innstilling av bobehandlingen» eller «Konkurs - avslutning av bobehandlingen». Faller begge på samme dato, regnes innstillingen som utfallet.",
+    "tre_tilstander": {
+      "innstilt": {
+        "antall": 3897,
+        "andel_pst": 75.5,
+        "ki95": [
+          74.3,
+          76.6
+        ],
+        "eksakt_pst": 75.45015
+      },
+      "kun_avsluttet": {
+        "antall": 917,
+        "andel_pst": 17.8
+      },
+      "fortsatt_apne": {
+        "antall": 351,
+        "andel_pst": 6.8
+      }
+    },
+    "sum_kontroll": "3 897 + 917 + 351 = 5 165. Tallet 923 er «har en avslutningskunngjøring uansett»; 6 bo har både innstilling og avslutning (ingen med avslutning før innstillingen; 2 samme dag) og er plassert hos innstilling. 3 897 + 923 + 351 skal aldri summeres.",
+    "randtilfeller": "3 foretak bærer en innstillingskunngjøring 111–177 dager før sin åpning (rester av et tidligere konkursløp der åpningen er utløpt hos kilden); alle tre har også innstilling etter åpningen og klassifiseres på den. 7 foretak i kohorten har en kunngjøring om fortsettelse av bobehandling; de 351 åpne har ingen insolvenshendelse etter åpningen.",
+    "juridisk_presisjon": "«Innstilt» = bobehandlingen innstilt etter konkursloven § 135 fordi boets midler ikke dekker omkostningene ved fortsatt bobehandling — uten utbetaling fra boet til kreditorene. Det betyr ikke at enhver kreditor fikk null: pantsikrede krav dekkes i stor grad utenfor boet, og lønnskrav kan dekkes av den statlige lønnsgarantiordningen (lønnsgarantiloven § 1 første ledd)."
+  },
+  "dedupliseringsregler": {
+    "aapningssiden": "Én og samme konkursåpning kunngjøres to ganger i det offentlige kunngjøringsmaterialet. Alt telles derfor på distinkte foretak, med globalt første åpning som kohortinngang; telling på kunngjøringsrader ville gitt om lag dobbelt antall.",
+    "utfallssiden": "Innstillinger kunngjøres i praksis én gang (9 978 av 9 979 foretak fra ett register); dublettproblemet gjelder åpningssiden.",
+    "kjent_begrensning": "De to kopiene av samme åpning kollapses til én rad ved innlesning; en kopi-mot-kopi-konsistenstest kan derfor ikke kjøres i ettertid."
+  },
+  "bransjekart": {
+    "versjon": "v3, datert 2026-08-30",
+    "fil": "bransjekart-v3_2026-08-30.json",
+    "sha256": "c6c3120deff8f0465f32b707ba602fa4e33731808b8f660b51b65b1d867eabd2",
+    "kilder": [
+      "Statistisk sentralbyrå, Klass klassifikasjon 6 versjon 30 (SN2007, gyldig 2009-01-01 til 2025-01-01)",
+      "Statistisk sentralbyrå, Klass versjon 3218 (SN2025, fra 2025-01-01)",
+      "Statistisk sentralbyrå, Klass korrespondansetabell 2919 (SN2025 → SN2007; kildeversjon 3218, målversjon 30; merket changeTable:true; sist endret 2026-06-17; hentet 2026-08-30). ENDRINGSTABELL, ikke fullstendig kart: 1 034 rader, hvorav 241 identitetsrader, men 220 av SN2025-standardens 738 femsifrede koder mangler helt. Enhver kode uten rad håndteres som identitet. Kanonisk avtrykk sha256 dde7fae136d56a0f314a336ac3ef8db857968c517783d3a0e9b7de99696f6dec, beregnet over sorterte «sourceCode<TAB>targetCode»-linjer, LF-separert, UTF-8, uten avsluttende linjeskift; det rå API-svarets avtrykk er ikke stabilt over tid. Klass har nøyaktig ÉN korrespondansetabell mellom de to standardene, og den går SN2025 → SN2007 — retningen studien bruker.",
+      "Statistisk sentralbyrå, publiserte korrespondansefiler datert 2026-04-29 (Korrespondansetabell SN2025-SN2007_29.04.2026.xlsx, sha256 41551d7b7c4acda22d1fcac92b48f58f8febfd435075f2d2b8f5eaad2a05ccf9; og SN2007-SN2025, sha256 e7b4f250c727afabe787a802162dd7ef8be546a1a8201fee5f72c4f512fe6ed2). Et ANNET artefakt enn Klass-endepunktet: 1 251 kodepar, 461 identitetsrader, bare tre SN2025-koder uten rad. Filens ark «Endringer» dokumenterer seks daterte versjoner mellom 2025-06-23 og 2026-04-29; revisjonen 2026-04-14 splittet 43.220 i 43.221/43.222/43.223. Enhver gjenskaping må oppgi dato og versjon."
+    ],
+    "korrespondanse_presisering_2026_08_31": "Formuleringen «korrespondansetabellen lister bare koder som faktisk er endret; uendrede koder mangler helt» var for bred som generell beskrivelse og er erstattet. Begge artefaktene inneholder identitetsrader (241 henholdsvis 461). Den operative advarselen står likevel, og er for Klass-endepunktet verre enn den gamle formuleringen sa: 220 av 738 SN2025-koder finnes ikke i tabellen i det hele tatt.",
+    "prinsipp": "Næring leses alltid av åpningskunngjøringens trykte etikett (fullstendig sensus, 5 165 av 5 165), aldri av næringskoden registrert på foretaket: bare 7,6 prosent av kohorten har kode i registeret, og 99,4 prosent av de slettede mangler den.",
+    "avkorting": "Etiketten er avkortet ved 60 tegn i kilden (verifisert i materialet: maksimal lengde 60; 554 av kohortens 5 165 etiketter ligger på taket). Lange navn matches på prefiks.",
+    "flerlinjede_etiketter": "Et lite antall kunngjøringer bærer to næringslinjer i ett felt; førstelinjen leses som hovednæring (dette gjør at «Oppføring av bygninger» teller 600 bo, ikke 599).",
+    "uklassifiserbare": "155 foretak har en angivelse som ikke lar seg feste til en næring; de rapporteres som egen kategori (143 innstilt = 92,3 prosent) og omfordeles aldri.",
+    "byggdefinisjoner": {
+      "primaer": "Utførende bygg og anlegg: SN2007 41.2 (oppføring av bygninger), 42 (anleggsvirksomhet) og 43 (spesialisert bygge- og anleggsvirksomhet) — uten 41.1 (eiendomsutvikling). 1 280 åpninger, 911 innstilt (71,2 prosent).",
+      "sekundaer": "Hele næringsområde F (41–43): 1 411 åpninger, 1 016 innstilt (72,0 prosent). Ustabil over klassifikasjonssømmen fordi SN2025 flytter eiendomsutvikling til omsetning av fast eiendom.",
+      "kryssvalidering": "To uavhengige klassifikatorer (kaskade mot kodelistene og v3-kartets flagg) er kjørt mot hverandre: null uenige foretak."
+    },
+    "klassifikasjonssom": "SN2025 innføres i registrene 2025-09-01 (820 koder blir «736» slik byrået selv oppgir det i sin prosa; byråets egen maskinlesbare kodeliste i Klass, SN2025 versjon 3218 hentet 2026-08-30, inneholder 738 femsifrede koder — avviket på to koder ligger mellom byråets prosa og byråets artefakt og er fotnotert, ikke rettet bort; gradvis innfasing i statistikkene 2026–2029). Kohortvinduet er vintage-rent: null åpninger etter sømmen. Serier som krysser sømmen (modningskurve, kalibrering) fører SN2025-etiketten for utvikling og salg av byggeprosjekter tilbake til SN2007-plasseringen slik korrespondansetabellen foreskriver; uten tilbakeføringen faller byggserien kunstig med om lag ti prosent etter 2025K3."
+  },
+  "domstolsnormalisering": {
+    "prinsipp": "Rettskretsen leses alltid av åpningskunngjøringen, aldri av utfallskunngjøringen.",
+    "vinduet": "23 rettskretser i kohortvinduet (som ligger helt inne i 23-kretsperioden etter reformen 26. april 2021). Navn og domstolskode i saksnummeret er en perfekt én-til-én-avbildning: 5 164 parsebare rader, null uenigheter; den ene resten er en skrivefeil i kilden som fanges av leseform uten forskjell på store og små bokstaver.",
+    "navnedrift": "Fra 10. juni 2025 ble seks tingretter delt i elleve nye. Utfallskunngjøringer etter delingen bærer etterfølgerens navn — 146 av 3 897 innstilte saker (3,7 prosent), null kodebytter. Gruppering på utfallsradens navn ville konstruert domstoler som bare kan ha mottatt de tregeste sakene; all domstolsstatistikk er derfor forankret i åpningsraden.",
+    "publiseringsgrense": "Kun kretser med minst 100 saker publiseres: 16 av 23 kretser, 4 698 saker (91,0 prosent av kohorten).",
+    "parallellnavn": "Én krets står i kunngjøringene bare med nordsamisk navn: Sis- ja Nuorta-Finnmárkku diggegoddi. Norsk parallellform Indre og Østre Finnmark tingrett skal stå i enhver fulltabell."
+  },
+  "statistiske_konvensjoner": {
+    "avrunding": "Andeler med én desimal (3 897 / 5 165 = 75,45015 prosent → 75,5 — aldri 75,4). Antall som eksakte heltall. Dager i hele dager; medianer over et partall observasjoner kan ende på et halvt døgn.",
+    "konfidensintervaller": "Eksakte binomiske Clopper–Pearson 95 prosent, én desimal.",
+    "tester": "Forskjeller mellom andeler: khikvadrat med Yates' kontinuitetskorreksjon; konfidensintervall for differanser: Newcombes metode; små celler: Fishers eksakte toveistest.",
+    "varighet": "Estimatorhierarki, fast fra 2026-08-31: (1) PRIMÆR — kumulativ insidens (Aalen–Johansen) med ordinær avslutning som konkurrerende hendelse, med log(−log)-KI og kvantilintervaller ved testinversjon kontrollert mot 2 000 bootstrap-replikater; (2) SEKUNDÆR — årsaksspesifikk Kaplan–Meier, som estimerer en netto årsaksspesifikk sviktfordeling (ikke den observerte kumulative sannsynligheten) og som IKKE er hovedtallet for tid til innstilling; (3) DESKRIPTIV — rå median over fullførte saker, alltid merket og aldri brukt som sammenlikningsgrunnlag for et kumulativ-insidens-tall. Gruppeforskjeller: Grays test og fasthorisont-risikodifferanse som primær, rettskrets-stratifisert logrank og Peto/Mantel–Haenszel-hasardratio i tillegg, med Cox (Breslow-ties) og klynge-robust varians som følsomhetskontroll. Proporsjonalitetsantakelsen prøves med Grambsch–Therneau-type scoretest på Schoenfeld-residualene og FORKASTES; hasardratioen rapporteres derfor som et vektet gjennomsnitt over oppfølgingen sammen med en tidsdelt analyse. Permutasjonsvalidering med 100 000 omstokkinger innenfor rettskrets, brukt til å validere at nullfordelingen er standard normalfordelt — ikke til å bekrefte den asymptotiske p-verdien, som ligger under oppløsningsgrensen 1/(B+1). Ingen Cox-modell med flere kovariater og ingen Fine–Gray-regresjon er kjørt; hasardratioen er justert for rettskrets og ingenting annet. Gjennomsnitt beregnes aldri for varigheter.",
+    "multiplisitet": "Familier av sammenlikninger — de 120 parvise domstolskontrastene og de 16 «én krets mot resten»-testene — korrigeres med Holm–Bonferroni, og både rå og korrigert p-verdi oppgis. En hierarkisk random-effects-modell estimeres som supplement. Enkeltstående forhåndsbestemte kontraster (bygg mot øvrige) korrigeres ikke.",
+    "simulering": "Bootstrap: 2 000 replikater for varighetskvantiler. Permutasjon: 20 000–100 000 omstokkinger. Generator mulberry32, fast frø 20260830; alle utfallsfiler verifisert byte-identiske over to kjøringer.",
+    "reproduksjon": "Alle bærende tall er reprodusert i minst to uavhengige beregningsveier (flere i fire); enkeltkjørte støttetall er merket i studiens kapittel 13.9. Uavhengig tallrevisjon 2026-08-30 har i tillegg reprodusert kohorttrioen, fingeravtrykket, alle publiserte konfidensintervaller, testverdiene, domstolshomogeniteten og tellingen av parvise ikke-overlappende intervaller."
+  },
+  "inferensmaal": {
+    "endelig_populasjon": "Kohortandelen er eksakt for den observerte endelige kohorten: 3 897 av 5 165 er den faktiske andelen i den faste historiske mengden bo studien følger. Dersom hvert tilfelle er observert og korrekt klassifisert, finnes det ingen utvalgsusikkerhet om det deskriptive tallet.",
+    "superpopulasjon": "Konfidensintervaller og tester er modellbaserte inferenssammendrag for en videre prosess av sammenliknbare norske aksjeselskapskonkursbo — framtidige åpningskohorter, en konseptuell superpopulasjon, og måleusikkerhet i klassifiseringen.",
+    "avhengighetsstruktur": "De binomiske intervallene forutsetter uavhengige bo. Boene er klynget etter rettskrets, åpningsmåned og næring, og deler makroøkonomiske forhold; enkel iid-binomisk usikkerhet kan derfor være optimistisk. Målt i det ene tilfellet der klyngestrukturen er tydeligst: klynge-robust varians for hasardratioen (rettskrets, 23 klynger) utvider intervallet fra [0,734; 0,853] til [0,724; 0,866], om lag 30 prosent. Klynget bootstrap for hovedandelene er IKKE kjørt.",
+    "analysestatus": "Eksplorativ/forklarende førstestudie, ikke bekreftende. Flere kohortvinduer, to byggdefinisjoner, flere sensureringsregler, seks byggfag, 16 rettskretser, 120 mulige domstolspar, tre varighetsestimatorer og ulike publiseringsterskler er undersøkt, og kohortkuttet er lest av den observerte modningskurven. Analysen var dermed ikke fullt ut forhåndsspesifisert uavhengig av de observerte utfallene.",
+    "frosne_regler": "Primærhorisont 24 måneder; primær byggdefinisjon utførende bygg og anlegg (SN2007 41.2 + 42 + 43); primærestimator Aalen–Johansen; primær gruppekontrast Grays test og fasthorisont-risikodifferanse; publiseringsgrense 100 saker per rettskrets; minstecelle ti. Frosset 2026-08-31 slik at studien kan gjentas urørt på en senere åpningskohort. Den gjentakelsen er ikke gjort.",
+    "tilfoyd": "2026-08-31, etter fagfellevurderingens punkt 20 og 22."
+  },
+  "reproduserbarhet_grense": {
+    "kan_etterproves_eksternt": [
+      "aritmetikken på alle publiserte aggregater",
+      "intern logisk konsistens",
+      "telle-konkordansen mot offisiell statistikk (teller og nevner er publisert)",
+      "de rapporterte metodereglene",
+      "at en senere kjøring treffer nøyaktig samme kohort, via kohortavtrykket"
+    ],
+    "kan_ikke_etterproves_eksternt": [
+      "kohortmedlemskapet",
+      "koblingen av den enkelte utfallskunngjøringen til riktig åpning",
+      "eventuelle utelatelser i kilden",
+      "næringskartleggingen på foretaksnivå",
+      "domstolstilordningen",
+      "overlevelses- og kumulativ-insidens-kurvene",
+      "hasardratioen",
+      "de påberopte uavhengige reproduksjonene"
+    ],
+    "merknad": "Skillet mellom internt rapporterte og uavhengig verifiserte fakta skal forbli eksplisitt. For sterkere vitenskapelig status trengs minst ett av: avidentifisert forskningsdatasett på hendelsesnivå, uavhengig tredjepartstilgang under konfidensialitet, deponert reproduserbarhetspakke, ekstern revisjonsrapport som kjører analysen på nytt fra kildedata, eller et stratifisert utvalg kildekunngjøringer med blind adjudikasjon. Ingen av dem foreligger."
+  },
+  "personvern_og_minsteceller": {
+    "regel": "Alt som publiseres er aggregater; ingen foretak, personer eller bostyrere identifiseres. Hver celle i publiserte tabeller, figurer og nedlastbare filer har minst ti observasjoner; kategorier under grensen slås sammen i restkategorier eller utelates.",
+    "presisering": "Metodeteksten omtaler i tillegg et fåtall tellinger under ti (f.eks. de seks boene med både innstillings- og avslutningskunngjøring) som utelukkende beskriver kunngjøringsstrukturen i offentlig kunngjorte hendelser og ikke eksponerer noen opplysning utover det offentlig kunngjorte.",
+    "kohortfrys": "Kohorten er frosset som kryptografisk fingeravtrykk, ikke som foretaksliste."
+  },
+  "ssb_kalibrering": {
+    "prinsipp": "Statistisk sentralbyrå eier universet av konkursåpninger; studien eier boets utfall. Kalibreringen viser at boene med utfall er praktisk talt hele populasjonen av aksjeselskapskonkurser i perioden. Tallene er TELLEFORHOLD mellom to separat definerte og potensielt revisjons-asynkrone tellinger, ikke dekningsgrader: dekning kan per definisjon ikke overstige 100 prosent. Forholdstall litt over 100 er revisjonsetterslep og avgrensningsforskjell. Riktige ord er telleforhold, telle-konkordans, tallmessig samsvar eller ekstern kalibreringsratio; «100,4 prosents dekning» skal ikke brukes noe sted. Presisert 2026-08-31 etter fagfellevurderingens punkt 17; teller og nevner er nå publisert for hver rad.",
+    "tabeller": [
+      "Statistikkbanken 07165 (konkurser etter region, næring, organisasjonsform, kvartal)",
+      "Statistikkbanken 09122 (opna konkursar etter næring, konkurstype, kvartal)"
+    ],
+    "resultater": {
+      "as_asa_hele_perioden_2023K3_2026K2": {
+        "vaart": 11174,
+        "offisielt": 11132,
+        "forhold_pst": 100.4,
+        "kvartalsvis_spenn_pst": [
+          99.2,
+          102.9
+        ]
+      },
+      "alle_orgformer": {
+        "vaart": 11174,
+        "offisielt": 12790,
+        "forhold_pst": 87.4,
+        "merknad": "Rettet 2026-08-31: differansen er 1 658 åpninger, hvorav 1 530 enkeltpersonforetak = 92,3 prosent — IKKE 100. De øvrige 128 er NUF (54), «Andre» (70) og ansvarlige selskaper (4). Verifisert mot SSB statistikkbanktabell 07165, hentet 30.08.2026. AS 11 126 + ASA 6 = 11 132 = 87,0 prosent av 12 790 åpninger i perioden."
+      },
+      "foretakskonkurser_ekskl_enk_kohortkvartalene_2023K4_2024K4": {
+        "vaart": 4838,
+        "offisielt": 4903,
+        "vaart_bygg": 1322,
+        "offisielt_bygg": 1337,
+        "dekning_pst": 98.7,
+        "dekning_bygg_pst": 98.9,
+        "byggandel_vaar_pst": 27.33,
+        "byggandel_ssb_pst": 27.27,
+        "restkategori_ikke_opplyst": {
+          "ssb": 110,
+          "vaar": 109
+        }
+      },
+      "bygg_hele_perioden_med_sn2007_tilbakeforing": {
+        "vaart": 2917,
+        "offisielt": 2910,
+        "forhold_pst": 100.2,
+        "uten_tilbakeforing_pst": 97.1
+      },
+      "underdekkede_kvartaler": {
+        "2023K1_pst": 50.6,
+        "2023K2_pst": 84.8,
+        "merknad": "Eldre kunngjøringer er ikke lenger tilgjengelige hos kilden; kohortvinduet kan derfor ikke begynne tidligere enn 2023-09-01."
+      }
+    },
+    "indre_dekningsprove": "Av 4 814 bo med utfallskunngjøring er 4 799 (99,7 prosent) slettet i registeret. Av de 351 åpne har null en slettingskunngjøring og to er slettet: øvre grense for tapte utfall er om lag 2 av 5 165 = 0,04 prosent. Innstillingsserien er sammenhengende: hver måned 2023-09 til 2026-07 har 18–23 kunngjøringsdager og 135–349 foretak; lavpunktene i august er rettsferien. 1 441 av 9 979 foretak med innstilling (14,4 prosent) mangler åpningskunngjøring i materialet — derfor bygges kohorten alltid fra åpningssiden."
+  },
+  "frosne_uttrekk_sha256": {
+    "merknad": "sha256 per frys 2026-08-30. Filene som tallrevisjonen fant stridende mot minstecelle-regelen eller tre-tilstandsformen, er reassemblert av sluttredaksjonen 2026-08-30 (to utfallskolonner — innstilt og ikke innstilt — begge minst ti, ellers restrad; domstolstabeller kun kretser med minst 100 saker); reassembleringen er assertert mot talljournalens kanoniske tall før skriving (kvittering: data/sluttred-reassemblering-2026-08-30.json).",
+    "filer": [
+      {
+        "fil": "data/kontroll-kjerne-2026-08-30.json",
+        "sha256": "ba0a85ab27774c0b5a7d0bcdd92c47605269e01cee571a009a80c2190de3f3c8",
+        "status": "OK — kontrollørens frosne resultat"
+      },
+      {
+        "fil": "data/kohort-hovedtall-2026-08-30.csv",
+        "sha256": "743e33685b33c5fa35b9cbc63a0d0b7c943cd728af7d73d97271bf12f84e3d79",
+        "status": "OK — kanoniske hovedtall med konfidensintervaller"
+      },
+      {
+        "fil": "data/kohort-vindusfolsomhet-2026-08-30.csv",
+        "sha256": "1123d63b98ba13649708df7b4d0066507d42382571265f84d0d37d6615722504",
+        "status": "OK"
+      },
+      {
+        "fil": "data/kohort-varighet-raa-2026-08-30.csv",
+        "sha256": "b7f5464c48cfa6ae7c56140b2d722b6cd8f84a13693dce5cbaae6c4b8cf43a51",
+        "status": "OK"
+      },
+      {
+        "fil": "data/kohort-varighet-stratifisert-2026-08-30.csv",
+        "sha256": "a8b87c226f6da09b55eae00c034ca09814540f671ebcaa30807feebe1b0472fa",
+        "status": "OK — 19 strata, vektet differanse +38,4 dager reprodusert"
+      },
+      {
+        "fil": "data/innstillingsserie-manedsdekning-2026-08-30.csv",
+        "sha256": "3fc1fab060c4982e3bfc680aebdf2f300527755b4ed8006dc8b2f64aaac468b3",
+        "status": "OK"
+      },
+      {
+        "fil": "data/ssb-kalibrering-2026-08-30.csv",
+        "sha256": "7e89f54664874df6498ee44f653c482b8ce9307b366a0b29954a4580b6cf28d8",
+        "status": "OK — 07165-kalibreringen"
+      },
+      {
+        "fil": "data/bransje-ssb-kalibrering_2026-08-30.json",
+        "sha256": "edb63a8037d192824253fedc62e7573add51393ab80a6db2fa5c8db774b809e2",
+        "status": "OK — 09122-kalibreringen med kohortkvartalene 2023K4–2024K4"
+      },
+      {
+        "fil": "data/bransje-sensitivitet_2026-08-30.json",
+        "sha256": "a85bf77d2b4acb5db373ecade0b72f49a0ec2905eeb98bb3138d76337a47d6fa",
+        "status": "OK — sensitivitetskurven; gjelder områdedefinisjonen (krysningspunkt x = 1,53)"
+      },
+      {
+        "fil": "data/bransje-rekontroll_2026-08-30.json",
+        "sha256": "3660576cf07f7c613735404202600334adceff90b0d27bc539077943af6c0f83",
+        "status": "OK — uavhengig rekontroll"
+      },
+      {
+        "fil": "data/bransjekart-v3_2026-08-30.json",
+        "sha256": "c6c3120deff8f0465f32b707ba602fa4e33731808b8f660b51b65b1d867eabd2",
+        "status": "OK — kanonisk kart v3"
+      },
+      {
+        "fil": "data/kohort-per-bransje-2026-08-30.csv",
+        "sha256": "0d007689ecb770be61375b7120f0709b0e419d77bc6f8b86764ff9bb4c8eb3a8",
+        "status": "REASSEMBLERT 2026-08-30 — kanonisk kart v3, førstelinjereparasjon (Oppføring 593/409, kode 41.200), alle celler >= 10"
+      },
+      {
+        "fil": "data/kohort-per-tingrett-2026-08-30.csv",
+        "sha256": "fd562e1a43860167f30e11186c6bde0e733a44db1a23b5171addba36adb61c47",
+        "status": "REASSEMBLERT 2026-08-30 — kun de 16 kretsene med n >= 100, alle celler >= 22"
+      },
+      {
+        "fil": "figurer/F1-byggfag-innstillingsandel_2026-08-30.csv",
+        "sha256": "21897a1f09a18f918979d6bf7d147854c82903597799281110ac294471c127eb",
+        "status": "REASSEMBLERT 2026-08-30 — to utfallskolonner, fag under grensen i restrad, de seks figurfagene merket; vindu 2023-08-24..2024-12-31 (byggfagtabellens vindu, jf. kapittel 7)"
+      },
+      {
+        "fil": "figurer/F5-ssb-kalibrering-bransje_2026-08-30.csv",
+        "sha256": "5495109ef0aeea28482c2853f3d5417d7f4512e39dccf51198a1da82c82a8965",
+        "status": "OK — figurgrunnlag kalibrering; egne uoppgitt-celler under ti (kun de to underdekkede kvartalene 2023K1/K2, utenfor det observerbare vinduet) er maskert «<10»; byråets egne publiserte tall står urørt"
+      },
+      {
+        "fil": "figurer/modningskurve-risikomengde-2026-08-30.csv",
+        "sha256": "994354a26572122b43949ace29d7271c5ea74cf4b41a2aa0718639cc88736a2d",
+        "status": "OK"
+      },
+      {
+        "fil": "figurer/modningskurve-naiv-per-kvartal-2026-08-30.csv",
+        "sha256": "79c73f80b4292069beaa84d84a36cd3178a481244f2e2594fdccae07cc484474",
+        "status": "OK — 2026K3 (ufullstendig delkvartal) er strøket fra fila, ikke bare fra figuren"
+      },
+      {
+        "fil": "figurer/historisk-maalepunkter-2026-08-30.csv",
+        "sha256": "99bcbc1d98f333eea360aace9c4ceb6692398d3fdecf0f50df0dfaf4fe62d3bc",
+        "status": "UTVIDET OG OMDØPT 2026-08-30 (erstatter historisk-trepunktslinje-2026-08-30.csv, sha256 85f9faf6…): registeret bærer nå hver offentlige tallfesting med kilde, målt størrelse, nevnertype og et plottes-flagg. Kun de tre kohort-sammenliknbare punktene (1976, 1996, 2023/24) har plottes=ja; proposisjonens råtall for 1999/2000/2002/1H2003, andelen av avslutningene, undergruppeandelene etter rekvirenttype og 2010–2019-andelen står som kontekstrader med plottes=nei. Begge historiske punkter fortsatt VERIFISERT ordrett | Verifikasjonen 30.08.2026 la til én kontekstrad: Prop. 56 L (2025–2026) punkt 2.6.2 (tilråding 27.03.2026) gjentar 90-prosenttallet; plottes=nei. Fila har nå 23 rader."
+      },
+      {
+        "fil": "figurer/fossefall-per-1000-bo-2026-08-30.csv",
+        "sha256": "da064183026a0e1fef28ae4897c4cb5dec8c0776cd8763d81236346df1a684f8",
+        "status": "REASSEMBLERT 2026-08-30 — tre gjensidig utelukkende utfall (3 897/917/351; per 1 000: 755/178/68), de seks dobbeltkunngjorte som annotasjonskolonne"
+      },
+      {
+        "fil": "data/PUBLISERBAR-per-bransje-2026-08-30.csv",
+        "sha256": "0d007689ecb770be61375b7120f0709b0e419d77bc6f8b86764ff9bb4c8eb3a8",
+        "status": "OK — publiserbar bransjetabell, kanonisk vindu, alle celler >= 10"
+      },
+      {
+        "fil": "data/PUBLISERBAR-per-tingrett-2026-08-30.csv",
+        "sha256": "fd562e1a43860167f30e11186c6bde0e733a44db1a23b5171addba36adb61c47",
+        "status": "OK — publiserbar domstolstabell, 16 kretser med n >= 100, alle celler >= 22"
+      },
+      {
+        "fil": "data/PUBLISERBAR-bygg-per-tingrett-2026-08-30.csv",
+        "sha256": "a675c6537049aa6a71a6e9041f3a347675cf7e2d6b1a59fbac1cb3bc0ca9cb41",
+        "status": "OK — byggsplitt per krets; Nord-Troms og Senja strøket (celle under 10)"
+      },
+      {
+        "fil": "data/bransje-kohortaggregat-A_2026-08-30.csv",
+        "sha256": "1360c68f74fd8c065b9242d3399406e0ab27bb0d0143e674d3032d99dbd2578c",
+        "status": "OK — kvartal x næring med restrad per kvartal, alle celler >= 10"
+      },
+      {
+        "fil": "data/kohort-sammendrag-2026-08-30.json",
+        "sha256": "b63dbf45610a7ab42b712175291a58c83cb4f021694a9a7e8c1d55f8259c1dbc",
+        "status": "OK — refrosset på kanonisk klassifisering (kaskade + kart v3): bygg 1 280/1 411, uklassifiserbar 155"
+      },
+      {
+        "fil": "data/kohort-aggregatkube-2026-08-30.csv",
+        "sha256": "b2c8a0d45bc06e3b89de7c1659b9bb36b9e6ab9360426b06bf0b4669af358c93",
+        "status": "OK — kvartal x byggflagg x utfall, kun celler >= 10, kanoniske byggflagg"
+      },
+      {
+        "fil": "figurer/domstol-modningskurve-cif.tsv",
+        "sha256": "aa7b0ceaa5cfb2733bc4c86c241f5c137ea7198b492ce48529682132f43a0956",
+        "status": "REGENERERT 2026-08-30 på kanonisk byggdefinisjon (utførende, 1 280) og kanonisk utfallsregel — reproduserer 50 % ved 267/205 dager, 60 % ved 389/292, 57,2/65,2 prosent ved ett år"
+      },
+      {
+        "fil": "figurer/domstol-punktdiagram.tsv",
+        "sha256": "9ec32412e878e9d54ed5d02e74b956f631638857b8fed6a9635b2171dba1af26",
+        "status": "OK — 16 kretser n >= 100; byggandel-kolonnen regenerert på primærdefinisjonen (spenn 15,7–34,8 prosent)"
+      },
+      {
+        "fil": "data/sluttred-reassemblering-2026-08-30.json",
+        "sha256": "297eea75bd14e0e4b7592dbb110c3e744fb7d8d7798fb92ae9a2d82f24face9e",
+        "status": "OK — reassembleringskvittering med kontrollutfall og sha256 per fil"
+      }
+    ]
+  },
+  "revisjon_fagfelle_2026_08_31": {
+    "dato": "2026-08-31",
+    "utloser": "Ekstern fagfellevurdering 2026-08-30 (kilder/FAGFELLEVURDERING-2026-08-30.md), dom: MAJOR REVISION med tjue obligatoriske punkter. Alle tjue er gjennomført, sammen med tre tilleggsmerknader.",
+    "ingen_kjernetall_endret": "En maskinell vakt asserterte de tolv låste kjernetallene (5 165 / 3 897 / 75,5 % / 917 / 351 / 6 / 1 280 / 911 / 71,2 % / 3 885 / 2 986 / 76,9 %) før revisjonen ble skrevet inn: 0 brudd. Også 62,4 % og 38,4 dager står uendret.",
+    "skript": [
+      "rev2-00-lib.mjs",
+      "rev2-01-validering.mjs",
+      "rev2-02-kumulativ-insidens.mjs",
+      "rev2-03-gray-og-risikodifferanse.mjs",
+      "rev2-04-presisjon-hr-og-ph.mjs",
+      "rev2-05-differensiell-sensitivitet.mjs",
+      "rev2-06-domstolskontraster.mjs",
+      "rev2-07-standardisering.mjs",
+      "rev2-08-permutasjon.mjs"
+    ],
+    "alle_beregninger_paa": "det frosne kohortuttrekket data/_kohort-rader-arbeidskopi.json — ingen ny databasespørring",
+    "utfallsfiler_byte_deterministiske": true,
+    "grays_test": {
+      "U": -157.506,
+      "V": 771.464,
+      "z": -5.671,
+      "khikvadrat_1df": 32.157,
+      "p": 1.4219141197813201e-08
+    },
+    "risikodifferanser": [
+      {
+        "horisont": "12 mnd",
+        "rd_pp": -8.06,
+        "ki95_pp": [
+          -11.16,
+          -4.97
+        ],
+        "rr": 0.8763,
+        "rr_ki95": [
+          0.8312,
+          0.9237
+        ]
+      },
+      {
+        "horisont": "18 mnd",
+        "rd_pp": -6.66,
+        "ki95_pp": [
+          -9.59,
+          -3.74
+        ],
+        "rr": 0.9094,
+        "rr_ki95": [
+          0.8712,
+          0.9493
+        ]
+      },
+      {
+        "horisont": "24 mnd",
+        "rd_pp": -5.7,
+        "ki95_pp": [
+          -8.56,
+          -2.83
+        ],
+        "rr": 0.9253,
+        "rr_ki95": [
+          0.8891,
+          0.963
+        ]
+      }
+    ],
+    "cif_medianer_med_ki": {
+      "bygg": {
+        "median_dager": 267,
+        "ki95_testinversjon": [
+          245,
+          302
+        ],
+        "ki95_bootstrap": [
+          245,
+          304
+        ],
+        "risikomengde_ved_median": 565
+      },
+      "ovrige": {
+        "median_dager": 205,
+        "ki95_testinversjon": [
+          196,
+          217
+        ],
+        "ki95_bootstrap": [
+          196,
+          217
+        ],
+        "risikomengde_ved_median": 1820
+      },
+      "differanse": {
+        "estimand": "differansen mellom de to gruppenes CIF-medianer (tid til 50 % innstilt)",
+        "verdi_dager": 62,
+        "ki95_bootstrap": [
+          36,
+          98
+        ],
+        "risikodifferanse_24mnd_pp": -5.7,
+        "risikodifferanse_24mnd_ki95_bootstrap_pp": [
+          -8.57,
+          -2.6
+        ]
+      }
+    },
+    "hasardratio_med_ki": {
+      "estimand": "årsaksspesifikk hasardratio for § 135-innstilling, bygg mot øvrige, med ordinær avslutning behandlet som sensurering",
+      "peto_ett_stegs": {
+        "hr": 0.8002,
+        "ki95": [
+          0.7452,
+          0.8594
+        ],
+        "z": -6.128,
+        "p": 8.904266213249912e-10,
+        "O": 910,
+        "E": 1078.52,
+        "OE": -168.52,
+        "V": 756.25,
+        "strata": 23,
+        "hendelsestider": 2613
+      },
+      "cox_breslow": {
+        "hr": 0.7916,
+        "beta": -0.2336,
+        "se": 0.0383,
+        "ki95": [
+          0.7344,
+          0.8534
+        ],
+        "z": -6.099,
+        "p": 1.0648895099052424e-09,
+        "strata": 23
+      },
+      "cox_klyngerobust": {
+        "klynge": "rettskrets",
+        "antall_klynger": 23,
+        "robust_se": 0.0455,
+        "ki95": [
+          0.7241,
+          0.8655
+        ],
+        "z": -5.134,
+        "p": 2.843118283024637e-07,
+        "merknad": "Med 23 klynger er den robuste variansen selv usikker; den oppgis som følsomhetskontroll, ikke som primærintervall."
+      },
+      "ustratifisert": {
+        "hr": 0.8088,
+        "ki95": [
+          0.7538,
+          0.8679
+        ],
+        "z": -5.903
+      }
+    },
+    "proporsjonalitetsdiagnostikk": {
+      "metode": "Grambsch–Therneau-type scoretest for θ i β(t) = β + θ(g(t) − ḡ), basert på Schoenfeld-residualene fra den stratifiserte Cox-modellen. χ²(1).",
+      "rang_transform": {
+        "khikvadrat": 20.316,
+        "df": 1,
+        "p": 6.566480067027314e-06,
+        "korrelasjon": 0.0722,
+        "hendelser": 3894
+      },
+      "log_transform": {
+        "khikvadrat": 19.475,
+        "df": 1,
+        "p": 1.0192972827560709e-05,
+        "korrelasjon": 0.0709
+      },
+      "tidsdelt_hr": [
+        {
+          "fra": 0,
+          "til": 180,
+          "n_i_risiko_ved_start": 5165,
+          "hendelser": 2251,
+          "hr": 0.706,
+          "ki95": [
+            0.643,
+            0.776
+          ],
+          "z": -7.23,
+          "p": 4.731770530952417e-13,
+          "V": 432.58
+        },
+        {
+          "fra": 180,
+          "til": 365,
+          "n_i_risiko_ved_start": 2785,
+          "hendelser": 1012,
+          "hr": 0.927,
+          "ki95": [
+            0.807,
+            1.065
+          ],
+          "z": -1.06,
+          "p": 0.2870065671881368,
+          "V": 199.45
+        },
+        {
+          "fra": 365,
+          "til": 730,
+          "n_i_risiko_ved_start": 1472,
+          "hendelser": 587,
+          "hr": 0.982,
+          "ki95": [
+            0.818,
+            1.178
+          ],
+          "z": -0.2,
+          "p": 0.8417531005437584,
+          "V": 115.51
+        },
+        {
+          "fra": 730,
+          "til": null,
+          "n_i_risiko_ved_start": 292,
+          "hendelser": 44,
+          "hr": 0.902,
+          "ki95": [
+            0.464,
+            1.751
+          ],
+          "z": -0.31,
+          "p": 0.7596205457804608,
+          "V": 8.71
+        }
+      ],
+      "tolkning": "PH-antakelsen forkastes. HR 0,80 skal presenteres som et VEKTET GJENNOMSNITT av en tidsvarierende hasardratio over oppfølgingen, ikke som en konstant."
+    },
+    "differensielle_grenser": {
+      "vippepunkter": {
+        "ved_0_pst_i_ovrige": {
+          "kreves_i_bygg_pst": 65.6,
+          "som_antall_av_111": 73
+        },
+        "ved_25_pst_i_ovrige": {
+          "kreves_i_bygg_pst": 83.4,
+          "som_antall_av_111": 93
+        },
+        "ved_50_pst_i_ovrige": {
+          "kreves_i_bygg_pst": null,
+          "mulig": false
+        }
+      },
+      "umulighetsgrense": {
+        "formel": "x_O ≥ [ nO·(eB + uB)/nB − eO ] / uO",
+        "grense_pst": 48.3,
+        "som_antall_av_240": 116,
+        "tolkning": "Blir mer enn 48.3 % av øvriges uavgjorte bo innstilt, kan bygg ikke passere øvrige uansett hva som skjer med byggs egne uavgjorte bo."
+      },
+      "verste_tilfelle": {
+        "scenario": "alle 111 uavgjorte byggbo blir § 135; ingen av de 240 øvrige gjør det",
+        "bygg": [
+          1022,
+          1280,
+          79.84
+        ],
+        "ovrige": [
+          2986,
+          3885,
+          76.86
+        ],
+        "differanse_pp": 2.98,
+        "newcombe95_pp": [
+          0.36,
+          5.49
+        ],
+        "rekkefolgen_snur": true,
+        "paakrevd_formulering": "Rekkefølgen kan ikke snus under noen FELLES eventuell § 135-rate anvendt på uavgjorte bo i begge grupper. Den kan snus under tilstrekkelig ulike rater: i det ytterste tilfellet, der alle uavgjorte byggbo blir innstilt og ingen av de øvrige gjør det, blir byggandelen 79.8 % mot 76.9 %."
+      },
+      "signifikansgrense": {
+        "k": 39,
+        "p": 0.05843200615683645,
+        "andel_bygg_pst": 74.22
+      },
+      "empirisk_anker": [
+        {
+          "bygg": {
+            "landemerke_dag": 365,
+            "vindu_dager": 365,
+            "n_uavgjorte_ved_L": 313,
+            "fikk_135": 118,
+            "fikk_ordinaer_avslutning": 107,
+            "fortsatt_uavgjort_ved_slutt": 88,
+            "andel_135_pst": 37.7,
+            "clopper_pearson95_pst": [
+              32.31,
+              43.32
+            ]
+          },
+          "ovrige": {
+            "landemerke_dag": 365,
+            "vindu_dager": 365,
+            "n_uavgjorte_ved_L": 765,
+            "fikk_135": 318,
+            "fikk_ordinaer_avslutning": 245,
+            "fortsatt_uavgjort_ved_slutt": 202,
+            "andel_135_pst": 41.57,
+            "clopper_pearson95_pst": [
+              38.05,
+              45.15
+            ]
+          },
+          "differanse_pp": -3.87,
+          "newcombe95_pp": [
+            -10.14,
+            2.61
+          ],
+          "fisher_p": 0.24598413295221622
+        },
+        {
+          "bygg": {
+            "landemerke_dag": 548,
+            "vindu_dager": 182,
+            "n_uavgjorte_ved_L": 162,
+            "fikk_135": 36,
+            "fikk_ordinaer_avslutning": 38,
+            "fortsatt_uavgjort_ved_slutt": 88,
+            "andel_135_pst": 22.22,
+            "clopper_pearson95_pst": [
+              16.08,
+              29.41
+            ]
+          },
+          "ovrige": {
+            "landemerke_dag": 548,
+            "vindu_dager": 182,
+            "n_uavgjorte_ved_L": 395,
+            "fikk_135": 77,
+            "fikk_ordinaer_avslutning": 116,
+            "fortsatt_uavgjort_ved_slutt": 202,
+            "andel_135_pst": 19.49,
+            "clopper_pearson95_pst": [
+              15.7,
+              23.75
+            ]
+          },
+          "differanse_pp": 2.73,
+          "newcombe95_pp": [
+            -4.36,
+            10.61
+          ],
+          "fisher_p": 0.48722498849471035
+        },
+        {
+          "bygg": {
+            "landemerke_dag": 365,
+            "vindu_dager": 236,
+            "n_uavgjorte_ved_L": 432,
+            "fikk_135": 139,
+            "fikk_ordinaer_avslutning": 97,
+            "fortsatt_uavgjort_ved_slutt": 196,
+            "andel_135_pst": 32.18,
+            "clopper_pearson95_pst": [
+              27.79,
+              36.81
+            ]
+          },
+          "ovrige": {
+            "landemerke_dag": 365,
+            "vindu_dager": 236,
+            "n_uavgjorte_ved_L": 1037,
+            "fikk_135": 360,
+            "fikk_ordinaer_avslutning": 227,
+            "fortsatt_uavgjort_ved_slutt": 450,
+            "andel_135_pst": 34.72,
+            "clopper_pearson95_pst": [
+              31.82,
+              37.7
+            ]
+          },
+          "differanse_pp": -2.54,
+          "newcombe95_pp": [
+            -7.7,
+            2.82
+          ],
+          "fisher_p": 0.3648180350491199
+        }
+      ]
+    },
+    "domstolskontraster": {
+      "holm_par": [
+        {
+          "krets_a": "HORDALAND TINGRETT",
+          "krets_b": "MØRE OG ROMSDAL TINGRETT",
+          "andel_a_pst": 66.8,
+          "andel_b_pst": 82,
+          "differanse_pp": -15.2,
+          "p_ra": 2.571175285439912e-05,
+          "p_holm": 0.0030854103425278943
+        },
+        {
+          "krets_a": "HORDALAND TINGRETT",
+          "krets_b": "OSLO TINGRETT",
+          "andel_a_pst": 66.8,
+          "andel_b_pst": 77.7,
+          "differanse_pp": -10.9,
+          "p_ra": 4.669726421406637e-05,
+          "p_holm": 0.0055569744414738975
+        },
+        {
+          "krets_a": "HORDALAND TINGRETT",
+          "krets_b": "TRØNDELAG TINGRETT",
+          "andel_a_pst": 66.8,
+          "andel_b_pst": 79.7,
+          "differanse_pp": -12.8,
+          "p_ra": 4.785736935289125e-05,
+          "p_holm": 0.005647169583641167
+        }
+      ],
+      "mot_resten": [
+        {
+          "krets": "HORDALAND TINGRETT",
+          "n": 398,
+          "andel_pst": 66.8,
+          "resten_andel_pst": 76.1,
+          "differanse_pp": -9.2,
+          "p_ra": 7.472023535224289e-05,
+          "p_holm": 0.0011955237656358863
+        },
+        {
+          "krets": "MØRE OG ROMSDAL TINGRETT",
+          "n": 245,
+          "andel_pst": 82,
+          "resten_andel_pst": 74.9,
+          "differanse_pp": 7.1,
+          "p_ra": 0.01188515407065641,
+          "p_holm": 0.17827731105984615
+        }
+      ],
+      "hierarkisk": {
+        "mu": 1.1133,
+        "tau": 0.164,
+        "andel_ved_mu_pst": 75.28,
+        "loglik": -2621.429,
+        "loglik_null": -2626.916,
+        "lrt": 10.972,
+        "p_lrt": 0.0004624246095947804,
+        "lrt_referansefordeling": "0,5·χ²(0) + 0,5·χ²(1) — τ = 0 ligger på parameterrommets rand",
+        "implisert_spenn_2tau_pst": [
+          68.7,
+          80.9
+        ]
+      },
+      "krympede_estimater": [
+        {
+          "krets": "HORDALAND TINGRETT",
+          "saker": 398,
+          "innstilt": 266,
+          "raa_andel_pst": 66.8,
+          "raa_cp95_pst": [
+            62,
+            71.4
+          ],
+          "krympet_andel_pst": 69.5,
+          "krympet_95_pst": [
+            65.7,
+            73.2
+          ],
+          "krymping_pp": 2.68,
+          "post_sanns_under_snittet": 0.999
+        },
+        {
+          "krets": "SØR-ROGALAND TINGRETT",
+          "saker": 267,
+          "innstilt": 191,
+          "raa_andel_pst": 71.5,
+          "raa_cp95_pst": [
+            65.7,
+            76.9
+          ],
+          "krympet_andel_pst": 73.1,
+          "krympet_95_pst": [
+            68.9,
+            77
+          ],
+          "krymping_pp": 1.55,
+          "post_sanns_under_snittet": 0.854
+        },
+        {
+          "krets": "TELEMARK TINGRETT",
+          "saker": 169,
+          "innstilt": 122,
+          "raa_andel_pst": 72.2,
+          "raa_cp95_pst": [
+            64.8,
+            78.8
+          ],
+          "krympet_andel_pst": 73.8,
+          "krympet_95_pst": [
+            69.1,
+            78.2
+          ],
+          "krymping_pp": 1.62,
+          "post_sanns_under_snittet": 0.731
+        },
+        {
+          "krets": "RINGERIKE, ASKER OG BÆRUM TINGRETT",
+          "saker": 310,
+          "innstilt": 224,
+          "raa_andel_pst": 72.3,
+          "raa_cp95_pst": [
+            66.9,
+            77.2
+          ],
+          "krympet_andel_pst": 73.4,
+          "krympet_95_pst": [
+            69.4,
+            77.2
+          ],
+          "krymping_pp": 1.15,
+          "post_sanns_under_snittet": 0.827
+        },
+        {
+          "krets": "SØNDRE ØSTFOLD TINGRETT",
+          "saker": 231,
+          "innstilt": 167,
+          "raa_andel_pst": 72.3,
+          "raa_cp95_pst": [
+            66,
+            78
+          ],
+          "krympet_andel_pst": 73.6,
+          "krympet_95_pst": [
+            69.3,
+            77.7
+          ],
+          "krymping_pp": 1.34,
+          "post_sanns_under_snittet": 0.775
+        },
+        {
+          "krets": "AGDER TINGRETT",
+          "saker": 321,
+          "innstilt": 235,
+          "raa_andel_pst": 73.2,
+          "raa_cp95_pst": [
+            68,
+            78
+          ],
+          "krympet_andel_pst": 74,
+          "krympet_95_pst": [
+            70.1,
+            77.7
+          ],
+          "krymping_pp": 0.77,
+          "post_sanns_under_snittet": 0.745
+        },
+        {
+          "krets": "VESTFOLD TINGRETT",
+          "saker": 273,
+          "innstilt": 200,
+          "raa_andel_pst": 73.3,
+          "raa_cp95_pst": [
+            67.6,
+            78.4
+          ],
+          "krympet_andel_pst": 74.1,
+          "krympet_95_pst": [
+            70,
+            77.9
+          ],
+          "krymping_pp": 0.82,
+          "post_sanns_under_snittet": 0.716
+        },
+        {
+          "krets": "ØSTRE INNLANDET TINGRETT",
+          "saker": 146,
+          "innstilt": 108,
+          "raa_andel_pst": 74,
+          "raa_cp95_pst": [
+            66.1,
+            80.9
+          ],
+          "krympet_andel_pst": 74.7,
+          "krympet_95_pst": [
+            69.9,
+            79.1
+          ],
+          "krymping_pp": 0.71,
+          "post_sanns_under_snittet": 0.589
+        },
+        {
+          "krets": "VESTRE INNLANDET TINGRETT",
+          "saker": 130,
+          "innstilt": 98,
+          "raa_andel_pst": 75.4,
+          "raa_cp95_pst": [
+            67.1,
+            82.5
+          ],
+          "krympet_andel_pst": 75.3,
+          "krympet_95_pst": [
+            70.4,
+            79.7
+          ],
+          "krymping_pp": -0.11,
+          "post_sanns_under_snittet": 0.489
+        },
+        {
+          "krets": "ROMERIKE OG GLÅMDAL TINGRETT",
+          "saker": 365,
+          "innstilt": 277,
+          "raa_andel_pst": 75.9,
+          "raa_cp95_pst": [
+            71.2,
+            80.2
+          ],
+          "krympet_andel_pst": 75.7,
+          "krympet_95_pst": [
+            72,
+            79.1
+          ],
+          "krymping_pp": -0.23,
+          "post_sanns_under_snittet": 0.408
+        },
+        {
+          "krets": "OSLO TINGRETT",
+          "saker": 911,
+          "innstilt": 708,
+          "raa_andel_pst": 77.7,
+          "raa_cp95_pst": [
+            74.9,
+            80.4
+          ],
+          "krympet_andel_pst": 77.3,
+          "krympet_95_pst": [
+            74.8,
+            79.7
+          ],
+          "krymping_pp": -0.45,
+          "post_sanns_under_snittet": 0.058
+        },
+        {
+          "krets": "FOLLO OG NORDRE ØSTFOLD TINGRETT",
+          "saker": 187,
+          "innstilt": 147,
+          "raa_andel_pst": 78.6,
+          "raa_cp95_pst": [
+            72,
+            84.3
+          ],
+          "krympet_andel_pst": 76.8,
+          "krympet_95_pst": [
+            72.5,
+            80.8
+          ],
+          "krymping_pp": -1.78,
+          "post_sanns_under_snittet": 0.227
+        },
+        {
+          "krets": "NORD-TROMS OG SENJA TINGRETT",
+          "saker": 106,
+          "innstilt": 84,
+          "raa_andel_pst": 79.2,
+          "raa_cp95_pst": [
+            70.3,
+            86.5
+          ],
+          "krympet_andel_pst": 76.6,
+          "krympet_95_pst": [
+            71.7,
+            81
+          ],
+          "krymping_pp": -2.67,
+          "post_sanns_under_snittet": 0.285
+        },
+        {
+          "krets": "BUSKERUD TINGRETT",
+          "saker": 226,
+          "innstilt": 180,
+          "raa_andel_pst": 79.6,
+          "raa_cp95_pst": [
+            73.8,
+            84.7
+          ],
+          "krympet_andel_pst": 77.5,
+          "krympet_95_pst": [
+            73.5,
+            81.3
+          ],
+          "krymping_pp": -2.12,
+          "post_sanns_under_snittet": 0.129
+        },
+        {
+          "krets": "TRØNDELAG TINGRETT",
+          "saker": 413,
+          "innstilt": 329,
+          "raa_andel_pst": 79.7,
+          "raa_cp95_pst": [
+            75.5,
+            83.4
+          ],
+          "krympet_andel_pst": 78.2,
+          "krympet_95_pst": [
+            74.9,
+            81.3
+          ],
+          "krymping_pp": -1.49,
+          "post_sanns_under_snittet": 0.042
+        },
+        {
+          "krets": "MØRE OG ROMSDAL TINGRETT",
+          "saker": 245,
+          "innstilt": 201,
+          "raa_andel_pst": 82,
+          "raa_cp95_pst": [
+            76.7,
+            86.6
+          ],
+          "krympet_andel_pst": 78.9,
+          "krympet_95_pst": [
+            75,
+            82.4
+          ],
+          "krymping_pp": -3.16,
+          "post_sanns_under_snittet": 0.032
+        }
+      ]
+    },
+    "standardisering": {
+      "stratatabell": [
+        {
+          "stratum": "41",
+          "bo": 724,
+          "innstilt": 514,
+          "landsrate_pst": 70.99
+        },
+        {
+          "stratum": "43",
+          "bo": 670,
+          "innstilt": 490,
+          "landsrate_pst": 73.13
+        },
+        {
+          "stratum": "47",
+          "bo": 567,
+          "innstilt": 427,
+          "landsrate_pst": 75.31
+        },
+        {
+          "stratum": "56",
+          "bo": 557,
+          "innstilt": 442,
+          "landsrate_pst": 79.35
+        },
+        {
+          "stratum": "46",
+          "bo": 261,
+          "innstilt": 189,
+          "landsrate_pst": 72.41
+        },
+        {
+          "stratum": "68",
+          "bo": 224,
+          "innstilt": 165,
+          "landsrate_pst": 73.66
+        },
+        {
+          "stratum": "45",
+          "bo": 190,
+          "innstilt": 146,
+          "landsrate_pst": 76.84
+        },
+        {
+          "stratum": "49",
+          "bo": 184,
+          "innstilt": 135,
+          "landsrate_pst": 73.37
+        },
+        {
+          "stratum": "62",
+          "bo": 162,
+          "innstilt": 128,
+          "landsrate_pst": 79.01
+        },
+        {
+          "stratum": "71",
+          "bo": 157,
+          "innstilt": 120,
+          "landsrate_pst": 76.43
+        },
+        {
+          "stratum": "ukjent",
+          "bo": 155,
+          "innstilt": 143,
+          "landsrate_pst": 92.26
+        },
+        {
+          "stratum": "96",
+          "bo": 128,
+          "innstilt": 105,
+          "landsrate_pst": 82.03
+        },
+        {
+          "stratum": "70",
+          "bo": 104,
+          "innstilt": 83,
+          "landsrate_pst": 79.81
+        },
+        {
+          "stratum": "81",
+          "bo": 83,
+          "innstilt": 64,
+          "landsrate_pst": 77.11
+        },
+        {
+          "stratum": "74",
+          "bo": 71,
+          "innstilt": 56,
+          "landsrate_pst": 78.87
+        },
+        {
+          "stratum": "78",
+          "bo": 56,
+          "innstilt": 39,
+          "landsrate_pst": 69.64
+        },
+        {
+          "stratum": "77",
+          "bo": 53,
+          "innstilt": 41,
+          "landsrate_pst": 77.36
+        },
+        {
+          "stratum": "10",
+          "bo": 45,
+          "innstilt": 34,
+          "landsrate_pst": 75.56
+        },
+        {
+          "stratum": "82",
+          "bo": 44,
+          "innstilt": 36,
+          "landsrate_pst": 81.82
+        },
+        {
+          "stratum": "85",
+          "bo": 43,
+          "innstilt": 36,
+          "landsrate_pst": 83.72
+        },
+        {
+          "stratum": "73",
+          "bo": 39,
+          "innstilt": 28,
+          "landsrate_pst": 71.79
+        },
+        {
+          "stratum": "16",
+          "bo": 36,
+          "innstilt": 24,
+          "landsrate_pst": 66.67
+        },
+        {
+          "stratum": "86",
+          "bo": 36,
+          "innstilt": 25,
+          "landsrate_pst": 69.44
+        },
+        {
+          "stratum": "53",
+          "bo": 34,
+          "innstilt": 27,
+          "landsrate_pst": 79.41
+        },
+        {
+          "stratum": "93",
+          "bo": 34,
+          "innstilt": 27,
+          "landsrate_pst": 79.41
+        },
+        {
+          "stratum": "03",
+          "bo": 32,
+          "innstilt": 27,
+          "landsrate_pst": 84.38
+        },
+        {
+          "stratum": "33",
+          "bo": 32,
+          "innstilt": 19,
+          "landsrate_pst": 59.38
+        },
+        {
+          "stratum": "90",
+          "bo": 30,
+          "innstilt": 22,
+          "landsrate_pst": 73.33
+        },
+        {
+          "stratum": "63",
+          "bo": 28,
+          "innstilt": 21,
+          "landsrate_pst": 75
+        },
+        {
+          "stratum": "25",
+          "bo": 24,
+          "innstilt": 15,
+          "landsrate_pst": 62.5
+        },
+        {
+          "stratum": "79",
+          "bo": 23,
+          "innstilt": 14,
+          "landsrate_pst": 60.87
+        },
+        {
+          "stratum": "59",
+          "bo": 20,
+          "innstilt": 17,
+          "landsrate_pst": 85
+        },
+        {
+          "stratum": "52",
+          "bo": 20,
+          "innstilt": 14,
+          "landsrate_pst": 70
+        },
+        {
+          "stratum": "55",
+          "bo": 20,
+          "innstilt": 15,
+          "landsrate_pst": 75
+        },
+        {
+          "stratum": "01",
+          "bo": 19,
+          "innstilt": 14,
+          "landsrate_pst": 73.68
+        },
+        {
+          "stratum": "72",
+          "bo": 18,
+          "innstilt": 14,
+          "landsrate_pst": 77.78
+        },
+        {
+          "stratum": "58",
+          "bo": 17,
+          "innstilt": 14,
+          "landsrate_pst": 82.35
+        },
+        {
+          "stratum": "64",
+          "bo": 17,
+          "innstilt": 16,
+          "landsrate_pst": 94.12
+        },
+        {
+          "stratum": "42",
+          "bo": 17,
+          "innstilt": 12,
+          "landsrate_pst": 70.59
+        },
+        {
+          "stratum": "66",
+          "bo": 13,
+          "innstilt": 10,
+          "landsrate_pst": 76.92
+        },
+        {
+          "stratum": "69",
+          "bo": 11,
+          "innstilt": 9,
+          "landsrate_pst": 81.82
+        },
+        {
+          "stratum": "80",
+          "bo": 11,
+          "innstilt": 9,
+          "landsrate_pst": 81.82
+        },
+        {
+          "stratum": "61",
+          "bo": 11,
+          "innstilt": 5,
+          "landsrate_pst": 45.45
+        },
+        {
+          "stratum": "27",
+          "bo": 10,
+          "innstilt": 7,
+          "landsrate_pst": 70
+        },
+        {
+          "stratum": "30",
+          "bo": 10,
+          "innstilt": 5,
+          "landsrate_pst": 50
+        },
+        {
+          "stratum": "SAMLET: 29 bøtter med under 10 bo",
+          "bo": 125,
+          "innstilt": 94,
+          "landsrate_pst": 75.2
+        }
+      ],
+      "per_krets": [
+        {
+          "krets": "HORDALAND TINGRETT",
+          "saker": 398,
+          "O": 266,
+          "E": 299.08,
+          "oe": 0.8894,
+          "oe_ki95": [
+            0.8334,
+            0.9454
+          ]
+        },
+        {
+          "krets": "SØR-ROGALAND TINGRETT",
+          "saker": 267,
+          "O": 191,
+          "E": 203.12,
+          "oe": 0.9404,
+          "oe_ki95": [
+            0.8743,
+            1.0064
+          ]
+        },
+        {
+          "krets": "SØNDRE ØSTFOLD TINGRETT",
+          "saker": 231,
+          "O": 167,
+          "E": 174.91,
+          "oe": 0.9548,
+          "oe_ki95": [
+            0.8825,
+            1.0271
+          ]
+        },
+        {
+          "krets": "RINGERIKE, ASKER OG BÆRUM TINGRETT",
+          "saker": 310,
+          "O": 224,
+          "E": 233.89,
+          "oe": 0.9577,
+          "oe_ki95": [
+            0.895,
+            1.0204
+          ]
+        },
+        {
+          "krets": "TELEMARK TINGRETT",
+          "saker": 169,
+          "O": 122,
+          "E": 126.99,
+          "oe": 0.9607,
+          "oe_ki95": [
+            0.8745,
+            1.0468
+          ]
+        },
+        {
+          "krets": "VESTFOLD TINGRETT",
+          "saker": 273,
+          "O": 200,
+          "E": 205.27,
+          "oe": 0.9743,
+          "oe_ki95": [
+            0.9066,
+            1.042
+          ]
+        },
+        {
+          "krets": "AGDER TINGRETT",
+          "saker": 321,
+          "O": 235,
+          "E": 240.81,
+          "oe": 0.9759,
+          "oe_ki95": [
+            0.9133,
+            1.0385
+          ]
+        },
+        {
+          "krets": "ØSTRE INNLANDET TINGRETT",
+          "saker": 146,
+          "O": 108,
+          "E": 109.32,
+          "oe": 0.9879,
+          "oe_ki95": [
+            0.8945,
+            1.0813
+          ]
+        },
+        {
+          "krets": "VESTRE INNLANDET TINGRETT",
+          "saker": 130,
+          "O": 98,
+          "E": 97.56,
+          "oe": 1.0045,
+          "oe_ki95": [
+            0.9059,
+            1.103
+          ]
+        },
+        {
+          "krets": "ROMERIKE OG GLÅMDAL TINGRETT",
+          "saker": 365,
+          "O": 277,
+          "E": 273.44,
+          "oe": 1.013,
+          "oe_ki95": [
+            0.954,
+            1.072
+          ]
+        },
+        {
+          "krets": "OSLO TINGRETT",
+          "saker": 911,
+          "O": 708,
+          "E": 693.94,
+          "oe": 1.0203,
+          "oe_ki95": [
+            0.9843,
+            1.0562
+          ]
+        },
+        {
+          "krets": "FOLLO OG NORDRE ØSTFOLD TINGRETT",
+          "saker": 187,
+          "O": 147,
+          "E": 139.58,
+          "oe": 1.0531,
+          "oe_ki95": [
+            0.9701,
+            1.1362
+          ]
+        },
+        {
+          "krets": "NORD-TROMS OG SENJA TINGRETT",
+          "saker": 106,
+          "O": 84,
+          "E": 79.59,
+          "oe": 1.0554,
+          "oe_ki95": [
+            0.9471,
+            1.1638
+          ]
+        },
+        {
+          "krets": "TRØNDELAG TINGRETT",
+          "saker": 413,
+          "O": 329,
+          "E": 311.39,
+          "oe": 1.0566,
+          "oe_ki95": [
+            1.0022,
+            1.1109
+          ]
+        },
+        {
+          "krets": "BUSKERUD TINGRETT",
+          "saker": 226,
+          "O": 180,
+          "E": 167.62,
+          "oe": 1.0739,
+          "oe_ki95": [
+            0.9974,
+            1.1504
+          ]
+        },
+        {
+          "krets": "MØRE OG ROMSDAL TINGRETT",
+          "saker": 245,
+          "O": 201,
+          "E": 184.58,
+          "oe": 1.089,
+          "oe_ki95": [
+            1.0182,
+            1.1597
+          ]
+        }
+      ],
+      "heterogenitet": {
+        "ustandardisert": {
+          "khikvadrat": 39.83,
+          "df": 15,
+          "p": 0.00048171313375278135,
+          "overskudd": 24.83
+        },
+        "standardisert": {
+          "khikvadrat": 41.17,
+          "df": 15,
+          "p": 0.0003013083805168959,
+          "overskudd": 26.17
+        },
+        "dempning_av_overskudd_pst": -5.4
+      },
+      "hierarkisk_med_uten_offset": {
+        "uten_naeringsoffset": {
+          "mu": 1.1135,
+          "tau": 0.1639,
+          "lrt": 10.973,
+          "p_lrt": 0.000462365134015541
+        },
+        "med_naeringsoffset": {
+          "mu": 0.001,
+          "tau": 0.1685,
+          "lrt": 10.673,
+          "p_lrt": 0.0005435122480975663
+        },
+        "dempning_av_tau_pst": -2.8,
+        "dempning_av_varians_pst": -5.7
+      },
+      "robusthet_over_tre_stratifiseringer": {
+        "n2": {
+          "antall_strata": 74,
+          "oe_spenn": [
+            0.8894,
+            1.089
+          ],
+          "dempning_av_overskudd_pst": -5.4
+        },
+        "hovedomrade": {
+          "antall_strata": 19,
+          "oe_spenn": [
+            0.8884,
+            1.0891
+          ],
+          "dempning_av_overskudd_pst": -3.2
+        },
+        "n2_samlet": {
+          "antall_strata": 46,
+          "oe_spenn": [
+            0.8907,
+            1.0904
+          ],
+          "dempning_av_overskudd_pst": -4.4
+        }
+      }
+    },
+    "permutasjon": {
+      "observert": {
+        "z": -6.1279,
+        "hr": 0.8002,
+        "OE": -168.52,
+        "V": 756.25,
+        "asymptotisk_p": 8.904266213249912e-10,
+        "strata": 23
+      },
+      "permutasjon": {
+        "omstokkinger": 100000,
+        "stokking": "byggmerket omstokket INNENFOR hver rettskrets; antallet byggbo per krets er bevart",
+        "antall_minst_saa_ekstreme": 0,
+        "permutasjons_p": 9.99990000099999e-06,
+        "oppløsningsgrense_1_over_B_pluss_1": 9.99990000099999e-06,
+        "storste_abs_z_i_nullfordelingen": 4.759,
+        "tierpotenser_mellom_oppløsning_og_asymptotisk_p": 4.1
+      },
+      "kalibrering_av_nullfordelingen": {
+        "gjennomsnitt": 0.0033,
+        "forventet_gjennomsnitt": 0,
+        "standardavvik": 1.0033,
+        "forventet_standardavvik": 1,
+        "skjevhet": 0.0245,
+        "forventet_skjevhet": 0,
+        "kurtose": 2.9794,
+        "forventet_kurtose": 3,
+        "kolmogorov_smirnov": {
+          "statistikk_D_gange_rot_B": 0.818,
+          "p": 0.515
+        },
+        "halefrekvenser": [
+          {
+            "grense": 1.96,
+            "forventet_pst": 5,
+            "observert_pst": 5.041,
+            "antall": 5041
+          },
+          {
+            "grense": 2.5758,
+            "forventet_pst": 1,
+            "observert_pst": 1,
+            "antall": 1000
+          },
+          {
+            "grense": 3.2905,
+            "forventet_pst": 0.1,
+            "observert_pst": 0.091,
+            "antall": 91
+          },
+          {
+            "grense": 4,
+            "forventet_pst": 0.0063,
+            "observert_pst": 0.007,
+            "antall": 7
+          }
+        ],
+        "persentiler": {
+          "p1": -2.308,
+          "p5": -1.637,
+          "p25": -0.677,
+          "p50": -0.002,
+          "p75": 0.679,
+          "p95": 1.663,
+          "p99": 2.366
+        }
+      }
+    },
+    "avvik_som_krever_beslutning": [
+      {
+        "hva": "talljournalens D5: +38,4 dager, 3 749 saker, «bygg tregest i 18 av 19 kretser»",
+        "funn": "Det frosne uttrekket gir +38 dager, 3747 saker og 17 av 19.",
+        "aarsak": "D5 er beregnet i basen, der de 3 randtilfellene bærer sin faktiske innstillingsdato ETTER åpning. Det frosne uttrekket bærer bare den eldre datoen FØR åpning, så de 3 kan bare sensureres eller settes til dag 1. I tillegg gir kontroll-05s join én dublett (ett foretak har to åpningsrader på samme dato), så dens saksteller er 3 749 mot uttrekkets 3 747.",
+        "anbefaling": "Punktestimatet flytter seg 0,4 dager (38,4 → 38,0) og tellingen «bygg tregest i 18 av 19 kretser» blir 17 av 19. Den marginale kretsen er Vestre Innlandet (−9 dager i uttrekket), som er nettopp der ett av de tre randtilfellene ligger. Bootstrap-KI [24, 52.7] dager dekker begge verdier med god margin. ANBEFALING: behold +38,4 som talljournalens måling, men slutt å publisere «18 av 19» som et presist antall — tellingen vipper på ett enkelt bo. Skriv i stedet at bygg er tregere i det store flertallet av kretsene (17–18 av 19).",
+        "alvorlighet": "lav — dekkes av bootstrap-KI [24, 52.7] dager"
+      },
+      {
+        "hva": "talljournalens D4: «innstilt-andel ved ett år, bygg 57,2 %»",
+        "funn": "Det frosne uttrekket gir 57,11 % (primærregel) og 57,19 % (grenseregel).",
+        "aarsak": "De 3 randtilfellene. 57,2 % svarer til basens telling; 57,1 % til uttrekkets primærregel.",
+        "anbefaling": "Behold 57,2 %; oppgi randregelen i metodefila.",
+        "alvorlighet": "ubetydelig",
+        "beslutning_2026_08_31": "Anbefalingen er OVERSTYRT av sluttverifikasjonen: manus siterer nå 57,1 mot 65,2 % (I1b, rev2-02) gjennomgående, fordi fasthorisont-tabellen i kapittel 4 allerede trykker 57,1 med konfidensintervall og manus ellers ville båret to tall for samme estimand. Samme prinsipp som for D5/D6: det frosne uttrekket under kanonisk utfallsregel er den siterbare veien, basisvarianten dokumenteres. Harmoniseringen er ført i manus § 13.9, talljournalens D4-note og MÅ-FIKSES 11(d)."
+      },
+      {
+        "hva": "talljournalens D6: «z = −5,8, p ≈ 7 × 10⁻⁹»",
+        "funn": "Kanonisk definisjon gir z = -6.128, p = 8.90e-10. HR 0,80 er eksakt.",
+        "aarsak": "z = −5,8 er fra domstol-08 med den eldre byggdefinisjonen (1 142 bo). Ingen av de fire kanoniske variantene gir −5,8. To uavhengige implementasjoner er enige om −6,13.",
+        "anbefaling": "Bytt z og p til de kanoniske verdiene, eller stryk z og p og oppgi bare HR med KI. Merk at den lave presisjonen i lane 3s normalhale-approksimasjon uansett gjør «p ≈ 7 × 10⁻⁹» upålitelig i siste siffer.",
+        "alvorlighet": "middels — et publisert tall som ikke reproduseres"
+      },
+      {
+        "hva": "manuskriptets E6/kapittel 9: standardisert spenn 0,888–1,085",
+        "funn": "Det frosne uttrekket gir 0.8894–1.089.",
+        "aarsak": "Lane 3 bygde næringsbøttene av en eksakt etikett→NACE-oppslagstabell i basen; det frosne uttrekket bruker bransjekart-v3. Konklusjonen er den samme.",
+        "anbefaling": "Oppgi kilden til bøttene sammen med spennet.",
+        "alvorlighet": "lav"
+      },
+      {
+        "hva": "kontroll-05s join gir 5 166 rader, ikke 5 165",
+        "funn": "Ett foretak har to åpningsrader på samme dato og telles dobbelt i kontroll-05.",
+        "aarsak": "Joinen mot åpningskunngjøringen er ikke deduplisert på orgnr.",
+        "anbefaling": "Meldes til eierne. Påvirker kun kontroll-05s egne avledede tall (D5), ikke kohortens kjernetall, som er bygget fra en deduplisert kohorttabell.",
+        "alvorlighet": "lav — men det er en reell defekt i et kontrollskript"
+      }
+    ],
+    "ikke_kjort": [
+      "Fine–Gray-regresjon på underfordelingshasarden. Grays test og risikodifferansen dekker kumulativ-insidens-sammenlikningen; manuskriptets § 13.8 skal fortsatt si at ingen Fine–Gray-modell er kjørt.",
+      "Cox-modell med flere kovariater samtidig (åpningskvartal, næring, domstol). § 13.8 står.",
+      "Klynget bootstrap for de binomiske hovedandelene. Klynge-robust SE er beregnet for hasardratioen (rettskrets som klynge) og utvider intervallet fra [0,734, 0,853] til [0,724, 0,866] — det er indikasjonen på hvor mye klyngestrukturen betyr."
+    ],
+    "erstatninger_i_manus": [
+      {
+        "manuskriptet_sier": "primærresultatet er 75,5 % (3 897/5 165)",
+        "skal_bli": "75,5 % står, men merkes «observert kumulativ andel per 24. august 2026». Fasthorisont-primærestimatet er 24-måneders kumulativ insidens 74.82 % [73.6–75.99]",
+        "fagfellepunkt": 4,
+        "skript": "rev2-02-kumulativ-insidens.mjs"
+      },
+      {
+        "manuskriptet_sier": "differansen bygg mot øvrige testes med χ²(Yates) 16,5, p = 4,8 × 10⁻⁵ på as-of-andelen",
+        "skal_bli": "primær gruppesammenlikning er Grays test (z = -5.671, χ²(1) = 32.157, p = 1.42e-8) og risikodifferansen ved 24 måneder: -5.7 pp [-8.56, -2.83]. χ²-testen kan stå som sekundær; de to gir praktisk talt samme differanse (−5,70 mot −5,69 pp), noe som er verdt å si eksplisitt.",
+        "fagfellepunkt": 6,
+        "skript": "rev2-03-gray-og-risikodifferanse.mjs"
+      },
+      {
+        "manuskriptet_sier": "«forskjellen vokser til +38,4 dager når rettskretsen holdes fast»",
+        "skal_bli": "Medianforskjellen i kumulativ insidens er 62 dager. I en separat rettskrets-stratifisert analyse av observerte hendelsestider er den saksvektede medianforskjellen 38 dager, mot 34.5 dager i den ustratifiserte fullførte-saker-beregningen. De to tallene er ULIKE ESTIMANDER på ULIKE DELMENGDER, og det ene «vokser» ikke til det andre.",
+        "fagfellepunkt": 7,
+        "skript": "rev2-04-presisjon-hr-og-ph.mjs"
+      },
+      {
+        "manuskriptet_sier": "«ingen felles x kan snu rekkefølgen» presenteres som at reversering er umulig",
+        "skal_bli": "Rekkefølgen kan ikke snus under noen FELLES eventuell § 135-rate anvendt på uavgjorte bo i begge grupper. Den kan snus under tilstrekkelig ulike rater: i det ytterste tilfellet, der alle uavgjorte byggbo blir innstilt og ingen av de øvrige gjør det, blir byggandelen 79.8 % mot 76.9 %. Vippepunktene: ved 0 % hos øvrige kreves 65.6 % hos bygg, ved 25 % kreves 83.4 %, og over 48.3 % hos øvrige er reversering umulig.",
+        "fagfellepunkt": 5,
+        "skript": "rev2-05-differensiell-sensitivitet.mjs"
+      },
+      {
+        "manuskriptet_sier": "«Næringsmiksen forklarer ingenting av domstolsvariasjonen.»",
+        "skal_bli": "Næringssammensetning dempet ikke variasjonen vesentlig under denne standardiseringen. Det er ikke det samme som at næringsmiks ikke forklarer noe: standardiseringen er indirekte, bøttene er grove, og 19–74 strata er alt materialet bærer. Tallfesting: Standardisering på 74 næringsbøtter fjerner ingenting av variasjonen: overskuddsheterogeniteten mellom kretsene går fra 24.83 til 26.17 (den ØKER med 5.4 %), og kretsvariansen τ̂² går fra 0.0269 til 0.0284 (også en økning på 5.7 %). Det standardiserte O/E-spennet 0.8894–1.089 er praktisk talt identisk med det ustandardiserte ratio-spennet 0.8877–1.0897. Alle tre stratifiseringene gir samme svar.",
+        "fagfellepunkt": 12,
+        "skript": "rev2-07-standardisering.mjs"
+      },
+      {
+        "manuskriptet_sier": "«én krets ligger signifikant lavere enn flere andre» uten multiplisitetskorreksjon",
+        "skal_bli": "Etter Holm-korreksjon over alle 120 parvise Fisher-tester overlever 3 par, alle med Hordaland tingrett i den lave enden (mot Møre og Romsdal, Oslo og Trøndelag). I den tilsvarende «én krets mot resten»-analysen er Hordaland den eneste kretsen som skiller seg etter Holm (p_Holm = 0.0012). Påstanden holder — men den skal bæres av de korrigerte testene, ikke av tellingen av ikke-overlappende intervaller.",
+        "fagfellepunkt": 13,
+        "skript": "rev2-06-domstolskontraster.mjs"
+      },
+      {
+        "manuskriptet_sier": "«permutasjonsvalidert med 300 omstokkinger; ingen nådde den observerte verdien»",
+        "skal_bli": "Teststatistikken er permutasjonsvalidert med 100 000 omstokkinger av byggmerket innenfor hver rettskrets. Ingen omstokking nådde den observerte verdien. Den minste halesannsynligheten en permutasjonstest med B omstokkinger kan oppløse, er 1/(B + 1) — her 1.0e-5 — så testen kan ikke bekrefte en asymptotisk p-verdi på 8.9e-10 direkte. Det den viser, er at nullfordelingen til teststatistikken er standard normalfordelt (gjennomsnitt 0.0033, standardavvik 1.0033, Kolmogorov–Smirnov p = 0.515), og det er nettopp den antakelsen den asymptotiske p-verdien hviler på.",
+        "fagfellepunkt": "13 E",
+        "skript": "rev2-08-permutasjon.mjs"
+      },
+      {
+        "manuskriptet_sier": "«Byggebo har altså VEDVARENDE omtrent 20 prosent lavere øyeblikkelig rate»",
+        "skal_bli": "Ordet «vedvarende» må ut. Proporsjonalitetsantakelsen forkastes (Grambsch–Therneau χ²(1) = 20.316, p = 6.57e-6). Den tidsdelte analysen viser at hele forskjellen ligger i de første seks månedene: HR 0.706 [0.643, 0.776] i dag 0–180, deretter 0.927, 0.982 og 0.902 i de tre påfølgende intervallene — alle med intervall som dekker 1. HR 0,80 er et VEKTET GJENNOMSNITT over oppfølgingen, ikke en konstant rate.",
+        "fagfellepunkt": 14,
+        "skript": "rev2-04-presisjon-hr-og-ph.mjs"
+      },
+      {
+        "manuskriptet_sier": "domstolstabellens varighetsspenn 97–213 dager (median blant fullførte saker)",
+        "skal_bli": "Den sensureringsbevisste versjonen spenner 133–322 dager (CIF-median per krets). Medianen blant fullførte saker UNDERVURDERER spredningen mellom kretsene fordi kretsene har ulik andel uavgjorte bo. Publiser begge, eller bytt.",
+        "fagfellepunkt": "13 D",
+        "skript": "rev2-06-domstolskontraster.mjs"
+      },
+      {
+        "manuskriptet_sier": "«z = −5,8; p ≈ 7 × 10⁻⁹» for den stratifiserte hasardratioen",
+        "skal_bli": "På den kanoniske byggdefinisjonen og det frosne kohortuttrekket er z = -6.128 og p = 8.90e-10. HR 0,80 reproduseres eksakt. z = −5,8 stammer fra en eldre byggdefinisjon (domstol-08) og lar seg ikke reprodusere under noen av de fire definisjons-/sensureringsvariantene, som alle gir z mellom −6,10 og −6,44. To uavhengige implementasjoner gir identisk svar (differanse 0).",
+        "fagfellepunkt": 14,
+        "skript": "rev2-04-presisjon-hr-og-ph.mjs"
+      }
+    ]
+  },
+  "kjente_begrensninger": [
+    "351 bo (6,8 prosent) var uavgjorte ved observasjonsslutt; andelen innstilte kan bare stige. Ethvert tall må siteres med som-av-dato.",
+    "Høyresensurering: åpninger fra 2025/2026 er utelatt fordi deres innstillingsandel er mekanisk lav (ned til 19,0 prosent for 2026K2); modningskurven er publisert for å vise kuttet.",
+    "Saksmiksen per rettskrets (oppbud mot kreditorbegjæring) er ikke observerbar, og RETNINGEN på effekten er ukjent: de eneste historiske tallene som finnes — Ot.prp. nr. 23 (2003-2004) punkt 16.2 — viser at oppbud har LAVEST innstillingsandel (53 %) mot lønnstaker 80 %, skattefogd 77 % og skatteoppkrever 85 %. Domstolstall er deskriptiv variasjon, aldri rangering. Næringssammensetning dempet ikke variasjonen vesentlig under den kjørte standardiseringen, men det er ikke det samme som at næringsmiks er utelukket.",
+    "Universet er aksjeselskapsforankret; resultatene gjelder konkursbo etter aksje- og allmennaksjeselskaper, ikke alle konkurser. Differansen mot alle organisasjonsformer er 1 658 åpninger, hvorav 1 530 (92,3 prosent) enkeltpersonforetak og 128 NUF, ANS og andre former — ikke «hele differansen», som tidligere skrevet.",
+    "Ingen tidsserie for konkurs kan tegnes fra materialet (oppbevaringsgrense hos kilden); historiske punkter er sitater fra Ot.prp. nr. 26 (1998-99). De offisielle tallfestingene mellom 1996 og i dag er ført opp i figurgrunnlaget, men er ikke kohortkoblede og kan ikke settes på samme akse.",
+    "Litteratursøket ble utvidet etter ekstern gjennomgang 2026-08-30. Studiens opprinnelige nyhetspåstand («ikke oppdatert offisielt siden 1996», «lukker et tretti år gammelt hull») var uriktig og er tatt ut; se studiens kapittel 13.12 og feltet nyhetspaastand her. Rettelsen flyttet ingen målte tall.",
+    "Næringstilordningen hviler på en trykt etikett, avkortet ved 60 tegn og i to klassifikasjonsvintager; 155 foretak er uklassifiserbare og rapporteres som egen kategori.",
+    "Kopi-mot-kopi-konsistens for de to kunngjøringene av samme åpning kan ikke testes i ettertid.",
+    "Hasardratioen 0,80 [KI 0,745–0,859] er stratifisert på rettskrets og ingenting annet; ingen multivariat modell og ingen Fine–Gray-regresjon er kjørt. Proporsjonalitetsantakelsen er prøvd og FORKASTET (Grambsch–Therneau χ²(1) = 20,32; p = 6,57×10⁻⁶), så tallet er et vektet gjennomsnitt over oppfølgingen, ikke en konstant rate. Den tidsdelte analysen viser at hele byggforskjellen ligger i dag 0–180 (HR 0,706 [0,643–0,776]); alle senere intervaller har KI som dekker 1.",
+    "Enkelte støttetall er enkeltkjørte (bl.a. Newcombe-intervallet, homogenitetstesten, næringsmiks-standardiseringen, Kaplan–Meier-medianene per krets, navnebyttetellingen, restkategorisammenlikningen); tellingen av parvise ikke-overlappende intervaller (5 av 120, alle mot samme krets) er i ettertid uavhengig reprodusert av tallrevisjonen.",
+    "«Innstilt» måler boets utbetalingsevne, ikke samlet kredittap (pant og lønnsgaranti ligger utenfor boet).",
+    "Tre defekter i kildematerialets felter (etikett limt inn i saksnummerfeltet med ødelagt domstolskode på 52 rader; flerlinjet næringsfelt; statusstreng lekket inn i næringsfeltet på ni foretak) er håndtert ved lesning, rapportert videre og ikke rettet i kilden.",
+    "Nedbrytnings-førstheten er formulert for det kohortmålte tallet og dagens offentlige publisering: sekundærspor etter et nedlagt Konkursråd-arbeid fra 1998 tyder på at to skifteretter den gang ble sammenliknet på behandlingstid og andel bo til utlodning i et utvalg av avsluttede bo; innholdet lot seg ikke hente og siteres ikke som belegg (kapittel 13.12).",
+    "Primærestimanden er byttet 2026-08-31: 24-måneders kumulativ insidens (74,8 %) er primær, og 75,5 % er en observert as-of-andel med oppfølging fra 601 til 1 088 dager. De to skal aldri forveksles, og as-of-tallet skal aldri omtales som en fasthorisont-sannsynlighet.",
+    "Enheten er boet, ikke kreditoren. Studien fastslår ikke sannsynlighet eller dekningsgrad for noen bestemt usikret kreditor; antall kreditorer, kravstørrelser, prioritet, dividende og dekning utenfor boet er ikke observert. Formuleringen «høyst om lag én av fire» er trukket tilbake.",
+    "Rekkefølgen bygg mot øvrige kan ikke snus av noen FELLES eventuell § 135-rate blant de uavgjorte boene, men den kan i prinsippet snus av tilstrekkelig ulike rater: reversering krever 65,6 % i bygg dersom ingen av øvriges uavgjorte innstilles, 83,4 % ved 25 %, og er umulig over 48,3 %. Et empirisk anker (tre landemerkevinduer, Fisher p = 0,25 / 0,49 / 0,37) viser at ratene er statistisk uskillbare, men grensen publiseres.",
+    "Mekanistiske forklaringer er hypoteser, ikke funn: at byggbo oftere har maskiner, varelager og uferdige prosjekter å realisere, at tjenesteforetak er tomme når lokalene fraflyttes, og at foretak uten brukbar næringsangivelse er «tomme skall», er ikke målt. Materialet inneholder ingen eiendeler, pantekrav, bostyrerrapporter eller dividendeoppstillinger.",
+    "Sammenlikningen med de historiske tallene er en sammenlikning av rapporterte nivåer, ikke belegg for tidsmessig stabilitet. Proposisjonen identifiserer selv 1976–1991-serien som statistikk over AVSLUTTEDE konkurser (§ 135-bo mot § 128-bo), altså en annen nevner enn studiens åpningskohort.",
+    "Studien er eksplorativ/forklarende, ikke bekreftende, og analysen var ikke fullt ut forhåndsspesifisert uavhengig av de observerte utfallene (se inferensmaal).",
+    "Bygg er sammenliknet mot alle øvrige næringer samlet, ikke mot hver enkelt næring. Påstanden «bygg er den tregeste næringen» er derfor ikke etablert og brukes ikke.",
+    "Den rettskrets-stratifiserte medianforskjellen +38,4 dager reproduseres til +38,0 på det frosne uttrekket (3 747 mot 3 749 saker), og tellingen «bygg tregest i 18 av 19 kretser» blir 17 av 19. Tellingen vipper på ett enkelt bo og publiseres ikke som et presist antall; bootstrap-KI [24,0–52,7] dager dekker begge verdier.",
+    "Det tidligere publiserte «z = −5,8; p ≈ 7×10⁻⁹» for den stratifiserte hasardratioen lot seg ikke reprodusere og er erstattet av de kanoniske verdiene z = −6,128, p = 8,90×10⁻¹⁰. HR-punktestimatet 0,80 reproduseres eksakt.",
+    "Fire kontroller fagfellen etterspurte er ikke kjørt og står som gjeld: Fine–Gray-regresjon, Cox med flere kovariater samtidig, klynget bootstrap for hovedandelene, og de fire tilleggene til slettingskontrollen (dager fra utfall til sletting, konkordans per utfallstype, minimum slettings-etterslep, de to avvikende sakene)."
+  ],
+  "nyhetspaastand": {
+    "korrigert": "2026-08-30, etter ekstern gjennomgang og et utvidet litteratursøk; skjerpet samme dag av den avsluttende verifikasjonen (Prop. 56 L-funnet og presisering av nedbrytnings-førstheten).",
+    "trukket_paastand": "«Tallet er ikke oppdatert offisielt siden 1996» og «studien lukker et tretti år gammelt hull». Uriktig — andelen er tallfestet offisielt flere ganger etter 1996.",
+    "gjeldende_paastand": "Studien er den første som måler utfallet for en avgrenset åpningskohort av konkursbo, fulgt til utfall med høyresensureringen målt, og den første som bryter det slik målte tallet ned på byggfag og rettskrets. Nedbrytnings-førstheten gjelder det kohortmålte tallet og dagens offentlige publisering — ikke en påstand om at ingen noen gang har sammenliknet domstoler (se kjente_begrensninger).",
+    "begrunnelse": "Hver offentlig tallfesting etter 1996 er enten (a) et råtall for antall bo innstilt i et kalenderår uten hensyn til åpningsår, (b) en andel av de bo som allerede var avsluttet, eller (c) en andel innenfor en undergruppe definert av rekvirenttype. Ingen følger en åpningskohort til utfall, og ingen måler høyresensureringen. Departementet skrev begrensningen selv i 2003 (Ot.prp. nr. 23 (2003-2004) kapittel 2).",
+    "tallfestinger_etter_1996": [
+      "Ot.prp. nr. 23 (2003-2004) punkt 7.1: 3 005 bo innstilt (1999), 3 577 (2000), og «75–80 prosent av avslutningene».",
+      "Ot.prp. nr. 23 (2003-2004) kapittel 2: 4 445 åpnede konkurser og 2 767 innstilte konkursbo (2002); 2 652 + 849 åpnede og 1 691 + 524 innstilte (1. halvår 2003).",
+      "Ot.prp. nr. 23 (2003-2004) punkt 16.2: ca. 53 % av oppbudsboene og 77 % av de skattefogdbegjærte boene var innstillingsbo (undergruppeandeler, udatert innsamling).",
+      "Mjøs, Kostøl og Pelja (2021) tabell 4 panel E: 18 345 av 20 413 avsluttede saker (89,9 %) i 2010–2019.",
+      "Justis- og beredskapsdepartementets høringsnotat 13.01.2023 punkt 9.4.3: «90 prosent av alle konkursåpninger» — nevneren feilbeskrevet i forhold til kilden.",
+      "Prop. 56 L (2025–2026) punkt 2.6.2, tilråding 27.03.2026: gjentar «90 prosent av alle konkursåpninger avsluttes på grunn av manglende midler» — samme åpningsnevner som høringsnotatet, mens kilden regner av avslutningene. Funnet ved den avsluttende verifikasjonen 30.08.2026; formuleringen «sist i 2023» er erstattet."
+    ],
+    "nevnerdemonstrasjonen": {
+      "poeng": "Deler man departementets egne råtall på hverandre — den nærliggende operasjonen — lander man praktisk talt på studiens egen naive, ikke-modningskorrigerte andel, som studien selv beviser er feil. Det er en empirisk demonstrasjon av studiens hovedpoeng, plassert i kapittel 10.",
+      "egne_divisjoner_av_kildens_raatall": {
+        "2002": "2 767 / 4 445 = 62,2 % (mot vår naive, ikke-modningskorrigerte andel 62,4 %)",
+        "1999": "3 005 / 4 375 = 68,7 %",
+        "2000": "3 577 / 5 116 = 69,9 %",
+        "1H2003_konkurser": "1 691 / 2 652 = 63,8 %",
+        "1H2003_samlet": "2 215 / 3 501 = 63,3 %"
+      },
+      "status": "Alle fem er egne divisjoner av kildens råtall, ikke målinger i denne studien. De inngår ikke i noe estimat, noen tabell eller noen figur, og de skal aldri siteres som studiens tall. Kildens tall er verifisert ordrett; divisjonene er utført med studiens avrundingsregel (én desimal)."
+    },
+    "uendret": "Ingen målt verdi i studien er endret av rettelsen. Kohorten (5 165), utfallsfordelingen (3 897 / 917 / 351), byggtallene, byggfagene, varighetstallene, domstolstallene, modningskurven og kalibreringen står uberørt.",
+    "fagfellerevisjon_2026_08_31": "Fagfellevurderingen rørte ikke nyhetspåstanden, som står som formulert 2026-08-30. Den tilføyde derimot at nevner-glidningen begynner i den bestilte rapporten fra 2021 selv — dens tabell bygger på avsluttede saker mens dens narrativ sier «alle konkursåpninger» — og at proposisjonen fra 1998-99 faktisk DOKUMENTERER nevneren for 1976–1991-serien i Del 6 punkt I.1 (avsluttede konkurser, § 135-bo mot § 128-bo). Begge deler styrker nevner-analysen og er skrevet inn."
+  },
+  "ankere": [
+    {
+      "navn": "Ot.prp. nr. 26 (1998-99), Del 4 punkt 1.1",
+      "url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-26-1998-99-/id159514/?ch=4",
+      "status": "VERIFISERT ordrett 2026-08-30 (alle tre setninger i passasjen, inkl. pantelov-1980-forklaringen)",
+      "bruk": "§ 135-definisjonen og punktene 1976 (to av fem) og 1996 (tre av fire)"
+    },
+    {
+      "navn": "Ot.prp. nr. 23 (2003-2004), kapittel 2 «Bakgrunnen for lovforslaget»",
+      "url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-23-2003-2004-/id176709/?ch=2",
+      "status": "VERIFISERT ordrett 2026-08-30 i to uavhengige lesninger: departementets egen PDF (otp200320040023000dddpdfs.pdf, lokalt fulltekstuttrekk) og regjeringen.no HTML ?ch=2",
+      "bruk": "Departementets erkjennelse — «Det finnes for tiden ikke nøyaktig statistikk over hvor mange av de åpnede konkursboene som blir innstilt etter kkl. § 135» — med forbeholdet om at innstilte bo kan være åpnet i tidligere år. Ankeret i studiens korrigerte ramme. Bærer råtallene 4 445 / 2 767 (2002) og 2 652 / 849 / 1 691 / 524 (1. halvår 2003), som er kildens tall, ikke våre målinger"
+    },
+    {
+      "navn": "Ot.prp. nr. 23 (2003-2004), punkt 7.1 «Forslaget i høringsnotatet»",
+      "url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-23-2003-2004-/id176709/?ch=7",
+      "status": "VERIFISERT ordrett 2026-08-30 (PDF-fulltekst + regjeringen.no ?ch=7)",
+      "bruk": "«utgjør 75–80 prosent av avslutningene» (nevner = avsluttede bo), råtallene 3 577 (2000) og 3 005 (1999), og åpningstabellen 1997–2000 (per 31/12: 3 689 / 3 726 / 4 375 / 5 116)"
+    },
+    {
+      "navn": "Ot.prp. nr. 23 (2003-2004), punkt 16.2 «Økning av rekvirentansvaret»",
+      "url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-23-2003-2004-/id176709/?ch=16",
+      "status": "VERIFISERT ordrett 2026-08-30 (PDF-fulltekst + regjeringen.no ?ch=16). MERK: seksjonen ligger på ?ch=16, ikke ?ch=17 — ?ch=17 er «Merknader til lovforslaget» og bærer ikke passasjen. Alle fire satsene på nytt verifisert 2026-08-31 i det lokale fulltekstuttrekket (kilder/otprp-23-2003-2004-tekstuttrekk.txt, linje 5198–5291) og uavhengig mot regjeringen.no",
+      "bruk": "Offentlig belegg for AT rekvirenttypen skiller — ikke for i hvilken retning. Alle fire satsene kilden oppgir: oppbud «om lag 53 %», lønnstaker 80 %, skattefogd 77 %, skatteoppkrever 85 % av boene er innstillingsbo. OPPBUD HAR ALTSÅ LAVEST INNSTILLINGSANDEL, motsatt av den intuitive gjetningen. For alminnelige private fordringshavere oppgir kilden INGEN sats, bare at «under 5 % av boene blir åpnet etter begjæring fra en privat fordringshaver med rekvirentansvar». Undergruppeandeler etter rekvirenttype, ikke totalandeler, og udatert innsamlingsperiode — kan ikke sammenliknes med kohortens 75,5 prosent. Rettet 2026-08-31: manuskriptets mekanismesetning om at oppbud typisk kommer fra et allerede tømt foretak var motsagt av denne kilden og er slettet."
+    },
+    {
+      "navn": "Mjøs A, Kostøl AR, Pelja I — «Samfunnsøkonomisk analyse av permanente regler om rekonstruksjon», avgitt Justis- og beredskapsdepartementet 15.02.2021, tabell 4 panel E",
+      "url": "https://www.regjeringen.no/contentassets/61da1e3de3c544fd8b38631327017529/rapport-samfunnsokonomisk-analyse-av-permanente-regler-om-rekonstruksjon.pdf",
+      "status": "VERIFISERT ordrett 2026-08-30 i rapportens egen PDF-fulltekst («hele 18 345 (89.9%) av sakene i utvalget avsluttes» pga. manglende midler, 2010–2019)",
+      "bruk": "Den mest presise moderne tallfestingen — men nevneren er de AVSLUTTEDE sakene i utvalget, ikke en åpningskohort. Rapporten er selv opphavet til nevner-glidningen: brødteksten sier at utvalget «består av alle avsluttede reelle konkursåpninger» (s. 38), mens narrativet i kap. 5.3.4 s. 29 sier at «90 prosent av alle konkursåpninger avsluttes på grunn av manglende midler». Regnet på rapportens egne åpningstall for tiåret er andelen 18 345/33 762 = 54,3 prosent. Panel E summerer til 20 413 = panel B. PDF sha256 38e46687f80ba97816aa02f5e8ee4c504f729be41e3a9947658510ce73fffbb6, hentet 2026-08-30."
+    },
+    {
+      "navn": "Justis- og beredskapsdepartementet, Lovavdelingen — høringsnotat «Endringer i konkursloven mv. (rekonstruksjon)», 13.01.2023, saksnr. 23/251, punkt 9.4.3",
+      "url": "https://www.regjeringen.no/contentassets/61da1e3de3c544fd8b38631327017529/horingsnotat-endringer-i-konkursloven-mv.-rekonstruksjon.pdf",
+      "status": "VERIFISERT ordrett 2026-08-30 i høringsnotatets egen PDF-fulltekst (tittelblad, dato og saksnr. kontrollert samme sted)",
+      "bruk": "Den nyeste offisielle tallfestingen: «90 prosent av alle konkursåpninger avsluttes på grunn av manglende midler». Nevneren er feilbeskrevet — kilden det vises til regner av avslutningene. Illustrerer nettopp den nevnerforvekslingen studien advarer mot"
+    },
+    {
+      "navn": "Brønnøysundregistrene — Statistikk fra Konkursregisteret",
+      "url": "https://www.brreg.no/produkter-og-tjenester/statistikk/statistikk-fra-konkursregisteret/",
+      "status": "VERIFISERT 2026-08-30 (nedlastbare filer «Konkursåpninger og tvangsavviklinger» per år 2018–2026; variabler: antall konkurser, antall tvangsavviklinger, fylke, periode; sist oppdatert 03.08.2026)",
+      "bruk": "Registerholderen selv publiserer ingen utfallsdimensjon — styrker den gjenværende gap-påstanden"
+    },
+    {
+      "navn": "Statistisk sentralbyrå — Historisk statistikk kapittel 11 «Finansmarkeder og konkurser»",
+      "url": "https://www.ssb.no/a/histstat/hist11.html",
+      "status": "VERIFISERT 2026-08-30 (eneste konkurstabell: «Åpnede konkurser. 1887-1998»)",
+      "bruk": "Bekrefter SSBs avgrensning bakover til 1887: kun åpninger, ingen utfallsdimensjon"
+    },
+    {
+      "navn": "Byggsikt Data — «Tidsriktig prediksjon av konkurs og tvangsoppløsning i norske aksjeselskaper», 29.08.2026, foreløpig valideringsstudie v1.0",
+      "url": "https://www.byggsikt.no/rad/konkursrisiko-norske-smaforetak/",
+      "status": "Byggsikts egen publiserte studie. Live-adressen svarer ikke på automatiserte oppslag; innhold og tall kontrollert 2026-08-30 mot publikasjonens kildefil",
+      "bruk": "Faglig komplement sitert i kapittel 1 og 14: risiko FØR åpning (prediksjonstidspunkt 31.12 i regnskapsåret, samme observasjonsdato 2026-08-24). Siterte tall er studiens egne: 375 688 selskaper, 8 082 observerte utfall, ROC-AUC 0,883, gjennomsnittlig presisjon 0,411, topp 1/5/10 % = 29,10 / 55,85 / 67,03 %. Skal aldri omtales som kalibrert, som en ferdig sannsynlighet eller som beslutningsgrunnlag for kreditt — studien avviser alle tre selv"
+    },
+    {
+      "navn": "Lønnsgarantiloven § 1 første ledd",
+      "url": "https://lovdata.no/lov/1973-12-14-61",
+      "status": "VERIFISERT ordrett 2026-08-30 i to uavhengige oppslag",
+      "bruk": "Lønnskrav dekkes utenfor boet (metodeboksens presisjon)"
+    },
+    {
+      "navn": "SSB Opna konkursar (statistikkside)",
+      "url": "https://www.ssb.no/virksomheter-foretak-og-regnskap/konkurser/statistikk/opna-konkursar",
+      "status": "VERIFISERT 2026-08-30 (950 åpninger 2026K2, bygg 237; ingen utfallsdimensjon)",
+      "bruk": "Skala og hullet studien fyller"
+    },
+    {
+      "navn": "SSB Om statistikken (konkurs)",
+      "url": "https://www.ssb.no/virksomheter-foretak-og-regnskap/statistikker/konkurs",
+      "status": "VERIFISERT 2026-08-30",
+      "bruk": "Kilde Konkursregisteret; dekker kun opna konkursar"
+    },
+    {
+      "navn": "SSB statistikkbank 09122 og 07165 (API)",
+      "url": "https://data.ssb.no/api/v0/no/table/09122",
+      "status": "VERIFISERT ved egne API-kall 2026-08-30",
+      "bruk": "Kalibreringen"
+    },
+    {
+      "navn": "Brønnøysundregistrene — kunngjøringer fra Konkursregisteret",
+      "url": "https://www.brreg.no/en/searching-our-registers/announcements/about-announcements/announcements-from-the-register-of-bankruptcies/",
+      "status": "VERIFISERT 2026-08-30 («The announcements will normally be available on the same day as the bankruptcy order has been made.»)",
+      "bruk": "Kunngjøringsdato som hendelsesdato; åtte kunngjøringstyper"
+    },
+    {
+      "navn": "Forbrukerrådet — Konkurs",
+      "url": "https://www.forbrukerradet.no/forside/okonomi-og-betaling/konkurs/",
+      "status": "VERIFISERT ordrett 2026-08-30",
+      "bruk": "Forbrukerrammen"
+    },
+    {
+      "navn": "SSB — Ny standard for næringsgruppering 1. september 2025",
+      "url": "https://www.ssb.no/virksomheter-foretak-og-regnskap/metoder-og-dokumentasjon/ny-standard-for-naeringsgruppering-innfores-1.september-2025",
+      "status": "VERIFISERT 2026-08-30",
+      "bruk": "Klassifikasjonssømmen (820 → 736 koder; innfasing 2026–2029)"
+    },
+    {
+      "navn": "SSB Klass klassifikasjon 6 og korrespondansetabell 2919",
+      "url": "https://data.ssb.no/api/klass/v1/classifications/6",
+      "status": "VERIFISERT ved egne API-kall 2026-08-30",
+      "bruk": "Kartets kildelister"
+    },
+    {
+      "navn": "Norges domstoler — Elleve nye tingretter fra 10. juni 2025",
+      "url": "https://www.domstol.no/no/aktuelt/2025/elleve-nye-tingretter-fra-10.-juni",
+      "status": "VERIFISERT 2026-08-30",
+      "bruk": "Navnedriften i utfallskunngjøringene"
+    },
+    {
+      "navn": "Store norske leksikon — tingrett",
+      "url": "https://snl.no/tingrett",
+      "status": "VERIFISERT 2026-08-30 (setningen fortsetter «, mens antallet førsteinstansdomstoler ble redusert fra 60 til 23»; siter med utelatelsestegn)",
+      "bruk": "Datoen 26. april 2021 for 59 → 23"
+    },
+    {
+      "navn": "Norges domstoler — Sis- ja Nuorta-Finnmárkku diggegoddi / Indre og Østre Finnmark tingrett",
+      "url": "https://www.domstol.no/no/domstoler/tingrett/sis--ja-nuorta-finnmarkku-diggegoddi--indre-og-ostre-finnmark-tingrett/",
+      "status": "VERIFISERT 2026-08-30",
+      "bruk": "Norsk parallellnavn"
+    },
+    {
+      "navn": "Konkursrådet",
+      "url": "https://www.konkursradet.no/",
+      "status": "UBEKREFTET (HTTP 403 for verktøy) — siteres ikke i studien",
+      "bruk": "Ingen; § 135 er forankret i Ot.prp.-passasjen"
+    },
+    {
+      "navn": "Prop. 56 L (2025–2026) punkt 2.6.2 «Funn og anbefalinger i rapporten»",
+      "url": "https://www.regjeringen.no/no/dokumenter/prop.-56-l-20252026/id3154758/?ch=2",
+      "status": "VERIFISERT ordrett 2026-08-30: «I analysen vises det til at data fra Brønnøysundregistrene viser at 90 prosent av alle konkursåpninger avsluttes på grunn av manglende midler.» Tilråding 27.03.2026; loven sanksjonert 19.06.2026 (LOV-2026-06-19-48, verifisert på Lovdata LTI)",
+      "bruk": "Den seneste offisielle tallfestingen — referanse 7 i manus; grunnlaget for rettelsen av «sist i 2023»"
+    },
+    {
+      "navn": "Oslo tingrett — årsmelding 2022, «Konkurs»",
+      "url": "https://www.domstol.no/no/domstoler/tingrett/oslo-tingrett/om-oslo-tingrett/rapporter-og-brosjyrer/arsmelding-2022/sivile-saker/konkurs/",
+      "status": "VERIFISERT 2026-08-30: «I 2022 var gjennomsnittlig saksbehandlingstid 284 dager»; 683 åpnede konkurser i 2022; mål om at 75 % av åpnede bo skal være ferdigbehandlet innen ett år. Ingen utfallsdimensjon, ingen sammenlikning mellom domstoler",
+      "bruk": "Referanse 24 i manus — eksempelet i kapittel 3 på at én domstol kan oppgi egne varighetstall"
+    },
+    {
+      "navn": "Ot.prp. nr. 26 (1998-99), Del 6 punkt I.1 «Pantsettelsesadgangen etter gjeldende rett - noen utviklingstrekk»",
+      "url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-26-1998-99-/id159514/?ch=6",
+      "status": "VERIFISERT ordrett 2026-08-31, hentet to ganger med ulikt spørsmål; identisk ordlyd",
+      "bruk": "Nevneren for 1976–1991-serien: «I NOU 1993: 16 s 133 gis en del statistikk over avsluttede konkurser i perioden fra 1976 til 1991 […] antallet boer som innstilles på grunn av manglende midler til bobehandlingen (jf konkursloven § 135), har økt kraftig i forhold til boer som sluttes etter en ordinær bobehandling (jf konkursloven § 128). I 1976 ble omlag 40 % av boene innstilt pga manglende midler til bobehandlingen, mens tallet i 1991 var steget til ca 75 %.» Grunnlaget for rettingen av figurtekst 1 og av § 13.13(c). MERK: en ANNEN passasje og et ANNET kapittel enn Del 4 punkt 1.1, som bærer 1996-verdien uten oppgitt nevner. Primærkilden NOU 1993:16 s. 133 er IKKE hentet direkte; alle formuleringer sier «proposisjonen identifiserer …»"
+    },
+    {
+      "navn": "Ot.prp. nr. 26 (1998-99), Del 7 punkt II.2",
+      "url": "https://www.regjeringen.no/no/dokumenter/otprp-nr-26-1998-99-/id159514/?ch=7",
+      "status": "VERIFISERT ordrett 2026-08-31",
+      "bruk": "«Det føres i dag ikke statistikk over hvor mange av konkursene som bygger på oppbudsbegjæringer.» Belegg for at saksmiks-opplysningen heller ikke fantes i offentlig statistikk den gangen"
+    },
+    {
+      "navn": "Forskrift 23. august 1993 nr. 824 om konkursregisteret og om kunngjøringer etter konkursloven (FOR-1993-08-23-824), kapittel 8 § 18",
+      "url": "https://lovdata.no/dokument/SF/forskrift/1993-08-23-824",
+      "status": "VERIFISERT ordrett 2026-08-31, hentet to ganger uavhengig",
+      "bruk": "«Om konkursbo og tvangsavviklingsbo kan det abonneres på opplysninger om: åpninger, innkalling til skiftesamling, avslutninger, innstillinger, opphevinger og beslutninger om at bobehandlingen skal fortsette.» Hjemmelen for at de individuelle utfallene ER kunngjort — grunnlaget for å erstatte «hva som skjer med boet etterpå, står ingen steder» med at det er AGGREGATET som mangler. Registerets egen oversikt beskriver åtte kunngjøringstyper, og typene 6, 7 og 8 er nøyaktig studiens tre utfallskategorier; manuskriptets tall «åtte hendelsestyper» er eksakt riktig. FELLE: sidens setning om «three weeks» står under overskriften om OPPHEVING (lagmannsrettens opphevelse av konkursåpningen) og er ikke en generell oppbevaringsgrense"
+    },
+    {
+      "navn": "Statistisk sentralbyrå — publiserte korrespondansefiler SN2007 ↔ SN2025, datert 29.04.2026",
+      "url": "https://www.ssb.no/virksomheter-foretak-og-regnskap/metoder-og-dokumentasjon/ny-standard-for-naeringsgruppering-innfores-1.september-2025",
+      "status": "VERIFISERT 2026-08-31; sha256 SN2025→SN2007 41551d7b7c4acda22d1fcac92b48f58f8febfd435075f2d2b8f5eaad2a05ccf9, SN2007→SN2025 e7b4f250c727afabe787a802162dd7ef8be546a1a8201fee5f72c4f512fe6ed2",
+      "bruk": "Et ANNET artefakt enn Klass-endepunkt 2919: 1 251 kodepar, 461 identitetsrader, bare tre SN2025-koder uten rad. Arket «Endringer» dokumenterer seks daterte versjoner mellom 2025-06-23 og 2026-04-29 og opplyser at eldre versjoner ikke lenger er tilgjengelige; revisjonen 2026-04-14 splittet 43.220 i 43.221/43.222/43.223 — koden for Rørleggerarbeid, ett av studiens seks byggfag. Kohortvinduet er upåvirket (SN2007-periode), men enhver gjenskaping må oppgi dato og versjon"
+    },
+    {
+      "navn": "SSB statistikkbank 07165 — organisasjonsformfordelingen 2023K3–2026K2",
+      "url": "https://data.ssb.no/api/v0/no/table/07165",
+      "status": "VERIFISERT ved eget API-kall 2026-08-31",
+      "bruk": "Grunnlaget for tittelavgrensningen: AS 11 126 + ASA 6 = 11 132 av 12 790 åpninger = 87,0 prosent. ENK inkl. personlige 1 530, Andre 70, NUF 54, ANS 4, BA 0, Uoppgitt 0. Reproduserer 11 174/11 132 = 100,4 % og 11 174/12 790 = 87,4 % eksakt, og viser at differansen er 92,3 prosent enkeltpersonforetak, ikke 100"
+    }
+  ]
+}

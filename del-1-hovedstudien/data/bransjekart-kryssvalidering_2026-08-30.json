@@ -1,0 +1,325 @@
+{
+  "kjoredato": "2026-08-30",
+  "etiketter": 756,
+  "begge_metoder_gir_kode": 381,
+  "enige": 347,
+  "uenige": 34,
+  "enighet_pst": 91.0761154855643,
+  "kun_klass": 371,
+  "kun_selskapstekst": 1,
+  "ingen_av_delene": 3,
+  "uenigheter": [
+    {
+      "etikett": "Oppføring av bygninger",
+      "selskaper": 1470,
+      "klass": "41.200",
+      "klass_std": "SN2007",
+      "selskapstekst": "41.000",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "selskaper": 273,
+      "klass": "70.220",
+      "klass_std": "SN2007",
+      "selskapstekst": "70.200",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Kjøp og salg av egen fast eiendom",
+      "selskaper": 176,
+      "klass": "68.100",
+      "klass_std": "SN2007",
+      "selskapstekst": "68.110",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "VVS-arbeid",
+      "selskaper": 48,
+      "klass": "43.22",
+      "klass_std": "SN2025",
+      "selskapstekst": "43.220",
+      "vintage": "SN2025",
+      "metode": "T3"
+    },
+    {
+      "etikett": "Bearbeiding av metaller",
+      "selskaper": 39,
+      "klass": "25.620",
+      "klass_std": "SN2007",
+      "selskapstekst": "25.530",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Annet installasjonsarbeid",
+      "selskaper": 22,
+      "klass": "43.290",
+      "klass_std": "SN2007",
+      "selskapstekst": "43.240",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Engroshandel med fisk, skalldyr og bløtdyr",
+      "selskaper": 20,
+      "klass": "46.381",
+      "klass_std": "SN2007",
+      "selskapstekst": "46.322",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Engroshandel med jernvarer, rørleggerartikler og oppvarmings",
+      "selskaper": 15,
+      "klass": "46.740",
+      "klass_std": "SN2007",
+      "selskapstekst": "46.840",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Annen ferdiggjøring av bygninger",
+      "selskaper": 13,
+      "klass": "43.390",
+      "klass_std": "SN2007",
+      "selskapstekst": "43.350",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av andre trevarer og varer av kork, strå og flett",
+      "selskaper": 13,
+      "klass": "16.290",
+      "klass_std": "SN2007",
+      "selskapstekst": "16.280",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Utleie og leasing av andre husholdningsvarer og varer til pe",
+      "selskaper": 12,
+      "klass": "77.290",
+      "klass_std": "SN2007",
+      "selskapstekst": "77.220",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Vaskeri- og renserivirksomhet",
+      "selskaper": 11,
+      "klass": "96.010",
+      "klass_std": "SN2007",
+      "selskapstekst": "96.100",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Overflatebehandling av metaller",
+      "selskaper": 10,
+      "klass": "25.610",
+      "klass_std": "SN2007",
+      "selskapstekst": "25.510",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Telefonvakttjenester og telefonsalg",
+      "selskaper": 10,
+      "klass": "82.20",
+      "klass_std": "SN2007",
+      "selskapstekst": "82.200",
+      "vintage": "SN2025",
+      "metode": "T3"
+    },
+    {
+      "etikett": "Fritidsvirksomhet ellers",
+      "selskaper": 6,
+      "klass": "93.299",
+      "klass_std": "SN2007",
+      "selskapstekst": "93.292",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Handel med elektrisitet",
+      "selskaper": 6,
+      "klass": "35.140",
+      "klass_std": "SN2007",
+      "selskapstekst": "35.150",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Andre tjenester tilknyttet informasjonsteknologi",
+      "selskaper": 5,
+      "klass": "62.090",
+      "klass_std": "SN2007",
+      "selskapstekst": "62.900",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Utgivelse av aviser",
+      "selskaper": 5,
+      "klass": "58.130",
+      "klass_std": "SN2007",
+      "selskapstekst": "58.120",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Utgivelse av blader og tidsskrifter",
+      "selskaper": 5,
+      "klass": "58.140",
+      "klass_std": "SN2007",
+      "selskapstekst": "58.130",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Engroshandel med kjemiske produkter",
+      "selskaper": 4,
+      "klass": "46.750",
+      "klass_std": "SN2007",
+      "selskapstekst": "46.850",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Engroshandel med metaller og metallholdig malm",
+      "selskaper": 4,
+      "klass": "46.720",
+      "klass_std": "SN2007",
+      "selskapstekst": "46.820",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av elektrisitet fra vannkraft",
+      "selskaper": 4,
+      "klass": "35.111",
+      "klass_std": "SN2007",
+      "selskapstekst": "35.121",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Engroshandel med kjøtt og kjøttvarer",
+      "selskaper": 4,
+      "klass": "46.320",
+      "klass_std": "SN2007",
+      "selskapstekst": "46.321",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av byggevarer av plast",
+      "selskaper": 3,
+      "klass": "22.230",
+      "klass_std": "SN2007",
+      "selskapstekst": "22.240",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av varer av papir og papp ellers",
+      "selskaper": 2,
+      "klass": "17.290",
+      "klass_std": "SN2007",
+      "selskapstekst": "17.250",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Engroshandel med avfall og skrap",
+      "selskaper": 2,
+      "klass": "46.770",
+      "klass_std": "SN2007",
+      "selskapstekst": "46.870",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av låser og beslag",
+      "selskaper": 2,
+      "klass": "25.720",
+      "klass_std": "SN2007",
+      "selskapstekst": "25.620",
+      "vintage": "begge",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Passasjertransport med jernbane",
+      "selskaper": 2,
+      "klass": "49.100",
+      "klass_std": "SN2007",
+      "selskapstekst": "49.110",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Revisjon",
+      "selskaper": 1,
+      "klass": "69.202",
+      "klass_std": "SN2007",
+      "selskapstekst": "69.201",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Smiing, stansing og valsing av metall, og pulvermetallurgi",
+      "selskaper": 1,
+      "klass": "25.500",
+      "klass_std": "SN2007",
+      "selskapstekst": "25.400",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Spesielle holdingselskaper",
+      "selskaper": 1,
+      "klass": "64.202",
+      "klass_std": "SN2007",
+      "selskapstekst": "64.220",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Undervisning ved andre høgskoler",
+      "selskaper": 1,
+      "klass": "85.429",
+      "klass_std": "SN2007",
+      "selskapstekst": "85.403",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av elektrisitet fra vindkraft",
+      "selskaper": 1,
+      "klass": "35.112",
+      "klass_std": "SN2007",
+      "selskapstekst": "35.122",
+      "vintage": "SN2007",
+      "metode": "T1"
+    },
+    {
+      "etikett": "Produksjon av teknisk glass og andre glassvarer",
+      "selskaper": 1,
+      "klass": "23.190",
+      "klass_std": "SN2007",
+      "selskapstekst": "23.150",
+      "vintage": "SN2007",
+      "metode": "T1"
+    }
+  ],
+  "bygg_hele_serien": {
+    "klass_v3": 3661,
+    "modal_selskapstekst": 2956,
+    "tapt": 705,
+    "tapt_pst": 19.257033597377767
+  }
+}

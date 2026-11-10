@@ -1,0 +1,29 @@
+==============================================================================
+STUDY-LOCK REPRODUCTION ON THE DB PATH (TALLJOURNAL I1/I1b/I2/I2b/I3)
+==============================================================================
+  alle    n= 5165  CIF12=63.19  CIF18=71.95  CIF24=74.88 [73.66-76.05]  CIF-median=220  raw-median=152
+  bygg    n= 1280  CIF12=57.19  CIF18=66.95  CIF24=70.62 [68.01-73.05]  CIF-median=267  raw-median=179
+  ovrige  n= 3885  CIF12=65.17  CIF18=73.59  CIF24=76.28 [74.90-77.60]  CIF-median=205  raw-median=144
+  Gray bygg vs ovrige z=-5.653 chi2=31.956 p=1.577e-08
+  RD 24 m bygg-ovrige = -5.66 pp [-8.52; -2.81]
+  STUDY LOCK (frozen extract): alle 74.82 [73.60-75.99] / bygg 70.54 [67.93-72.98] / ovrige 76.23 [74.85-77.55]
+                               Gray z=-5.671 chi2=32.157 p=1.42e-8 ; RD -5.70 [-8.56; -2.83]
+                               TALLJOURNAL I1 note: the boundary rule gives 74.88 % overall
+
+==============================================================================
+CIF-DAYS TO 50 % AND RAW MEDIANS, WITH INTERVALS
+==============================================================================
+  oppbud    CIF-days to 50 % = 212 [test-inversion 203-222] [bootstrap 203-222]   raw median among innstilt = 141 [boot 136-147]
+  petition  CIF-days to 50 % = 238 [test-inversion 225-255] [bootstrap 225-255]   raw median among innstilt = 182 [boot 171-193]
+  difference in CIF-days to 50 % = +26 d [bootstrap +9; +44]
+  difference in raw medians      = +41 d
+
+==============================================================================
+BASIS MISSINGNESS SANITY: is the oppbud flag court-practice noise?
+==============================================================================
+  oppbud share across 23 courts: min 57.8 % (OSLO TINGRETT)  max 88.2 % (SOGN OG FJORDANE TINGRETT)
+  chi2 for court x basis: 243.6, df 22, p = 2.7e-39  -> the oppbud share DOES vary by court
+  (no court is at 0 % or 100 %; the smallest share is Oslo 57.8 %, the largest Trondelag 85.0 %)
+  oppbud share in the 730-d sub-cohort 2745/3772 = 72.8 %  vs excluded 989/1393 = 71.0 %
+
+wrote V-B1-10-results.json
